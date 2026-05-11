@@ -1,0 +1,844 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=classic_document&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&documentId=127055&documentClass=ADMIN",
+    "classic_document": {
+        "details": {
+            "LONGPATIENTMISSINGWARNINGTEXT": "Before reclassifying this document, you must select a patient.\n\nTo select a patient:\n  1. Locate the \"Edit Document\" or \"Process Document\" link at the bottom of the scanned item view.\n  2. Click either link to access the corresponding page.\n  3. Select the desired patient on that page.\n\nOnce a patient is selected, you can proceed with reclassification.\n",
+            "INTERFACEMESSAGEDATE": null,
+            "DEPARTMENTOPTIONS": [],
+            "APPTREQUESTID": null,
+            "actions": [
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Document manually added",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "<i>asonnenfeldt<\/i>",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "127055",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Admin",
+                    "LASTMODIFIEDBY": "p-bkumar1",
+                    "ASSIGNEDTOORG": "ATHENA",
+                    "CREATED": "02\/03\/2017",
+                    "CREATEDTIMESTAMP": "02\/03\/17 09:26am",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "asonnenfeldt",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "UPLOADCLASSIFY",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Document manually added",
+                    "CLEAREDBY": null,
+                    "NOTE": "scrambled notes",
+                    "CREATEDSECONDS": "507806771",
+                    "forcelast": 0,
+                    "CREATEDBYORG": "ATHENA",
+                    "ACTION": null,
+                    "systemuser": 0,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "<i>asonnenfeldt<\/i>",
+                    "DOCUMENTACTIONREASONID": "5",
+                    "STATUS": "DATAENTRY",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": "N",
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": "03\/27\/2024",
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "229529",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "ADMIN",
+                    "COORDINATORSOURCE": null
+                },
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Data Entry Completed",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "<i>asonnenfeldt<\/i>",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "127055",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Admin",
+                    "LASTMODIFIEDBY": "p-bkumar1",
+                    "ASSIGNEDTOORG": null,
+                    "CREATED": "02\/03\/2017",
+                    "CREATEDTIMESTAMP": "02\/03\/17 09:26am",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "asonnenfeldt",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": null,
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Data Entry Completed",
+                    "CLEAREDBY": null,
+                    "NOTE": "",
+                    "CREATEDSECONDS": "507806806",
+                    "forcelast": 0,
+                    "CREATEDBYORG": "ATHENA",
+                    "ACTION": null,
+                    "systemuser": 0,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "ROME OFFICE STAFF",
+                    "DOCUMENTACTIONREASONID": "5630",
+                    "STATUS": "REVIEW",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": "N",
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": "03\/27\/2024",
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "229530",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "ADMIN",
+                    "COORDINATORSOURCE": null
+                },
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Reclassify document - Admin - Insurance Card",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "<i>asonnenfeldt<\/i>",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "127055",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Admin - Insurance Card",
+                    "LASTMODIFIEDBY": "p-bkumar1",
+                    "ASSIGNEDTOORG": null,
+                    "CREATED": "02\/03\/2017",
+                    "CREATEDTIMESTAMP": "02\/03\/17 09:27am",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "asonnenfeldt",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "RECLASSIFY",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Reclassify document",
+                    "CLEAREDBY": null,
+                    "NOTE": "",
+                    "CREATEDSECONDS": "507806863",
+                    "forcelast": 0,
+                    "CREATEDBYORG": "ATHENA",
+                    "ACTION": null,
+                    "systemuser": 0,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "ROME OFFICE STAFF",
+                    "DOCUMENTACTIONREASONID": "3",
+                    "STATUS": "REVIEW",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": "N",
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": "03\/27\/2024",
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "229531",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "ADMIN",
+                    "COORDINATORSOURCE": null
+                },
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "Test App gtandon - preview (MDP Partner)",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "127055",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Admin - Insurance Card",
+                    "LASTMODIFIEDBY": null,
+                    "ASSIGNEDTOORG": null,
+                    "CREATED": "01\/24\/2025",
+                    "CREATEDTIMESTAMP": "01\/24\/25 04:48am",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "API-27306",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": null,
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": null,
+                    "CLEAREDBY": null,
+                    "NOTE": "",
+                    "CREATEDSECONDS": "759386921",
+                    "forcelast": 0,
+                    "CREATEDBYORG": null,
+                    "ACTION": null,
+                    "systemuser": 0,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "TEST STAFF",
+                    "DOCUMENTACTIONREASONID": null,
+                    "STATUS": "REVIEW",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": null,
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": null,
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "409067",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "ADMIN",
+                    "COORDINATORSOURCE": null
+                }
+            ],
+            "PRIMARYPATIENTINSURANCEREQUIRED": null,
+            "disable_reassign_picker": null,
+            "SHOW_PATIENT_WIDGET": null,
+            "show_document_actions": "",
+            "tie_to_surgery_data": {
+                "TIETOSURGERYOPTIONS": {
+                    "VALUES": [
+                        "",
+                        "221",
+                        "222",
+                        "223",
+                        "224",
+                        "344",
+                        "361",
+                        "225",
+                        "226",
+                        "227",
+                        "228",
+                        "345",
+                        "362",
+                        "241",
+                        "242",
+                        "243",
+                        "244",
+                        "346",
+                        "363",
+                        "281",
+                        "282",
+                        "283",
+                        "284",
+                        "285",
+                        "286",
+                        "287",
+                        "288",
+                        "347",
+                        "364",
+                        "541",
+                        "542",
+                        "543",
+                        "544",
+                        "545",
+                        "546",
+                        "561",
+                        "562",
+                        "563",
+                        "564",
+                        "565",
+                        "566",
+                        "567",
+                        "568",
+                        "569",
+                        "570",
+                        "571",
+                        "572"
+                    ],
+                    "NAMES": [
+                        "",
+                        "LEFT HEART CATHETERIZATION (SURG) - Did you complete your lab work?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you spoken to your Insurance?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you recieved Auth?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Post op Appointment",
+                        "LEFT HEART CATHETERIZATION (SURG) - heheheh",
+                        "LEFT HEART CATHETERIZATION (SURG) - Did you complete your lab work?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you spoken to your Insurance?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you recieved Auth?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Post op Appointment",
+                        "LEFT HEART CATHETERIZATION (SURG) - heheheh",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Did you complete your lab work?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you spoken to your Insurance?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you recieved Auth?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Post op Appointment",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - heheheh",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Schedule post-op visit",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Provide patient information",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Collect consent forms",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Obtain medical clearance",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Did you complete your lab work?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you spoken to your Insurance?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you recieved Auth?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Post op Appointment",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - heheheh",
+                        "CRYOTHERAPY (SURG) - Did you complete your lab work?",
+                        "CRYOTHERAPY (SURG) - Have you spoken to your Insurance?",
+                        "CRYOTHERAPY (SURG) - Have you recieved Auth?",
+                        "CRYOTHERAPY (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "CRYOTHERAPY (SURG) - Post op Appointment",
+                        "CRYOTHERAPY (SURG) - heheheh",
+                        "KNEE ARTHROSCOPY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY (SURG) - Obtain medical clearance",
+                        "KNEE ARTHROSCOPY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY (SURG) - Obtain medical clearance",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Obtain medical clearance"
+                    ]
+                },
+                "TIETOORDERCLASS": null,
+                "SHOWUPCOMINGSURGERIES": 1,
+                "TIETOORDERID": null,
+                "SHOWTIETOSURGERY": 1
+            },
+            "requisition_authorization_data": {
+                "sender_service_url": "https:\/\/auth-sender.preview.api.athena.io\/collector-authsender-api_preview\/api\/"
+            },
+            "APPTREQUESTLINKTEXT": null,
+            "SHOWDEPARTMENTSELECT": 0,
+            "APPTREQUESTLINK": null,
+            "shared_labeling_details": {
+                "LABELINGOPTOUT": 0,
+                "PROVIDERUSER": 0,
+                "SUGGESTION": null
+            },
+            "SECONDARYPATIENTINSURANCEREQUIRED": null,
+            "document_text_data": {
+                "editable": 0,
+                "document_text": null,
+                "show_at_top": 0
+            },
+            "SHOWLABELINGWIDGET": "1",
+            "available_actions_info": {
+                "ACTIONGROUPS": [
+                    {
+                        "ACTIONGROUP": "Close",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Close",
+                                "NEXTSTATUS": "CLOSED",
+                                "ORDERING": "4160",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Close - Close this document",
+                                "ID": "3160",
+                                "NAME": "Close this document",
+                                "ONBEFOREFILTERRULE": "NOTADMINREFERRAL",
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "ACTIONGROUP": "Return to Data Entry",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Return to Data Entry",
+                                "NEXTSTATUS": "DATAENTRY",
+                                "ORDERING": "6650",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Return to Data Entry",
+                                "ID": "5650",
+                                "NAME": null,
+                                "ONBEFOREFILTERRULE": null,
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "ACTIONGROUP": "Duplicate",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Duplicate",
+                                "NEXTSTATUS": "DELETED",
+                                "ORDERING": "10000",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Duplicate",
+                                "ID": "9000",
+                                "NAME": null,
+                                "ONBEFOREFILTERRULE": null,
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "ACTIONGROUP": "Delete",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Delete",
+                                "NEXTSTATUS": "DELETED",
+                                "ORDERING": "10010",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Delete",
+                                "ID": "9010",
+                                "NAME": null,
+                                "ONBEFOREFILTERRULE": null,
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "UNIQUEACTIONGROUP": "Reclassify document",
+                        "ACTIONGROUP": "Reclassify document",
+                        "ACTIONS": [
+                            {
+                                "NAME": "Reclassify document",
+                                "RECLASSIFYOPTIONS": [
+                                    {},
+                                    {
+                                        "ID": "ADMIN",
+                                        "NAME": "Admin"
+                                    },
+                                    {
+                                        "ID": "ADMIN_BILLING",
+                                        "NAME": "Admin - Billing Document"
+                                    },
+                                    {
+                                        "ID": "ADMIN_CONSENT",
+                                        "NAME": "Admin - Consent"
+                                    },
+                                    {
+                                        "ID": "ADMIN_HIPAA",
+                                        "NAME": "Admin - HIPAA\/Privacy"
+                                    },
+                                    {
+                                        "ID": "ADMIN_INSURANCEAPPROVAL",
+                                        "NAME": "Admin - Insurance Approval Notification"
+                                    },
+                                    {
+                                        "ID": "ADMIN_INSURANCECARD",
+                                        "NAME": "Admin - Insurance Card"
+                                    },
+                                    {
+                                        "ID": "ADMIN_INSURANCEDENIAL",
+                                        "NAME": "Admin - Insurance Denial Notification"
+                                    },
+                                    {
+                                        "ID": "ADMIN_LEGAL",
+                                        "NAME": "Admin - Legal"
+                                    },
+                                    {
+                                        "ID": "ADMIN_MEDICALRECORDREQ",
+                                        "NAME": "Admin - Medical Records Request"
+                                    },
+                                    {
+                                        "ID": "ADMIN_REFERRAL",
+                                        "NAME": "Admin - Referral"
+                                    },
+                                    {
+                                        "ID": "ADMIN_SIGNEDFORMSLETTERS",
+                                        "NAME": "Admin - Signed Forms & Letters"
+                                    },
+                                    {
+                                        "ID": "CLINICALDOCUMENT",
+                                        "NAME": "Clinical Document"
+                                    },
+                                    {
+                                        "ID": "CLINICALDOCUMENT_ADMISSIONDISCHARGE",
+                                        "NAME": "Clinical Document - Admission\/Discharge Summary"
+                                    },
+                                    {
+                                        "ID": "CLINICALDOCUMENT_CONSULTNOTE",
+                                        "NAME": "Clinical Document - Consult Note"
+                                    },
+                                    {
+                                        "ID": "CLINICALDOCUMENT_URGENTCARE",
+                                        "NAME": "Clinical Document - Emergency\/Urgent Care"
+                                    },
+                                    {
+                                        "ID": "CLINICALDOCUMENT_MENTALHEALTH",
+                                        "NAME": "Clinical Document - Mental Health Consult"
+                                    },
+                                    {
+                                        "ID": "CLINICALDOCUMENT_OPERATIVENOTE",
+                                        "NAME": "Clinical Document - Operative Note"
+                                    },
+                                    {
+                                        "ID": "COVERSHEET",
+                                        "NAME": "Cover Sheet"
+                                    },
+                                    {
+                                        "ID": "ENCOUNTERDOCUMENT_AUTHORIZATION",
+                                        "NAME": "Encounter Document - Authorization"
+                                    },
+                                    {
+                                        "ID": "ENCOUNTERDOCUMENT_PATIENTHISTORY",
+                                        "NAME": "Encounter Document - Health History Questionnaire"
+                                    },
+                                    {
+                                        "ID": "ENCOUNTERDOCUMENT_IMAGEDOC",
+                                        "NAME": "Encounter Document - Image Documentation"
+                                    },
+                                    {
+                                        "ID": "ENCOUNTERDOCUMENT_PROCEDUREDOC",
+                                        "NAME": "Encounter Document - Procedure Documentation"
+                                    },
+                                    {
+                                        "ID": "ENCOUNTERDOCUMENT_PROGRESSNOTE",
+                                        "NAME": "Encounter Document - Progress Note"
+                                    },
+                                    {
+                                        "ID": "IMAGINGRESULT",
+                                        "NAME": "Imaging\/Diagnostic Result"
+                                    },
+                                    {
+                                        "ID": "LABRESULT",
+                                        "NAME": "Lab Result"
+                                    },
+                                    {
+                                        "ID": "MEDICALRECORD_CHARTTOABSTRACT",
+                                        "NAME": "Medical Record Document - Chart for Abstraction"
+                                    },
+                                    {
+                                        "ID": "MEDICALRECORD_COUMADIN",
+                                        "NAME": "Medical Record Document - Flowsheet"
+                                    },
+                                    {
+                                        "ID": "MEDICALRECORD_GROWTHCHART",
+                                        "NAME": "Medical Record Document - Growth Chart"
+                                    },
+                                    {
+                                        "ID": "MEDICALRECORD_HISTORICAL",
+                                        "NAME": "Medical Record Document - Historical Medical Record"
+                                    },
+                                    {
+                                        "ID": "MEDICALRECORD_PATIENTDIARY",
+                                        "NAME": "Medical Record Document - Patient Diary"
+                                    },
+                                    {
+                                        "ID": "MEDICALRECORD_VACCINATION",
+                                        "NAME": "Medical Record Document - Vaccination Record"
+                                    },
+                                    {
+                                        "ID": "ORDER",
+                                        "NAME": "Order (Already Signed)",
+                                        "ONAFTERACTIONRULE": "PRESIGNORDER"
+                                    },
+                                    {
+                                        "ID": "PHONEMESSAGE",
+                                        "NAME": "Phone Message"
+                                    },
+                                    {
+                                        "ID": "PHYSICIANAUTH",
+                                        "NAME": "Physician Authorization"
+                                    },
+                                    {
+                                        "ID": "PHYSICIANAUTH_CAREPLANOVERSIGHT",
+                                        "NAME": "Physician Authorization - Care Plan Oversight"
+                                    },
+                                    {
+                                        "ID": "PRESCRIPTION_CHANGE",
+                                        "NAME": "Prescription - Change"
+                                    },
+                                    {
+                                        "ID": "PRESCRIPTION_CLARIFICATION",
+                                        "NAME": "Prescription - Clarification"
+                                    },
+                                    {
+                                        "ID": "PRESCRIPTION_NEW",
+                                        "NAME": "Prescription - New"
+                                    },
+                                    {
+                                        "ID": "PRESCRIPTION_PRIORAUTHREQUEST",
+                                        "NAME": "Prescription - Prior Authorization Request"
+                                    },
+                                    {
+                                        "ID": "PRESCRIPTION_RENEWAL",
+                                        "NAME": "Prescription - Renewal"
+                                    }
+                                ]
+                            }
+                        ],
+                        "RECLASSIFYOPTIONS": [
+                            {},
+                            {
+                                "ID": "ADMIN",
+                                "NAME": "Admin"
+                            },
+                            {
+                                "ID": "ADMIN_BILLING",
+                                "NAME": "Admin - Billing Document"
+                            },
+                            {
+                                "ID": "ADMIN_CONSENT",
+                                "NAME": "Admin - Consent"
+                            },
+                            {
+                                "ID": "ADMIN_HIPAA",
+                                "NAME": "Admin - HIPAA\/Privacy"
+                            },
+                            {
+                                "ID": "ADMIN_INSURANCEAPPROVAL",
+                                "NAME": "Admin - Insurance Approval Notification"
+                            },
+                            {
+                                "ID": "ADMIN_INSURANCECARD",
+                                "NAME": "Admin - Insurance Card"
+                            },
+                            {
+                                "ID": "ADMIN_INSURANCEDENIAL",
+                                "NAME": "Admin - Insurance Denial Notification"
+                            },
+                            {
+                                "ID": "ADMIN_LEGAL",
+                                "NAME": "Admin - Legal"
+                            },
+                            {
+                                "ID": "ADMIN_MEDICALRECORDREQ",
+                                "NAME": "Admin - Medical Records Request"
+                            },
+                            {
+                                "ID": "ADMIN_REFERRAL",
+                                "NAME": "Admin - Referral"
+                            },
+                            {
+                                "ID": "ADMIN_SIGNEDFORMSLETTERS",
+                                "NAME": "Admin - Signed Forms & Letters"
+                            },
+                            {
+                                "ID": "CLINICALDOCUMENT",
+                                "NAME": "Clinical Document"
+                            },
+                            {
+                                "ID": "CLINICALDOCUMENT_ADMISSIONDISCHARGE",
+                                "NAME": "Clinical Document - Admission\/Discharge Summary"
+                            },
+                            {
+                                "ID": "CLINICALDOCUMENT_CONSULTNOTE",
+                                "NAME": "Clinical Document - Consult Note"
+                            },
+                            {
+                                "ID": "CLINICALDOCUMENT_URGENTCARE",
+                                "NAME": "Clinical Document - Emergency\/Urgent Care"
+                            },
+                            {
+                                "ID": "CLINICALDOCUMENT_MENTALHEALTH",
+                                "NAME": "Clinical Document - Mental Health Consult"
+                            },
+                            {
+                                "ID": "CLINICALDOCUMENT_OPERATIVENOTE",
+                                "NAME": "Clinical Document - Operative Note"
+                            },
+                            {
+                                "ID": "COVERSHEET",
+                                "NAME": "Cover Sheet"
+                            },
+                            {
+                                "ID": "ENCOUNTERDOCUMENT_AUTHORIZATION",
+                                "NAME": "Encounter Document - Authorization"
+                            },
+                            {
+                                "ID": "ENCOUNTERDOCUMENT_PATIENTHISTORY",
+                                "NAME": "Encounter Document - Health History Questionnaire"
+                            },
+                            {
+                                "ID": "ENCOUNTERDOCUMENT_IMAGEDOC",
+                                "NAME": "Encounter Document - Image Documentation"
+                            },
+                            {
+                                "ID": "ENCOUNTERDOCUMENT_PROCEDUREDOC",
+                                "NAME": "Encounter Document - Procedure Documentation"
+                            },
+                            {
+                                "ID": "ENCOUNTERDOCUMENT_PROGRESSNOTE",
+                                "NAME": "Encounter Document - Progress Note"
+                            },
+                            {
+                                "ID": "IMAGINGRESULT",
+                                "NAME": "Imaging\/Diagnostic Result"
+                            },
+                            {
+                                "ID": "LABRESULT",
+                                "NAME": "Lab Result"
+                            },
+                            {
+                                "ID": "MEDICALRECORD_CHARTTOABSTRACT",
+                                "NAME": "Medical Record Document - Chart for Abstraction"
+                            },
+                            {
+                                "ID": "MEDICALRECORD_COUMADIN",
+                                "NAME": "Medical Record Document - Flowsheet"
+                            },
+                            {
+                                "ID": "MEDICALRECORD_GROWTHCHART",
+                                "NAME": "Medical Record Document - Growth Chart"
+                            },
+                            {
+                                "ID": "MEDICALRECORD_HISTORICAL",
+                                "NAME": "Medical Record Document - Historical Medical Record"
+                            },
+                            {
+                                "ID": "MEDICALRECORD_PATIENTDIARY",
+                                "NAME": "Medical Record Document - Patient Diary"
+                            },
+                            {
+                                "ID": "MEDICALRECORD_VACCINATION",
+                                "NAME": "Medical Record Document - Vaccination Record"
+                            },
+                            {
+                                "ID": "ORDER",
+                                "NAME": "Order (Already Signed)",
+                                "ONAFTERACTIONRULE": "PRESIGNORDER"
+                            },
+                            {
+                                "ID": "PHONEMESSAGE",
+                                "NAME": "Phone Message"
+                            },
+                            {
+                                "ID": "PHYSICIANAUTH",
+                                "NAME": "Physician Authorization"
+                            },
+                            {
+                                "ID": "PHYSICIANAUTH_CAREPLANOVERSIGHT",
+                                "NAME": "Physician Authorization - Care Plan Oversight"
+                            },
+                            {
+                                "ID": "PRESCRIPTION_CHANGE",
+                                "NAME": "Prescription - Change"
+                            },
+                            {
+                                "ID": "PRESCRIPTION_CLARIFICATION",
+                                "NAME": "Prescription - Clarification"
+                            },
+                            {
+                                "ID": "PRESCRIPTION_NEW",
+                                "NAME": "Prescription - New"
+                            },
+                            {
+                                "ID": "PRESCRIPTION_PRIORAUTHREQUEST",
+                                "NAME": "Prescription - Prior Authorization Request"
+                            },
+                            {
+                                "ID": "PRESCRIPTION_RENEWAL",
+                                "NAME": "Prescription - Renewal"
+                            }
+                        ]
+                    },
+                    {
+                        "UNIQUEACTIONGROUP": "ReassignAction",
+                        "ACTIONGROUP": "Leave in REVIEW",
+                        "ACTIONS": [
+                            {
+                                "REASSIGNOPTIONS": {}
+                            }
+                        ]
+                    }
+                ],
+                "SHOWDOCUMENTACTIONS": "1",
+                "ACTIONNOTES": {
+                    "3005": "Unable to identify patient within the practice. The patient is either not found with available information, has multiple records, or is not listed in this medical group. Please confirm that patient has been added to system and update in correct medical group as necessary. Please enter patient name or ID, and return to Athena using the Data Corrected - Reprocess Document option. Thank you.",
+                    "3006": "Unable to classify the document label. Please use Action Notes to identify correct classification, and return to Athena. Thank you.",
+                    "3000": "Unable to read the image. Please re-fax, or contact originating sender. Thank you.",
+                    "3001": "Unable to identify the drug\/dosage combination within our database.  Please choose an appropriate medication via the \"Drug Name\" field.  Thank you.",
+                    "3051": "Barcode failed to split practice-added documents.  Please split and data-enter.  Thank you.",
+                    "3004": "Provider not found within practice. Thank you."
+                }
+            },
+            "PATIENT_MATCH_DETAILS": null,
+            "SHOWPROVIDERINPUT": "",
+            "SHOWMESSAGELINK": null,
+            "PATIENTDESCRIPTION": "TEST APPOINTMENT, RAM\ndob: 01\/18\/1994, 1ST LINE,\nFLORAL PARK, NY, 11001. #4406\n",
+            "PATIENTMISSINGWARNINGTEXT": "Please assign this document to a patient.",
+            "scan_page_details": {
+                "is_from_scanner": 0,
+                "show_images_container": 1,
+                "SHOWSCANPAGES": 1,
+                "original_image_url": "documentimage_uploads\/52616e646f6d4956f7fe1a07642d9a5f8a890dbf8ab622cea529707c38b60f3c.jpg",
+                "scan_page_links": [
+                    {
+                        "edit_link": 1,
+                        "text": "Edit Document"
+                    }
+                ],
+                "permissions": {
+                    "print": 1,
+                    "edit": 1
+                },
+                "image_dimension": " max-width: 100%;"
+            },
+            "portal_indicator_html": "",
+            "APPTREQUESTLINKLABEL": null,
+            "SHOWRTOLINK": "1",
+            "SHOWREFERRALSREQUIRED": null,
+            "show_ai_bolt_message": 0,
+            "requisition_link_data": {},
+            "document_save_types": [
+                {
+                    "BUTTONKEY": "SAVE"
+                },
+                {
+                    "BUTTONKEY": "SAVEANDNEXT"
+                },
+                {
+                    "BUTTONKEY": "SAVEANDADDORDERS"
+                }
+            ],
+            "document_labeling_details": {
+                "TTOVISIBLECOUNT": null,
+                "TTOOPTIONS": null,
+                "DCOTOPTIONS": [],
+                "TTOLINKTEXT": null,
+                "TTOCLASS": null,
+                "CCOTOPTIONS": [],
+                "DISABLEEDIT": null,
+                "MLLABELPREDICTIONS": [],
+                "TTOID": null,
+                "SELECTEDITEMTEXT": "Insurance Card"
+            },
+            "hide_reassign_options": "",
+            "CHARTSHARINGGROUPID": "42",
+            "DEPARTMENTNAME": "Rome Office",
+            "PROVIDERINPUT": null,
+            "INTERFACEPROVIDERNAME": null,
+            "digests": {
+                "FULL": "oHJ1WqoPZwsP6FXi2yV+gQ",
+                "STRICT": "gm6ssKHdF1zz26a4adBazA"
+            },
+            "PROVIDERGROUPID": "1",
+            "APPTREQUESTLINKTYPE": null
+        },
+        "document": {
+            "SubClass": "ADMIN_INSURANCECARD",
+            "ChartDisplayDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2017-02-03T09:26:10-05:00"
+            },
+            "VersionToken": "14358213",
+            "DisplayName": "insurance card",
+            "AssignedTo": "TEST STAFF",
+            "DepartmentID": "1",
+            "SourceName": "upload",
+            "Priority": "2",
+            "PatientDOB": "12\/28\/1981",
+            "Status": "REVIEW",
+            "Class": "ADMIN",
+            "LastModifiedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2026-04-03T07:39:15-04:00"
+            },
+            "ParentOrderDocumentID": "127055",
+            "SpecialtyID": "020",
+            "ClassDescription": "admin - insurance card",
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2017-02-03T09:26:10-05:00"
+            },
+            "PayloadType": "DOCUMENT",
+            "ProviderUsername": "mblake1",
+            "Description": "insurance card",
+            "ID": "127055",
+            "Source": "UPLOAD",
+            "PatientID": "4406",
+            "__CLASS__": "Athena::InternalDocument::Entity::Document::Admin",
+            "LastModifiedUser": "API-28571",
+            "ClinicalOrderTypeID": "388545",
+            "ChartID": "32988",
+            "Route": "FAX",
+            "CreatedUser": "asonnenfeldt"
+        }
+    }
+}

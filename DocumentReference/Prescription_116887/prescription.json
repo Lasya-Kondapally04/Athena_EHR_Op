@@ -1,0 +1,392 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=document_view_data&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&document_class=PRESCRIPTION&document_id=116887&url=https%3A%2F%2Fpreview.athenahealth.com%2F195903%2F5",
+    "document_view_data": {
+        "document": {
+            "ChartDisplayDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-27T08:49:44-04:00"
+            },
+            "AverageDailyDoseCalculatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2024-02-01T13:45:30-05:00"
+            },
+            "TextConsent": false,
+            "DiagnosisList": [
+                {
+                    "SequenceNumber": "0",
+                    "DocumentID": "116887",
+                    "SnomedICDCodes": [
+                        {
+                            "UnstrippedDiagnosisCode": "S79.911A",
+                            "VersionToken": -1,
+                            "Code": "S79911A",
+                            "__CLASS__": "Athena::Entity::Code::ICD10",
+                            "Description": "Unspecified injury of right hip, initial encounter",
+                            "CodeSet": "ICD10",
+                            "ICDCodeAllID": "57182"
+                        }
+                    ],
+                    "VersionToken": -1,
+                    "EncounterID": "34507",
+                    "IMODiagnosisList": [],
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Diagnosis",
+                    "DiagnosisCode": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Injury of hip region",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "125600009"
+                    },
+                    "ID": "14390"
+                }
+            ],
+            "ClinicalOrderType": {
+                "OrderCode": "568371",
+                "SnomedCodes": [],
+                "VersionToken": -1,
+                "IsDiscontinued": false,
+                "OrderCodeType": "FDB_MEDID",
+                "__CLASS__": "Athena::Entity::Clinical::OrderType",
+                "Name": "morphine (PF) 0.5 mg\/mL in 0.9% sodium chloride intravenous syringe",
+                "ID": "302725",
+                "ClinicalOrderTypeGroup": {
+                    "IsOutpatient": true,
+                    "Ordering": "1",
+                    "VersionToken": -1,
+                    "DocumentClass": "PRESCRIPTION",
+                    "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+                    "Description": "Prescription",
+                    "Name": "PRESCRIPTION",
+                    "ID": "10",
+                    "IsInpatient": false
+                }
+            },
+            "DepartmentID": "1",
+            "Status": "NOTIFY",
+            "AutoPublishExclusion": {
+                "__CLASS__": "Athena::Order::Entity::OrderRequest::AutoPublishingExclusion",
+                "VersionToken": -1
+            },
+            "_WeightBasedResultUnit": "mL per day",
+            "LocalClinicalLabTemplateID": null,
+            "StopDate": {
+                "__CLASS__": "DateTime",
+                "Date": null
+            },
+            "Cosignature2Date": {
+                "__CLASS__": "DateTime",
+                "Date": null
+            },
+            "Description": "morphine (PF) 0.5 mg\/mL in 0.9% sodium chloride intravenous syringe",
+            "CreatedTimeStamp": "04\/27\/2016 08:49 AM",
+            "FutureSubmitDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2024-02-01"
+            },
+            "IsPreapproved": false,
+            "_PatientWeightUnit": "kg",
+            "ProviderBilledName": "CHIP ACH",
+            "ClinicalPrescriptionID": "4603",
+            "RefillsAllowed": "0",
+            "_DosageDurationUnit": "day",
+            "PAMAScore": {
+                "__CLASS__": "Athena::Order::Entity::PAMAScore",
+                "VersionToken": -1
+            },
+            "Medication": {
+                "ClinicalOrderTypeGroupName": "PRESCRIPTION",
+                "ProductName": "morphine (PF) in 0.9 % sod chl",
+                "VersionToken": -1,
+                "WeightBasedDosageUnitOptions": {
+                    "mg": {
+                        "IsConstant": 0,
+                        "Dimension": {
+                            "weight": 0
+                        },
+                        "VersionToken": -1,
+                        "UnitsProduct": {
+                            "kg": -1,
+                            "mg": 1
+                        },
+                        "__CLASS__": "Athena::Entity::MeasurementUnit",
+                        "RequiresNonLinearConversion": false
+                    },
+                    "microgram(s)": {
+                        "IsConstant": 0,
+                        "Dimension": {
+                            "_UNIT_microgram(s)": 1,
+                            "weight": -1
+                        },
+                        "VersionToken": -1,
+                        "UnitsProduct": {
+                            "kg": -1,
+                            "microgram(s)": 1
+                        },
+                        "__CLASS__": "Athena::Entity::MeasurementUnit",
+                        "RequiresNonLinearConversion": false
+                    }
+                },
+                "MedicationIDType": "MEDID",
+                "DosedProductName": "morphine (PF) 0.5 mg\/mL in 0.9% sodium chloride intravenous syringe",
+                "Name": "morphine (PF) 0.5 mg\/mL in 0.9% sodium chloride intravenous syringe",
+                "DosageRanges": [
+                    {
+                        "_HighDoseCheckUnit": "mg\/kg",
+                        "LowAge": "0",
+                        "HighAge": "29",
+                        "VersionToken": -1,
+                        "_HighDoseCheckValue": "1.6",
+                        "DiagnosisCode": {
+                            "VersionToken": -1,
+                            "Code": "DEFAULTDIAGNOSIS"
+                        },
+                        "_LowDoseCheckValue": ".02",
+                        "_MaxDoseCheckValue": "2.4",
+                        "_LowDoseCheckUnit": "mg\/kg",
+                        "_MaxDoseCheckUnit": "mg\/kg"
+                    },
+                    {
+                        "_HighDoseCheckUnit": "mg\/kg",
+                        "LowAge": "30",
+                        "HighAge": "179",
+                        "VersionToken": -1,
+                        "_HighDoseCheckValue": "1.6",
+                        "DiagnosisCode": {
+                            "VersionToken": -1,
+                            "Code": "DEFAULTDIAGNOSIS"
+                        },
+                        "_LowDoseCheckValue": ".025",
+                        "_MaxDoseCheckValue": "2.4",
+                        "_LowDoseCheckUnit": "mg\/kg",
+                        "_MaxDoseCheckUnit": "mg\/kg"
+                    },
+                    {
+                        "_HighDoseCheckUnit": "mg\/kg",
+                        "LowAge": "180",
+                        "HighAge": "364",
+                        "VersionToken": -1,
+                        "_HighDoseCheckValue": "1.6",
+                        "DiagnosisCode": {
+                            "VersionToken": -1,
+                            "Code": "DEFAULTDIAGNOSIS"
+                        },
+                        "_LowDoseCheckValue": ".05",
+                        "_MaxDoseCheckValue": "2.4",
+                        "_LowDoseCheckUnit": "mg\/kg",
+                        "_MaxDoseCheckUnit": "mg\/kg"
+                    },
+                    {
+                        "_HighDoseCheckUnit": "mg\/kg",
+                        "LowAge": "365",
+                        "HighAge": "2554",
+                        "VersionToken": -1,
+                        "_HighDoseCheckValue": "2.4",
+                        "DiagnosisCode": {
+                            "VersionToken": -1,
+                            "Code": "DEFAULTDIAGNOSIS"
+                        },
+                        "_LowDoseCheckValue": ".05",
+                        "_MaxDoseCheckValue": "2.4",
+                        "_LowDoseCheckUnit": "mg\/kg",
+                        "_MaxDoseCheckUnit": "mg\/kg"
+                    },
+                    {
+                        "_HighDoseCheckUnit": "mg\/kg",
+                        "LowAge": "2555",
+                        "HighAge": "5109",
+                        "VersionToken": -1,
+                        "_HighDoseCheckValue": "2.4",
+                        "DiagnosisCode": {
+                            "VersionToken": -1,
+                            "Code": "DEFAULTDIAGNOSIS"
+                        },
+                        "_LowDoseCheckValue": ".05",
+                        "_MaxDoseCheckValue": "2.4",
+                        "_LowDoseCheckUnit": "mg\/kg",
+                        "_MaxDoseCheckUnit": "mg\/kg"
+                    },
+                    {
+                        "_HighDoseCheckUnit": "mg",
+                        "LowAge": "5110",
+                        "HighAge": "6569",
+                        "VersionToken": -1,
+                        "_HighDoseCheckValue": "120",
+                        "DiagnosisCode": {
+                            "VersionToken": -1,
+                            "Code": "DEFAULTDIAGNOSIS"
+                        },
+                        "_LowDoseCheckValue": "1",
+                        "_MaxDoseCheckValue": "180",
+                        "_LowDoseCheckUnit": "mg",
+                        "_MaxDoseCheckUnit": "mg"
+                    },
+                    {
+                        "_HighDoseCheckUnit": "mg",
+                        "LowAge": "6570",
+                        "HighAge": "40150",
+                        "VersionToken": -1,
+                        "_HighDoseCheckValue": "160",
+                        "DiagnosisCode": {
+                            "VersionToken": -1,
+                            "Code": "DEFAULTDIAGNOSIS"
+                        },
+                        "_LowDoseCheckValue": "1",
+                        "_MaxDoseCheckValue": "240",
+                        "_LowDoseCheckUnit": "mg",
+                        "_MaxDoseCheckUnit": "mg"
+                    }
+                ],
+                "IsUnlistedMedication": false,
+                "FDBMedicationID": "568371",
+                "DosageAction": "Inject",
+                "NDCs": {},
+                "IsDiscontinued": true,
+                "AugmentedWithUnitOptions": true,
+                "DosageForm": "mL",
+                "DosageRoute": "INTRAVENOUS",
+                "QuantityUnitOptions": [],
+                "FDBGenericMedicationID": "568371",
+                "CombinationMedComponentData": [],
+                "StrengthValue": "0.5",
+                "MedicationID": "362668",
+                "DosageFormProductName": "morphine (PF) in 0.9 % sodium chloride intravenous syringe",
+                "StrengthUnit": "mg",
+                "StrengthKey": "0.5||mg\/mL",
+                "IsGenericCompoundMedication": false,
+                "DosageQuantityUnitOptions": [
+                    "mg",
+                    "microgram(s)",
+                    "mL"
+                ],
+                "IsCompoundMedication": false,
+                "__CLASS__": "Athena::Entity::Medication",
+                "ClinicalOrderTypeID": "302725",
+                "CMSRequiresAdministeredNDC": false
+            },
+            "Cosignature2User": null,
+            "ExternalCodes": [],
+            "RxFillIndicator": "All Fill Statuses",
+            "OrderDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-27T08:49:44-04:00"
+            },
+            "DEASchedule": "2",
+            "AssignedTo": "asonnenfeldt",
+            "_PatientWeightValue": "68.039",
+            "ParentOrderDocumentID": "116887",
+            "Frequency": "every 4 hours",
+            "ApprovedDate": {
+                "__CLASS__": "DateTime",
+                "Date": null
+            },
+            "ProviderUsername": "mblake1",
+            "ID": "116887",
+            "IsDispenseAsWritten": false,
+            "DosageFrequencyDescription": "every 4 hours",
+            "Questions": [],
+            "ChartID": "32988",
+            "Route": "PAPER",
+            "_WeightBasedResultValue": "3",
+            "OrderingMode": "PRESCRIBE",
+            "TextConsentIsNull": false,
+            "CreatedUser": "asonnenfeldt",
+            "SubClass": "PRESCRIPTION_NEW",
+            "VersionToken": "CLINICALPRESCRIPTION:113808;DOCUMENT:14363473",
+            "UIOrigin": "ah_search",
+            "DisplayName": "morphine (PF) 0.5 mg\/mL in 0.9% sodium chloride intravenous syringe",
+            "InvalidQUoMRemoved": true,
+            "_DosageQuantityValue": 1,
+            "ERXScriptPotencyUnitCode": null,
+            "Priority": "2",
+            "IsWeightBasedDosing": false,
+            "Class": "PRESCRIPTION",
+            "LastModifiedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2026-05-07T01:33:28-04:00"
+            },
+            "Cosignature1Date": {
+                "__CLASS__": "DateTime",
+                "Date": null
+            },
+            "FHIRIDs": [
+                "MedicationRequest\/a-195903.medicationrequest-116887"
+            ],
+            "ClassDescription": "prescription - new",
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-27T08:49:44-04:00"
+            },
+            "PayloadType": "ORDER",
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-27"
+            },
+            "AdministerDate": {
+                "__CLASS__": "DateTime",
+                "Date": null
+            },
+            "NeedsProviderDelegateAck": null,
+            "Notifier": "ATHENAHEALTH STAFF",
+            "_DosePerWeightValue": ".044",
+            "Source": "ENCOUNTER",
+            "WeightBasedType": "DAY",
+            "DeniedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2026-05-07T01:33:28-04:00"
+            },
+            "DeniedUser": "p-nsharma6",
+            "EncounterID": "34507",
+            "IsNotDone": false,
+            "__CLASS__": "Athena::Order::Entity::OrderRequest::Prescription",
+            "ProductName": "morphine (PF) in 0.9 % sod chl",
+            "_DosageFrequencyValue": "6",
+            "_DosePerWeightUnit": "mg\/kg",
+            "ERXQuantity": null,
+            "DefaultsFromIDSource": "ORDERROUTE",
+            "_DosageQuantityUnit": "mL",
+            "ERXScriptUOMDescription": null,
+            "_DosageFrequencyUnit": "per day",
+            "AverageDailyDose": {
+                "__CLASS__": "Athena::Entity::Measurement",
+                "Ratio": "3",
+                "VersionToken": -1,
+                "Unit": {
+                    "IsConstant": 0,
+                    "VersionToken": -1,
+                    "Dimension": {
+                        "weight": 1
+                    },
+                    "UnitsProduct": {
+                        "mg": 1
+                    },
+                    "__CLASS__": "Athena::Entity::MeasurementUnit::Base",
+                    "Name": "mg",
+                    "BasicDimension": "weight",
+                    "RequiresNonLinearConversion": false
+                }
+            },
+            "ApprovedUser": null,
+            "SpecialtyID": "020",
+            "IsSafeToRenew": true,
+            "QuantityUnitDefault": "UNKNOWN UNIT",
+            "DocumentClassDescription": "prescription - new",
+            "AlarmDays": "49",
+            "DocumentationOnly": false,
+            "DosageQuantityUnitDefault": "UNKNOWN UNIT",
+            "ShouldScheduleStopDate": false,
+            "IsQuantityDefaulted": true,
+            "HideReasonID": null,
+            "IsStructuredSig": true,
+            "PatientID": "4406",
+            "StartDate": {
+                "__CLASS__": "DateTime",
+                "Date": null
+            },
+            "StopDateChangedByUser": false,
+            "ClinicalProvider": null,
+            "AdministerUser": null,
+            "Cosignature1User": null,
+            "LastModifiedUser": "p-nsharma6",
+            "CreatedEncounterID": "34507"
+        }
+    }
+}

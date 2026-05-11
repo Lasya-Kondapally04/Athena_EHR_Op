@@ -1,0 +1,1723 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=classic_document&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&documentId=127061&documentClass=SURGERY",
+    "classic_document": {
+        "details": {
+            "PERFORMDATEEDITABLE": 1,
+            "actions": [
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Create",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "<i>asonnenfeldt<\/i>",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "127061",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Surgical Order",
+                    "LASTMODIFIEDBY": null,
+                    "ASSIGNEDTOORG": "ATHENA",
+                    "CREATED": "02\/03\/2017",
+                    "CREATEDTIMESTAMP": "02\/03\/17 02:25pm",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "asonnenfeldt",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "NEW",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Create",
+                    "CLEAREDBY": null,
+                    "NOTE": "",
+                    "CREATEDSECONDS": "507824711",
+                    "forcelast": 0,
+                    "CREATEDBYORG": "ATHENA",
+                    "ACTION": null,
+                    "systemuser": 0,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "<i>mblake1<\/i>",
+                    "DOCUMENTACTIONREASONID": "1",
+                    "STATUS": "REVIEW",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": null,
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": null,
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "229540",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "SURGERY",
+                    "COORDINATORSOURCE": null
+                },
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Approve",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "<i>asonnenfeldt<\/i>",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "127061",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Surgical Order",
+                    "LASTMODIFIEDBY": null,
+                    "ASSIGNEDTOORG": null,
+                    "CREATED": "02\/03\/2017",
+                    "CREATEDTIMESTAMP": "02\/03\/17 02:26pm",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "asonnenfeldt",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "APPROVE_SURGERY",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Approve",
+                    "CLEAREDBY": null,
+                    "NOTE": "scrambled notes",
+                    "CREATEDSECONDS": "507824794",
+                    "forcelast": 0,
+                    "CREATEDBYORG": "ATHENA",
+                    "ACTION": null,
+                    "systemuser": 0,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "ROME OFFICE STAFF",
+                    "DOCUMENTACTIONREASONID": "2300",
+                    "STATUS": "SCHEDULE",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": null,
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": null,
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "229542",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "SURGERY",
+                    "COORDINATORSOURCE": null
+                },
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "Test App gtandon - preview (MDP Partner)",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "127061",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Surgical Order",
+                    "LASTMODIFIEDBY": null,
+                    "ASSIGNEDTOORG": null,
+                    "CREATED": "01\/09\/2024",
+                    "CREATEDTIMESTAMP": "01\/09\/24 12:04am",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "API-27306",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": null,
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": null,
+                    "CLEAREDBY": null,
+                    "NOTE": "sample action note",
+                    "CREATEDSECONDS": "726451461",
+                    "forcelast": 0,
+                    "CREATEDBYORG": null,
+                    "ACTION": null,
+                    "systemuser": 0,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "ROME OFFICE STAFF",
+                    "DOCUMENTACTIONREASONID": null,
+                    "STATUS": "SCHEDULE",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": null,
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": null,
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "386518",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "SURGERY",
+                    "COORDINATORSOURCE": null
+                }
+            ],
+            "BARCODEOPTIONDATA": [
+                {
+                    "NUMBEROFBARCODES": 1,
+                    "STATUS": "CLOSED"
+                },
+                {
+                    "NUMBEROFBARCODES": 2,
+                    "STATUS": "CLOSED"
+                },
+                {
+                    "NUMBEROFBARCODES": 1,
+                    "STATUS": "REVIEW"
+                },
+                {
+                    "NUMBEROFBARCODES": 2,
+                    "STATUS": "REVIEW"
+                }
+            ],
+            "SCHEDULEACTIONS": [
+                "2410"
+            ],
+            "SHOWCCPROVIDER": "1",
+            "tie_to_surgery_data": {
+                "TIETOSURGERYOPTIONS": {
+                    "VALUES": null,
+                    "NAMES": null
+                },
+                "TIETOORDERCLASS": null,
+                "SHOWUPCOMINGSURGERIES": null,
+                "TIETOORDERID": null,
+                "SHOWTIETOSURGERY": null
+            },
+            "SHOWAPPROVEDDENIED": 1,
+            "requisition_authorization_data": {
+                "sender_service_url": "https:\/\/auth-sender.preview.api.athena.io\/collector-authsender-api_preview\/api\/"
+            },
+            "COSIGUSERNAME": null,
+            "DELETEACTIONS": [
+                "23",
+                "3125",
+                "9010",
+                "3120",
+                "3150",
+                "3140",
+                "3503",
+                "5680",
+                "3132",
+                "3133"
+            ],
+            "SOURCELINKS": [
+                {
+                    "CHARTID": "32988",
+                    "CLINICALENCOUNTERID": "35973",
+                    "ISORDERGROUP": 1,
+                    "ISAPPOINTMENT": "",
+                    "STAGE": null,
+                    "ISAPPOINTMENTTICKLER": null,
+                    "STATUS": "",
+                    "LABEL": "From Order Group",
+                    "LINKTEXT": "CHIP ACH, 02\/03\/2017"
+                }
+            ],
+            "shared_labeling_details": {
+                "LABELINGOPTOUT": 0,
+                "PROVIDERUSER": 0,
+                "SUGGESTION": null
+            },
+            "EXTERNALLOCKDOCUMENT": 1,
+            "DIRECTACTIONS": [
+                "5809"
+            ],
+            "document_text_data": {
+                "editable": 0,
+                "document_text": null,
+                "show_at_top": 0
+            },
+            "SHOWREFERRALATTACHMENTS": 1,
+            "PERFORMINGPROVIDER": null,
+            "CARESUMMARYDISABLED": "",
+            "available_actions_info": {
+                "ACTIONGROUPS": [
+                    {
+                        "ACTIONGROUP": "Order Scheduled",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Order Scheduled",
+                                "NEXTSTATUS": "SCHEDULED",
+                                "ORDERING": "3410",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Order Scheduled",
+                                "ID": "2410",
+                                "NAME": null,
+                                "ONBEFOREFILTERRULE": null,
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "ACTIONGROUP": "Failed to Schedule",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Failed to Schedule",
+                                "NEXTSTATUS": "SCHEDULE",
+                                "ORDERING": "3415",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Failed to Schedule",
+                                "ID": "2415",
+                                "NAME": null,
+                                "ONBEFOREFILTERRULE": null,
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "ACTIONGROUP": "Close",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Close",
+                                "NEXTSTATUS": "CLOSED",
+                                "ORDERING": "3425",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Close",
+                                "ID": "2425",
+                                "NAME": null,
+                                "ONBEFOREFILTERRULE": null,
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "ACTIONGROUP": "Error Identified",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Error Identified",
+                                "NEXTSTATUS": "REVIEW",
+                                "ORDERING": "3420",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Error Identified - Send back to REVIEW",
+                                "ID": "2420",
+                                "NAME": "Send back to REVIEW",
+                                "ONBEFOREFILTERRULE": null,
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "UNIQUEACTIONGROUP": "ReassignAction",
+                        "ACTIONGROUP": "Leave in SCHEDULE",
+                        "ACTIONS": [
+                            {
+                                "REASSIGNOPTIONS": {}
+                            }
+                        ]
+                    }
+                ],
+                "SHOWDOCUMENTACTIONS": "1",
+                "ACTIONNOTES": {
+                    "3005": "Unable to identify patient within the practice. The patient is either not found with available information, has multiple records, or is not listed in this medical group. Please confirm that patient has been added to system and update in correct medical group as necessary. Please enter patient name or ID, and return to Athena using the Data Corrected - Reprocess Document option. Thank you.",
+                    "3006": "Unable to classify the document label. Please use Action Notes to identify correct classification, and return to Athena. Thank you.",
+                    "3000": "Unable to read the image. Please re-fax, or contact originating sender. Thank you.",
+                    "3001": "Unable to identify the drug\/dosage combination within our database.  Please choose an appropriate medication via the \"Drug Name\" field.  Thank you.",
+                    "3051": "Barcode failed to split practice-added documents.  Please split and data-enter.  Thank you.",
+                    "3004": "Provider not found within practice. Thank you."
+                }
+            },
+            "CLINICALPROVIDERREQUIRED": 1,
+            "APPROVEDDENIEDUSER": "Alden Sonnenfeldt",
+            "scan_page_details": null,
+            "REOPENACTIONS": [
+                "3394",
+                "3050",
+                "3052",
+                "3060",
+                "3070",
+                "3080",
+                "2420",
+                "2710",
+                "2711",
+                "2910",
+                "3044",
+                "9998",
+                "6029",
+                "9311",
+                "9501",
+                "3700",
+                "3702",
+                "3705",
+                "3706",
+                "3710",
+                "3548",
+                "3549",
+                "3550",
+                "3551",
+                "3558",
+                "3467",
+                "3486",
+                "8020",
+                "6120",
+                "6121",
+                "5100",
+                "5110"
+            ],
+            "APPROVEDDENIEDACTIONLABEL": "Approved",
+            "LOCKCLINICALPROVIDER": 0,
+            "INTERFACEACTIONS": [
+                "3258"
+            ],
+            "ORDERTEXTLABEL": "Note to Provider",
+            "CLINICALPROVIDERCPSW": "1",
+            "ORDERINGPROVIDER": "asonnenfeldt",
+            "ISRISKYTOREOPEN": "",
+            "DEPARTMENTNAME": "Rome Office",
+            "NEEDSVERIFICATIONMAP": {
+                "29857009": 0
+            },
+            "CARESUMMARYDOCUMENT": {},
+            "APPROVEDDENIEDTIMESTAMP": "02\/03\/17",
+            "PROVIDERCONTROLDISABLED": "",
+            "APPROVEACTIONS": [
+                "3379",
+                "3391",
+                "5820",
+                "3395",
+                "3396",
+                "3400",
+                "3401",
+                "3402",
+                "3424",
+                "2284",
+                "3246",
+                "3295",
+                "3297",
+                "3300",
+                "3302",
+                "3308",
+                "3250",
+                "3251",
+                "3252",
+                "2500",
+                "2501",
+                "2300",
+                "2301",
+                "2302",
+                "3421",
+                "3422",
+                "5000",
+                "5010"
+            ],
+            "ORDERLOCKDECLINEREASON": 0,
+            "INHOUSEDEFAULTCPID": null,
+            "COSIGTIMESTAMP": null,
+            "disable_reassign_picker": null,
+            "CARESUMMARYHIDDEN": "",
+            "show_document_actions": "",
+            "SHOWICD9": "",
+            "APPROVEDDENIEDLABEL": "Approved\/Denied",
+            "CLINICALPROVIDERTOGGLE": {},
+            "PERFORMDATE": "",
+            "AOENOTE": null,
+            "PRESCHEDULINGCHECKLISTDATA": {
+                "SHOW": 1,
+                "ISREADONLY": 0,
+                "SUBMITSCHEDULEACTIONIDS": [
+                    "3358",
+                    "3249",
+                    "2410",
+                    "2450",
+                    "2301",
+                    "3500",
+                    "3501",
+                    "3510",
+                    "3511",
+                    "3520",
+                    "3521",
+                    "3552",
+                    "3553",
+                    "3497"
+                ],
+                "CHECKLISTOPTIONS": [
+                    {
+                        "DISPLAYNAME": "Incomplete",
+                        "VALUE": "INCOMPLETE"
+                    },
+                    {
+                        "DISPLAYNAME": "Complete",
+                        "VALUE": "COMPLETE"
+                    },
+                    {
+                        "DISPLAYNAME": "N\/A",
+                        "VALUE": "N\/A"
+                    }
+                ],
+                "SHOWUPCOMINGSURGERIES": 1,
+                "CHECKLISTITEMS": [
+                    {
+                        "NOTE": null,
+                        "TIEDDOCUMENTDATA": [
+                            {
+                                "CHARTID": "32988",
+                                "DOCUMENTID": "128512",
+                                "DOCUMENTCLASS": "PATIENTCASE",
+                                "DOCUMENTDESCRIPTION": "Patient Case - Medical Records - Electronic"
+                            },
+                            {
+                                "CHARTID": "32988",
+                                "DOCUMENTID": "217290",
+                                "DOCUMENTCLASS": "PRESCRIPTION",
+                                "DOCUMENTDESCRIPTION": "Omnaris 50 mcg nasal spray"
+                            },
+                            {
+                                "CHARTID": "32988",
+                                "DOCUMENTID": "234802",
+                                "DOCUMENTCLASS": "PRESCRIPTION",
+                                "DOCUMENTDESCRIPTION": "cyclobenzaprine 10 mg tablet"
+                            }
+                        ],
+                        "ORDERCHECKLISTELEMENTID": "41",
+                        "ORDERCHECKLISTELEMENTNAME": "Did you complete your lab work?",
+                        "VALUE": "INCOMPLETE"
+                    },
+                    {
+                        "NOTE": null,
+                        "TIEDDOCUMENTDATA": [
+                            {
+                                "CHARTID": "32988",
+                                "DOCUMENTID": "210033",
+                                "DOCUMENTCLASS": "LABRESULT",
+                                "DOCUMENTDESCRIPTION": "ANA + RF (ANTINUCLEAR ANTIBODIES + RHEUMATOID FACTOR), QUANTITATIVE, SERUM"
+                            },
+                            {
+                                "CHARTID": "32988",
+                                "DOCUMENTID": "225701",
+                                "DOCUMENTCLASS": "LABRESULT",
+                                "DOCUMENTDESCRIPTION": "HBA1C (HEMOGLOBIN A1C), BLOOD"
+                            },
+                            {
+                                "CHARTID": "32988",
+                                "DOCUMENTID": "210028",
+                                "DOCUMENTCLASS": "LABRESULT",
+                                "DOCUMENTDESCRIPTION": "MONONUCLEOSIS, HETEROPHILE AB, BLOOD"
+                            },
+                            {
+                                "CHARTID": "32988",
+                                "DOCUMENTID": "210040",
+                                "DOCUMENTCLASS": "LABRESULT",
+                                "DOCUMENTDESCRIPTION": "ANA + RF (ANTINUCLEAR ANTIBODIES + RHEUMATOID FACTOR), QUANTITATIVE, SERUM"
+                            }
+                        ],
+                        "ORDERCHECKLISTELEMENTID": "42",
+                        "ORDERCHECKLISTELEMENTNAME": "Have you spoken to your Insurance?",
+                        "VALUE": "INCOMPLETE"
+                    },
+                    {
+                        "NOTE": null,
+                        "TIEDDOCUMENTDATA": [
+                            {
+                                "CHARTID": "32988",
+                                "DOCUMENTID": "210017",
+                                "DOCUMENTCLASS": "LABRESULT",
+                                "DOCUMENTDESCRIPTION": "MONONUCLEOSIS, HETEROPHILE AB, BLOOD"
+                            },
+                            {
+                                "CHARTID": "32988",
+                                "DOCUMENTID": "237476",
+                                "DOCUMENTCLASS": "MEDICALRECORD",
+                                "DOCUMENTDESCRIPTION": "Medical Record Document - Chart for Abstraction"
+                            },
+                            {
+                                "CHARTID": "32988",
+                                "DOCUMENTID": "210003",
+                                "DOCUMENTCLASS": "LABRESULT",
+                                "DOCUMENTDESCRIPTION": "MONONUCLEOSIS, HETEROPHILE AB, BLOOD"
+                            },
+                            {
+                                "CHARTID": "32988",
+                                "DOCUMENTID": "210023",
+                                "DOCUMENTCLASS": "LABRESULT",
+                                "DOCUMENTDESCRIPTION": "ANA + RF (ANTINUCLEAR ANTIBODIES + RHEUMATOID FACTOR), QUANTITATIVE, SERUM"
+                            },
+                            {
+                                "CHARTID": "32988",
+                                "DOCUMENTID": "210011",
+                                "DOCUMENTCLASS": "LABRESULT",
+                                "DOCUMENTDESCRIPTION": "ANA + RF (ANTINUCLEAR ANTIBODIES + RHEUMATOID FACTOR), QUANTITATIVE, SERUM"
+                            },
+                            {
+                                "CHARTID": "32988",
+                                "DOCUMENTID": "239647",
+                                "DOCUMENTCLASS": "IMAGINGRESULT",
+                                "DOCUMENTDESCRIPTION": "LAB*"
+                            },
+                            {
+                                "CHARTID": "32988",
+                                "DOCUMENTID": "116890",
+                                "DOCUMENTCLASS": "PRESCRIPTION",
+                                "DOCUMENTDESCRIPTION": "Flonase Allergy Relief 50 mcg\/actuation nasal spray,suspension"
+                            }
+                        ],
+                        "ORDERCHECKLISTELEMENTID": "43",
+                        "ORDERCHECKLISTELEMENTNAME": "Have you recieved Auth?",
+                        "VALUE": "INCOMPLETE"
+                    },
+                    {
+                        "NOTE": null,
+                        "TIEDDOCUMENTDATA": [
+                            {
+                                "CHARTID": "32988",
+                                "DOCUMENTID": "210005",
+                                "DOCUMENTCLASS": "LABRESULT",
+                                "DOCUMENTDESCRIPTION": "MONONUCLEOSIS, HETEROPHILE AB, BLOOD"
+                            }
+                        ],
+                        "ORDERCHECKLISTELEMENTID": "44",
+                        "ORDERCHECKLISTELEMENTNAME": "Have you completed your incase of emergancey paperwork?",
+                        "VALUE": "INCOMPLETE"
+                    },
+                    {
+                        "NOTE": null,
+                        "TIEDDOCUMENTDATA": [],
+                        "ORDERCHECKLISTELEMENTID": "61",
+                        "ORDERCHECKLISTELEMENTNAME": "Post op Appointment",
+                        "VALUE": "INCOMPLETE"
+                    },
+                    {
+                        "NOTE": null,
+                        "TIEDDOCUMENTDATA": [
+                            {
+                                "CHARTID": "32988",
+                                "DOCUMENTID": "239650",
+                                "DOCUMENTCLASS": "LABRESULT",
+                                "DOCUMENTDESCRIPTION": "CBC"
+                            },
+                            {
+                                "CHARTID": "32988",
+                                "DOCUMENTID": "210036",
+                                "DOCUMENTCLASS": "LABRESULT",
+                                "DOCUMENTDESCRIPTION": "C-REACTIVE PROTEIN, QUANTITATIVE, SERUM OR PLASMA"
+                            }
+                        ],
+                        "ORDERCHECKLISTELEMENTID": "62",
+                        "ORDERCHECKLISTELEMENTNAME": "heheheh",
+                        "VALUE": "INCOMPLETE"
+                    }
+                ]
+            },
+            "SHOWCCLINKROW": 1,
+            "DISABLEREFERRALATTACHMENTS": 0,
+            "ISDIAGNOSISREADONLY": 1,
+            "ENCOUNTERDIAGNOSISDATA": {
+                "29857009": {
+                    "ICD10S": [
+                        {
+                            "DESCRIPTION": "Chest pain on breathing",
+                            "DIAGNOSISCODE": "R071",
+                            "ICDCODEALLID": "27241",
+                            "UNSTRIPPEDDIAGNOSISCODE": "R07.1"
+                        }
+                    ],
+                    "OTHERORDERCOUNT": "3"
+                }
+            },
+            "AOEREQUIREDFORSIGNOFF": "",
+            "FAXACTIONS": [
+                "3552",
+                "3383"
+            ],
+            "CARESUMMARYVALUE": "N",
+            "ORDERLOCKDOCUMENT": 1,
+            "portal_indicator_html": "",
+            "SHOWRTOLINK": "",
+            "SHOWCCTABLE": null,
+            "REOPENFROMCANCELLEDACTIONS": [
+                "3704"
+            ],
+            "SUBMITWITHSPECIMENACTIONS": [
+                "3253"
+            ],
+            "requisition_link_data": {},
+            "document_save_types": [
+                {
+                    "BUTTONKEY": "SAVE"
+                },
+                {
+                    "BUTTONKEY": "SAVEANDNEXT"
+                }
+            ],
+            "document_labeling_details": null,
+            "hide_reassign_options": "",
+            "LOCKORDERTEXT": "",
+            "SHOWPERFORMDATE": 1,
+            "SUBMITACTIONS": [
+                "3510",
+                "3520",
+                "3500"
+            ],
+            "TIETORESULTDATA": {},
+            "CCROWS": [],
+            "NOTDONEREASONS": [
+                {
+                    "DISPLAYTEXT": "Not indicated",
+                    "SNOMED": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Not indicated",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "410534003"
+                    },
+                    "ID": "56"
+                },
+                {
+                    "DISPLAYTEXT": "Contraindicated",
+                    "SNOMED": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Contraindicated",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "410536001"
+                    },
+                    "ID": "55"
+                },
+                {
+                    "DISPLAYTEXT": "Not tolerated",
+                    "SNOMED": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Treatment not tolerated",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "407563006"
+                    },
+                    "ID": "57"
+                },
+                {
+                    "DISPLAYTEXT": "Treatment changed",
+                    "SNOMED": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Treatment changed",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "445528004"
+                    },
+                    "ID": "59"
+                },
+                {
+                    "DISPLAYTEXT": "Patient refused",
+                    "SNOMED": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Procedure declined",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "1296859006"
+                    },
+                    "ID": "204"
+                }
+            ],
+            "DISABLEREFERRALATTACHMENTSTEXT": null,
+            "CLINICALPROVIDERID": null,
+            "digests": {
+                "FULL": "0ipOBYj6loqzb5Dt86OuIQ",
+                "STRICT": "EetS8zONR0WpAdhLHCoLfQ"
+            }
+        },
+        "document": {
+            "ChartDisplayDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2017-02-03T14:25:11-05:00"
+            },
+            "VersionToken": "DOCUMENT:14257208",
+            "DiagnosisList": [
+                {
+                    "SequenceNumber": "0",
+                    "DocumentID": "127061",
+                    "SnomedICDCodes": [
+                        {
+                            "UnstrippedDiagnosisCode": "R07.1",
+                            "VersionToken": -1,
+                            "Code": "R071",
+                            "__CLASS__": "Athena::Entity::Code::ICD10",
+                            "Description": "Chest pain on breathing",
+                            "CodeSet": "ICD10",
+                            "ICDCodeAllID": "27241"
+                        }
+                    ],
+                    "VersionToken": -1,
+                    "IMODiagnosisList": [],
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Diagnosis",
+                    "DiagnosisCode": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Chest pain",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "29857009"
+                    },
+                    "ID": "15833"
+                }
+            ],
+            "UIOrigin": "ax_search",
+            "DisplayName": "left heart catheterization (SURG)",
+            "ClinicalOrderType": {
+                "SnomedCodes": [],
+                "PanelYN": "N",
+                "DefaultAlarmDays": "28",
+                "VersionToken": -1,
+                "IsDiscontinued": false,
+                "ClinicalOrderGenusID": "291",
+                "__CLASS__": "Athena::Entity::Clinical::OrderType",
+                "Description": "CPT: 93452",
+                "Name": "left heart catheterization (SURG)",
+                "ID": "298006",
+                "OrderableFlag": "Y",
+                "ClinicalOrderTypeGroup": {
+                    "IsOutpatient": true,
+                    "Ordering": "7",
+                    "VersionToken": -1,
+                    "DocumentClass": "SURGERY",
+                    "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+                    "Description": "Surgery",
+                    "Name": "SURGERY",
+                    "ID": "18",
+                    "IsInpatient": false
+                }
+            },
+            "DepartmentID": "1",
+            "Priority": "2",
+            "AutoPublishExclusion": {
+                "__CLASS__": "Athena::Order::Entity::OrderRequest::AutoPublishingExclusion",
+                "VersionToken": -1
+            },
+            "Status": "SCHEDULE",
+            "Class": "SURGERY",
+            "LocalClinicalLabTemplateID": null,
+            "LastModifiedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2024-01-09T00:04:21-05:00"
+            },
+            "CCList": [],
+            "FHIRIDs": [
+                "ServiceRequest\/a-195903.ambulatoryorder-127061"
+            ],
+            "ClassDescription": "surgical order",
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2017-02-03T14:25:11-05:00"
+            },
+            "PayloadType": "ORDER",
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2017-02-03"
+            },
+            "Description": "left heart catheterization (SURG)",
+            "NeedsProviderDelegateAck": null,
+            "IsForeignCompendiumOrder": false,
+            "Notifier": "ATHENA",
+            "Source": "ENCOUNTER",
+            "CreatedTimeStamp": "02\/03\/2017 02:25 PM",
+            "DeniedDate": {
+                "__CLASS__": "DateTime",
+                "Date": null
+            },
+            "DeniedUser": null,
+            "EncounterID": "35973",
+            "__CLASS__": "Athena::Order::Entity::OrderRequest::Surgery",
+            "ProviderBilledName": "CHIP ACH",
+            "PAMAScore": {
+                "__CLASS__": "Athena::Order::Entity::PAMAScore",
+                "VersionToken": -1
+            },
+            "PriorAuth": null,
+            "ExternalCodes": [],
+            "OrderDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2017-02-03T14:25:11-05:00"
+            },
+            "AssignedTo": "ROME OFFICE STAFF",
+            "ApprovedUser": "asonnenfeldt",
+            "SpecialtyID": "011",
+            "ParentOrderDocumentID": "127061",
+            "ApprovedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2017-02-03T14:26:33-05:00"
+            },
+            "DocumentClassDescription": "surgical order",
+            "AlarmDays": "7",
+            "DocumentationOnly": false,
+            "ProviderUsername": "mblake1",
+            "ID": "127061",
+            "PatientID": "4406",
+            "Questions": [
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Additional Information",
+                    "StandardQuestionID": "866",
+                    "ID": "18776",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "0",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [
+                        {
+                            "QuestionID": "18777",
+                            "Ordering": "1",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Admit Day Before",
+                            "ID": "10804"
+                        },
+                        {
+                            "QuestionID": "18777",
+                            "Ordering": "2",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "AM Admit",
+                            "ID": "10805"
+                        },
+                        {
+                            "QuestionID": "18777",
+                            "Ordering": "3",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Same Day",
+                            "ID": "10806"
+                        },
+                        {
+                            "QuestionID": "18777",
+                            "Ordering": "4",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Inpatient",
+                            "ID": "10807"
+                        },
+                        {
+                            "QuestionID": "18777",
+                            "Ordering": "5",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Outpatient",
+                            "ID": "10808"
+                        },
+                        {
+                            "QuestionID": "18777",
+                            "Ordering": "6",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Observation",
+                            "ID": "10809"
+                        },
+                        {
+                            "QuestionID": "18777",
+                            "Ordering": "7",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Short Stay Observation",
+                            "ID": "10810"
+                        },
+                        {
+                            "QuestionID": "18777",
+                            "Ordering": "8",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Outpatient Extended Recovery",
+                            "ID": "10811"
+                        },
+                        {
+                            "QuestionID": "18777",
+                            "Ordering": "9",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "To be admitted",
+                            "ID": "10812"
+                        }
+                    ],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Admission Status",
+                    "StandardQuestionID": "661",
+                    "ID": "18777",
+                    "Type": "DROPDOWN",
+                    "DocumentID": "127061",
+                    "Ordering": "1",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Length of Stay (Days)",
+                    "StandardQuestionID": "483",
+                    "ID": "18778",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "2",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "1",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Regional",
+                            "ID": "10813"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "2",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Combination",
+                            "ID": "10814"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "3",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Choice",
+                            "ID": "10815"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "4",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "General",
+                            "ID": "10816"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "5",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "MAC",
+                            "ID": "10817"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "6",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Bier Block",
+                            "ID": "10818"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "7",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Local",
+                            "ID": "10819"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "8",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Conscious Sedation",
+                            "ID": "10820"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "9",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Caudal",
+                            "ID": "10821"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "10",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Epidural",
+                            "ID": "10822"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "11",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Scalene",
+                            "ID": "10823"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "12",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Femoral",
+                            "ID": "10824"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "13",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Popliteal",
+                            "ID": "10825"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "14",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Q Pain Pump",
+                            "ID": "10826"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "15",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Spinal Duramorph",
+                            "ID": "10827"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "16",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "TIVA",
+                            "ID": "10828"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "17",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Interscalene Block",
+                            "ID": "10829"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "18",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Axillary",
+                            "ID": "10830"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "19",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Fem\/Sciatic Block",
+                            "ID": "10831"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "20",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Spinal",
+                            "ID": "10832"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "21",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Ankle Block",
+                            "ID": "10833"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "22",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "IV General",
+                            "ID": "10834"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "23",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Adductor Canal Block",
+                            "ID": "10835"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "24",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Short Acting Spinal",
+                            "ID": "10836"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "25",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Adductor Block",
+                            "ID": "10837"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "26",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Exparel",
+                            "ID": "10838"
+                        },
+                        {
+                            "QuestionID": "18779",
+                            "Ordering": "27",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "LMA",
+                            "ID": "10839"
+                        }
+                    ],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Anesthesia",
+                    "StandardQuestionID": "663",
+                    "ID": "18779",
+                    "Type": "DROPDOWN",
+                    "DocumentID": "127061",
+                    "Ordering": "3",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Anesthesia (Other)",
+                    "StandardQuestionID": "1827",
+                    "ID": "18780",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "4",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [
+                        {
+                            "QuestionID": "18781",
+                            "Ordering": "1",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Caudal",
+                            "ID": "10840"
+                        },
+                        {
+                            "QuestionID": "18781",
+                            "Ordering": "2",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Epidural",
+                            "ID": "10841"
+                        },
+                        {
+                            "QuestionID": "18781",
+                            "Ordering": "3",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "General",
+                            "ID": "10842"
+                        },
+                        {
+                            "QuestionID": "18781",
+                            "Ordering": "4",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Local",
+                            "ID": "10843"
+                        },
+                        {
+                            "QuestionID": "18781",
+                            "Ordering": "5",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Monitored Anesthesia Care",
+                            "ID": "10844"
+                        },
+                        {
+                            "QuestionID": "18781",
+                            "Ordering": "6",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Block",
+                            "ID": "10845"
+                        }
+                    ],
+                    "ResponderRole": "STAFF",
+                    "Name": "Anesthesia Consult",
+                    "StandardQuestionID": "971",
+                    "ID": "18781",
+                    "Type": "DROPDOWN",
+                    "DocumentID": "127061",
+                    "Ordering": "5",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Authorization #",
+                    "StandardQuestionID": "392",
+                    "ID": "18782",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "6",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Authorization Notes",
+                    "StandardQuestionID": "393",
+                    "ID": "18783",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "7",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Cardiac Risk Factors",
+                    "StandardQuestionID": "922",
+                    "ID": "18784",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "8",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Diabetes?",
+                    "StandardQuestionID": "103",
+                    "ID": "18785",
+                    "Type": "YESNONULL",
+                    "DocumentID": "127061",
+                    "Ordering": "9",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Latex Allergy",
+                    "StandardQuestionID": "2210",
+                    "ID": "18786",
+                    "Type": "YESNONULL",
+                    "DocumentID": "127061",
+                    "Ordering": "10",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Taking Anticoagulants",
+                    "StandardQuestionID": "309",
+                    "ID": "18787",
+                    "Type": "YESNONULL",
+                    "DocumentID": "127061",
+                    "Ordering": "11",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "History of Sleep Apnea?",
+                    "StandardQuestionID": "152",
+                    "ID": "18788",
+                    "Type": "YESNONULL",
+                    "DocumentID": "127061",
+                    "Ordering": "12",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Using oxygen and\/or CPAP?",
+                    "StandardQuestionID": "352",
+                    "ID": "18789",
+                    "Type": "YESNONULL",
+                    "DocumentID": "127061",
+                    "Ordering": "13",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Date of Surgery",
+                    "StandardQuestionID": "5",
+                    "ID": "18790",
+                    "Type": "DATE",
+                    "DocumentID": "127061",
+                    "Ordering": "14",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Duration",
+                    "StandardQuestionID": "428",
+                    "ID": "18791",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "15",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Device Lot Number",
+                    "StandardQuestionID": "422",
+                    "ID": "18792",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "16",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Device Manufacturer",
+                    "StandardQuestionID": "423",
+                    "ID": "18793",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "17",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Diet",
+                    "StandardQuestionID": "923",
+                    "ID": "18794",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "18",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "DME Needed?",
+                    "StandardQuestionID": "108",
+                    "ID": "18795",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "19",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "DVT Prophylaxis",
+                    "StandardQuestionID": "921",
+                    "ID": "18796",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "20",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Labs",
+                    "StandardQuestionID": "478",
+                    "ID": "18797",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "21",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Medical Clearance Needed?",
+                    "StandardQuestionID": "201",
+                    "ID": "18798",
+                    "Type": "YESNONULL",
+                    "DocumentID": "127061",
+                    "Ordering": "22",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Name of Surgical Assistant",
+                    "StandardQuestionID": "513",
+                    "ID": "18799",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "23",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Pre-Admission Orders",
+                    "StandardQuestionID": "925",
+                    "ID": "18800",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "24",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Pre-Op Appointment Date",
+                    "StandardQuestionID": "29",
+                    "ID": "18801",
+                    "Type": "DATE",
+                    "DocumentID": "127061",
+                    "Ordering": "25",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Pre-Op Appointment Time",
+                    "StandardQuestionID": "555",
+                    "ID": "18802",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "26",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Pre-Op Imaging",
+                    "StandardQuestionID": "924",
+                    "ID": "18803",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "27",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Pre-Op Medications",
+                    "StandardQuestionID": "556",
+                    "ID": "18804",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "28",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Position",
+                    "StandardQuestionID": "550",
+                    "ID": "18805",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "29",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Return to Office",
+                    "StandardQuestionID": "599",
+                    "ID": "18806",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "30",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Special Instructions",
+                    "StandardQuestionID": "611",
+                    "ID": "18807",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "31",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Special Instruments",
+                    "StandardQuestionID": "612",
+                    "ID": "18808",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "32",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Surgical Assistant?",
+                    "StandardQuestionID": "304",
+                    "ID": "18809",
+                    "Type": "YESNONULL",
+                    "DocumentID": "127061",
+                    "Ordering": "33",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Time",
+                    "StandardQuestionID": "630",
+                    "ID": "18810",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "34",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Time of Appointment",
+                    "StandardQuestionID": "631",
+                    "ID": "18811",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "35",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Time of Surgery",
+                    "StandardQuestionID": "633",
+                    "ID": "18812",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "36",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "What films\/CD's are needed",
+                    "StandardQuestionID": "656",
+                    "ID": "18813",
+                    "Type": "TEXT",
+                    "DocumentID": "127061",
+                    "Ordering": "37",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "-1",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Side",
+                    "StandardQuestionID": "45",
+                    "ID": "18814",
+                    "Type": "RIGHTLEFTBILATERALNULL",
+                    "DocumentID": "127061",
+                    "Ordering": "38",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                }
+            ],
+            "ClinicalProvider": null,
+            "LastModifiedUser": "API-27306",
+            "ChartID": "32988",
+            "Route": "FAX",
+            "CreatedEncounterID": "35973",
+            "CreatedUser": "asonnenfeldt"
+        }
+    }
+}

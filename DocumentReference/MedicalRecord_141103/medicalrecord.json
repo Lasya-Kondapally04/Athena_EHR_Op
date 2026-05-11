@@ -1,0 +1,382 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=classic_document&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&documentId=141103&documentClass=MEDICALRECORD",
+    "classic_document": {
+        "details": {
+            "INTERFACEMESSAGEDATE": "",
+            "DEPARTMENTOPTIONS": [],
+            "actions": [
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Create",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "Opargo - paul@opargo.com - opapp (MDP Partner)",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "141103",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Medical Record Document - Historical Medical Record",
+                    "LASTMODIFIEDBY": null,
+                    "ASSIGNEDTOORG": null,
+                    "CREATED": "02\/11\/2020",
+                    "CREATEDTIMESTAMP": "02\/11\/20 09:46am",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "API-299",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "NEW",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Create",
+                    "CLEAREDBY": null,
+                    "NOTE": "",
+                    "CREATEDSECONDS": "603107177",
+                    "forcelast": 0,
+                    "CREATEDBYORG": null,
+                    "ACTION": null,
+                    "systemuser": 0,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "7 HILLS DEPARTMENT STAFF",
+                    "DOCUMENTACTIONREASONID": "1",
+                    "STATUS": "REVIEW",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": null,
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": null,
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "260823",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "MEDICALRECORD",
+                    "COORDINATORSOURCE": null
+                },
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "Test App gtandon - preview (MDP Partner)",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "141103",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Medical Record Document - Historical Medical Record",
+                    "LASTMODIFIEDBY": null,
+                    "ASSIGNEDTOORG": null,
+                    "CREATED": "01\/08\/2024",
+                    "CREATEDTIMESTAMP": "01\/08\/24 11:52pm",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "API-27306",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": null,
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": null,
+                    "CLEAREDBY": null,
+                    "NOTE": "sample action note",
+                    "CREATEDSECONDS": "726450750",
+                    "forcelast": 0,
+                    "CREATEDBYORG": null,
+                    "ACTION": null,
+                    "systemuser": 0,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": null,
+                    "DOCUMENTACTIONREASONID": null,
+                    "STATUS": "CLOSED",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": null,
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": null,
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "386515",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "MEDICALRECORD",
+                    "COORDINATORSOURCE": null
+                }
+            ],
+            "disable_reassign_picker": null,
+            "show_document_actions": "",
+            "tie_to_surgery_data": {
+                "TIETOSURGERYOPTIONS": {
+                    "VALUES": [
+                        "",
+                        "221",
+                        "222",
+                        "223",
+                        "224",
+                        "344",
+                        "361",
+                        "225",
+                        "226",
+                        "227",
+                        "228",
+                        "345",
+                        "362",
+                        "241",
+                        "242",
+                        "243",
+                        "244",
+                        "346",
+                        "363",
+                        "281",
+                        "282",
+                        "283",
+                        "284",
+                        "285",
+                        "286",
+                        "287",
+                        "288",
+                        "347",
+                        "364",
+                        "541",
+                        "542",
+                        "543",
+                        "544",
+                        "545",
+                        "546",
+                        "561",
+                        "562",
+                        "563",
+                        "564",
+                        "565",
+                        "566",
+                        "567",
+                        "568",
+                        "569",
+                        "570",
+                        "571",
+                        "572"
+                    ],
+                    "NAMES": [
+                        "",
+                        "LEFT HEART CATHETERIZATION (SURG) - Did you complete your lab work?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you spoken to your Insurance?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you recieved Auth?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Post op Appointment",
+                        "LEFT HEART CATHETERIZATION (SURG) - heheheh",
+                        "LEFT HEART CATHETERIZATION (SURG) - Did you complete your lab work?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you spoken to your Insurance?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you recieved Auth?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Post op Appointment",
+                        "LEFT HEART CATHETERIZATION (SURG) - heheheh",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Did you complete your lab work?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you spoken to your Insurance?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you recieved Auth?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Post op Appointment",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - heheheh",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Schedule post-op visit",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Provide patient information",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Collect consent forms",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Obtain medical clearance",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Did you complete your lab work?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you spoken to your Insurance?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you recieved Auth?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Post op Appointment",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - heheheh",
+                        "CRYOTHERAPY (SURG) - Did you complete your lab work?",
+                        "CRYOTHERAPY (SURG) - Have you spoken to your Insurance?",
+                        "CRYOTHERAPY (SURG) - Have you recieved Auth?",
+                        "CRYOTHERAPY (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "CRYOTHERAPY (SURG) - Post op Appointment",
+                        "CRYOTHERAPY (SURG) - heheheh",
+                        "KNEE ARTHROSCOPY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY (SURG) - Obtain medical clearance",
+                        "KNEE ARTHROSCOPY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY (SURG) - Obtain medical clearance",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Obtain medical clearance"
+                    ]
+                },
+                "TIETOORDERCLASS": null,
+                "SHOWUPCOMINGSURGERIES": 1,
+                "TIETOORDERID": null,
+                "SHOWTIETOSURGERY": 1
+            },
+            "requisition_authorization_data": {
+                "sender_service_url": "https:\/\/auth-sender.preview.api.athena.io\/collector-authsender-api_preview\/api\/"
+            },
+            "OTHERVACCINATIONRECORDS": [],
+            "SHOWDEPARTMENTSELECT": 0,
+            "shared_labeling_details": {
+                "LABELINGOPTOUT": 0,
+                "PROVIDERUSER": 0,
+                "SUGGESTION": null
+            },
+            "document_text_data": {
+                "editable": 0,
+                "document_text": null,
+                "show_at_top": 0
+            },
+            "SHOWLABELINGWIDGET": 0,
+            "RECORDTABLEDATA": [],
+            "available_actions_info": {
+                "ACTIONGROUPS": [
+                    {
+                        "ACTIONGROUP": "Delete",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Delete",
+                                "NEXTSTATUS": "DELETED",
+                                "ORDERING": "4140",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Delete - Duplicate",
+                                "ID": "3140",
+                                "NAME": "Duplicate",
+                                "ONBEFOREFILTERRULE": null,
+                                "PERMISSIONFLAG": null
+                            },
+                            {
+                                "ACTIONGROUP": "Delete",
+                                "NEXTSTATUS": "DELETED",
+                                "ORDERING": "4150",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Delete - Other",
+                                "ID": "3150",
+                                "NAME": "Other",
+                                "ONBEFOREFILTERRULE": null,
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "ACTIONGROUP": "Reopen",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Reopen",
+                                "NEXTSTATUS": null,
+                                "ORDERING": "4700",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Reopen - Send to previous status\/assigned",
+                                "ID": "3700",
+                                "NAME": "Send to previous status\/assigned",
+                                "ONBEFOREFILTERRULE": "NOTEPCSINSUBMIT,NOTREFUSEDVACCINE,EPRIORORDERNOTDELETED,EPRIORORDERCANREOPEN,NOTCANCELLED",
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "UNIQUEACTIONGROUP": "ReassignAction",
+                        "ACTIONGROUP": "Leave in CLOSED",
+                        "ACTIONS": [
+                            {
+                                "REASSIGNOPTIONS": {}
+                            }
+                        ]
+                    }
+                ],
+                "SHOWDOCUMENTACTIONS": "1",
+                "ACTIONNOTES": {
+                    "3005": "Unable to identify patient within the practice. The patient is either not found with available information, has multiple records, or is not listed in this medical group. Please confirm that patient has been added to system and update in correct medical group as necessary. Please enter patient name or ID, and return to Athena using the Data Corrected - Reprocess Document option. Thank you.",
+                    "3006": "Unable to classify the document label. Please use Action Notes to identify correct classification, and return to Athena. Thank you.",
+                    "3000": "Unable to read the image. Please re-fax, or contact originating sender. Thank you.",
+                    "3001": "Unable to identify the drug\/dosage combination within our database.  Please choose an appropriate medication via the \"Drug Name\" field.  Thank you.",
+                    "3051": "Barcode failed to split practice-added documents.  Please split and data-enter.  Thank you.",
+                    "3004": "Provider not found within practice. Thank you."
+                }
+            },
+            "SHOWPROVIDERINPUT": "",
+            "SHOWMESSAGELINK": null,
+            "PATIENTDESCRIPTION": "TEST APPOINTMENT, RAM\ndob: 01\/18\/1994, 1ST LINE,\nFLORAL PARK, NY, 11001. #4406\n",
+            "scan_page_details": {
+                "is_from_scanner": 0,
+                "show_images_container": 1,
+                "SHOWSCANPAGES": 1,
+                "show_original_file_link": 1,
+                "original_image_url": "documentimage_uploads\/52616e646f6d495654adfa34f867a3562e3fe39ef785af3027d0af36fdc5979d.pdf",
+                "permissions": {
+                    "print": 1,
+                    "edit": 1
+                },
+                "image_dimension": null,
+                "images_context": [
+                    {
+                        "annotate_context": {
+                            "TEXT": "annotate",
+                            "PRELINKDESCRIPTION": null,
+                            "URL": "clinicals\/annotation.esp?DOCUMENTID=141103&SCANPAGEID=9104",
+                            "STAYONPAGE": null,
+                            "LIGHTBOXTITLE": null
+                        },
+                        "image_html": "\n\t\t\t<img\n\t\t\t\tclass=\"scanpage\"\n\t\t\t\tstyle=\" width: 778px; height: 1007px;\"\n\t\t\t\tid=\"page1\"\n\t\t\t\tloading=\"lazy\"\n\t\t\t\tsrc=\"\/195903\/5\/clinicals\/scanpage.png?SCANPAGEID=9104&SIZE=1&VERSION=adr\"\n\t\t\t>\n\t\t",
+                        "scan_pages": [
+                            "9104"
+                        ],
+                        "initial_image_rotation": null,
+                        "scan_page_id": "9104"
+                    }
+                ]
+            },
+            "ISADMIN": 1,
+            "portal_indicator_html": "",
+            "SHOWRTOLINK": "",
+            "RECORDTABLECOLUMNS": [],
+            "show_ai_bolt_message": 0,
+            "requisition_link_data": {},
+            "document_save_types": [
+                {
+                    "BUTTONKEY": "SAVE"
+                },
+                {
+                    "BUTTONKEY": "SAVEANDNEXT"
+                }
+            ],
+            "document_labeling_details": null,
+            "hide_reassign_options": "1",
+            "CHARTSHARINGGROUPID": "42",
+            "DEPARTMENTNAME": "7 Hills Department",
+            "PROVIDERINPUT": null,
+            "INTERFACEPROVIDERNAME": "",
+            "digests": {
+                "FULL": "N3CCNNkfiCQUu8CGoq+rUA",
+                "STRICT": "SqSTqdwACzonmiB881CO1g"
+            },
+            "PROVIDERGROUPID": "1"
+        },
+        "document": {
+            "SubClass": "MEDICALRECORD_HISTORICAL",
+            "ChartDisplayDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2020-02-11T09:46:17-05:00"
+            },
+            "VersionToken": "14257197",
+            "DisplayName": "medical record document - historical medical record",
+            "DepartmentID": "150",
+            "Priority": "2",
+            "SourceName": "interface",
+            "PatientDOB": "12\/28\/1983",
+            "Status": "CLOSED",
+            "Class": "MEDICALRECORD",
+            "LastModifiedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2024-01-08T23:52:30-05:00"
+            },
+            "ParentOrderDocumentID": "141103",
+            "ClassDescription": "medical record document - historical medical record",
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2020-02-11T09:46:17-05:00"
+            },
+            "PayloadType": "DOCUMENT",
+            "Description": "medical record document - historical medical record",
+            "ID": "141103",
+            "Source": "INTERFACE",
+            "PatientID": "4406",
+            "__CLASS__": "Athena::InternalDocument::Entity::Document::Admin",
+            "LastModifiedUser": "API-27306",
+            "ChartID": "32988",
+            "Route": "FAX",
+            "CreatedUser": "API-299"
+        }
+    }
+}

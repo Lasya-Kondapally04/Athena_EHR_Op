@@ -1,0 +1,671 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=classic_document&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&documentId=132016&documentClass=CORRECTIVELENS",
+    "classic_document": {
+        "details": {
+            "actions": [
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Create",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "<i>asonnenfeldt<\/i>",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "132016",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Corrective Lens Order",
+                    "LASTMODIFIEDBY": null,
+                    "ASSIGNEDTOORG": "ATHENA",
+                    "CREATED": "10\/30\/2017",
+                    "CREATEDTIMESTAMP": "10\/30\/17 02:39pm",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "asonnenfeldt",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "NEW",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Create",
+                    "CLEAREDBY": null,
+                    "NOTE": "",
+                    "CREATEDSECONDS": "531067162",
+                    "forcelast": 0,
+                    "CREATEDBYORG": "ATHENA",
+                    "ACTION": null,
+                    "systemuser": 0,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "<i>mblake1<\/i>",
+                    "DOCUMENTACTIONREASONID": "1",
+                    "STATUS": "REVIEW",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": null,
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": null,
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "240408",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "CORRECTIVELENS",
+                    "COORDINATORSOURCE": null
+                },
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Approve",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "<i>asonnenfeldt<\/i>",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "132016",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Corrective Lens Order",
+                    "LASTMODIFIEDBY": null,
+                    "ASSIGNEDTOORG": null,
+                    "CREATED": "10\/30\/2017",
+                    "CREATEDTIMESTAMP": "10\/30\/17 02:40pm",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "asonnenfeldt",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "APPROVE_CORRECTIVELENS",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Approve",
+                    "CLEAREDBY": null,
+                    "NOTE": "scrambled notes",
+                    "CREATEDSECONDS": "531067215",
+                    "forcelast": 0,
+                    "CREATEDBYORG": "ATHENA",
+                    "ACTION": null,
+                    "systemuser": 0,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "7 HILLS DEPARTMENT STAFF",
+                    "DOCUMENTACTIONREASONID": "2501",
+                    "STATUS": "SUBMIT",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": null,
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": null,
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "240409",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "CORRECTIVELENS",
+                    "COORDINATORSOURCE": null
+                }
+            ],
+            "COSIGTIMESTAMP": null,
+            "disable_reassign_picker": null,
+            "show_document_actions": "",
+            "SHOWICD9": "",
+            "APPROVEDDENIEDLABEL": "Approved\/Denied",
+            "tie_to_surgery_data": {
+                "TIETOSURGERYOPTIONS": {
+                    "VALUES": [
+                        "",
+                        "221",
+                        "222",
+                        "223",
+                        "224",
+                        "344",
+                        "361",
+                        "225",
+                        "226",
+                        "227",
+                        "228",
+                        "345",
+                        "362",
+                        "241",
+                        "242",
+                        "243",
+                        "244",
+                        "346",
+                        "363",
+                        "281",
+                        "282",
+                        "283",
+                        "284",
+                        "285",
+                        "286",
+                        "287",
+                        "288",
+                        "347",
+                        "364",
+                        "541",
+                        "542",
+                        "543",
+                        "544",
+                        "545",
+                        "546",
+                        "561",
+                        "562",
+                        "563",
+                        "564",
+                        "565",
+                        "566",
+                        "567",
+                        "568",
+                        "569",
+                        "570",
+                        "571",
+                        "572"
+                    ],
+                    "NAMES": [
+                        "",
+                        "LEFT HEART CATHETERIZATION (SURG) - Did you complete your lab work?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you spoken to your Insurance?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you recieved Auth?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Post op Appointment",
+                        "LEFT HEART CATHETERIZATION (SURG) - heheheh",
+                        "LEFT HEART CATHETERIZATION (SURG) - Did you complete your lab work?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you spoken to your Insurance?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you recieved Auth?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Post op Appointment",
+                        "LEFT HEART CATHETERIZATION (SURG) - heheheh",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Did you complete your lab work?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you spoken to your Insurance?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you recieved Auth?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Post op Appointment",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - heheheh",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Schedule post-op visit",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Provide patient information",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Collect consent forms",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Obtain medical clearance",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Did you complete your lab work?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you spoken to your Insurance?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you recieved Auth?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Post op Appointment",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - heheheh",
+                        "CRYOTHERAPY (SURG) - Did you complete your lab work?",
+                        "CRYOTHERAPY (SURG) - Have you spoken to your Insurance?",
+                        "CRYOTHERAPY (SURG) - Have you recieved Auth?",
+                        "CRYOTHERAPY (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "CRYOTHERAPY (SURG) - Post op Appointment",
+                        "CRYOTHERAPY (SURG) - heheheh",
+                        "KNEE ARTHROSCOPY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY (SURG) - Obtain medical clearance",
+                        "KNEE ARTHROSCOPY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY (SURG) - Obtain medical clearance",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Obtain medical clearance"
+                    ]
+                },
+                "TIETOORDERCLASS": null,
+                "SHOWUPCOMINGSURGERIES": 1,
+                "TIETOORDERID": null,
+                "SHOWTIETOSURGERY": 1
+            },
+            "VIEWALLLINK": {
+                "LINKPAGE": "multipledocumentview.esp?CHARTID=32988&CLINICALORDERTYPEGROUPNAME=GLASSES&DOCUMENTCLASS=CORRECTIVELENS&DOCUMENTSUBCLASS=&GROUPASSIGNEDTO=7%20HILLS%20DEPARTMENT%20STAFF&NOHEADER=&PATIENTID=4406&STATUS=SUBMIT&STREAMLINEDVIEW=1",
+                "LINKURL": "\/clinicals\/multipledocumentview.esp?CHARTID=32988&CLINICALORDERTYPEGROUPNAME=GLASSES&DOCUMENTCLASS=CORRECTIVELENS&DOCUMENTSUBCLASS=&GROUPASSIGNEDTO=7%20HILLS%20DEPARTMENT%20STAFF&NOHEADER=&PATIENTID=4406&STATUS=SUBMIT&STREAMLINEDVIEW=1",
+                "LINKTEXT": "View ALL Orders in SUBMIT assigned to 7 HILLS DEPARTMENT STAFF"
+            },
+            "SHOWAPPROVEDDENIED": 1,
+            "requisition_authorization_data": {
+                "sender_service_url": "https:\/\/auth-sender.preview.api.athena.io\/collector-authsender-api_preview\/api\/"
+            },
+            "COSIGUSERNAME": null,
+            "SOURCELINKS": [
+                {
+                    "CHARTID": "32988",
+                    "CLINICALENCOUNTERID": "37949",
+                    "ISORDERGROUP": 1,
+                    "ISAPPOINTMENT": "",
+                    "STAGE": null,
+                    "ISAPPOINTMENTTICKLER": null,
+                    "STATUS": "",
+                    "LABEL": "From Order Group",
+                    "LINKTEXT": "CHIP ACH, 10\/30\/2017"
+                }
+            ],
+            "shared_labeling_details": {
+                "LABELINGOPTOUT": 0,
+                "PROVIDERUSER": 0,
+                "SUGGESTION": null
+            },
+            "EXTERNALLOCKDOCUMENT": 1,
+            "document_text_data": {
+                "editable": 0,
+                "document_text": null,
+                "show_at_top": 0
+            },
+            "available_actions_info": {
+                "ACTIONGROUPS": [
+                    {
+                        "ACTIONGROUP": "Submission Completed",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Submission Completed",
+                                "NEXTSTATUS": "CLOSED",
+                                "ORDERING": "4451",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Submission Completed - By Paper Print-out",
+                                "ID": "3451",
+                                "NAME": "By Paper Print-out",
+                                "ONBEFOREFILTERRULE": "NOTEPRIORAUTH",
+                                "PERMISSIONFLAG": null
+                            },
+                            {
+                                "ACTIONGROUP": "Submission Completed",
+                                "NEXTSTATUS": "CLOSED",
+                                "ORDERING": "4460",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Submission Completed - By Manual Fax",
+                                "ID": "3460",
+                                "NAME": "By Manual Fax",
+                                "ONBEFOREFILTERRULE": "NOTEPRIORAUTH",
+                                "PERMISSIONFLAG": null
+                            },
+                            {
+                                "ACTIONGROUP": "Submission Completed",
+                                "NEXTSTATUS": "CLOSED",
+                                "ORDERING": "4470",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Submission Completed - By Phone",
+                                "ID": "3470",
+                                "NAME": "By Phone",
+                                "ONBEFOREFILTERRULE": "NOTEPRIORAUTH",
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "ACTIONGROUP": "Failed Submission Attempt",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Failed Submission Attempt",
+                                "NEXTSTATUS": "SUBMIT",
+                                "ORDERING": "4480",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Failed Submission Attempt - Incorrect contact phone number",
+                                "ID": "3480",
+                                "NAME": "Incorrect contact phone number",
+                                "ONBEFOREFILTERRULE": "NOTEPRIORAUTH",
+                                "PERMISSIONFLAG": null
+                            },
+                            {
+                                "ACTIONGROUP": "Failed Submission Attempt",
+                                "NEXTSTATUS": "SUBMIT",
+                                "ORDERING": "4490",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Failed Submission Attempt - Other",
+                                "ID": "3490",
+                                "NAME": "Other",
+                                "ONBEFOREFILTERRULE": "NOTEPRIORAUTH",
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "ACTIONGROUP": "Submit by Athena Fax",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Submit by Athena Fax",
+                                "NEXTSTATUS": null,
+                                "ORDERING": "4552",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Submit by Athena Fax",
+                                "ID": "3552",
+                                "NAME": null,
+                                "ONBEFOREFILTERRULE": "NOSTATERESTRICTION,NOTEPRIORAUTH",
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "ACTIONGROUP": "Error Identified",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Error Identified",
+                                "NEXTSTATUS": "REVIEW",
+                                "ORDERING": "4549",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Error Identified - Send back to REVIEW",
+                                "ID": "3549",
+                                "NAME": "Send back to REVIEW",
+                                "ONBEFOREFILTERRULE": "ISRXDENIAL,NOTEPCSINSUBMIT",
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "UNIQUEACTIONGROUP": "ReassignAction",
+                        "ACTIONGROUP": "Leave in SUBMIT",
+                        "ACTIONS": [
+                            {
+                                "REASSIGNOPTIONS": {}
+                            }
+                        ]
+                    }
+                ],
+                "SHOWDOCUMENTACTIONS": "1",
+                "ACTIONNOTES": {
+                    "3005": "Unable to identify patient within the practice. The patient is either not found with available information, has multiple records, or is not listed in this medical group. Please confirm that patient has been added to system and update in correct medical group as necessary. Please enter patient name or ID, and return to Athena using the Data Corrected - Reprocess Document option. Thank you.",
+                    "3006": "Unable to classify the document label. Please use Action Notes to identify correct classification, and return to Athena. Thank you.",
+                    "3000": "Unable to read the image. Please re-fax, or contact originating sender. Thank you.",
+                    "3001": "Unable to identify the drug\/dosage combination within our database.  Please choose an appropriate medication via the \"Drug Name\" field.  Thank you.",
+                    "3051": "Barcode failed to split practice-added documents.  Please split and data-enter.  Thank you.",
+                    "3004": "Provider not found within practice. Thank you."
+                }
+            },
+            "ENCOUNTERDIAGNOSISDATA": {
+                "95677002": {
+                    "ICD10S": [
+                        {
+                            "DESCRIPTION": "Unspecified visual disturbance",
+                            "DIAGNOSISCODE": "H539",
+                            "ICDCODEALLID": "9227",
+                            "UNSTRIPPEDDIAGNOSISCODE": "H53.9"
+                        }
+                    ],
+                    "OTHERORDERCOUNT": "4"
+                }
+            },
+            "APPROVEDDENIEDUSER": "Alden Sonnenfeldt",
+            "scan_page_details": null,
+            "VALIDATIONACTIONS": {
+                "DELETEACTIONS": [
+                    "23",
+                    "3125",
+                    "9010",
+                    "3120",
+                    "3150",
+                    "3140",
+                    "3503",
+                    "5680",
+                    "3132",
+                    "3133"
+                ],
+                "FAXACTIONS": [
+                    "3552",
+                    "3383"
+                ],
+                "SUBMITWITHSPECIMENACTIONS": [
+                    "3253"
+                ],
+                "APPROVEACTIONS": [
+                    "3379",
+                    "3391",
+                    "5820",
+                    "3395",
+                    "3396",
+                    "3400",
+                    "3401",
+                    "3402",
+                    "3424",
+                    "2284",
+                    "3246",
+                    "3295",
+                    "3297",
+                    "3300",
+                    "3302",
+                    "3308",
+                    "3250",
+                    "3251",
+                    "3252",
+                    "2500",
+                    "2501",
+                    "2300",
+                    "2301",
+                    "2302",
+                    "3421",
+                    "3422",
+                    "5000",
+                    "5010"
+                ],
+                "INTERFACEACTIONS": [
+                    "3258"
+                ],
+                "DIRECTACTIONS": [
+                    "5809"
+                ],
+                "ISRISKYTOREOPEN": null,
+                "SUBMITACTIONS": [
+                    "3510",
+                    "3520",
+                    "3500"
+                ],
+                "SCHEDULEACTIONS": [
+                    "2410"
+                ],
+                "REOPENACTIONS": [
+                    "3394",
+                    "3050",
+                    "3052",
+                    "3060",
+                    "3070",
+                    "3080",
+                    "2420",
+                    "2710",
+                    "2711",
+                    "2910",
+                    "3044",
+                    "9998",
+                    "6029",
+                    "9311",
+                    "9501",
+                    "3700",
+                    "3702",
+                    "3705",
+                    "3706",
+                    "3710",
+                    "3548",
+                    "3549",
+                    "3550",
+                    "3551",
+                    "3558",
+                    "3467",
+                    "3486",
+                    "8020",
+                    "6120",
+                    "6121",
+                    "5100",
+                    "5110"
+                ],
+                "REOPENFROMCANCELLEDACTIONS": [
+                    "3704"
+                ]
+            },
+            "portal_indicator_html": "",
+            "SHOWRTOLINK": "1",
+            "APPROVEDDENIEDACTIONLABEL": "Approved",
+            "requisition_link_data": {},
+            "document_save_types": [
+                {
+                    "BUTTONKEY": "SAVE"
+                },
+                {
+                    "BUTTONKEY": "SAVEANDNEXT"
+                },
+                {
+                    "BUTTONKEY": "SAVEANDADDORDERS"
+                }
+            ],
+            "document_labeling_details": null,
+            "ORDERTEXTLABEL": "Note to Patient",
+            "hide_reassign_options": "",
+            "ORDERINGPROVIDER": "asonnenfeldt",
+            "DEPARTMENTNAME": "7 Hills Department",
+            "NEEDSVERIFICATIONMAP": {
+                "95677002": 0
+            },
+            "PROVIDERINPUT": "<select DEPARTMENTID='150' class='document-provider' disabled='0 but true' documentworkflowformat='1' id='PROVIDERUSERNAME' name='PROVIDERUSERNAME' originalusername='mblake1' type='SELECT'><option value='abricker2'>ADAM NADDELMAN, MD<\/option><option value='ahoward1'>AMANDA HOWARD<\/option><option value='anelson213'>ANDREA K NELSON<\/option><option value='otest12'>CALVIN KOO, MD<\/option><option value='cfortin6'>CAROL FORTIN<\/option><option value='cbulkley'>CHRIS BULKLEY<\/option><option value='dpato'>DAN PATO, MD<\/option><option value='ablum'>DATABASE TEST, MD<\/option><option value='testuser280'>DOCTOR TESTER, MD PHD<\/option><option value='ksopata'>DOOGIE HOWSER<\/option><option value='epatient'>EPOCPATIENT<\/option><option value='ataikowski'>ERIK PEKKALA, MD<\/option><option value='ascott23'>FRAN COOK-BOLDEN, MD<\/option><option value='fcrane'>FRASIER CRANE, MD<\/option><option value='dfenick'>GREGORY HOUSE<\/option><option value='ssimpson7'>ISOBEL STEVENS<\/option><option value='dharvey3'>JOHN CARTER<\/option><option value='mbrundage'>JONAS SALK, MD<\/option><option value='kknight53'>KKNIGHT<\/option><option value='ldodge1'>LAURA DODGE<\/option><option value='lsmith87'>LUCILLE SMITH, MD<\/option><option value='mtest37'>MACC TEST, MD<\/option><option value='tmemberbilling'>MEMBERBILLING TEST 1<\/option><option value='tmemberbilling1'>MEMBERBILLING TEST 2<\/option><option value='mgrey7'>MEREDITH GREY, M.D.<\/option><option value='lcohen8'>ORIN SCRIVELLO<\/option><option value='cach'>PIERCE HAWKEYE, MD<\/option><option value='p-rktest'>ROHIT<\/option><option value='sheart'>STEPHEN HEART, MD<\/option><option value='tcds'>TCDS<\/option><option value='tdow3'>TEST DOW, NP<\/option><option value='ktest8'>TEST_K<\/option><option value='ntest25'>TEST_NSA<\/option><option value='lwebb3'>WEBB LIBBY, MD<\/option><option selected='selected' value='mblake1'>CHIP ACH - (deleted)<\/option><\/select>",
+            "digests": {
+                "FULL": "MwiCBigtX\/nDw57XUiaV0g",
+                "STRICT": "7X66oEFBs2zV9hWN1h3A\/A"
+            },
+            "APPROVEDDENIEDTIMESTAMP": "10\/30\/17"
+        },
+        "document": {
+            "ChartDisplayDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2017-10-30T14:39:21-04:00"
+            },
+            "GlassesTypeID": "5",
+            "VersionToken": "DOCUMENT:32523469;LEFTREFRACTION:1;ORDCORRECTIVELENS:1;RIGHTREFRACTION:2",
+            "DiagnosisList": [
+                {
+                    "SequenceNumber": "0",
+                    "DocumentID": "132016",
+                    "SnomedICDCodes": [
+                        {
+                            "UnstrippedDiagnosisCode": "H53.9",
+                            "VersionToken": -1,
+                            "Code": "H539",
+                            "__CLASS__": "Athena::Entity::Code::ICD10",
+                            "Description": "Unspecified visual disturbance",
+                            "CodeSet": "ICD10",
+                            "ICDCodeAllID": "9227"
+                        }
+                    ],
+                    "VersionToken": -1,
+                    "IMODiagnosisList": [],
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Diagnosis",
+                    "DiagnosisCode": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Disorder of vision",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "95677002"
+                    },
+                    "ID": "17487"
+                }
+            ],
+            "UIOrigin": "ax_diagnosis_search",
+            "DisplayName": "glasses",
+            "ClinicalOrderType": {
+                "SnomedCodes": [],
+                "__CLASS__": "Athena::Entity::Clinical::OrderType",
+                "Name": "glasses",
+                "ID": "389853",
+                "IsDiscontinued": false,
+                "VersionToken": -1,
+                "ClinicalOrderTypeGroup": {
+                    "IsOutpatient": true,
+                    "Ordering": "11",
+                    "VersionToken": -1,
+                    "DocumentClass": "CORRECTIVELENS",
+                    "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+                    "Description": "Glasses",
+                    "Name": "GLASSES",
+                    "ID": "160",
+                    "IsInpatient": false
+                }
+            },
+            "NoteToClinicalProvider": "Wants some of those cool computer screen reading glasses Gillian and Rich have",
+            "RightRefraction": {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2017-10-30T14:39:21-04:00"
+                },
+                "VersionToken": "2",
+                "__CLASS__": "Athena::Order::Entity::OrderRequest::CorrectiveLens::Refraction",
+                "LastModifiedUser": "asonnenfeldt",
+                "ID": "2",
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2017-10-30T14:40:15-04:00"
+                },
+                "CreatedUser": "asonnenfeldt"
+            },
+            "DepartmentID": "150",
+            "ExpirationDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2018-04-30"
+            },
+            "Priority": "2",
+            "AutoPublishExclusion": {
+                "__CLASS__": "Athena::Order::Entity::OrderRequest::AutoPublishingExclusion",
+                "VersionToken": -1
+            },
+            "Status": "SUBMIT",
+            "Class": "CORRECTIVELENS",
+            "LocalClinicalLabTemplateID": null,
+            "LastModifiedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2020-08-29T05:31:15-04:00"
+            },
+            "ClassDescription": "corrective lens order",
+            "FHIRIDs": [],
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2017-10-30T14:39:21-04:00"
+            },
+            "PayloadType": "ORDER",
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2017-10-30"
+            },
+            "Description": "glasses",
+            "NeedsProviderDelegateAck": null,
+            "OrdCorrectiveLensID": "1",
+            "IsForeignCompendiumOrder": false,
+            "Notifier": "ATHENA",
+            "Source": "ENCOUNTER",
+            "CreatedTimeStamp": "10\/30\/2017 02:39 PM",
+            "DeniedDate": {
+                "__CLASS__": "DateTime",
+                "Date": null
+            },
+            "DeniedUser": null,
+            "EncounterID": "37949",
+            "__CLASS__": "Athena::Order::Entity::OrderRequest::CorrectiveLens",
+            "ProviderBilledName": "CHIP ACH",
+            "LeftRefraction": {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2017-10-30T14:39:21-04:00"
+                },
+                "VersionToken": "1",
+                "__CLASS__": "Athena::Order::Entity::OrderRequest::CorrectiveLens::Refraction",
+                "LastModifiedUser": "asonnenfeldt",
+                "ID": "1",
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2017-10-30T14:40:15-04:00"
+                },
+                "CreatedUser": "asonnenfeldt"
+            },
+            "PAMAScore": {
+                "__CLASS__": "Athena::Order::Entity::PAMAScore",
+                "VersionToken": -1
+            },
+            "ExternalCodes": [],
+            "OrderDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2017-10-30T14:39:21-04:00"
+            },
+            "AssignedTo": "7 HILLS DEPARTMENT STAFF",
+            "ApprovedUser": "asonnenfeldt",
+            "SpecialtyID": "020",
+            "ParentOrderDocumentID": "132016",
+            "ApprovedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2017-10-30T14:40:14-04:00"
+            },
+            "DocumentClassDescription": "corrective lens order",
+            "AlarmDays": "7",
+            "DocumentationOnly": false,
+            "ProviderUsername": "mblake1",
+            "ID": "132016",
+            "PatientID": "4406",
+            "Questions": [],
+            "ClinicalProvider": null,
+            "LastModifiedUser": "ATHENA",
+            "ChartID": "32988",
+            "Route": "FAX",
+            "CreatedEncounterID": "37949",
+            "OrderingMode": "PRESCRIBE",
+            "CreatedUser": "asonnenfeldt"
+        }
+    }
+}

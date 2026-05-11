@@ -1,0 +1,5026 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=vaccine_addendum&sources=vaccines_entity&sources=vaccine_groups&sources=vaccine_manufacturers&sources=current_encounter_layout&sources=current_user_provider&sources=historical_clinical_encounter_hashes&sources=historical_orders&sources=clinical_paper_forms&sources=blank_paper_forms&sources=patient_cases&sources=department_info&sources=procedure&sources=procedure_default_list&sources=provider_id&request_priority=5&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&chart_id=32988&department_id=150&patient_id=4406&provider_id=27&specialty_id=001",
+    "procedure_default_list": [
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Abdominal Surgery",
+            "ID": -4
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "AICD",
+            "ID": -41
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Angioplasty",
+            "ID": -51
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Appendectomy",
+            "ID": -5
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Arthroscopy",
+            "ID": -6
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Back Surgery",
+            "ID": -52
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Bladder Surgery",
+            "ID": -7
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Brain Surgery",
+            "ID": -16
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Breast Surgery",
+            "ID": -53
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "CABG",
+            "ID": -15
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Caesarean Section",
+            "ID": -54
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Cardiac Catheterization",
+            "ID": -42
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Cardiac Surgery",
+            "ID": -60
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Cardioversion",
+            "ID": -43
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Carpal Tunnel Surgery",
+            "ID": -17
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Cataract Surgery",
+            "ID": -26
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Cholecystectomy",
+            "ID": -55
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Colonoscopy",
+            "ID": -56
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Coronary Artery Stent",
+            "ID": -59
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Ear Surgery",
+            "ID": -11
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Esophagoduodenoscopy",
+            "ID": -27
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Eye Surgery",
+            "ID": -57
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Gastrointestinal Surgery",
+            "ID": -44
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Genitourinary Surgery",
+            "ID": -45
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Heart Valve Surgery",
+            "ID": -25
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "HEENT Surgery",
+            "ID": -46
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Hernia Repair",
+            "ID": -24
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Hernia Surgery",
+            "ID": -12
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Hysterectomy",
+            "ID": -58
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Kissed the Bubu",
+            "ID": -121
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Knee Replacement",
+            "ID": -18
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Lip surgery",
+            "ID": -141
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Lung Surgery",
+            "ID": -13
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Masectomy",
+            "ID": -9
+        },
+        {
+            "SPECIALTYIDS": [
+                "001",
+                "008",
+                "016",
+                "612"
+            ],
+            "Name": "Myomectomy",
+            "ID": -162
+        },
+        {
+            "SPECIALTYIDS": [
+                "004"
+            ],
+            "Name": "Myringotomy Tube Placement",
+            "ID": -182
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Oophorectomy",
+            "ID": -19
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Orthopedic Surgery",
+            "ID": -47
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Other",
+            "ID": -14
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Pacemaker",
+            "ID": -48
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Prostate Surgery",
+            "ID": -22
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Rabies",
+            "ID": -181
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Sinus Surgery",
+            "ID": -8
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Stent",
+            "ID": -49
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Stent Placement",
+            "ID": -101
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "tentacle reattachment",
+            "ID": -81
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Thyroid Surgery",
+            "ID": -21
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Tonsil removal",
+            "ID": -1
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "tonsilectomy\/adenoids",
+            "ID": -161
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Tonsillectomy\/Adenoidectomy",
+            "ID": -61
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Tubal Ligation",
+            "ID": -20
+        },
+        {
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "Name": "Vascular Surgery",
+            "ID": -50
+        },
+        {
+            "SPECIALTYIDS": null,
+            "Name": "Vasectomy",
+            "ID": -10
+        }
+    ],
+    "procedure": {
+        "Note": "This is for problem testing note 12345",
+        "NoteVersionToken": "13019",
+        "NoteLastModifiedDate": {
+            "__CLASS__": "DateTime",
+            "Date": "2023-04-19T09:06:29-04:00"
+        },
+        "VersionToken": -1,
+        "MUCMeta": {
+            "ContainerToken": "477f975a1b98b61bc1b3986c08825f75",
+            "__CLASS__": "Athena::Entity::MUCMeta",
+            "VersionToken": -1,
+            "ContainerArgs": {
+                "CHARTID": "32988"
+            }
+        },
+        "NoteLastModifiedUser": "API-27306",
+        "Procedures": [
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-04-27T04:19:53-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:106090",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "DRUG SCREENING PROPOXYPHENE",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "80367"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Drug screening propoxyphene",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "8691",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LastModifiedUser": "API-28571",
+                "LocalCPTCodes": [],
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-04-27T04:20:19-04:00"
+                },
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-04-20"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-12-04T06:37:16-05:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "REVISE HAND\/FOOT NERVE",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "64704"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Revise hand\/foot nerve",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7984",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-31"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-12-04T06:34:52-05:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "REVISE HAND\/FOOT NERVE",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "64704"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Revise hand\/foot nerve",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7983",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-31"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-12-04T06:33:52-05:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "REVISE HAND\/FOOT NERVE",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "64704"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Revise hand\/foot nerve",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7982",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-31"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14T11:13:29-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "WEDGE BIOPSY OF LIVER",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "47100"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Wedge biopsy of liver",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7686",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-15T14:19:32-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "UNLISTED PX LUNGS & PLEURA",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "32999"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Unlisted px lungs & pleura",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7700",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "hi",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-17"
+                }
+            },
+            {
+                "StatusCode": "completed",
+                "MoodCode": "EVN",
+                "LocalSNOMEDCodes": [],
+                "VersionToken": "PATIENTSURGICALHISTORY:90071",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "Name": "Unlisted px lungs & pleura",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "SupportsLaterality": 0,
+                "CPTs": [],
+                "COTOrderCodes": [],
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-15T14:20:06-04:00"
+                },
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14T14:16:14-04:00"
+                },
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "UNLISTED PX LUNGS & PLEURA",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "32999"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "ID": "7697",
+                "Source": "backfill",
+                "Note": "hi",
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LastModifiedUser": "API-28571",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-17"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14T14:09:16-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "UNLISTED PX LUNGS & PLEURA",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "32999"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Unlisted px lungs & pleura",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7696",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "hi",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-17"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14T14:07:43-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "UNLISTED PX LUNGS & PLEURA",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "32999"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Unlisted px lungs & pleura",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7695",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "hi",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-17"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14T13:35:00-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "TRANSPLANTATION OF HEART",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "33945"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Transplantation of heart",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7688",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-17"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14T13:39:10-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "REVISE WINDPIPE SCAR",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "31830"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Revise windpipe scar",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7690",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-16"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14T14:02:47-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "TRANSPLANTATION OF HEART",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "33945"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Transplantation of heart",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7694",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-15"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14T13:37:02-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "UNLISTED PX LUNGS & PLEURA",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "32999"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Unlisted px lungs & pleura",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7689",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-15"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14T10:37:31-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "WEDGE BIOPSY OF LIVER",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "47100"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Wedge biopsy of liver",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7682",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "create a entry",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-15"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14T13:58:20-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "TRANSPLANTATION OF HEART",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "33945"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Transplantation of heart",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7693",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14T13:53:18-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "TRANSPLANTATION OF HEART",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "33945"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Transplantation of heart",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7692",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14T13:51:06-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "TRANSPLANTATION OF HEART",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "33945"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Transplantation of heart",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7691",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14T11:14:19-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "WEDGE BIOPSY OF LIVER",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "47100"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Wedge biopsy of liver",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7687",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14T10:39:48-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7684",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14T10:39:25-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7683",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-13T01:07:01-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7681",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "mm",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-03"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-12-01T03:17:50-05:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7974",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Text updated Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-11-28T03:39:07-05:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7973",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Text updated Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-11-27T09:49:42-05:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7972",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Text updated Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-11-27T09:27:05-05:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7971",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Text updated Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-11-27T08:54:20-05:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7970",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Text updated Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-11-27T08:10:41-05:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7969",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Text updated Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-28T06:22:15-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7852",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-28T06:21:47-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7851",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-28T05:30:40-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7847",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-28T03:43:46-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7838",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-28T03:43:30-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7837",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-23T07:52:55-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7765",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-23T07:50:32-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7764",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-23T07:50:06-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7763",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-23T07:48:59-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7762",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-23T07:46:50-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7761",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-23T07:40:56-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7760",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-23T07:15:28-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7759",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-23T07:15:16-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7758",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-23T07:15:04-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7757",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-23T05:33:01-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7755",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-23T04:45:44-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7749",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-23T04:45:22-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7748",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-21T07:53:48-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7720",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-01T05:36:17-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7650",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "StatusCode": "completed",
+                "MoodCode": "EVN",
+                "LocalSNOMEDCodes": [],
+                "VersionToken": "PATIENTSURGICALHISTORY:89077",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "Name": "Kidney function study",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "SupportsLaterality": 0,
+                "CPTs": [],
+                "COTOrderCodes": [],
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-01T05:09:40-04:00"
+                },
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-01T04:50:59-04:00"
+                },
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "ID": "7649",
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LastModifiedUser": "API-28571",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "StatusCode": "completed",
+                "MoodCode": "EVN",
+                "LocalSNOMEDCodes": [],
+                "VersionToken": "PATIENTSURGICALHISTORY:89075",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "Name": "Kidney function study",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "SupportsLaterality": 0,
+                "CPTs": [],
+                "COTOrderCodes": [],
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-01T04:48:11-04:00"
+                },
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-01T04:47:13-04:00"
+                },
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "ID": "7648",
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LastModifiedUser": "API-28571",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-25T05:45:27-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7637",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-25T05:30:39-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7636",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-25T05:26:08-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7635",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-25T05:24:27-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7634",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-25T05:23:58-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7633",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-25T05:23:33-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7632",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-25T05:03:52-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7631",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Text updated Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-25T05:02:57-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7630",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-25T05:00:56-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7629",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-25T04:55:38-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7628",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-25T04:49:47-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7627",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-25T04:49:42-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7626",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-25T01:54:39-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7625",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-24T06:36:38-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7609",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-24T06:07:44-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7605",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-24T06:06:14-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7604",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-24T06:05:15-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7603",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-23T10:07:34-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7602",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-23T10:05:27-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7601",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Text updated Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-23T09:45:06-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7600",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Text updated Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "StatusCode": "completed",
+                "MoodCode": "EVN",
+                "LocalSNOMEDCodes": [],
+                "VersionToken": "PATIENTSURGICALHISTORY:88044",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "Name": "Kidney function study",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "SupportsLaterality": 0,
+                "CPTs": [],
+                "COTOrderCodes": [],
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-22T23:49:41-04:00"
+                },
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-22T23:48:38-04:00"
+                },
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "ID": "7597",
+                "Source": "backfill",
+                "Note": "Text updated Surgery for Kidney Transplant for Patient - 4406",
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LastModifiedUser": "API-28571",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-09-04T06:04:35-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7561",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-08-25T08:40:02-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7541",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-08-25T08:39:42-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7540",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-08-24T09:42:34-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7539",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-08-24T09:42:16-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7538",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-08-21T00:53:57-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7531",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-08-21T00:52:34-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7530",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-08-21T00:46:41-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7529",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-08-21T00:44:02-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7528",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-08-21T00:43:21-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7527",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-08-20T10:11:28-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7526",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-08-20T10:07:40-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7525",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "StatusCode": "completed",
+                "MoodCode": "EVN",
+                "LocalSNOMEDCodes": [],
+                "VersionToken": "PATIENTSURGICALHISTORY:83048",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "Name": "Kidney function study",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "SupportsLaterality": 0,
+                "CPTs": [],
+                "COTOrderCodes": [],
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-08-21T00:54:11-04:00"
+                },
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-08-20T08:05:44-04:00"
+                },
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "ID": "7523",
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LastModifiedUser": "API-28571",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-08-20T08:03:56-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7522",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "StatusCode": "completed",
+                "MoodCode": "EVN",
+                "LocalSNOMEDCodes": [],
+                "VersionToken": "PATIENTSURGICALHISTORY:84044",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "Name": "Kidney function study",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "SupportsLaterality": 0,
+                "CPTs": [],
+                "COTOrderCodes": [],
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-08-25T08:42:00-04:00"
+                },
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-06-20T02:09:07-04:00"
+                },
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "ID": "7458",
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LastModifiedUser": "API-28571",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-06-19T13:08:02-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7457",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "StatusCode": "completed",
+                "MoodCode": "EVN",
+                "LocalSNOMEDCodes": [],
+                "VersionToken": "PATIENTSURGICALHISTORY:53044",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "Name": "Kidney function study",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "SupportsLaterality": 0,
+                "CPTs": [],
+                "COTOrderCodes": [],
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-09-15T15:16:33-04:00"
+                },
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-09-15T15:05:29-04:00"
+                },
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "ID": "6416",
+                "Source": "backfill",
+                "Note": "Surgery for Kidney Transplant for Patient - 4406",
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LastModifiedUser": "API-27306",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-09-30T07:31:26-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "6456",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-06-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-09-18T10:39:37-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "6417",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-06-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-08-08T02:01:39-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "6345",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-06-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-17T03:12:06-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "6282",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-06-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-16T11:48:29-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "6281",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-06-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-16T11:48:11-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "6280",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-06-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-16T11:26:03-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "6279",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-06-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-16T11:23:42-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "6278",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-06-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-07-16T08:10:11-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "6277",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-06-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-06-03T02:47:26-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "6176",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-06-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-05-27T14:57:07-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "6166",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-06-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-05-26T14:42:09-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "6162",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-06-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-05-26T14:34:20-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "6161",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-06-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-05-24T03:35:37-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "6160",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-06-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-05-24T03:28:55-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "6159",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-06-25"
+                }
+            },
+            {
+                "StatusCode": "completed",
+                "MoodCode": "EVN",
+                "LocalSNOMEDCodes": [],
+                "VersionToken": "PATIENTSURGICALHISTORY:96077",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "Name": "Revise hand\/foot nerve",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-28571",
+                "SupportsLaterality": 0,
+                "CPTs": [],
+                "COTOrderCodes": [],
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-12-28T10:58:57-05:00"
+                },
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-10-14T10:45:48-04:00"
+                },
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "REVISE HAND\/FOOT NERVE",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "64704"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "ID": "7685",
+                "Source": "backfill",
+                "Note": "Patient tolerated procedure well",
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LastModifiedUser": "API-28571",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-01-15"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2023-03-08T02:33:53-05:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "BONE SRGRY CMPTR FLUOR IMAGE",
+                    "VersionToken": -1,
+                    "Code": "0054T"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Bone srgry cmptr fluor image",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "5294",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "p-bkumar1",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2023-03-01"
+                }
+            },
+            {
+                "StatusCode": "completed",
+                "MoodCode": "EVN",
+                "LocalSNOMEDCodes": [],
+                "VersionToken": "PATIENTSURGICALHISTORY:3025",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "Name": "Kidney function study",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "SupportsLaterality": 0,
+                "CPTs": [],
+                "COTOrderCodes": [],
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2022-09-21T06:14:08-04:00"
+                },
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2022-08-06T10:00:42-04:00"
+                },
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "ID": "4682",
+                "Source": "backfill",
+                "Note": "test for update",
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LastModifiedUser": "API-27306",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2022-04-29"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-08-07T00:42:00-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "6344",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2021-06-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2024-05-24T03:28:21-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "6158",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2021-06-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2023-10-06T04:45:21-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "5553",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2021-06-25"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2017-06-13T10:39:34-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:3026",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "APPL HALO CRANIAL 6+PINS",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "20664"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Appl halo cranial 6+pins",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "3742",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "asonnenfeldt",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LastModifiedUser": "API-27306",
+                "LocalCPTCodes": [],
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2022-09-21T06:14:08-04:00"
+                },
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2017-06-06"
+                }
+            },
+            {
+                "StatusCode": "completed",
+                "MoodCode": "EVN",
+                "LocalSNOMEDCodes": [],
+                "VersionToken": "PATIENTSURGICALHISTORY:3027",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "Name": "Arthroscopy",
+                "SurgicalHistoryProcedureID": "6",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "asonnenfeldt",
+                "SupportsLaterality": 0,
+                "CPTs": [],
+                "COTOrderCodes": [],
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2022-09-21T06:14:08-04:00"
+                },
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2017-04-21T16:35:00-04:00"
+                },
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "ID": "3725",
+                "Source": "backfill",
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LastModifiedUser": "API-27306",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2017-04-21"
+                }
+            },
+            {
+                "StatusCode": "completed",
+                "MoodCode": "EVN",
+                "LocalSNOMEDCodes": [],
+                "VersionToken": "PATIENTSURGICALHISTORY:3028",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "Name": "Hernia Surgery",
+                "SurgicalHistoryProcedureID": "12",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "asonnenfeldt",
+                "SupportsLaterality": 0,
+                "CPTs": [],
+                "COTOrderCodes": [],
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2022-09-21T06:14:08-04:00"
+                },
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2017-04-21T16:38:03-04:00"
+                },
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "ID": "3726",
+                "Source": "backfill",
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LastModifiedUser": "API-27306",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2015-02-11"
+                }
+            },
+            {
+                "StatusCode": "completed",
+                "MoodCode": "EVN",
+                "LocalSNOMEDCodes": [],
+                "VersionToken": "PATIENTSURGICALHISTORY:3029",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "Name": "Orthopedic Surgery",
+                "SurgicalHistoryProcedureID": "47",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "asonnenfeldt",
+                "SupportsLaterality": 0,
+                "CPTs": [],
+                "COTOrderCodes": [],
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2022-09-21T06:14:08-04:00"
+                },
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2016-04-26T15:59:57-04:00"
+                },
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "ID": "3381",
+                "Source": "backfill",
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LastModifiedUser": "API-27306",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2014-04-14"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2022-09-21T06:14:08-04:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "EVN",
+                "StatusCode": "completed",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "4780",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "Test Procedure",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2013-04-05"
+                }
+            },
+            {
+                "StatusCode": "completed",
+                "MoodCode": "EVN",
+                "LocalSNOMEDCodes": [],
+                "VersionToken": "PATIENTSURGICALHISTORY:3030",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "Name": "Carpal Tunnel Surgery",
+                "SurgicalHistoryProcedureID": "17",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "asonnenfeldt",
+                "SupportsLaterality": 0,
+                "CPTs": [],
+                "COTOrderCodes": [],
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2022-09-21T06:14:08-04:00"
+                },
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2016-04-26T15:59:57-04:00"
+                },
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "ID": "3382",
+                "Source": "backfill",
+                "Note": "scrambled notes",
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LastModifiedUser": "API-27306",
+                "LocalCPTCodes": [],
+                "EffectiveDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2007-04-10"
+                }
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-12-04T05:22:36-05:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "INT",
+                "StatusCode": "active",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "MAST SIMPLE COMPLETE",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "19303"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Mast simple complete",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7981",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": []
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2025-12-04T05:22:31-05:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "INT",
+                "StatusCode": "active",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "MAST SIMPLE COMPLETE",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "19303"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Mast simple complete",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "7980",
+                "CreatedBy": "API-28571",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": []
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2023-03-06T01:51:01-05:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "INT",
+                "StatusCode": "active",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "KIDNEY FUNCTION STUDY",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78725"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Kidney function study",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "5291",
+                "CreatedBy": "API-27306",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "Note": "test for update",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": []
+            },
+            {
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2023-03-06T01:34:54-05:00"
+                },
+                "LocalSNOMEDCodes": [],
+                "MoodCode": "INT",
+                "StatusCode": "active",
+                "VersionToken": "PATIENTSURGICALHISTORY:-1",
+                "Code": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "TESTICULAR IMAGING W\/FLOW",
+                    "VersionToken": -1,
+                    "CodeSet": "2.16.840.1.113883.6.12",
+                    "Code": "78761"
+                },
+                "CompareToDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-05-07"
+                },
+                "Name": "Testicular imaging w\/flow",
+                "SNOMEDCode": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "VersionToken": -1
+                },
+                "ID": "5290",
+                "EffectiveDateMask": "MM\/DD\/YYYY",
+                "CreatedBy": "p-bkumar1",
+                "CPTs": [],
+                "SupportsLaterality": 0,
+                "Source": "backfill",
+                "COTOrderCodes": [],
+                "__CLASS__": "Athena::Chart::Entity::Procedure",
+                "LocalCPTCodes": []
+            }
+        ],
+        "__CLASS__": "Athena::Chart::Entity::Procedures",
+        "ChartID": "32988"
+    }
+}

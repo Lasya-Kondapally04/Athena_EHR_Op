@@ -1,0 +1,1634 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=classic_document&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&documentId=116859&documentClass=ORDER",
+    "classic_document": {
+        "details": {
+            "CREATESCHEDULINGTASKDATA": {},
+            "SHOWCCPROVIDER": "1",
+            "SHOWAPPROVEDDENIED": 1,
+            "SOURCELINKS": [
+                {
+                    "ISPATIENTCASE": 1,
+                    "LABEL": "From Patient Case",
+                    "DOCUMENTCLASS": "PATIENTCASE",
+                    "PATIENTCASEID": "116858",
+                    "LINKTEXT": "Test #116858"
+                },
+                {
+                    "CHARTID": "32988",
+                    "CLINICALENCOUNTERID": "34506",
+                    "ISORDERGROUP": 1,
+                    "ISAPPOINTMENT": "",
+                    "STAGE": null,
+                    "ISAPPOINTMENTTICKLER": null,
+                    "STATUS": "",
+                    "LABEL": "From Order Group",
+                    "LINKTEXT": "CHIP ACH, 04\/26\/2016"
+                }
+            ],
+            "STANDINGORDERYN": 0,
+            "PERFORMDATEOPTIONS": [],
+            "EXTERNALLOCKDOCUMENT": 1,
+            "SHOWREFERRALATTACHMENTS": 1,
+            "ISINHOUSE": "",
+            "CPOTREQUIREDONLYTOSUBMIT": "",
+            "CLINICALPROVIDERREQUIRED": 1,
+            "INHOUSEPROVIDERIDS": {
+                "11309144": 1,
+                "11634820": 1,
+                "11309146": 1,
+                "11289399": 1
+            },
+            "APPROVEDDENIEDACTIONLABEL": "Approved",
+            "INTERFACEACTIONS": [
+                "3258"
+            ],
+            "REQUIREONMENUCPOT": 0,
+            "OUTOFNETWORKDISABLED": "",
+            "SPECIMENBATCHEDITDOCUMENTLIST": [],
+            "NEEDSVERIFICATIONMAP": {
+                "125600009": 0
+            },
+            "VIEWFORMLOCKDOCUMENT": "0 but true",
+            "CARESUMMARYDOCUMENT": {},
+            "STANDINGORDERREADONLYDATA": {},
+            "STANDINGORDERREADONLY": null,
+            "APPROVEACTIONS": [
+                "3379",
+                "3391",
+                "5820",
+                "3395",
+                "3396",
+                "3400",
+                "3401",
+                "3402",
+                "3424",
+                "2284",
+                "3246",
+                "3295",
+                "3297",
+                "3300",
+                "3302",
+                "3308",
+                "3250",
+                "3251",
+                "3252",
+                "2500",
+                "2501",
+                "2300",
+                "2301",
+                "2302",
+                "3421",
+                "3422",
+                "5000",
+                "5010"
+            ],
+            "SHOWOBSERVATIONDATE": 0,
+            "DEPARTMENTOPTIONS": [],
+            "INHOUSEDEFAULTCPID": "11309146",
+            "COSIGTIMESTAMP": null,
+            "SHOWICD9": "",
+            "CLINICALPROVIDERTOGGLE": {},
+            "RESULTLINKDATA": [],
+            "NEEDSAPPOINTMENT": null,
+            "SHOWCCLINKROW": 1,
+            "SPECIALTYID": "020",
+            "ISDIAGNOSISREADONLY": 1,
+            "STANDINGORDERDOCUMENT": {
+                "DOCUMENTDIAGNOSISCODE": "",
+                "NOTIFIER": "ATHENA",
+                "CLINICALORDERQUESTION": {
+                    "2": {
+                        "RESPONDERROLE": "STAFF",
+                        "CLINSTDORDERTYPEQUESTIONID": "2",
+                        "DOCUMENTID": "116859",
+                        "HIDDENVALUE": null,
+                        "ORDERING": "4",
+                        "MANDATORYYN": "N",
+                        "ID": "14945",
+                        "NAME": "Appointment Date",
+                        "TYPE": "DATE"
+                    },
+                    "393": {
+                        "RESPONDERROLE": "STAFF",
+                        "CLINSTDORDERTYPEQUESTIONID": "393",
+                        "DOCUMENTID": "116859",
+                        "HIDDENVALUE": null,
+                        "ORDERING": "2",
+                        "MANDATORYYN": "N",
+                        "ID": "14943",
+                        "NAME": "Authorization Notes",
+                        "TYPE": "TEXT"
+                    },
+                    "242": {
+                        "RESPONDERROLE": "PROVIDER",
+                        "CLINSTDORDERTYPEQUESTIONID": "242",
+                        "DOCUMENTID": "116859",
+                        "HIDDENVALUE": null,
+                        "ORDERING": "7",
+                        "MANDATORYYN": "N",
+                        "ID": "14948",
+                        "NAME": "Possibility of Pregnancy?",
+                        "TYPE": "YESNONULL"
+                    },
+                    "1587": {
+                        "RESPONDERROLE": "PROVIDER",
+                        "CLINSTDORDERTYPEQUESTIONID": "1587",
+                        "DOCUMENTID": "116859",
+                        "HIDDENVALUE": null,
+                        "ORDERING": "12",
+                        "MANDATORYYN": "N",
+                        "ID": "14953",
+                        "NAME": "Provide films to patient",
+                        "TYPE": "YESNONULL"
+                    },
+                    "709": {
+                        "RESPONDERROLE": "PROVIDER",
+                        "CLINSTDORDERTYPEQUESTIONID": "709",
+                        "DOCUMENTID": "116859",
+                        "HIDDENVALUE": null,
+                        "ORDERING": "11",
+                        "MANDATORYYN": "N",
+                        "ID": "14952",
+                        "NAME": "View",
+                        "TYPE": "DROPDOWN"
+                    },
+                    "387": {
+                        "RESPONDERROLE": "STAFF",
+                        "CLINSTDORDERTYPEQUESTIONID": "387",
+                        "DOCUMENTID": "116859",
+                        "HIDDENVALUE": null,
+                        "ORDERING": "5",
+                        "MANDATORYYN": "N",
+                        "ID": "14946",
+                        "NAME": "Appointment Time",
+                        "TYPE": "TEXT"
+                    },
+                    "603": {
+                        "RESPONDERROLE": "PROVIDER",
+                        "CLINSTDORDERTYPEQUESTIONID": "603",
+                        "DOCUMENTID": "116859",
+                        "HIDDENVALUE": null,
+                        "ORDERING": "6",
+                        "MANDATORYYN": "N",
+                        "ID": "14947",
+                        "NAME": "Scheduling",
+                        "TYPE": "TEXT"
+                    },
+                    "1281": {
+                        "RESPONDERROLE": "STAFF",
+                        "CLINSTDORDERTYPEQUESTIONID": "1281",
+                        "DOCUMENTID": "116859",
+                        "HIDDENVALUE": null,
+                        "ORDERING": "0",
+                        "MANDATORYYN": "N",
+                        "ID": "14941",
+                        "NAME": "Ordering provider to read?",
+                        "TYPE": "YESNONULL"
+                    },
+                    "630": {
+                        "RESPONDERROLE": "STAFF",
+                        "CLINSTDORDERTYPEQUESTIONID": "630",
+                        "DOCUMENTID": "116859",
+                        "HIDDENVALUE": null,
+                        "ORDERING": "9",
+                        "MANDATORYYN": "N",
+                        "ID": "14950",
+                        "NAME": "Time",
+                        "TYPE": "TEXT"
+                    },
+                    "6": {
+                        "RESPONDERROLE": "STAFF",
+                        "CLINSTDORDERTYPEQUESTIONID": "6",
+                        "DOCUMENTID": "116859",
+                        "HIDDENVALUE": null,
+                        "ORDERING": "8",
+                        "MANDATORYYN": "N",
+                        "ID": "14949",
+                        "NAME": "Date",
+                        "TYPE": "DATE"
+                    },
+                    "45": {
+                        "RESPONDERROLE": "PROVIDER",
+                        "CLINSTDORDERTYPEQUESTIONID": "45",
+                        "DOCUMENTID": "116859",
+                        "HIDDENVALUE": null,
+                        "ORDERING": "10",
+                        "MANDATORYYN": "N",
+                        "ID": "14951",
+                        "NAME": "Side",
+                        "TYPE": "RIGHTLEFTBILATERALNULL"
+                    },
+                    "392": {
+                        "RESPONDERROLE": "STAFF",
+                        "CLINSTDORDERTYPEQUESTIONID": "392",
+                        "DOCUMENTID": "116859",
+                        "HIDDENVALUE": null,
+                        "ORDERING": "3",
+                        "MANDATORYYN": "N",
+                        "ID": "14944",
+                        "NAME": "Authorization #",
+                        "TYPE": "TEXT"
+                    },
+                    "468": {
+                        "RESPONDERROLE": "PROVIDER",
+                        "CLINSTDORDERTYPEQUESTIONID": "468",
+                        "DOCUMENTID": "116859",
+                        "HIDDENVALUE": null,
+                        "ORDERING": "1",
+                        "MANDATORYYN": "N",
+                        "ID": "14942",
+                        "NAME": "Indication",
+                        "TYPE": "TEXT"
+                    }
+                },
+                "ROUTE": "FAX",
+                "CLINICALORDERTYPEID": "266844",
+                "PATIENTID": "4406",
+                "CLINICALPRESCRIPTIONID": null,
+                "DOCUMENTDIAGNOSIS": [
+                    {
+                        "SEQUENCENUMBER": "0",
+                        "DIAGNOSISCODE": null,
+                        "SNOMEDCODE": "125600009",
+                        "DOCUMENTID": "116859",
+                        "ID": "14387",
+                        "CLINICALENCOUNTERID": "34506"
+                    }
+                ],
+                "PATIENTCASEID": "116858",
+                "DOCUMENTDESCRIPTION": "arthrogram, hip",
+                "LASTMODIFIEDBY": "p-xadmin",
+                "CLINICALENCOUNTERID": "34506",
+                "DEFAULTSOURCE": "ORDERROUTE",
+                "REVIEWEDTIMESTAMP": null,
+                "CREATEDBY": "asonnenfeldt",
+                "NEEDSPROVIDERDELEGATEACKYN": null,
+                "DEPARTMENTID": "1",
+                "CREATEDCLINICALENCOUNTERID": "34506",
+                "CHARTID": "32988",
+                "APPROVEDBY": "asonnenfeldt",
+                "PARENTORDERDOCUMENTID": "116859",
+                "APPROVEDTIMESTAMP": "04\/26\/16",
+                "CLINICALORDERTYPEGROUPID": "12",
+                "PROVIDERUSERNAME": "mblake1",
+                "PRIORITY": "2",
+                "ASSIGNEDTO": "ROME OFFICE STAFF",
+                "DOCUMENTORDERCC": [],
+                "STATUS": "SUBMIT",
+                "SPECIALTYID": "020",
+                "DENIEDTIMESTAMP": null,
+                "DOCUMENTDIAGNOSISCODEICD10": "57182",
+                "DENIEDBY": null,
+                "ALARMDAYS": "2",
+                "CLINICALORDERQUESTIONVALUE": [
+                    {
+                        "CLINICALORDERQUESTIONID": "14952",
+                        "ID": "9421",
+                        "NAME": "PA",
+                        "ORDERING": "1"
+                    },
+                    {
+                        "CLINICALORDERQUESTIONID": "14952",
+                        "ID": "9422",
+                        "NAME": "Lateral",
+                        "ORDERING": "2"
+                    },
+                    {
+                        "CLINICALORDERQUESTIONID": "14952",
+                        "ID": "9423",
+                        "NAME": "Oblique",
+                        "ORDERING": "3"
+                    },
+                    {
+                        "CLINICALORDERQUESTIONID": "14952",
+                        "ID": "9424",
+                        "NAME": "PA and Lateral",
+                        "ORDERING": "4"
+                    },
+                    {
+                        "CLINICALORDERQUESTIONID": "14952",
+                        "ID": "9425",
+                        "NAME": "PA, Lateral, and Oblique",
+                        "ORDERING": "5"
+                    },
+                    {
+                        "CLINICALORDERQUESTIONID": "14952",
+                        "ID": "9426",
+                        "NAME": "AP",
+                        "ORDERING": "6"
+                    },
+                    {
+                        "CLINICALORDERQUESTIONID": "14952",
+                        "ID": "9427",
+                        "NAME": "Axillary",
+                        "ORDERING": "7"
+                    },
+                    {
+                        "CLINICALORDERQUESTIONID": "14952",
+                        "ID": "9428",
+                        "NAME": "Radiologic Protocol",
+                        "ORDERING": "8"
+                    },
+                    {
+                        "CLINICALORDERQUESTIONID": "14952",
+                        "ID": "9429",
+                        "NAME": "AP and Lateral",
+                        "ORDERING": "9"
+                    },
+                    {
+                        "CLINICALORDERQUESTIONID": "14952",
+                        "ID": "9430",
+                        "NAME": "AP, Lateral, Flexion, Extension",
+                        "ORDERING": "10"
+                    },
+                    {
+                        "CLINICALORDERQUESTIONID": "14952",
+                        "ID": "9431",
+                        "NAME": "Axial",
+                        "ORDERING": "11"
+                    }
+                ],
+                "DOCUMENTSNOMEDDIAGNOSIS": "125600009",
+                "SOURCE": "ENCOUNTER",
+                "LASTMODIFIED": "06\/06\/2025",
+                "ID": "116859",
+                "ORDERTYPEGROUPNAME": "IMAGING",
+                "VERSIONTOKEN": {
+                    "DOCUMENT": "14330319"
+                },
+                "DOCUMENTATIONONLYYN": "N",
+                "DOCUMENTCLASS": "ORDER",
+                "CLINICALPROVIDERID": "10805082"
+            },
+            "AOEREQUIREDFORSIGNOFF": "",
+            "FAXACTIONS": [
+                "3552",
+                "3383"
+            ],
+            "SHOWSTANDINGORDER": "",
+            "PATIENTDESCRIPTION": "TEST APPOINTMENT, RAM\ndob: 01\/18\/1994, 1ST LINE,\nFLORAL PARK, NY, 11001. #4406\n",
+            "ORDERLOCKDOCUMENT": 1,
+            "BILLINGTYPEDATA": {
+                "ENABLEINSURANCE": 0,
+                "READONLY": 0,
+                "DEFAULTVALUE": null,
+                "SHOW": 0,
+                "READONLYDISPLAYNAME": null
+            },
+            "SHOWCCTABLE": null,
+            "OBSERVATIONDATE": null,
+            "requisition_link_data": {},
+            "hide_reassign_options": "",
+            "INDATAENTRY": 0,
+            "INTERFACEMESSAGEDATA": {
+                "SHOW": null,
+                "INTERFACEMESSAGEID": null
+            },
+            "SHOWPERFORMDATE": null,
+            "TYPEOFFORM": null,
+            "CLINICALPROVIDERID": "10805082",
+            "PERFORMDATEEDITABLE": "",
+            "actions": [
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Create",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "<i>asonnenfeldt<\/i>",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "116859",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Order",
+                    "LASTMODIFIEDBY": "p-xadmin",
+                    "ASSIGNEDTOORG": "ATHENA",
+                    "CREATED": "04\/26\/2016",
+                    "CREATEDTIMESTAMP": "04\/26\/16 04:27pm",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "asonnenfeldt",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "NEW",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Create",
+                    "CLEAREDBY": null,
+                    "NOTE": "",
+                    "CREATEDSECONDS": "483380853",
+                    "forcelast": "0",
+                    "CREATEDBYORG": "ATHENA",
+                    "ACTION": null,
+                    "systemuser": "0",
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "<i>mblake1<\/i>",
+                    "DOCUMENTACTIONREASONID": "1",
+                    "STATUS": "REVIEW",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": "N",
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": "06\/06\/2025",
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "206139",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "ORDER",
+                    "COORDINATORSOURCE": null
+                },
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Approve",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "<i>asonnenfeldt<\/i>",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "116859",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Order",
+                    "LASTMODIFIEDBY": "p-xadmin",
+                    "ASSIGNEDTOORG": null,
+                    "CREATED": "04\/26\/2016",
+                    "CREATEDTIMESTAMP": "04\/26\/16 04:27pm",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "asonnenfeldt",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "APPROVE_ORDER",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Approve",
+                    "CLEAREDBY": null,
+                    "NOTE": "scrambled notes",
+                    "CREATEDSECONDS": "483380853",
+                    "forcelast": "0",
+                    "CREATEDBYORG": "ATHENA",
+                    "ACTION": null,
+                    "systemuser": "0",
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "ROME OFFICE STAFF",
+                    "DOCUMENTACTIONREASONID": "3250",
+                    "STATUS": "SUBMIT",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": "N",
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": "06\/06\/2025",
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "206140",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "ORDER",
+                    "COORDINATORSOURCE": null
+                },
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Close - Stale Document",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "ATHENA",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "116859",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Order",
+                    "LASTMODIFIEDBY": "p-xadmin",
+                    "ASSIGNEDTOORG": null,
+                    "CREATED": "04\/30\/2017",
+                    "CREATEDTIMESTAMP": "04\/30\/17 05:01am",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "ATHENA",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "STALE_DOC_CLOSE",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Close",
+                    "CLEAREDBY": null,
+                    "NOTE": "scrambled notes",
+                    "CREATEDSECONDS": "515221273",
+                    "forcelast": 0,
+                    "CREATEDBYORG": null,
+                    "ACTION": "Stale Document",
+                    "systemuser": 1,
+                    "PRIORITY": null,
+                    "ASSIGNEDTO": null,
+                    "DOCUMENTACTIONREASONID": "9500",
+                    "STATUS": "CLOSED",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": "Y",
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": "06\/06\/2025",
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "233376",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "ORDER",
+                    "COORDINATORSOURCE": null
+                },
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "Test App gtandon - preview (MDP Partner)",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "116859",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Order",
+                    "LASTMODIFIEDBY": "p-xadmin",
+                    "ASSIGNEDTOORG": null,
+                    "CREATED": "01\/09\/2024",
+                    "CREATEDTIMESTAMP": "01\/09\/24 12:03am",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "API-27306",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": null,
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": null,
+                    "CLEAREDBY": null,
+                    "NOTE": "sample action note",
+                    "CREATEDSECONDS": "726451418",
+                    "forcelast": 0,
+                    "CREATEDBYORG": null,
+                    "ACTION": null,
+                    "systemuser": 0,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": null,
+                    "DOCUMENTACTIONREASONID": null,
+                    "STATUS": "CLOSED",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": "N",
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": "06\/06\/2025",
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "386517",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "ORDER",
+                    "COORDINATORSOURCE": null
+                },
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Reopen - Send to previous status\/assigned",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "p-xadmin",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "116859",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Order",
+                    "LASTMODIFIEDBY": "p-xadmin",
+                    "ASSIGNEDTOORG": null,
+                    "CREATED": "06\/06\/2025",
+                    "CREATEDTIMESTAMP": "06\/06\/25 01:49am",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "p-xadmin",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "REOPEN",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Reopen",
+                    "CLEAREDBY": null,
+                    "NOTE": "",
+                    "CREATEDSECONDS": "770867341",
+                    "forcelast": 0,
+                    "CREATEDBYORG": "PRACTICE",
+                    "ACTION": "Send to previous status\/assigned",
+                    "systemuser": 0,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "ROME OFFICE STAFF",
+                    "DOCUMENTACTIONREASONID": "3700",
+                    "STATUS": "SUBMIT",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": "N",
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": "06\/06\/2025",
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "413513",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "ORDER",
+                    "COORDINATORSOURCE": null
+                }
+            ],
+            "BARCODEOPTIONDATA": [
+                {
+                    "NUMBEROFBARCODES": 1,
+                    "STATUS": "CLOSED"
+                },
+                {
+                    "NUMBEROFBARCODES": 2,
+                    "STATUS": "CLOSED"
+                },
+                {
+                    "NUMBEROFBARCODES": 1,
+                    "STATUS": "REVIEW"
+                },
+                {
+                    "NUMBEROFBARCODES": 2,
+                    "STATUS": "REVIEW"
+                }
+            ],
+            "SCHEDULEACTIONS": [
+                "2410"
+            ],
+            "tie_to_surgery_data": {
+                "TIETOSURGERYOPTIONS": {
+                    "VALUES": [
+                        "",
+                        "221",
+                        "222",
+                        "223",
+                        "224",
+                        "344",
+                        "361",
+                        "225",
+                        "226",
+                        "227",
+                        "228",
+                        "345",
+                        "362",
+                        "241",
+                        "242",
+                        "243",
+                        "244",
+                        "346",
+                        "363",
+                        "281",
+                        "282",
+                        "283",
+                        "284",
+                        "285",
+                        "286",
+                        "287",
+                        "288",
+                        "347",
+                        "364",
+                        "541",
+                        "542",
+                        "543",
+                        "544",
+                        "545",
+                        "546",
+                        "561",
+                        "562",
+                        "563",
+                        "564",
+                        "565",
+                        "566",
+                        "567",
+                        "568",
+                        "569",
+                        "570",
+                        "571",
+                        "572"
+                    ],
+                    "NAMES": [
+                        "",
+                        "LEFT HEART CATHETERIZATION (SURG) - Did you complete your lab work?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you spoken to your Insurance?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you recieved Auth?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Post op Appointment",
+                        "LEFT HEART CATHETERIZATION (SURG) - heheheh",
+                        "LEFT HEART CATHETERIZATION (SURG) - Did you complete your lab work?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you spoken to your Insurance?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you recieved Auth?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Post op Appointment",
+                        "LEFT HEART CATHETERIZATION (SURG) - heheheh",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Did you complete your lab work?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you spoken to your Insurance?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you recieved Auth?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Post op Appointment",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - heheheh",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Schedule post-op visit",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Provide patient information",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Collect consent forms",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Obtain medical clearance",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Did you complete your lab work?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you spoken to your Insurance?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you recieved Auth?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Post op Appointment",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - heheheh",
+                        "CRYOTHERAPY (SURG) - Did you complete your lab work?",
+                        "CRYOTHERAPY (SURG) - Have you spoken to your Insurance?",
+                        "CRYOTHERAPY (SURG) - Have you recieved Auth?",
+                        "CRYOTHERAPY (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "CRYOTHERAPY (SURG) - Post op Appointment",
+                        "CRYOTHERAPY (SURG) - heheheh",
+                        "KNEE ARTHROSCOPY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY (SURG) - Obtain medical clearance",
+                        "KNEE ARTHROSCOPY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY (SURG) - Obtain medical clearance",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Obtain medical clearance"
+                    ]
+                },
+                "TIETOORDERCLASS": null,
+                "SHOWUPCOMINGSURGERIES": 1,
+                "TIETOORDERID": null,
+                "SHOWTIETOSURGERY": 1
+            },
+            "requisition_authorization_data": {
+                "sender_service_url": "https:\/\/auth-sender.preview.api.athena.io\/collector-authsender-api_preview\/api\/"
+            },
+            "COSIGUSERNAME": null,
+            "DELETEACTIONS": [
+                "23",
+                "3125",
+                "9010",
+                "3120",
+                "3150",
+                "3140",
+                "3503",
+                "5680",
+                "3132",
+                "3133"
+            ],
+            "shared_labeling_details": {
+                "LABELINGOPTOUT": 0,
+                "PROVIDERUSER": 0,
+                "SUGGESTION": null
+            },
+            "DIRECTACTIONS": [
+                "5809"
+            ],
+            "document_text_data": {
+                "editable": 0,
+                "document_text": null,
+                "show_at_top": 0
+            },
+            "OUTOFNETWORKOPTIONS": [
+                {
+                    "ID": "1",
+                    "NAME": "Location"
+                },
+                {
+                    "ID": "2",
+                    "NAME": "Insurance"
+                },
+                {
+                    "ID": "3",
+                    "NAME": "Patient preference"
+                },
+                {
+                    "ID": "4",
+                    "NAME": "Preexisting relationship"
+                },
+                {
+                    "ID": "5",
+                    "NAME": "Schedule\/availability"
+                },
+                {
+                    "ID": "6",
+                    "NAME": "Specialty not in organization"
+                },
+                {
+                    "ID": "70",
+                    "NAME": "Physician's medical judgement"
+                },
+                {
+                    "ID": "71",
+                    "NAME": "Payor requirements"
+                }
+            ],
+            "OUTOFNETWORKHIDDEN": "",
+            "available_actions_info": {
+                "ACTIONGROUPS": [
+                    {
+                        "ACTIONGROUP": "Order Submitted",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Order Submitted",
+                                "NEXTSTATUS": "SUBMITTED",
+                                "ORDERING": "4500",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Order Submitted - By paper Print-out",
+                                "ID": "3500",
+                                "NAME": "By paper Print-out",
+                                "ONBEFOREFILTERRULE": null,
+                                "PERMISSIONFLAG": null
+                            },
+                            {
+                                "ACTIONGROUP": "Order Submitted",
+                                "NEXTSTATUS": "SUBMITTED",
+                                "ORDERING": "4510",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Order Submitted - By Manual Fax",
+                                "ID": "3510",
+                                "NAME": "By Manual Fax",
+                                "ONBEFOREFILTERRULE": null,
+                                "PERMISSIONFLAG": null
+                            },
+                            {
+                                "ACTIONGROUP": "Order Submitted",
+                                "NEXTSTATUS": "SUBMITTED",
+                                "ORDERING": "4520",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Order Submitted - By Phone",
+                                "ID": "3520",
+                                "NAME": "By Phone",
+                                "ONBEFOREFILTERRULE": null,
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "ACTIONGROUP": "Submit by Athena Fax",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Submit by Athena Fax",
+                                "NEXTSTATUS": null,
+                                "ORDERING": "4552",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Submit by Athena Fax",
+                                "ID": "3552",
+                                "NAME": null,
+                                "ONBEFOREFILTERRULE": "NOSTATERESTRICTION,NOTEPRIORAUTH",
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "ACTIONGROUP": "Failed Submission Attempt",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Failed Submission Attempt",
+                                "NEXTSTATUS": "SUBMIT",
+                                "ORDERING": "5015",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Failed Submission Attempt - Incorrect contact phone number",
+                                "ID": "3530",
+                                "NAME": "Incorrect contact phone number",
+                                "ONBEFOREFILTERRULE": "NOTRETURNEDBYRECEIVER,NOTDIRECTREFERRALDECLINED",
+                                "PERMISSIONFLAG": null
+                            },
+                            {
+                                "ACTIONGROUP": "Failed Submission Attempt",
+                                "NEXTSTATUS": "SUBMIT",
+                                "ORDERING": "5017",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Failed Submission Attempt - Other",
+                                "ID": "3540",
+                                "NAME": "Other",
+                                "ONBEFOREFILTERRULE": "NOTRETURNEDBYRECEIVER,NOTDIRECTREFERRALDECLINED",
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "ACTIONGROUP": "Error Identified",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Error Identified",
+                                "NEXTSTATUS": "REVIEW",
+                                "ORDERING": "4549",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Error Identified - Send back to REVIEW",
+                                "ID": "3549",
+                                "NAME": "Send back to REVIEW",
+                                "ONBEFOREFILTERRULE": "ISRXDENIAL,NOTEPCSINSUBMIT",
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "UNIQUEACTIONGROUP": "ReassignAction",
+                        "ACTIONGROUP": "Leave in SUBMIT",
+                        "ACTIONS": [
+                            {
+                                "REASSIGNOPTIONS": {}
+                            }
+                        ]
+                    }
+                ],
+                "SHOWDOCUMENTACTIONS": "1",
+                "ACTIONNOTES": {
+                    "3005": "Unable to identify patient within the practice. The patient is either not found with available information, has multiple records, or is not listed in this medical group. Please confirm that patient has been added to system and update in correct medical group as necessary. Please enter patient name or ID, and return to Athena using the Data Corrected - Reprocess Document option. Thank you.",
+                    "3006": "Unable to classify the document label. Please use Action Notes to identify correct classification, and return to Athena. Thank you.",
+                    "3000": "Unable to read the image. Please re-fax, or contact originating sender. Thank you.",
+                    "3001": "Unable to identify the drug\/dosage combination within our database.  Please choose an appropriate medication via the \"Drug Name\" field.  Thank you.",
+                    "3051": "Barcode failed to split practice-added documents.  Please split and data-enter.  Thank you.",
+                    "3004": "Provider not found within practice. Thank you."
+                }
+            },
+            "CARESUMMARYDISABLED": "",
+            "PERFORMDATEPLAINTEXT": 1,
+            "SHOWPROVIDERINPUT": "",
+            "SCHEDULEWITHINOPTIONS": [
+                {
+                    "OPTION": "provider's discretion",
+                    "VALUE": ""
+                },
+                {
+                    "OPTION": "STAT",
+                    "VALUE": "STAT"
+                },
+                {
+                    "OPTION": "1 week",
+                    "VALUE": "1WEEK"
+                },
+                {
+                    "OPTION": "2 weeks",
+                    "VALUE": "2WEEK"
+                },
+                {
+                    "OPTION": "4 weeks",
+                    "VALUE": "4WEEK"
+                },
+                {
+                    "OPTION": "6 weeks",
+                    "VALUE": "6WEEK"
+                },
+                {
+                    "OPTION": "8 weeks",
+                    "VALUE": "8WEEK"
+                }
+            ],
+            "APPROVEDDENIEDUSER": "Alden Sonnenfeldt",
+            "CPOTREADONLY": "",
+            "scan_page_details": null,
+            "SHOWFUTURESUBMIT": null,
+            "INTERPRETATIONLINKDATA": [],
+            "COMPENDIUMEXISTS": null,
+            "STANDINGOPTIONS": null,
+            "DESCRIPTION": "ARTHROGRAM, HIP",
+            "STANDINGORDERHISTORY": [],
+            "REOPENACTIONS": [
+                "3394",
+                "3050",
+                "3052",
+                "3060",
+                "3070",
+                "3080",
+                "2420",
+                "2710",
+                "2711",
+                "2910",
+                "3044",
+                "9998",
+                "6029",
+                "9311",
+                "9501",
+                "3700",
+                "3702",
+                "3705",
+                "3706",
+                "3710",
+                "3548",
+                "3549",
+                "3550",
+                "3551",
+                "3558",
+                "3467",
+                "3486",
+                "8020",
+                "6120",
+                "6121",
+                "5100",
+                "5110"
+            ],
+            "LOCKCLINICALPROVIDER": 0,
+            "ORDERTEXTLABEL": "Note to Imaging Facility",
+            "CLINICALPROVIDERCPSW": "1",
+            "ORDERINGPROVIDER": "asonnenfeldt",
+            "PERFORMENCOUNTERID": "34506",
+            "OUTOFNETWORKVALUE": "",
+            "ISRISKYTOREOPEN": "1",
+            "DEPARTMENTNAME": "Rome Office",
+            "PROVIDERID": "67",
+            "PROVIDERINPUT": null,
+            "SHOWPERFORMDATEFIELDS": "1",
+            "APPROVEDDENIEDTIMESTAMP": "04\/26\/16",
+            "PROVIDERCONTROLDISABLED": "",
+            "ISCOMMUNITYCONSULT": "",
+            "ORDERLOCKDECLINEREASON": 0,
+            "disable_reassign_picker": null,
+            "CARESUMMARYHIDDEN": 1,
+            "show_document_actions": "",
+            "APPROVEDDENIEDLABEL": "Approved\/Denied",
+            "OUTOFNETWORKID": null,
+            "CPOTDROPDOWNOPTIONS": [],
+            "ENCOUNTERSUMMARYDATA": [],
+            "PERFORMDATE": "04\/26\/16",
+            "SHOWDEPARTMENTSELECT": 0,
+            "AOENOTE": null,
+            "SHOWNEEDSAPPOINTMENT": null,
+            "PRESCHEDULINGCHECKLISTDATA": {
+                "SHOW": 0,
+                "ISREADONLY": 0
+            },
+            "DISABLEREFERRALATTACHMENTS": 0,
+            "ENCOUNTERDIAGNOSISDATA": {
+                "125600009": {
+                    "ICD10S": [
+                        {
+                            "DESCRIPTION": "Unspecified injury of right hip, initial encounter",
+                            "DIAGNOSISCODE": "S79911A",
+                            "ICDCODEALLID": "57182",
+                            "UNSTRIPPEDDIAGNOSISCODE": "S79.911A"
+                        }
+                    ],
+                    "OTHERORDERCOUNT": "0"
+                }
+            },
+            "CARESUMMARYVALUE": "N",
+            "portal_indicator_html": "",
+            "SHOWRTOLINK": "1",
+            "SCHEDULINGLINKTASKDATA": {},
+            "REOPENFROMCANCELLEDACTIONS": [
+                "3704"
+            ],
+            "SUBMITWITHSPECIMENACTIONS": [
+                "3253"
+            ],
+            "document_save_types": [
+                {
+                    "BUTTONKEY": "SAVE"
+                },
+                {
+                    "BUTTONKEY": "SAVEANDNEXT"
+                },
+                {
+                    "BUTTONKEY": "SAVEANDADDORDERS"
+                }
+            ],
+            "document_labeling_details": {
+                "TTOVISIBLECOUNT": null,
+                "TTOOPTIONS": null,
+                "DCOTOPTIONS": [],
+                "TTOLINKTEXT": null,
+                "TTOCLASS": null,
+                "CCOTOPTIONS": [
+                    {
+                        "search_category": "cot",
+                        "id": "342223",
+                        "order_type": "CMP, SERUM OR PLASMA",
+                        "cot_group_id": "11"
+                    },
+                    {
+                        "search_category": "cot",
+                        "id": "342286",
+                        "order_type": "LIPID PANEL, SERUM",
+                        "cot_group_id": "11"
+                    },
+                    {
+                        "search_category": "cot",
+                        "id": "342240",
+                        "order_type": "BMP, SERUM OR PLASMA",
+                        "cot_group_id": "11"
+                    },
+                    {
+                        "search_category": "cot",
+                        "id": "342241",
+                        "order_type": "TSH, SERUM OR PLASMA",
+                        "cot_group_id": "11"
+                    },
+                    {
+                        "search_category": "cot",
+                        "id": "342116",
+                        "order_type": "CBC",
+                        "cot_group_id": "11"
+                    }
+                ],
+                "DISABLEEDIT": null,
+                "TTOID": null,
+                "SELECTEDITEMTEXT": "Arthrogram, Hip"
+            },
+            "CHARTSHARINGGROUPID": "42",
+            "FUTURESUBMITDATE": null,
+            "LOCKORDERTEXT": null,
+            "SUBMITACTIONS": [
+                "3510",
+                "3520",
+                "3500"
+            ],
+            "TIETORESULTDATA": {},
+            "CCROWS": [],
+            "NOTDONEREASONS": [
+                {
+                    "DISPLAYTEXT": "Not indicated",
+                    "SNOMED": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Not indicated",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "410534003"
+                    },
+                    "ID": "47"
+                },
+                {
+                    "DISPLAYTEXT": "Contraindicated",
+                    "SNOMED": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Contraindicated",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "410536001"
+                    },
+                    "ID": "46"
+                },
+                {
+                    "DISPLAYTEXT": "Not tolerated",
+                    "SNOMED": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Treatment not tolerated",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "407563006"
+                    },
+                    "ID": "48"
+                },
+                {
+                    "DISPLAYTEXT": "Treatment changed",
+                    "SNOMED": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Treatment changed",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "445528004"
+                    },
+                    "ID": "50"
+                },
+                {
+                    "DISPLAYTEXT": "Patient refused",
+                    "SNOMED": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Procedure declined",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "1296859006"
+                    },
+                    "ID": "202"
+                }
+            ],
+            "DISABLEREFERRALATTACHMENTSTEXT": null,
+            "digests": {
+                "FULL": "SzYc0ELdN+FLAVN1tABg+g",
+                "STRICT": "fJp7v+Za72NEov6eKZI4yw"
+            },
+            "PROVIDERGROUPID": "1"
+        },
+        "document": {
+            "ChartDisplayDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-26T16:27:33-04:00"
+            },
+            "VersionToken": "DOCUMENT:14330319",
+            "DiagnosisList": [
+                {
+                    "SequenceNumber": "0",
+                    "DocumentID": "116859",
+                    "SnomedICDCodes": [
+                        {
+                            "UnstrippedDiagnosisCode": "S79.911A",
+                            "VersionToken": -1,
+                            "Code": "S79911A",
+                            "__CLASS__": "Athena::Entity::Code::ICD10",
+                            "Description": "Unspecified injury of right hip, initial encounter",
+                            "CodeSet": "ICD10",
+                            "ICDCodeAllID": "57182"
+                        }
+                    ],
+                    "VersionToken": -1,
+                    "EncounterID": "34506",
+                    "IMODiagnosisList": [],
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Diagnosis",
+                    "DiagnosisCode": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Injury of hip region",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "125600009"
+                    },
+                    "ID": "14387"
+                }
+            ],
+            "UIOrigin": "ah_result_interp",
+            "DisplayName": "arthrogram, hip",
+            "ClinicalOrderType": {
+                "SnomedCodes": [],
+                "PanelYN": "N",
+                "DefaultAlarmDays": "14",
+                "ClinicalOrderGenusID": "151",
+                "VersionToken": -1,
+                "IsDiscontinued": true,
+                "__CLASS__": "Athena::Entity::Clinical::OrderType",
+                "Description": "CPT 73525",
+                "Name": "arthrogram, hip",
+                "ID": "266844",
+                "ReplacedByID": "392269",
+                "OrderableFlag": "Y",
+                "ClinicalOrderTypeGroup": {
+                    "IsOutpatient": true,
+                    "Ordering": "3",
+                    "VersionToken": -1,
+                    "DocumentClass": "ORDER",
+                    "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+                    "Description": "Imaging",
+                    "Name": "IMAGING",
+                    "ID": "12",
+                    "IsInpatient": false
+                }
+            },
+            "DepartmentID": "1",
+            "Priority": "2",
+            "Status": "SUBMIT",
+            "AutoPublishExclusion": {
+                "__CLASS__": "Athena::Order::Entity::OrderRequest::AutoPublishingExclusion",
+                "VersionToken": -1
+            },
+            "Class": "ORDER",
+            "LocalClinicalLabTemplateID": null,
+            "LastModifiedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-06-06T01:49:30-04:00"
+            },
+            "CCList": [],
+            "FHIRIDs": [
+                "ServiceRequest\/a-195903.ambulatoryorder-116859"
+            ],
+            "ClassDescription": "order",
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-26T16:27:33-04:00"
+            },
+            "PayloadType": "ORDER",
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-26"
+            },
+            "Description": "arthrogram, hip",
+            "NeedsProviderDelegateAck": null,
+            "Notifier": "ATHENA",
+            "Source": "ENCOUNTER",
+            "CreatedTimeStamp": "04\/26\/2016 04:27 PM",
+            "DeniedDate": {
+                "__CLASS__": "DateTime",
+                "Date": null
+            },
+            "DeniedUser": null,
+            "EncounterID": "34506",
+            "__CLASS__": "Athena::Order::Entity::OrderRequest",
+            "ProviderBilledName": "CHIP ACH",
+            "PAMAScore": {
+                "__CLASS__": "Athena::Order::Entity::PAMAScore",
+                "VersionToken": -1
+            },
+            "PatientCaseID": "116858",
+            "PriorAuth": null,
+            "DefaultsFromIDSource": "ORDERROUTE",
+            "ExternalCodes": [],
+            "OrderDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-26T16:27:33-04:00"
+            },
+            "AssignedTo": "ROME OFFICE STAFF",
+            "ApprovedUser": "asonnenfeldt",
+            "SpecialtyID": "020",
+            "ParentOrderDocumentID": "116859",
+            "ApprovedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-26T16:27:33-04:00"
+            },
+            "DocumentClassDescription": "order",
+            "AlarmDays": "2",
+            "DocumentationOnly": false,
+            "ProviderUsername": "mblake1",
+            "ID": "116859",
+            "PatientID": "4406",
+            "Questions": [
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "72351",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Ordering provider to read?",
+                    "StandardQuestionID": "1281",
+                    "ID": "14941",
+                    "Type": "YESNONULL",
+                    "DocumentID": "116859",
+                    "Ordering": "0",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "72356",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Indication",
+                    "StandardQuestionID": "468",
+                    "ID": "14942",
+                    "Type": "TEXT",
+                    "DocumentID": "116859",
+                    "Ordering": "1",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "72344",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Authorization Notes",
+                    "StandardQuestionID": "393",
+                    "ID": "14943",
+                    "Type": "TEXT",
+                    "DocumentID": "116859",
+                    "Ordering": "2",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "72355",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Authorization #",
+                    "StandardQuestionID": "392",
+                    "ID": "14944",
+                    "Type": "TEXT",
+                    "DocumentID": "116859",
+                    "Ordering": "3",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "72345",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Appointment Date",
+                    "StandardQuestionID": "2",
+                    "ID": "14945",
+                    "Type": "DATE",
+                    "DocumentID": "116859",
+                    "Ordering": "4",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "72349",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Appointment Time",
+                    "StandardQuestionID": "387",
+                    "ID": "14946",
+                    "Type": "TEXT",
+                    "DocumentID": "116859",
+                    "Ordering": "5",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "72350",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Scheduling",
+                    "StandardQuestionID": "603",
+                    "ID": "14947",
+                    "Type": "TEXT",
+                    "DocumentID": "116859",
+                    "Ordering": "6",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "72346",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Possibility of Pregnancy?",
+                    "StandardQuestionID": "242",
+                    "ID": "14948",
+                    "Type": "YESNONULL",
+                    "DocumentID": "116859",
+                    "Ordering": "7",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "72353",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Date",
+                    "StandardQuestionID": "6",
+                    "ID": "14949",
+                    "Type": "DATE",
+                    "DocumentID": "116859",
+                    "Ordering": "8",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "72352",
+                    "Options": [],
+                    "ResponderRole": "STAFF",
+                    "Name": "Time",
+                    "StandardQuestionID": "630",
+                    "ID": "14950",
+                    "Type": "TEXT",
+                    "DocumentID": "116859",
+                    "Ordering": "9",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "72354",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Side",
+                    "StandardQuestionID": "45",
+                    "ID": "14951",
+                    "Type": "RIGHTLEFTBILATERALNULL",
+                    "DocumentID": "116859",
+                    "Ordering": "10",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "72348",
+                    "Options": [
+                        {
+                            "QuestionID": "14952",
+                            "Ordering": "1",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "PA",
+                            "ID": "9421"
+                        },
+                        {
+                            "QuestionID": "14952",
+                            "Ordering": "2",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Lateral",
+                            "ID": "9422"
+                        },
+                        {
+                            "QuestionID": "14952",
+                            "Ordering": "3",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Oblique",
+                            "ID": "9423"
+                        },
+                        {
+                            "QuestionID": "14952",
+                            "Ordering": "4",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "PA and Lateral",
+                            "ID": "9424"
+                        },
+                        {
+                            "QuestionID": "14952",
+                            "Ordering": "5",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "PA, Lateral, and Oblique",
+                            "ID": "9425"
+                        },
+                        {
+                            "QuestionID": "14952",
+                            "Ordering": "6",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "AP",
+                            "ID": "9426"
+                        },
+                        {
+                            "QuestionID": "14952",
+                            "Ordering": "7",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Axillary",
+                            "ID": "9427"
+                        },
+                        {
+                            "QuestionID": "14952",
+                            "Ordering": "8",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Radiologic Protocol",
+                            "ID": "9428"
+                        },
+                        {
+                            "QuestionID": "14952",
+                            "Ordering": "9",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "AP and Lateral",
+                            "ID": "9429"
+                        },
+                        {
+                            "QuestionID": "14952",
+                            "Ordering": "10",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "AP, Lateral, Flexion, Extension",
+                            "ID": "9430"
+                        },
+                        {
+                            "QuestionID": "14952",
+                            "Ordering": "11",
+                            "VersionToken": -1,
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Question::Option",
+                            "Value": "Axial",
+                            "ID": "9431"
+                        }
+                    ],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "View",
+                    "StandardQuestionID": "709",
+                    "ID": "14952",
+                    "Type": "DROPDOWN",
+                    "DocumentID": "116859",
+                    "Ordering": "11",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                },
+                {
+                    "IsMandatory": false,
+                    "VersionToken": "72347",
+                    "Options": [],
+                    "ResponderRole": "PROVIDER",
+                    "Name": "Provide films to patient",
+                    "StandardQuestionID": "1587",
+                    "ID": "14953",
+                    "Type": "YESNONULL",
+                    "DocumentID": "116859",
+                    "Ordering": "12",
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Question",
+                    "ExternalValue": null
+                }
+            ],
+            "ClinicalProvider": {
+                "TranslatedFaxNumber": "6172776953",
+                "VersionToken": -1,
+                "FormatNameAddress": "CVS\/Pharmacy #0055 (ERX): <br \/>1927 Beacon St, Brighton MA 02135, Ph (617) 738-6820, Fax (617) 277-6953",
+                "Name": "CVS\/Pharmacy #0055",
+                "ClinicalProviderReceiverID": "1",
+                "PhoneNumber": "(617) 738-6820",
+                "KeepAsLocalFlag": "N",
+                "PharmacyType": "RETAIL",
+                "ReceiverType": "ERX",
+                "PharmacyTypeName": "retail",
+                "NPI": "1922107374",
+                "ReceiverName": "SURESCRIPTS",
+                "TranslatedPhoneNumber": "6177386820",
+                "NCPDPID": "2221529",
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2026-03-14"
+                },
+                "Address1": "1927 Beacon St",
+                "State": "MA",
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2005-12-13T16:31:47-05:00"
+                },
+                "TranslatedZip": "02135",
+                "SpecimenSourceListID": "1",
+                "FederalIDNumber": "05-0340626",
+                "ID": "10805082",
+                "ReplacedByClinicalProviderID": "10805082",
+                "Zip": "02135",
+                "FaxPhoneNumber": "(617) 277-6953",
+                "AcceptFax": "Y",
+                "Notes": "SURESCRIPT VERIFIED 10\/12\/11",
+                "City": "Brighton",
+                "IsPrescriptionQuantityRequired": true,
+                "IsPersonEntity": false,
+                "__CLASS__": "Athena::Entity::Clinical::Provider",
+                "ANSISpecialtyID": "590",
+                "LastModifiedUser": "nd-candor",
+                "CreatedUser": "epark"
+            },
+            "LastModifiedUser": "p-xadmin",
+            "ChartID": "32988",
+            "Route": "FAX",
+            "CreatedEncounterID": "34506",
+            "CreatedUser": "asonnenfeldt"
+        }
+    }
+}

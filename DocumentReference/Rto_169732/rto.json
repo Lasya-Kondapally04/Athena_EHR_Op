@@ -1,0 +1,51 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=document_view_data&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&document_class=RTO&document_id=169732&url=https%3A%2F%2Fpreview.athenahealth.com%2F195903%2F5",
+    "document_view_data": {
+        "document": {
+            "ChartDisplayDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2021-05-17T09:07:15-04:00"
+            },
+            "VersionToken": "37404200",
+            "DisplayName": "RTO reminder",
+            "OrderDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2021-05-17"
+            },
+            "DepartmentID": "150",
+            "SourceName": "encounter",
+            "Priority": "2",
+            "Status": "CLOSED",
+            "Class": "RTO",
+            "LastModifiedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2021-05-17T09:11:35-04:00"
+            },
+            "ParentOrderDocumentID": "169732",
+            "SpecialtyID": "020",
+            "SubmitUser": "abellemare",
+            "ClassDescription": "RTO reminder",
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2021-05-17T09:07:15-04:00"
+            },
+            "PayloadType": "DOCUMENT",
+            "AlarmDays": "7",
+            "SubmitDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2021-05-17"
+            },
+            "ProviderUsername": "mblake1",
+            "Description": "RTO reminder",
+            "ID": "169732",
+            "Source": "ENCOUNTER",
+            "PatientID": "4406",
+            "EncounterID": "41723",
+            "__CLASS__": "Athena::InternalDocument::Entity::Document::RTO",
+            "ChartID": "32988",
+            "LastModifiedUser": "abellemare",
+            "Route": "INTERNAL",
+            "CreatedEncounterID": "41722",
+            "CreatedUser": "abellemare"
+        }
+    }
+}

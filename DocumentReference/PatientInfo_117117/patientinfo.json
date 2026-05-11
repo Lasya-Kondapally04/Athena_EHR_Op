@@ -1,0 +1,706 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=classic_document&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&documentId=117117&documentClass=PATIENTINFO",
+    "classic_document": {
+        "details": {
+            "ORDERLOCKDECLINEREASON": 0,
+            "actions": [
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Create",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "<i>asonnenfeldt<\/i>",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "117117",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Patient Info Order",
+                    "LASTMODIFIEDBY": null,
+                    "ASSIGNEDTOORG": "ATHENA",
+                    "CREATED": "05\/04\/2016",
+                    "CREATEDTIMESTAMP": "05\/04\/16 05:12pm",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "asonnenfeldt",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "NEW",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Create",
+                    "CLEAREDBY": null,
+                    "NOTE": "",
+                    "CREATEDSECONDS": "484074729",
+                    "forcelast": 0,
+                    "CREATEDBYORG": "ATHENA",
+                    "ACTION": null,
+                    "systemuser": 0,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "<i>mblake1<\/i>",
+                    "DOCUMENTACTIONREASONID": "1",
+                    "STATUS": "REVIEW",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": null,
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": null,
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "206759",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "PATIENTINFO",
+                    "COORDINATORSOURCE": null
+                },
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Approve",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "<i>asonnenfeldt<\/i>",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "117117",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Patient Info Order",
+                    "LASTMODIFIEDBY": null,
+                    "ASSIGNEDTOORG": null,
+                    "CREATED": "11\/07\/2016",
+                    "CREATEDTIMESTAMP": "11\/07\/16 02:36pm",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "asonnenfeldt",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "APPROVE_PATIENTINFO",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Approve",
+                    "CLEAREDBY": null,
+                    "NOTE": "scrambled notes",
+                    "CREATEDSECONDS": "500222184",
+                    "forcelast": 0,
+                    "CREATEDBYORG": "ATHENA",
+                    "ACTION": null,
+                    "systemuser": 0,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "ROME OFFICE STAFF",
+                    "DOCUMENTACTIONREASONID": "3295",
+                    "STATUS": "NOTIFY",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": null,
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": null,
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "217220",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "PATIENTINFO",
+                    "COORDINATORSOURCE": null
+                },
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Close - Stale Document",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "ATHENA",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "117117",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Patient Info Order",
+                    "LASTMODIFIEDBY": null,
+                    "ASSIGNEDTOORG": null,
+                    "CREATED": "12\/11\/2016",
+                    "CREATEDTIMESTAMP": "12\/11\/16 05:02am",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "ATHENA",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "STALE_DOC_CLOSE",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Close",
+                    "CLEAREDBY": null,
+                    "NOTE": "scrambled notes",
+                    "CREATEDSECONDS": "503125334",
+                    "forcelast": 0,
+                    "CREATEDBYORG": null,
+                    "ACTION": "Stale Document",
+                    "systemuser": 1,
+                    "PRIORITY": null,
+                    "ASSIGNEDTO": null,
+                    "DOCUMENTACTIONREASONID": "9500",
+                    "STATUS": "CLOSED",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": null,
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": null,
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "219704",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "PATIENTINFO",
+                    "COORDINATORSOURCE": null
+                }
+            ],
+            "COSIGTIMESTAMP": null,
+            "disable_reassign_picker": null,
+            "show_document_actions": "",
+            "SHOWICD9": "",
+            "APPROVEDDENIEDLABEL": "Approved\/Denied",
+            "tie_to_surgery_data": {
+                "TIETOSURGERYOPTIONS": {
+                    "VALUES": [
+                        "",
+                        "221",
+                        "222",
+                        "223",
+                        "224",
+                        "344",
+                        "361",
+                        "225",
+                        "226",
+                        "227",
+                        "228",
+                        "345",
+                        "362",
+                        "241",
+                        "242",
+                        "243",
+                        "244",
+                        "346",
+                        "363",
+                        "281",
+                        "282",
+                        "283",
+                        "284",
+                        "285",
+                        "286",
+                        "287",
+                        "288",
+                        "347",
+                        "364",
+                        "541",
+                        "542",
+                        "543",
+                        "544",
+                        "545",
+                        "546",
+                        "561",
+                        "562",
+                        "563",
+                        "564",
+                        "565",
+                        "566",
+                        "567",
+                        "568",
+                        "569",
+                        "570",
+                        "571",
+                        "572"
+                    ],
+                    "NAMES": [
+                        "",
+                        "LEFT HEART CATHETERIZATION (SURG) - Did you complete your lab work?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you spoken to your Insurance?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you recieved Auth?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Post op Appointment",
+                        "LEFT HEART CATHETERIZATION (SURG) - heheheh",
+                        "LEFT HEART CATHETERIZATION (SURG) - Did you complete your lab work?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you spoken to your Insurance?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you recieved Auth?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Post op Appointment",
+                        "LEFT HEART CATHETERIZATION (SURG) - heheheh",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Did you complete your lab work?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you spoken to your Insurance?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you recieved Auth?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Post op Appointment",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - heheheh",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Schedule post-op visit",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Provide patient information",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Collect consent forms",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Obtain medical clearance",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Did you complete your lab work?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you spoken to your Insurance?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you recieved Auth?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Post op Appointment",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - heheheh",
+                        "CRYOTHERAPY (SURG) - Did you complete your lab work?",
+                        "CRYOTHERAPY (SURG) - Have you spoken to your Insurance?",
+                        "CRYOTHERAPY (SURG) - Have you recieved Auth?",
+                        "CRYOTHERAPY (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "CRYOTHERAPY (SURG) - Post op Appointment",
+                        "CRYOTHERAPY (SURG) - heheheh",
+                        "KNEE ARTHROSCOPY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY (SURG) - Obtain medical clearance",
+                        "KNEE ARTHROSCOPY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY (SURG) - Obtain medical clearance",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Obtain medical clearance"
+                    ]
+                },
+                "TIETOORDERCLASS": null,
+                "SHOWUPCOMINGSURGERIES": 1,
+                "TIETOORDERID": null,
+                "SHOWTIETOSURGERY": 1
+            },
+            "SHOWAPPROVEDDENIED": 1,
+            "requisition_authorization_data": {
+                "sender_service_url": "https:\/\/auth-sender.preview.api.athena.io\/collector-authsender-api_preview\/api\/"
+            },
+            "COSIGUSERNAME": null,
+            "SOURCELINKS": [
+                {
+                    "CHARTID": "32988",
+                    "CLINICALENCOUNTERID": "34539",
+                    "ISORDERGROUP": 0,
+                    "ISAPPOINTMENT": "",
+                    "STAGE": null,
+                    "ISAPPOINTMENTTICKLER": null,
+                    "STATUS": "OPEN",
+                    "LABEL": "From Encounter",
+                    "LINKTEXT": "CHIP ACH, XRAY 05\/04\/2016 (OPEN)"
+                }
+            ],
+            "shared_labeling_details": {
+                "LABELINGOPTOUT": 0,
+                "PROVIDERUSER": 0,
+                "SUGGESTION": null
+            },
+            "EXTERNALLOCKDOCUMENT": 1,
+            "document_text_data": {
+                "editable": 0,
+                "document_text": null,
+                "show_at_top": 0
+            },
+            "available_actions_info": {
+                "ACTIONGROUPS": [
+                    {
+                        "ACTIONGROUP": "Delete",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Delete",
+                                "NEXTSTATUS": "DELETED",
+                                "ORDERING": "4140",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Delete - Duplicate",
+                                "ID": "3140",
+                                "NAME": "Duplicate",
+                                "ONBEFOREFILTERRULE": null,
+                                "PERMISSIONFLAG": null
+                            },
+                            {
+                                "ACTIONGROUP": "Delete",
+                                "NEXTSTATUS": "DELETED",
+                                "ORDERING": "4150",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Delete - Other",
+                                "ID": "3150",
+                                "NAME": "Other",
+                                "ONBEFOREFILTERRULE": null,
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "ACTIONGROUP": "Reopen",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Reopen",
+                                "NEXTSTATUS": null,
+                                "ORDERING": "4700",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Reopen - Send to previous status\/assigned",
+                                "ID": "3700",
+                                "NAME": "Send to previous status\/assigned",
+                                "ONBEFOREFILTERRULE": "NOTEPCSINSUBMIT,NOTREFUSEDVACCINE,EPRIORORDERNOTDELETED,EPRIORORDERCANREOPEN,NOTCANCELLED",
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "UNIQUEACTIONGROUP": "ReassignAction",
+                        "ACTIONGROUP": "Leave in CLOSED",
+                        "ACTIONS": [
+                            {
+                                "REASSIGNOPTIONS": {}
+                            }
+                        ]
+                    }
+                ],
+                "SHOWDOCUMENTACTIONS": "1",
+                "ACTIONNOTES": {
+                    "3005": "Unable to identify patient within the practice. The patient is either not found with available information, has multiple records, or is not listed in this medical group. Please confirm that patient has been added to system and update in correct medical group as necessary. Please enter patient name or ID, and return to Athena using the Data Corrected - Reprocess Document option. Thank you.",
+                    "3006": "Unable to classify the document label. Please use Action Notes to identify correct classification, and return to Athena. Thank you.",
+                    "3000": "Unable to read the image. Please re-fax, or contact originating sender. Thank you.",
+                    "3001": "Unable to identify the drug\/dosage combination within our database.  Please choose an appropriate medication via the \"Drug Name\" field.  Thank you.",
+                    "3051": "Barcode failed to split practice-added documents.  Please split and data-enter.  Thank you.",
+                    "3004": "Provider not found within practice. Thank you."
+                }
+            },
+            "ISDIAGNOSISREADONLY": 1,
+            "ENCOUNTERDIAGNOSISDATA": {
+                "25064002": {
+                    "ICD10S": [
+                        {
+                            "DESCRIPTION": "Headache",
+                            "DIAGNOSISCODE": "R51",
+                            "ICDCODEALLID": "27671",
+                            "UNSTRIPPEDDIAGNOSISCODE": "R51"
+                        }
+                    ],
+                    "OTHERORDERCOUNT": "0"
+                },
+                "125600009": {
+                    "ICD10S": [
+                        {
+                            "DESCRIPTION": "Unspecified injury of right hip, initial encounter",
+                            "DIAGNOSISCODE": "S79911A",
+                            "ICDCODEALLID": "57182",
+                            "UNSTRIPPEDDIAGNOSISCODE": "S79.911A"
+                        }
+                    ],
+                    "OTHERORDERCOUNT": "1"
+                },
+                "30989003": {
+                    "ICD10S": [
+                        {
+                            "DESCRIPTION": "Pain in unspecified knee",
+                            "DIAGNOSISCODE": "M25569",
+                            "ICDCODEALLID": "17022",
+                            "UNSTRIPPEDDIAGNOSISCODE": "M25.569"
+                        }
+                    ],
+                    "OTHERORDERCOUNT": "1"
+                }
+            },
+            "APPROVEDDENIEDUSER": "Alden Sonnenfeldt",
+            "ORDERLOCKDOCUMENT": 1,
+            "scan_page_details": null,
+            "VALIDATIONACTIONS": {
+                "DELETEACTIONS": [
+                    "23",
+                    "3125",
+                    "9010",
+                    "3120",
+                    "3150",
+                    "3140",
+                    "3503",
+                    "5680",
+                    "3132",
+                    "3133"
+                ],
+                "FAXACTIONS": [
+                    "3552",
+                    "3383"
+                ],
+                "SUBMITWITHSPECIMENACTIONS": [
+                    "3253"
+                ],
+                "APPROVEACTIONS": [
+                    "3379",
+                    "3391",
+                    "5820",
+                    "3395",
+                    "3396",
+                    "3400",
+                    "3401",
+                    "3402",
+                    "3424",
+                    "2284",
+                    "3246",
+                    "3295",
+                    "3297",
+                    "3300",
+                    "3302",
+                    "3308",
+                    "3250",
+                    "3251",
+                    "3252",
+                    "2500",
+                    "2501",
+                    "2300",
+                    "2301",
+                    "2302",
+                    "3421",
+                    "3422",
+                    "5000",
+                    "5010"
+                ],
+                "INTERFACEACTIONS": [
+                    "3258"
+                ],
+                "DIRECTACTIONS": [
+                    "5809"
+                ],
+                "ISRISKYTOREOPEN": null,
+                "SUBMITACTIONS": [
+                    "3510",
+                    "3520",
+                    "3500"
+                ],
+                "SCHEDULEACTIONS": [
+                    "2410"
+                ],
+                "REOPENACTIONS": [
+                    "3394",
+                    "3050",
+                    "3052",
+                    "3060",
+                    "3070",
+                    "3080",
+                    "2420",
+                    "2710",
+                    "2711",
+                    "2910",
+                    "3044",
+                    "9998",
+                    "6029",
+                    "9311",
+                    "9501",
+                    "3700",
+                    "3702",
+                    "3705",
+                    "3706",
+                    "3710",
+                    "3548",
+                    "3549",
+                    "3550",
+                    "3551",
+                    "3558",
+                    "3467",
+                    "3486",
+                    "8020",
+                    "6120",
+                    "6121",
+                    "5100",
+                    "5110"
+                ],
+                "REOPENFROMCANCELLEDACTIONS": [
+                    "3704"
+                ]
+            },
+            "portal_indicator_html": "",
+            "SHOWRTOLINK": "",
+            "HANDOUTLINK": "<a href='\/195903\/5\/clinicals\/printpatientinformation.esp?CLINICALENCOUNTERID=34539&DEPARTMENTID=1&ENCOUNTERCONTEXT=1&PATIENTID=4406&PATIENTINFORMATIONID=1369' target=handout>Headache: Care Instructions <font class=small>(Healthwise)<\/font><\/a><br>",
+            "APPROVEDDENIEDACTIONLABEL": "Approved",
+            "requisition_link_data": {},
+            "document_save_types": [
+                {
+                    "BUTTONKEY": "SAVE"
+                },
+                {
+                    "BUTTONKEY": "SAVEANDNEXT"
+                }
+            ],
+            "document_labeling_details": null,
+            "ORDERTEXTLABEL": "Note to Patient",
+            "hide_reassign_options": "1",
+            "ORDERINGPROVIDER": "asonnenfeldt",
+            "NEEDSVERIFICATIONMAP": {
+                "426232007": 0,
+                "111644004": 0,
+                "71325002": 0,
+                "30989003": 0,
+                "69577009": 0,
+                "16973004": 0,
+                "88547002": 0,
+                "25064002": 0,
+                "11455007": 0,
+                "55822004": 0,
+                "44254000": 0,
+                "125600009": 0,
+                "20602000": 0,
+                "0": 0
+            },
+            "NOTDONEREASONS": [
+                {
+                    "DISPLAYTEXT": "Not indicated",
+                    "SNOMED": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Procedure not indicated",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "428119001"
+                    },
+                    "ID": "84"
+                },
+                {
+                    "DISPLAYTEXT": "Not tolerated",
+                    "SNOMED": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Treatment not tolerated",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "407563006"
+                    },
+                    "ID": "64"
+                },
+                {
+                    "DISPLAYTEXT": "Patient refused",
+                    "SNOMED": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Procedure declined",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "1296859006"
+                    },
+                    "ID": "205"
+                },
+                {
+                    "DISPLAYTEXT": "Religious exemption",
+                    "SNOMED": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Procedure declined for religious reason",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "183945002"
+                    },
+                    "ID": "85"
+                }
+            ],
+            "digests": {
+                "FULL": "T3D9tQnXW79qyoW1QDQBhw",
+                "STRICT": "SqSTqdwACzonmiB881CO1g"
+            },
+            "APPROVEDDENIEDTIMESTAMP": "11\/07\/16"
+        },
+        "document": {
+            "ChartDisplayDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-05-04T17:12:09-04:00"
+            },
+            "VersionToken": "CLINICALPATIENTINFORMATION:-1;DOCUMENT:14121932",
+            "DiagnosisList": [
+                {
+                    "SequenceNumber": "0",
+                    "DocumentID": "117117",
+                    "SnomedICDCodes": [
+                        {
+                            "UnstrippedDiagnosisCode": "R51",
+                            "VersionToken": -1,
+                            "Code": "R51",
+                            "__CLASS__": "Athena::Entity::Code::ICD10",
+                            "Description": "Headache",
+                            "CodeSet": "ICD10",
+                            "ICDCodeAllID": "27671"
+                        }
+                    ],
+                    "VersionToken": -1,
+                    "EncounterID": "34539",
+                    "IMODiagnosisList": [],
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Diagnosis",
+                    "DiagnosisCode": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Headache",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "25064002"
+                    },
+                    "ID": "14425"
+                }
+            ],
+            "UIOrigin": "ah_suggested_pt_info",
+            "DisplayName": "headache: care instructions",
+            "ClinicalOrderType": {
+                "SnomedCodes": [],
+                "VersionToken": -1,
+                "IsDiscontinued": false,
+                "ClinicalOrderGenusID": "824",
+                "__CLASS__": "Athena::Entity::Clinical::OrderType",
+                "Name": "headache: care instructions",
+                "ID": "282538",
+                "ClinicalOrderTypeGroup": {
+                    "IsOutpatient": true,
+                    "Ordering": "5",
+                    "VersionToken": -1,
+                    "DocumentClass": "PATIENTINFO",
+                    "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+                    "Description": "Patient Info",
+                    "Name": "PATIENTINFO",
+                    "ID": "15",
+                    "IsInpatient": false
+                }
+            },
+            "DepartmentID": "1",
+            "Priority": "2",
+            "AutoPublishExclusion": {
+                "__CLASS__": "Athena::Order::Entity::OrderRequest::AutoPublishingExclusion",
+                "VersionToken": -1
+            },
+            "Status": "CLOSED",
+            "Class": "PATIENTINFO",
+            "LocalClinicalLabTemplateID": null,
+            "LastModifiedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-12-11T05:02:14-05:00"
+            },
+            "HealthwiseId": "1369",
+            "ClassDescription": "patient info order",
+            "FHIRIDs": [
+                "ServiceRequest\/a-195903.ambulatoryorder-117117"
+            ],
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-05-04T17:12:09-04:00"
+            },
+            "PayloadType": "ORDER",
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-05-04"
+            },
+            "Description": "headache: care instructions",
+            "NeedsProviderDelegateAck": null,
+            "Source": "ENCOUNTER",
+            "CreatedTimeStamp": "05\/04\/2016 05:12 PM",
+            "DeniedDate": {
+                "__CLASS__": "DateTime",
+                "Date": null
+            },
+            "DeniedUser": null,
+            "EncounterID": "34539",
+            "__CLASS__": "Athena::Order::Entity::OrderRequest::PatientInfo",
+            "ProviderBilledName": "CHIP ACH",
+            "PAMAScore": {
+                "__CLASS__": "Athena::Order::Entity::PAMAScore",
+                "VersionToken": -1
+            },
+            "DefaultsFromIDSource": "CLINICALORDERTYPE",
+            "ExternalCodes": [],
+            "OrderDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-05-04T17:12:09-04:00"
+            },
+            "ApprovedUser": "asonnenfeldt",
+            "SpecialtyID": "011",
+            "ParentOrderDocumentID": "117117",
+            "SuggestedDiagnosisCode": {
+                "__CLASS__": "Athena::Entity::Code",
+                "VersionToken": -1,
+                "CodeSet": "ICD9"
+            },
+            "ApprovedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-11-07T14:36:23-05:00"
+            },
+            "DocumentClassDescription": "patient info order",
+            "DocumentationOnly": false,
+            "ProviderUsername": "mblake1",
+            "ID": "117117",
+            "PatientID": "4406",
+            "Questions": [],
+            "ClinicalProvider": null,
+            "LastModifiedUser": "ATHENA",
+            "ChartID": "32988",
+            "Route": "FAX",
+            "CreatedEncounterID": "34539",
+            "CreatedUser": "asonnenfeldt"
+        }
+    }
+}

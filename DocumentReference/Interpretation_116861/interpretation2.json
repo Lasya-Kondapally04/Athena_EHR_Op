@@ -1,0 +1,355 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=classic_document&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&documentId=116861&documentClass=INTERPRETATION",
+    "classic_document": {
+        "details": {
+            "INTERPRETATIONHTML": null,
+            "actions": [
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Create",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "<i>asonnenfeldt<\/i>",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "116861",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Interpretation",
+                    "LASTMODIFIEDBY": null,
+                    "ASSIGNEDTOORG": "ATHENA",
+                    "CREATED": "04\/26\/2016",
+                    "CREATEDTIMESTAMP": "04\/26\/16 04:29pm",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "asonnenfeldt",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "NEW_INTERPRETATION",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Create",
+                    "CLEAREDBY": null,
+                    "NOTE": "",
+                    "CREATEDSECONDS": "483380947",
+                    "forcelast": 0,
+                    "CREATEDBYORG": "ATHENA",
+                    "ACTION": null,
+                    "systemuser": 0,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "<i>mblake1<\/i>",
+                    "DOCUMENTACTIONREASONID": "5250",
+                    "STATUS": "PERFORM",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": null,
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": null,
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "206142",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "INTERPRETATION",
+                    "COORDINATORSOURCE": null
+                }
+            ],
+            "scan_page_details": null,
+            "disable_reassign_picker": null,
+            "show_document_actions": "",
+            "portal_indicator_html": "",
+            "tie_to_surgery_data": {
+                "TIETOSURGERYOPTIONS": {
+                    "VALUES": [
+                        "",
+                        "221",
+                        "222",
+                        "223",
+                        "224",
+                        "344",
+                        "361",
+                        "225",
+                        "226",
+                        "227",
+                        "228",
+                        "345",
+                        "362",
+                        "241",
+                        "242",
+                        "243",
+                        "244",
+                        "346",
+                        "363",
+                        "281",
+                        "282",
+                        "283",
+                        "284",
+                        "285",
+                        "286",
+                        "287",
+                        "288",
+                        "347",
+                        "364",
+                        "541",
+                        "542",
+                        "543",
+                        "544",
+                        "545",
+                        "546",
+                        "561",
+                        "562",
+                        "563",
+                        "564",
+                        "565",
+                        "566",
+                        "567",
+                        "568",
+                        "569",
+                        "570",
+                        "571",
+                        "572"
+                    ],
+                    "NAMES": [
+                        "",
+                        "LEFT HEART CATHETERIZATION (SURG) - Did you complete your lab work?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you spoken to your Insurance?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you recieved Auth?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Post op Appointment",
+                        "LEFT HEART CATHETERIZATION (SURG) - heheheh",
+                        "LEFT HEART CATHETERIZATION (SURG) - Did you complete your lab work?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you spoken to your Insurance?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you recieved Auth?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "LEFT HEART CATHETERIZATION (SURG) - Post op Appointment",
+                        "LEFT HEART CATHETERIZATION (SURG) - heheheh",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Did you complete your lab work?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you spoken to your Insurance?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you recieved Auth?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - Post op Appointment",
+                        "EXCISION, TUMOR OR VASCULAR MALFORMATION, SOFT TISSUE OF HAND\/FINGER (SURG) - heheheh",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Schedule post-op visit",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Provide patient information",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Collect consent forms",
+                        "ACL, ARTHROSCOPIC ASSISTED RECONSTRUCTION WITH AUTOGRAFT (SURG) - Obtain medical clearance",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Did you complete your lab work?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you spoken to your Insurance?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you recieved Auth?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - Post op Appointment",
+                        "REMOVAL OF LUNG, LOBECTOMY (SURG) - heheheh",
+                        "CRYOTHERAPY (SURG) - Did you complete your lab work?",
+                        "CRYOTHERAPY (SURG) - Have you spoken to your Insurance?",
+                        "CRYOTHERAPY (SURG) - Have you recieved Auth?",
+                        "CRYOTHERAPY (SURG) - Have you completed your incase of emergancey paperwork?",
+                        "CRYOTHERAPY (SURG) - Post op Appointment",
+                        "CRYOTHERAPY (SURG) - heheheh",
+                        "KNEE ARTHROSCOPY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY (SURG) - Obtain medical clearance",
+                        "KNEE ARTHROSCOPY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY (SURG) - Obtain medical clearance",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Schedule post-op visit",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Provide patient information",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Collect consent forms",
+                        "KNEE ARTHROSCOPY WITH PARTIAL MEDIAL OR LATERAL MENISCECTOMY (SURG) - Obtain medical clearance"
+                    ]
+                },
+                "TIETOORDERCLASS": null,
+                "SHOWUPCOMINGSURGERIES": 1,
+                "TIETOORDERID": null,
+                "SHOWTIETOSURGERY": 1
+            },
+            "SHOWRTOLINK": "",
+            "SHOWPRINTLINK": 1,
+            "requisition_authorization_data": {
+                "sender_service_url": "https:\/\/auth-sender.preview.api.athena.io\/collector-authsender-api_preview\/api\/"
+            },
+            "RESULTENTITY": {
+                "CreatedTimeDate": "2016-04-26T16:29:07",
+                "ChartDisplayDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2016-04-26T16:29:07-04:00"
+                },
+                "VersionToken": "CLINICALRESULT:25094",
+                "ClinicalResultIDs": [
+                    "23371"
+                ],
+                "IsGroupable": false,
+                "DisplayName": "lab result",
+                "DeletedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2023-11-20T13:49:27-05:00"
+                },
+                "Observations": [],
+                "ObservationDateTime": null,
+                "DeletedUser": "API-27306",
+                "DepartmentID": "1",
+                "SourceName": "system",
+                "Priority": "2",
+                "Status": "DELETED",
+                "ResultDocumentID": "116860",
+                "Class": "LABRESULT",
+                "ResultCount": "1",
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2023-11-20T13:49:27-05:00"
+                },
+                "SpecialtyID": "020",
+                "ParentOrderDocumentID": "116860",
+                "ClinicalResultID": "23371",
+                "ClassDescription": "lab result",
+                "PayloadType": "RESULT",
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2016-04-26T16:29:07-04:00"
+                },
+                "HasAttachment": false,
+                "ProviderUsername": "mblake1",
+                "Description": "lab result",
+                "ID": "116860",
+                "ResultCategory": "UNKNOWN",
+                "Source": "SYSTEM",
+                "PatientID": "4406",
+                "DocumentID": "116860",
+                "EncounterID": "34506",
+                "ResultCategoryText": "unknown",
+                "__CLASS__": "Athena::Result::Entity::ResultDocument",
+                "LastModifiedUser": "API-27306",
+                "ChartID": "32988",
+                "Route": "FAX",
+                "CreatedUser": "asonnenfeldt"
+            },
+            "RESULTLATERALITY": "",
+            "SOURCELINKS": [
+                {
+                    "CHARTID": "32988",
+                    "CLINICALENCOUNTERID": "34506",
+                    "ISORDERGROUP": 1,
+                    "ISAPPOINTMENT": "",
+                    "STAGE": null,
+                    "ISAPPOINTMENTTICKLER": null,
+                    "STATUS": "",
+                    "LABEL": "From Order Group",
+                    "LINKTEXT": "CHIP ACH, 04\/26\/2016"
+                }
+            ],
+            "requisition_link_data": {},
+            "shared_labeling_details": {
+                "LABELINGOPTOUT": 0,
+                "PROVIDERUSER": 0,
+                "SUGGESTION": null
+            },
+            "document_save_types": [
+                {
+                    "BUTTONKEY": "SAVE"
+                },
+                {
+                    "BUTTONKEY": "SAVEANDNEXT"
+                }
+            ],
+            "document_labeling_details": null,
+            "hide_reassign_options": "",
+            "document_text_data": {
+                "editable": 0,
+                "document_text": null,
+                "show_at_top": 0
+            },
+            "available_actions_info": {
+                "ACTIONGROUPS": [
+                    {
+                        "ACTIONGROUP": "Completed",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Completed",
+                                "NEXTSTATUS": "REVIEW",
+                                "ORDERING": "6252",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Completed",
+                                "ID": "5252",
+                                "NAME": null,
+                                "ONBEFOREFILTERRULE": null,
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "ACTIONGROUP": "Error Identified",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Error Identified",
+                                "NEXTSTATUS": "REVIEW",
+                                "ORDERING": "4549",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Error Identified - Send back to REVIEW",
+                                "ID": "3549",
+                                "NAME": "Send back to REVIEW",
+                                "ONBEFOREFILTERRULE": "ISRXDENIAL,NOTEPCSINSUBMIT",
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "UNIQUEACTIONGROUP": "ReassignAction",
+                        "ACTIONGROUP": "Leave in PERFORM",
+                        "ACTIONS": [
+                            {
+                                "REASSIGNOPTIONS": {}
+                            }
+                        ]
+                    }
+                ],
+                "SHOWDOCUMENTACTIONS": "1",
+                "ACTIONNOTES": {
+                    "3005": "Unable to identify patient within the practice. The patient is either not found with available information, has multiple records, or is not listed in this medical group. Please confirm that patient has been added to system and update in correct medical group as necessary. Please enter patient name or ID, and return to Athena using the Data Corrected - Reprocess Document option. Thank you.",
+                    "3006": "Unable to classify the document label. Please use Action Notes to identify correct classification, and return to Athena. Thank you.",
+                    "3000": "Unable to read the image. Please re-fax, or contact originating sender. Thank you.",
+                    "3001": "Unable to identify the drug\/dosage combination within our database.  Please choose an appropriate medication via the \"Drug Name\" field.  Thank you.",
+                    "3051": "Barcode failed to split practice-added documents.  Please split and data-enter.  Thank you.",
+                    "3004": "Provider not found within practice. Thank you."
+                }
+            },
+            "digests": {
+                "FULL": "yZaI7hIdgZzeggECiPbGzw",
+                "STRICT": "kUz2dlv28zxgmkRz36ZIKw"
+            }
+        },
+        "document": {
+            "ChartDisplayDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-26T16:29:07-04:00"
+            },
+            "VersionToken": "14244174",
+            "DisplayName": "interpretation",
+            "TieToResultID": "116860",
+            "AssignedTo": "mblake1",
+            "DepartmentID": "1",
+            "SourceName": "manual",
+            "Priority": "2",
+            "Status": "PERFORM",
+            "Class": "INTERPRETATION",
+            "LastModifiedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2023-11-30T07:04:24-05:00"
+            },
+            "ParentOrderDocumentID": "116861",
+            "SpecialtyID": "011",
+            "ClassDescription": "interpretation",
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-26T16:29:07-04:00"
+            },
+            "ProviderUsername": "mblake1",
+            "Description": "interpretation",
+            "ID": "116861",
+            "Source": "MANUAL",
+            "PatientID": "4406",
+            "EncounterID": "34506",
+            "__CLASS__": "Athena::Result::Entity::InterpretationDocument",
+            "LastModifiedUser": "ATHENA",
+            "ChartID": "32988",
+            "TieToDocumentJoinID": "721",
+            "Route": "FAX",
+            "CreatedUser": "asonnenfeldt"
+        }
+    }
+}

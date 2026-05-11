@@ -1,0 +1,537 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=classic_document&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&documentId=116881&documentClass=LETTER",
+    "classic_document": {
+        "details": {
+            "LETTERTEXT": "\n<div id=\"A2cb51c06a015c60966\">\n<\/div>\n",
+            "SHOWENCOUNTERDELETEDWARNING": null,
+            "actions": [
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Create",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "ATHENA",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "116881",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Letter - Patient Care Summary",
+                    "LASTMODIFIEDBY": null,
+                    "ASSIGNEDTOORG": "ATHENA",
+                    "CREATED": "04\/27\/2016",
+                    "CREATEDTIMESTAMP": "04\/27\/16 08:36am",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "ATHENA",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "NEW",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Create",
+                    "CLEAREDBY": null,
+                    "NOTE": "",
+                    "CREATEDSECONDS": "483439007",
+                    "forcelast": 0,
+                    "CREATEDBYORG": null,
+                    "ACTION": null,
+                    "systemuser": 1,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "<i>mblake1<\/i>",
+                    "DOCUMENTACTIONREASONID": "1",
+                    "STATUS": "REVIEW",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": null,
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": null,
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "206195",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "LETTER",
+                    "COORDINATORSOURCE": null
+                },
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Approve - Notify by Portal",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "<i>asonnenfeldt<\/i>",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "116881",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Letter - Patient Care Summary",
+                    "LASTMODIFIEDBY": null,
+                    "ASSIGNEDTOORG": null,
+                    "CREATED": "04\/27\/2016",
+                    "CREATEDTIMESTAMP": "04\/27\/16 08:50am",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "asonnenfeldt",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "LETTER_NOTIFY_PORTAL",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Approve",
+                    "CLEAREDBY": null,
+                    "NOTE": "",
+                    "CREATEDSECONDS": "483439849",
+                    "forcelast": 0,
+                    "CREATEDBYORG": "ATHENA",
+                    "ACTION": "Notify by Portal",
+                    "systemuser": 0,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": "PORTAL",
+                    "DOCUMENTACTIONREASONID": "3401",
+                    "STATUS": "NOTIFY",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": null,
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": null,
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "206220",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "LETTER",
+                    "COORDINATORSOURCE": null
+                },
+                {
+                    "OUTBOUNDFAXCONTENTID": null,
+                    "ACTIONTEXT": "Notification Completed - By Portal",
+                    "PORTALEMAILLOGINENABLED": 1,
+                    "CREATEDBYNAME": "ATHENA",
+                    "PRIORITYYN": "",
+                    "DOCUMENTID": "116881",
+                    "PATIENTID": "4406",
+                    "DOCUMENTDESCRIPTION": "Letter - Patient Care Summary",
+                    "LASTMODIFIEDBY": null,
+                    "ASSIGNEDTOORG": null,
+                    "CREATED": "04\/27\/2016",
+                    "CREATEDTIMESTAMP": "04\/27\/16 08:51am",
+                    "PORTALTHIRDPARTYFIRSTNAME": null,
+                    "PORTALENABLED": 1,
+                    "CREATEDBY": "ATHENA",
+                    "PORTALTHIRDPARTYLASTNAME": null,
+                    "SYSTEMKEY": "NOTIFICATIONBYPORTAL",
+                    "CLINICALSPERMISSION": 1,
+                    "CHARTID": "32988",
+                    "ACTIONGROUP": "Notification Completed",
+                    "CLEAREDBY": null,
+                    "NOTE": "",
+                    "CREATEDSECONDS": "483439860",
+                    "forcelast": 0,
+                    "CREATEDBYORG": null,
+                    "ACTION": "By Portal",
+                    "systemuser": 1,
+                    "PRIORITY": "2",
+                    "ASSIGNEDTO": null,
+                    "DOCUMENTACTIONREASONID": "3405",
+                    "STATUS": "CLOSED",
+                    "FAXDOWNLOADPERMISSION": 1,
+                    "FAXBATCHACTIONREASONKEY": null,
+                    "HIGHLIGHTNOTE": null,
+                    "PORTALTHIRDPARTYUSERID": null,
+                    "SAMLLOGINENABLED": 0,
+                    "LASTMODIFIED": null,
+                    "SENDFAXUNIQUEID": null,
+                    "ID": "206221",
+                    "EXTERNALREASONCODE": null,
+                    "CLEARED": null,
+                    "DOCUMENTCLASS": "LETTER",
+                    "COORDINATORSOURCE": null
+                }
+            ],
+            "show_document_actions": "",
+            "disable_reassign_picker": null,
+            "tie_to_surgery_data": {
+                "TIETOSURGERYOPTIONS": {
+                    "VALUES": null,
+                    "NAMES": null
+                },
+                "TIETOORDERCLASS": null,
+                "SHOWUPCOMINGSURGERIES": null,
+                "TIETOORDERID": null,
+                "SHOWTIETOSURGERY": null
+            },
+            "SUBMITBYATHENAFAXACTION": "3400",
+            "requisition_authorization_data": {
+                "sender_service_url": "https:\/\/auth-sender.preview.api.athena.io\/collector-authsender-api_preview\/api\/"
+            },
+            "SHOWCONFIDENTIALDATAALERT": "",
+            "SOURCELINKS": [
+                {
+                    "CHARTID": "32988",
+                    "CLINICALENCOUNTERID": "34507",
+                    "ISORDERGROUP": 0,
+                    "ISAPPOINTMENT": "",
+                    "STAGE": null,
+                    "ISAPPOINTMENTTICKLER": null,
+                    "STATUS": "OPEN",
+                    "LABEL": "From Encounter",
+                    "LINKTEXT": "CHIP ACH, XRAY 04\/27\/2016 (OPEN)"
+                }
+            ],
+            "APPOINTMENTREQUESTDOCUMENTCLASS": null,
+            "shared_labeling_details": {
+                "LABELINGOPTOUT": 0,
+                "PROVIDERUSER": 0,
+                "SUGGESTION": null
+            },
+            "CHARTEXPORTTYPE": "PATIENTCARESUMMARY",
+            "document_text_data": {
+                "editable": 0,
+                "document_text": null,
+                "show_at_top": 0
+            },
+            "available_actions_info": {
+                "ACTIONGROUPS": [
+                    {
+                        "ACTIONGROUP": "Delete",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Delete",
+                                "NEXTSTATUS": "DELETED",
+                                "ORDERING": "4140",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Delete - Duplicate",
+                                "ID": "3140",
+                                "NAME": "Duplicate",
+                                "ONBEFOREFILTERRULE": null,
+                                "PERMISSIONFLAG": null
+                            },
+                            {
+                                "ACTIONGROUP": "Delete",
+                                "NEXTSTATUS": "DELETED",
+                                "ORDERING": "4150",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Delete - Other",
+                                "ID": "3150",
+                                "NAME": "Other",
+                                "ONBEFOREFILTERRULE": null,
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "ACTIONGROUP": "Reopen",
+                        "ACTIONS": [
+                            {
+                                "ACTIONGROUP": "Reopen",
+                                "NEXTSTATUS": null,
+                                "ORDERING": "4700",
+                                "TABLESPACEFILTER": null,
+                                "DESCRIPTION": "Reopen - Send to previous status\/assigned",
+                                "ID": "3700",
+                                "NAME": "Send to previous status\/assigned",
+                                "ONBEFOREFILTERRULE": "NOTEPCSINSUBMIT,NOTREFUSEDVACCINE,EPRIORORDERNOTDELETED,EPRIORORDERCANREOPEN,NOTCANCELLED",
+                                "PERMISSIONFLAG": null
+                            }
+                        ]
+                    },
+                    {
+                        "UNIQUEACTIONGROUP": "ReassignAction",
+                        "ACTIONGROUP": "Leave in CLOSED",
+                        "ACTIONS": [
+                            {
+                                "REASSIGNOPTIONS": {}
+                            }
+                        ]
+                    }
+                ],
+                "SHOWDOCUMENTACTIONS": "1",
+                "ACTIONNOTES": {
+                    "3005": "Unable to identify patient within the practice. The patient is either not found with available information, has multiple records, or is not listed in this medical group. Please confirm that patient has been added to system and update in correct medical group as necessary. Please enter patient name or ID, and return to Athena using the Data Corrected - Reprocess Document option. Thank you.",
+                    "3006": "Unable to classify the document label. Please use Action Notes to identify correct classification, and return to Athena. Thank you.",
+                    "3000": "Unable to read the image. Please re-fax, or contact originating sender. Thank you.",
+                    "3001": "Unable to identify the drug\/dosage combination within our database.  Please choose an appropriate medication via the \"Drug Name\" field.  Thank you.",
+                    "3051": "Barcode failed to split practice-added documents.  Please split and data-enter.  Thank you.",
+                    "3004": "Provider not found within practice. Thank you."
+                }
+            },
+            "LETTERGROUPS": [
+                {
+                    "Letters": [
+                        {
+                            "LetterGroupID": "116881",
+                            "ChartDisplayDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2016-04-27T08:36:47-04:00"
+                            },
+                            "SubClass": "LETTER_PATIENTCARESUMMARY",
+                            "VersionToken": "11982126",
+                            "DisplayName": "letter - patient care summary",
+                            "ApprovalActionKey": "LETTER_NOTIFY_PORTAL",
+                            "LetterText": "To protect PHI, the data in this field has been intentionally removed.",
+                            "RecipientIDType": "PATIENTID",
+                            "DepartmentID": "1",
+                            "Priority": "2",
+                            "Status": "CLOSED",
+                            "ClinicalLetterID": "15466",
+                            "Class": "LETTER",
+                            "LastModifiedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2016-04-27T08:51:00-04:00"
+                            },
+                            "ClassDescription": "letter - patient care summary",
+                            "FHIRIDs": [],
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2016-04-27T08:36:47-04:00"
+                            },
+                            "PayloadType": "LETTER",
+                            "Editable": false,
+                            "RecipientPLCName": "Ram Test Appointment",
+                            "PaperFormID": "682",
+                            "Description": "Test Appointment, Ram  ",
+                            "Source": "ENCOUNTER",
+                            "AutoApprove": "NOW",
+                            "EncounterID": "34507",
+                            "__CLASS__": "Athena::Order::Entity::OrderRequest::Letter",
+                            "ApprovalActionReasonID": "3401",
+                            "RecipientID": "4406",
+                            "RecipientClassName": "Patient",
+                            "ApprovalActionName": "Notify by Portal",
+                            "RecipientName": "TEST APPOINTMENT, RAM  ",
+                            "ExternalCodes": [],
+                            "PaperFormName": "Patient Care Summary",
+                            "ApprovedUser": "asonnenfeldt",
+                            "SpecialtyID": "011",
+                            "ParentOrderDocumentID": "116881",
+                            "ApprovedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2016-04-27"
+                            },
+                            "IsPatientCareSummary": true,
+                            "ProviderUsername": "mblake1",
+                            "ID": "116881",
+                            "PatientID": "4406",
+                            "RecipientClassID": "41",
+                            "ChartID": "32988",
+                            "LastModifiedUser": "ATHENA",
+                            "Route": "FAX",
+                            "CreatedUser": "ATHENA"
+                        }
+                    ],
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::LetterGroup",
+                    "ID": "116881",
+                    "VersionToken": -1
+                }
+            ],
+            "LOCKDOCUMENT": 1,
+            "scan_page_details": null,
+            "LETTERTEMPLATEOPTIONS": [
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "1481",
+                    "ORDERING": "0",
+                    "NAME": "**11111111 PK Test Letter"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "2061",
+                    "ORDERING": "1",
+                    "NAME": "CityMD test Discharge Summary (original)"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "2001",
+                    "ORDERING": "1",
+                    "NAME": "Testing Patient Letter Beta"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "1682",
+                    "ORDERING": null,
+                    "NAME": "AHS Vascular Surgery Consult"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "1681",
+                    "ORDERING": null,
+                    "NAME": "AHS Vascular Sx Imaging Note"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "1561",
+                    "ORDERING": null,
+                    "NAME": "Altered Discharge"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "1001",
+                    "ORDERING": null,
+                    "NAME": "Encounter Summary"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "998",
+                    "ORDERING": null,
+                    "NAME": "Lab Result Letter"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "1017",
+                    "ORDERING": null,
+                    "NAME": "New Brief Consult"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "1018",
+                    "ORDERING": null,
+                    "NAME": "New Detailed Consult"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": "X",
+                    "ID": "22",
+                    "ORDERING": null,
+                    "NAME": "OLD - DO NOT USE: Patient Care Summary"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "1281",
+                    "ORDERING": null,
+                    "NAME": "PT Eval Letter"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": "Y",
+                    "ID": "682",
+                    "ORDERING": null,
+                    "NAME": "Patient Care Summary"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "1000",
+                    "ORDERING": null,
+                    "NAME": "Preparticipation Physical Evaluation"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "1241",
+                    "ORDERING": null,
+                    "NAME": "Restyled Consult Letter (athena)"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "1003",
+                    "ORDERING": null,
+                    "NAME": "Return to Work\/School Form (with confidentiality fax warning)"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "1016",
+                    "ORDERING": null,
+                    "NAME": "Script Letter"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "841",
+                    "ORDERING": null,
+                    "NAME": "Test PCS"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "2101",
+                    "ORDERING": null,
+                    "NAME": "[Inpatient] Discharge Summary"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "1903",
+                    "ORDERING": null,
+                    "NAME": "opennote"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "141",
+                    "ORDERING": null,
+                    "NAME": "test chart letter"
+                },
+                {
+                    "PATIENTCARESUMMARYYN": null,
+                    "ID": "301",
+                    "ORDERING": null,
+                    "NAME": "test3"
+                }
+            ],
+            "portal_indicator_html": "",
+            "SHOWRTOLINK": "",
+            "APPOINTMENTREQUESTDOCUMENTID": null,
+            "ISDS4PRESTRICTED": 0,
+            "requisition_link_data": {},
+            "document_save_types": [
+                {
+                    "BUTTONKEY": "SAVE"
+                },
+                {
+                    "BUTTONKEY": "SAVEANDNEXT"
+                }
+            ],
+            "document_labeling_details": null,
+            "hide_reassign_options": "1",
+            "CHARTEXPORTBODY": "\n<div id=\"A2cb51c06a015c60013\">To view the content for this document, you must re-open it.\n<\/div>\n",
+            "digests": {
+                "FULL": "nIpFeI0Thl2rj\/YaVAe3IQ",
+                "STRICT": "SqSTqdwACzonmiB881CO1g"
+            }
+        },
+        "document": {
+            "LetterGroupID": "116881",
+            "ChartDisplayDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-27T08:36:47-04:00"
+            },
+            "SubClass": "LETTER_PATIENTCARESUMMARY",
+            "VersionToken": "11982126",
+            "DisplayName": "letter - patient care summary",
+            "ApprovalActionKey": "LETTER_NOTIFY_PORTAL",
+            "LetterText": "To protect PHI, the data in this field has been intentionally removed.",
+            "RecipientIDType": "PATIENTID",
+            "DepartmentID": "1",
+            "Priority": "2",
+            "Status": "CLOSED",
+            "ClinicalLetterID": "15466",
+            "Class": "LETTER",
+            "LastModifiedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-27T08:51:00-04:00"
+            },
+            "ClassDescription": "letter - patient care summary",
+            "FHIRIDs": [],
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-27T08:36:47-04:00"
+            },
+            "PayloadType": "LETTER",
+            "Editable": false,
+            "RecipientPLCName": "Ram Test Appointment",
+            "PaperFormID": "682",
+            "Description": "Test Appointment, Ram  ",
+            "Source": "ENCOUNTER",
+            "AutoApprove": "NOW",
+            "EncounterID": "34507",
+            "__CLASS__": "Athena::Order::Entity::OrderRequest::Letter",
+            "ApprovalActionReasonID": "3401",
+            "RecipientID": "4406",
+            "RecipientClassName": "Patient",
+            "ApprovalActionName": "Notify by Portal",
+            "RecipientName": "TEST APPOINTMENT, RAM  ",
+            "ExternalCodes": [],
+            "PaperFormName": "Patient Care Summary",
+            "ApprovedUser": "asonnenfeldt",
+            "SpecialtyID": "011",
+            "ParentOrderDocumentID": "116881",
+            "ApprovedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-27"
+            },
+            "IsPatientCareSummary": true,
+            "ProviderUsername": "mblake1",
+            "ID": "116881",
+            "PatientID": "4406",
+            "RecipientClassID": "41",
+            "ChartID": "32988",
+            "LastModifiedUser": "ATHENA",
+            "Route": "FAX",
+            "CreatedUser": "ATHENA"
+        }
+    }
+}

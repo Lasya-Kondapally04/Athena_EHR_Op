@@ -1,0 +1,39 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=document_view_data&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&document_class=PHYSICIANAUTH&document_id=208662&url=https%3A%2F%2Fpreview.athenahealth.com%2F195903%2F5",
+    "document_view_data": {
+        "document": {
+            "ChartDisplayDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2023-09-11T02:30:54-04:00"
+            },
+            "VersionToken": "11597211",
+            "DisplayName": "Physician Authorization",
+            "AssignedTo": "7 HILLS DEPARTMENT STAFF",
+            "DepartmentID": "150",
+            "Priority": "2",
+            "SourceName": "interface",
+            "PatientDOB": "01\/01\/1961",
+            "Status": "REVIEW",
+            "Class": "PHYSICIANAUTH",
+            "LastModifiedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2023-09-11T02:30:54-04:00"
+            },
+            "ParentOrderDocumentID": "208662",
+            "ClassDescription": "physician authorization",
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2023-09-11T02:30:54-04:00"
+            },
+            "PayloadType": "DOCUMENT",
+            "Description": "Physician Authorization",
+            "ID": "208662",
+            "Source": "INTERFACE",
+            "PatientID": "4406",
+            "__CLASS__": "Athena::InternalDocument::Entity::Document::PhysicianAuth",
+            "LastModifiedUser": "API-27306",
+            "ChartID": "32988",
+            "Route": "FAX",
+            "CreatedUser": "API-27306"
+        }
+    }
+}

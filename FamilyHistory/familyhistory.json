@@ -1,0 +1,3314 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=cancer_cases_note&sources=chart_abstraction&sources=family_history_by_problem&sources=social_history_template_availability&sources=social_history_declined_reason_options&sources=family_history_default_list&sources=gpal_history&sources=gpal_score&sources=gyn_history&sources=gyn_toggle_state&sources=past_medical_history&sources=perinatal_history&sources=perinatal_toggle_state&sources=pregnancy_history&sources=social_history&sources=gender_and_sexual_identity_questions&sources=episodes_of_care&sources=file_links&sources=has_cancer_cases&sources=has_cancer_cases_container&sources=pregnancy_problems&sources=ob_episode&sources=sex_gender_profile&sources=text_macros&request_priority=6&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&chart_id=32988&department_id=150&patient_id=4406&provider_id=27&specialty_id=001",
+    "family_history_default_list": [
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "106190000",
+            "NAME": "Allergy"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "IMOCODE": null,
+            "CODE": "26929004",
+            "NAME": "Alzheimer's disease"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "9631008",
+            "NAME": "Ankylosing spondylitis"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "3723001",
+            "NAME": "Arthritis"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "195967001",
+            "NAME": "Asthma"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "IMOCODE": null,
+            "CODE": "64779008",
+            "NAME": "Blood coagulation disorder"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "870711002",
+            "NAME": "Cancerous ulcer"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "269533000",
+            "NAME": "Carcinoma of colon"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "230690007",
+            "NAME": "Cerebrovascular accident"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "13645005",
+            "NAME": "Chronic obstructive pulmonary disease"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "IMOCODE": null,
+            "CODE": "53741008",
+            "NAME": "Coronary arteriosclerosis"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "34000006",
+            "NAME": "Crohn's disease"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "52448006",
+            "NAME": "Dementia"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "35489007",
+            "NAME": "Depressive disorder"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "73211009",
+            "NAME": "Diabetes mellitus"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "IMOCODE": null,
+            "CODE": "235856003",
+            "NAME": "Disease of liver"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "IMOCODE": null,
+            "CODE": "362969004",
+            "NAME": "Disorder of endocrine system"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "IMOCODE": null,
+            "CODE": "19829001",
+            "NAME": "Disorder of lung"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "14304000",
+            "NAME": "Disorder of thyroid gland"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "397881000",
+            "NAME": "Diverticular disease"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "23986001",
+            "NAME": "Glaucoma"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "90560007",
+            "NAME": "Gout"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "56265001",
+            "NAME": "Heart disease"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "IMOCODE": null,
+            "CODE": "84114007",
+            "NAME": "Heart failure"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "13644009",
+            "NAME": "Hypercholesterolemia"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "55822004",
+            "NAME": "Hyperlipidemia"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "IMOCODE": null,
+            "CODE": "38341003",
+            "NAME": "Hypertensive disorder"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "239796000",
+            "NAME": "Juvenile chronic arthritis"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "IMOCODE": null,
+            "CODE": "90708001",
+            "NAME": "Kidney disease"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "66270006",
+            "NAME": "Koilonychia"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "87163000",
+            "NAME": "Leukemia (morphologic abnormality)"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "200936003",
+            "NAME": "Lupus erythematosus"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "254837009",
+            "NAME": "Malignant neoplasm of breast"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "363406005",
+            "NAME": "Malignant neoplasm of colon"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "363358000",
+            "NAME": "Malignant neoplasm of lung"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "399068003",
+            "NAME": "Malignant neoplasm of prostate"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "372130007",
+            "NAME": "Malignant neoplasm of skin"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "IMOCODE": null,
+            "CODE": "363346000",
+            "NAME": "Malignant neoplastic disease"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "160430005",
+            "NAME": "Mother deceased"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "22298006",
+            "NAME": "Myocardial infarction"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "IMOCODE": null,
+            "CODE": "414916001",
+            "NAME": "Obesity"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "64859006",
+            "NAME": "Osteoporosis"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "69896004",
+            "NAME": "Rheumatoid arthritis"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "398447004",
+            "NAME": "Severe acute respiratory syndrome"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "IMOCODE": null,
+            "CODE": "73430006",
+            "NAME": "Sleep apnea"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": null,
+            "IMOCODE": null,
+            "CODE": "66214007",
+            "NAME": "Substance abuse"
+        },
+        {
+            "IMODESCRIPTION": null,
+            "SPECIALTYIDS": [
+                "006"
+            ],
+            "IMOCODE": null,
+            "CODE": "95281009",
+            "NAME": "Sudden cardiac death"
+        }
+    ],
+    "family_history_by_problem": {
+        "note_last_modified_user": "API-27306",
+        "unknown_last_modified_date": "2016-04-27T08:41:38-04:00",
+        "note_version_token": "13018",
+        "unknown": 1,
+        "family_history": [
+            {
+                "code": {
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "arthritis",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "3723001"
+                },
+                "relations": [
+                    {
+                        "relation": "Mother",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2016-12-09T11:10:56-05:00"
+                            },
+                            "Notes": "test note",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:34012",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "arthritis",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "3723001"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "LastModifiedUser": "p-xadmin",
+                            "ID": "2342",
+                            "LastModifiedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-05-28T00:10:47-04:00"
+                            },
+                            "CreatedUser": "asonnenfeldt"
+                        }
+                    },
+                    {
+                        "relation": "Sister",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2017-12-05T17:06:45-05:00"
+                            },
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "arthritis",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "3723001"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "2832",
+                            "CreatedUser": "asonnenfeldt"
+                        }
+                    },
+                    {
+                        "relation": "Sister",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2022-08-06T09:58:10-04:00"
+                            },
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "arthritis",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "3723001"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "4084",
+                            "CreatedUser": "API-27306"
+                        }
+                    },
+                    {
+                        "relation": "Sister",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2022-08-06T10:33:06-04:00"
+                            },
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "arthritis",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "3723001"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "4085",
+                            "CreatedUser": "API-27306"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "HasLaterality": true,
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "monkey hand",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "249756000"
+                },
+                "relations": [
+                    {
+                        "relation": "Mother",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2019-07-29T09:04:57-04:00"
+                            },
+                            "OnsetAge": "0",
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "HasLaterality": true,
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "monkey hand",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "249756000"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "3270",
+                            "CreatedUser": "asonnenfeldt"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "monkey bite",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "242619002"
+                },
+                "relations": [
+                    {
+                        "relation": "Mother",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2019-07-29T09:05:25-04:00"
+                            },
+                            "OnsetAge": "0",
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "monkey bite",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "242619002"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "3271",
+                            "CreatedUser": "asonnenfeldt"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "injury of head",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "82271004"
+                },
+                "relations": [
+                    {
+                        "relation": "Mother",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2022-09-23T08:30:51-04:00"
+                            },
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "injury of head",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "82271004"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "4214",
+                            "CreatedUser": "API-27306"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "abdominal pain",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "21522001"
+                },
+                "relations": [
+                    {
+                        "relation": "Mother",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2023-03-16T10:01:48-04:00"
+                            },
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "abdominal pain",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "21522001"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "4603",
+                            "CreatedUser": "API-27306"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "Family history of myocardial infarction male first degree age known",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "315619001"
+                },
+                "relations": [
+                    {
+                        "relation": "Mother",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-08-06T22:34:39-04:00"
+                            },
+                            "OnsetAge": "74",
+                            "Notes": "Was fishing at the time. At least he went doing someting he loved.",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "Family history of myocardial infarction male first degree age known",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "315619001"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6550",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Brother",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2023-10-06T05:58:24-04:00"
+                            },
+                            "OnsetAge": "74",
+                            "Notes": "Was fishing at the time. At least he went doing someting he loved.",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "Family history of myocardial infarction male first degree age known",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "315619001"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "4905",
+                            "CreatedUser": "API-27306"
+                        }
+                    },
+                    {
+                        "relation": "Sister",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2024-08-07T00:33:14-04:00"
+                            },
+                            "OnsetAge": "74",
+                            "Notes": "Was fishing at the time. At least he went doing someting he loved.",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "Family history of myocardial infarction male first degree age known",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "315619001"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "5632",
+                            "CreatedUser": "API-27306"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-09-23T01:37:41-04:00"
+                            },
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "Family history of myocardial infarction male first degree age known",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "315619001"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6668",
+                            "CreatedUser": "API-28571"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "glaucoma suspect",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "833278008"
+                },
+                "relations": [
+                    {
+                        "relation": "Mother",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-08-21T15:14:15-04:00"
+                            },
+                            "OnsetAge": "35",
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "glaucoma suspect",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "833278008"
+                            },
+                            "IMOData": {
+                                "VersionToken": -1,
+                                "Code": "16894",
+                                "__CLASS__": "Athena::Chart::Entity::Family::IMOFamilyHistory",
+                                "Description": "Glaucoma suspect",
+                                "Id": "41",
+                                "PatientFacingDescription": "Glaucoma suspect"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6602",
+                            "CreatedUser": "p-kkaran"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "dementia",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "52448006"
+                },
+                "relations": [
+                    {
+                        "relation": "Sister",
+                        "problem": {
+                            "OnsetAge": "50",
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2017-12-05T17:05:29-05:00"
+                            },
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:52002",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "dementia",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "52448006"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "LastModifiedUser": "asonnenfeldt",
+                            "ID": "2830",
+                            "DiedOfAge": "53",
+                            "LastModifiedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2017-12-05T17:08:40-05:00"
+                            },
+                            "CreatedUser": "asonnenfeldt"
+                        }
+                    },
+                    {
+                        "relation": "Sister",
+                        "problem": {
+                            "OnsetAge": "40",
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2017-12-05T00:00:00-05:00"
+                            },
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:52004",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "dementia",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "52448006"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "LastModifiedUser": "asonnenfeldt",
+                            "ID": "2831",
+                            "DiedOfAge": "43",
+                            "LastModifiedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2017-12-05T17:08:55-05:00"
+                            },
+                            "CreatedUser": "asonnenfeldt"
+                        }
+                    },
+                    {
+                        "relation": "Sister",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2023-03-16T08:15:32-04:00"
+                            },
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "dementia",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "52448006"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "4599",
+                            "CreatedUser": "p-aransing"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "HasLaterality": true,
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "hearing loss",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "15188001"
+                },
+                "relations": [
+                    {
+                        "relation": "Sister",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2022-09-30T08:30:07-04:00"
+                            },
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "HasLaterality": true,
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "hearing loss",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "15188001"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "4247",
+                            "CreatedUser": "API-27306"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "testosterone measurement, total",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "85470006"
+                },
+                "relations": [
+                    {
+                        "relation": "Sister",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2022-09-30T08:30:22-04:00"
+                            },
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "testosterone measurement, total",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "85470006"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "4248",
+                            "CreatedUser": "API-27306"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "head and neck injury",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "282749008"
+                },
+                "relations": [
+                    {
+                        "relation": "Sister",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2022-09-30T08:43:51-04:00"
+                            },
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "head and neck injury",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "282749008"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "4249",
+                            "CreatedUser": "API-27306"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "asthma",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "195967001"
+                },
+                "relations": [
+                    {
+                        "relation": "Daughter",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2019-06-19T10:51:07-04:00"
+                            },
+                            "OnsetAge": "5",
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "asthma",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "195967001"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "3230",
+                            "CreatedUser": "kneuberger"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "mpox",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "359814004"
+                },
+                "relations": [
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2019-07-29T09:05:41-04:00"
+                            },
+                            "OnsetAge": "0",
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "mpox",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "359814004"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "3272",
+                            "CreatedUser": "asonnenfeldt"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "uses contraception",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "13197004"
+                },
+                "relations": [
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-11-27T06:47:16-05:00"
+                            },
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "uses contraception",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "13197004"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6956",
+                            "CreatedUser": "API-28571"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "primate space present",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "697955008"
+                },
+                "relations": [
+                    {
+                        "relation": "Maternal Uncle",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2019-07-29T09:06:37-04:00"
+                            },
+                            "OnsetAge": "2",
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "primate space present",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "697955008"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "3273",
+                            "CreatedUser": "asonnenfeldt"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "gout",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "90560007"
+                },
+                "relations": [
+                    {
+                        "relation": "Maternal Uncle",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2022-08-04T10:20:45-04:00"
+                            },
+                            "OnsetAge": "66",
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "gout",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "90560007"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "4077",
+                            "CreatedUser": "p-aransing"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "heart disease",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "56265001"
+                },
+                "relations": [
+                    {
+                        "relation": "Maternal Aunt",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2022-08-05T08:41:55-04:00"
+                            },
+                            "OnsetAge": "55",
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "heart disease",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "56265001"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "4083",
+                            "CreatedUser": "p-aransing"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "carcinoma of colon",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "269533000"
+                },
+                "relations": [
+                    {
+                        "relation": "Unspecified Relation",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2022-08-13T23:50:10-04:00"
+                            },
+                            "OnsetAge": "30",
+                            "Notes": "",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "carcinoma of colon",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "269533000"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "4097",
+                            "CreatedUser": "p-aransing"
+                        }
+                    }
+                ]
+            },
+            {
+                "code": {
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "diabetes mellitus",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "73211009"
+                },
+                "relations": [
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-09-25T14:24:35-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6690",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-09-29T03:31:20-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6693",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-08T03:26:44-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6725",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-09T01:00:49-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6726",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-09T01:01:23-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6728",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-09T01:20:27-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6730",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-22T07:34:32-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6751",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-22T08:35:07-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6752",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-22T10:49:05-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6753",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-22T23:59:35-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6754",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T00:25:42-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6755",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T01:22:23-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6756",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T01:33:06-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6757",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T01:45:41-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6758",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T02:20:26-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6759",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T02:25:29-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6760",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T02:35:08-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6761",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T03:27:59-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6762",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T03:44:32-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6763",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T03:57:45-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6764",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T04:26:58-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6765",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T04:46:42-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6766",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T04:55:59-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6767",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T05:39:37-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6768",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T09:38:51-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6769",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T09:38:55-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6770",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T11:52:15-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6771",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T11:52:17-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6772",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T12:16:59-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6773",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T12:17:01-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6774",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T12:59:57-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6775",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-23T13:00:00-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6776",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T01:14:48-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6777",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T01:14:51-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6778",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T02:15:15-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6779",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T02:15:18-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6780",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T02:59:14-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6781",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T03:00:47-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6782",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T03:16:35-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6783",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T04:10:41-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6784",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T05:16:06-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6785",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T05:44:51-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6786",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T05:53:47-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6787",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T06:21:05-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6788",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T06:25:13-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6789",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T06:30:42-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6790",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T06:42:18-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6791",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T06:43:52-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6792",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T06:45:06-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6793",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T06:51:23-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6794",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T09:16:01-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6795",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T15:01:38-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6796",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-24T16:57:23-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6797",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-25T01:04:04-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6798",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-25T01:17:09-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6799",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-25T02:51:26-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6800",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-25T02:59:39-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6801",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-25T03:36:56-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6802",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-25T04:05:37-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6803",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-25T08:48:01-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6804",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-25T08:57:23-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6805",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-25T09:13:17-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6806",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-25T09:22:47-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6807",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-25T09:35:27-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6808",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-25T09:43:29-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6809",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-25T09:56:59-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6810",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-25T23:48:03-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6811",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-26T04:39:32-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6812",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-26T05:23:17-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6813",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-26T06:49:13-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6814",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-26T08:54:35-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6815",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-26T09:13:04-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6816",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-26T09:18:57-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6817",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-26T09:46:09-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6818",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-26T10:07:40-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6819",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-26T10:30:21-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6820",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-26T13:34:35-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6821",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-26T14:23:07-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6822",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-26T15:04:48-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6823",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-26T16:55:17-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6824",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-26T17:10:46-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6825",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-26T23:46:52-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6826",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-26T23:52:59-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6827",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-27T00:01:33-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6828",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-27T00:22:03-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6829",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-27T02:59:13-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6830",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-27T06:43:11-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6837",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-27T08:23:28-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6838",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-27T09:16:50-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6841",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-11-26T05:51:59-05:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6952",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Father",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-09T01:01:15-04:00"
+                            },
+                            "Notes": "Diagnosed at age 45",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6727",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Paternal Grandmother",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-09T01:30:59-04:00"
+                            },
+                            "Notes": "Diagnosed at age 55",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6732",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Paternal Grandmother",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-14T10:10:53-04:00"
+                            },
+                            "Notes": "Diagnosed at age 55",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6739",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Paternal Grandmother",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-14T12:20:39-04:00"
+                            },
+                            "Notes": "Diagnosed at age 55",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6741",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Maternal Grandfather",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-11T09:48:30-04:00"
+                            },
+                            "Notes": "Diagnosed at age 55",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6735",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Paternal Uncle",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-12T14:35:05-04:00"
+                            },
+                            "Notes": "Diagnosed at age 55",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6736",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Son",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-14T10:52:41-04:00"
+                            },
+                            "Notes": "Diagnosed at age 55",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6740",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Son",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-15T08:24:41-04:00"
+                            },
+                            "Notes": "Diagnosed at age 55",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6742",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Daughter",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-15T08:25:06-04:00"
+                            },
+                            "Notes": "Diagnosed at age 55",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6743",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Maternal Uncle",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-17T01:54:10-04:00"
+                            },
+                            "Notes": "Diagnosed at age 55",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6745",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Maternal Grandmother",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-17T02:15:35-04:00"
+                            },
+                            "Notes": "Diagnosed at age 55",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6746",
+                            "CreatedUser": "API-28571"
+                        }
+                    },
+                    {
+                        "relation": "Maternal Grandmother",
+                        "problem": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2025-10-17T02:20:28-04:00"
+                            },
+                            "Notes": "Diagnosed at age 55",
+                            "VersionToken": "PATIENTSNOMEDFAMILYHISTORY:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+                            "ID": "6747",
+                            "CreatedUser": "API-28571"
+                        }
+                    }
+                ]
+            }
+        ],
+        "unknown_last_modified_user": "asonnenfeldt",
+        "simple": {
+            "__CLASS__": "Athena::Chart::Entity::Family::Problem",
+            "VersionToken": "PATIENTFAMILYHISTORY:-1"
+        },
+        "note": "This is for problem testing note 12345",
+        "note_last_modified_date": "2023-04-19T09:05:54-04:00"
+    }
+}

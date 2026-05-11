@@ -1,0 +1,240 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=document_view_data&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&document_class=VACCINE&document_id=119294&url=https%3A%2F%2Fpreview.athenahealth.com%2F195903%2F5",
+    "document_view_data": {
+        "document": {
+            "ChartDisplayDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-07-18T10:17:04-04:00"
+            },
+            "TextConsent": false,
+            "IsPartiallyAdministered": false,
+            "VersionToken": "CLINICALVACCINE:67081;DOCUMENT:14242362",
+            "DiagnosisList": [
+                {
+                    "SequenceNumber": "0",
+                    "DocumentID": "119294",
+                    "SnomedICDCodes": [
+                        {
+                            "UnstrippedDiagnosisCode": "Z23",
+                            "VersionToken": -1,
+                            "Code": "Z23",
+                            "__CLASS__": "Athena::Entity::Code::ICD10",
+                            "Description": "Encounter for immunization",
+                            "CodeSet": "ICD10",
+                            "ICDCodeAllID": "90470"
+                        }
+                    ],
+                    "VersionToken": -1,
+                    "IMODiagnosisList": [],
+                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Diagnosis",
+                    "DiagnosisCode": {
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Administration of influenza vaccine",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "86198006"
+                    },
+                    "ID": "14643"
+                }
+            ],
+            "UIOrigin": "ax_search",
+            "AdministrationRouteID": "186",
+            "DisplayName": "Adacel (Tdap Adolesn\/Adult)(PF)2 Lf-(2.5-5-3-5)-5 Lf\/0.5 mL IM syringe",
+            "DefaultsFromID": "348200",
+            "InvalidQUoMRemoved": false,
+            "ClinicalOrderType": {
+                "OrderCode": "554842",
+                "SnomedCodes": [],
+                "PanelYN": "N",
+                "ClinicalOrderGenusID": "37",
+                "VersionToken": -1,
+                "IsDiscontinued": false,
+                "OrderCodeType": "FDB_MEDID",
+                "__CLASS__": "Athena::Entity::Clinical::OrderType",
+                "Name": "Adacel (Tdap Adolesn\/Adult)(PF)2 Lf-(2.5-5-3-5)-5 Lf\/0.5 mL IM syringe",
+                "ID": "269042",
+                "OrderableFlag": "Y",
+                "ClinicalOrderTypeGroup": {
+                    "IsOutpatient": true,
+                    "Ordering": "9",
+                    "VersionToken": -1,
+                    "DocumentClass": "VACCINE",
+                    "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+                    "Description": "Vaccine",
+                    "Name": "VACCINE",
+                    "ID": "16",
+                    "IsInpatient": false
+                }
+            },
+            "VFCStatus": {
+                "__CLASS__": "Athena::Entity::Code",
+                "Description": "VFC eligibility not determined\/unknown",
+                "VersionToken": -1,
+                "Code": "V00"
+            },
+            "ERXScriptPotencyUnitCode": null,
+            "AdministerManufacturer": "",
+            "_QuantityValue": ".5",
+            "DepartmentID": "1",
+            "Priority": "2",
+            "Status": "REVIEW",
+            "AutoPublishExclusion": {
+                "__CLASS__": "Athena::Order::Entity::OrderRequest::AutoPublishingExclusion",
+                "VersionToken": -1
+            },
+            "Class": "VACCINE",
+            "AdministerRouteDescription": "Intramuscular",
+            "LocalClinicalLabTemplateID": null,
+            "LastModifiedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2023-11-30T07:04:24-05:00"
+            },
+            "FHIRIDs": [],
+            "ClassDescription": "vaccine",
+            "PayloadType": "ORDER",
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-07-18T10:17:04-04:00"
+            },
+            "_QuantityUnit": "mL",
+            "AdministerDate": {
+                "__CLASS__": "DateTime",
+                "Date": null
+            },
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-07-18"
+            },
+            "Description": "Adacel (Tdap Adolesn\/Adult)(PF)2 Lf-(2.5-5-3-5)-5 Lf\/0.5 mL IM syringe",
+            "NeedsProviderDelegateAck": null,
+            "IsForeignCompendiumOrder": false,
+            "Notifier": "ATHENA",
+            "Source": "ENCOUNTER",
+            "CreatedTimeStamp": "07\/18\/2016 10:17 AM",
+            "DeniedDate": {
+                "__CLASS__": "DateTime",
+                "Date": null
+            },
+            "DeniedUser": null,
+            "EncounterID": "34784",
+            "FundingSource": {
+                "__CLASS__": "Athena::Entity::Code",
+                "VersionToken": -1
+            },
+            "FutureSubmitDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-07-18"
+            },
+            "__CLASS__": "Athena::Order::Entity::OrderRequest::Vaccine",
+            "ProviderBilledName": "CHIP ACH",
+            "AdministerRoute": "IM",
+            "ProductName": "Adacel(Tdap Adolesn\/Adult)(PF)",
+            "RefillsAllowed": "0",
+            "PAMAScore": {
+                "__CLASS__": "Athena::Order::Entity::PAMAScore",
+                "VersionToken": -1
+            },
+            "Publicity": {
+                "__CLASS__": "Athena::Entity::Code",
+                "Description": "No reminder\/recall",
+                "VersionToken": -1,
+                "Code": "01"
+            },
+            "Medication": {
+                "ClinicalOrderTypeGroupName": "VACCINE",
+                "ProductName": "Adacel(Tdap Adolesn\/Adult)(PF)",
+                "VersionToken": -1,
+                "WeightBasedDosageUnitOptions": {},
+                "EpocratesDrugID": "4236",
+                "MedicationIDType": "MEDID",
+                "DosedProductName": "Adacel (Tdap Adolesn\/Adult)(PF)2 Lf-(2.5-5-3-5)-5 Lf\/0.5 mL IM syringe",
+                "Name": "Adacel (Tdap Adolesn\/Adult)(PF)2 Lf-(2.5-5-3-5)-5 Lf\/0.5 mL IM syringe",
+                "IsUnlistedMedication": false,
+                "FDBMedicationID": "554842",
+                "NDCs": {
+                    "49281040020": {
+                        "MANUFACTURER": "PMC",
+                        "PACKAGEFORM": "0.5 mL syringe(s)",
+                        "MANUFACTURERNAME": "Sanofi Pasteur",
+                        "FORMATTEDNDC": "49281-400-20",
+                        "NDC10": "4928140020"
+                    },
+                    "49281040089": {
+                        "MANUFACTURER": "PMC",
+                        "PACKAGEFORM": "0.5 mL syringe(s)",
+                        "MANUFACTURERNAME": "Sanofi Pasteur",
+                        "FORMATTEDNDC": "49281-400-89",
+                        "NDC10": "4928140089"
+                    }
+                },
+                "IsDiscontinued": false,
+                "AugmentedWithUnitOptions": true,
+                "FDBGenericMedicationID": "554838",
+                "QuantityUnitOptions": [
+                    {
+                        "ID": "49281040020",
+                        "NAME": "mL"
+                    },
+                    {
+                        "ID": "49281040020",
+                        "NAME": "0.5 mL syringe"
+                    }
+                ],
+                "CombinationMedComponentData": [],
+                "StrengthValue": null,
+                "MedicationID": "348200",
+                "DosageFormProductName": "Adacel (Tdap Adolescent\/Adult)(PF) intramuscular syringe",
+                "StrengthUnit": null,
+                "StrengthKey": "2 Lf-(2.5-5-3-5||mcg)-5Lf\/0.5 mL",
+                "IsGenericCompoundMedication": false,
+                "DosageQuantityUnitOptions": [
+                    "mL",
+                    "mg"
+                ],
+                "IsCompoundMedication": false,
+                "__CLASS__": "Athena::Entity::Medication",
+                "ClinicalOrderTypeID": "269042",
+                "CMSRequiresAdministeredNDC": false
+            },
+            "VisGivenDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-07-18"
+            },
+            "DefaultsFromIDSource": "FDB",
+            "ERXQuantity": null,
+            "ExternalCodes": [],
+            "ERXScriptUOMDescription": null,
+            "OrderDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-07-18T10:17:04-04:00"
+            },
+            "MVX": "UNK",
+            "AssignedTo": "mblake1",
+            "ApprovedUser": null,
+            "SpecialtyID": "011",
+            "ParentOrderDocumentID": "119294",
+            "ApprovedDate": {
+                "__CLASS__": "DateTime",
+                "Date": null
+            },
+            "QuantityUnitDefault": "UNKNOWN UNIT",
+            "DocumentClassDescription": "vaccine",
+            "AlarmDays": "7",
+            "DocumentationOnly": false,
+            "ProviderUsername": "mblake1",
+            "ID": "119294",
+            "IsDispenseAsWritten": false,
+            "PatientID": "4406",
+            "Questions": [],
+            "ClinicalVaccineID": "881",
+            "ClinicalProvider": null,
+            "AdministerUser": null,
+            "ChartID": "32988",
+            "LastModifiedUser": "ATHENA",
+            "Route": "FAX",
+            "CreatedEncounterID": "34784",
+            "OrderingMode": "ADMINISTER",
+            "TextConsentIsNull": true,
+            "CreatedUser": "asonnenfeldt"
+        }
+    }
+}

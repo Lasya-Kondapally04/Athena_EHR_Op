@@ -1,0 +1,39 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=document_view_data&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&document_class=PATIENTRECORD&document_id=116817&url=https%3A%2F%2Fpreview.athenahealth.com%2F195903%2F5",
+    "document_view_data": {
+        "document": {
+            "SubClass": "PATIENTRECORD_AMBULATORYSUMMARY",
+            "ChartDisplayDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-25T15:25:48-04:00"
+            },
+            "VersionToken": "11973038",
+            "DisplayName": "patient record - ambulatory summary",
+            "DepartmentID": "1",
+            "Priority": "2",
+            "SourceName": "portal",
+            "Status": "CLOSED",
+            "Class": "PATIENTRECORD",
+            "LastModifiedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-26T17:34:41-04:00"
+            },
+            "ParentOrderDocumentID": "116817",
+            "ClassDescription": "patient record - ambulatory summary",
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2016-04-25T15:25:48-04:00"
+            },
+            "PayloadType": "DOCUMENT",
+            "ProviderUsername": "INTERFACE",
+            "Description": "patient record - ambulatory summary",
+            "ID": "116817",
+            "Source": "PORTAL",
+            "PatientID": "4406",
+            "__CLASS__": "Athena::InternalDocument::Entity::Document",
+            "ChartID": "32988",
+            "LastModifiedUser": "PORTAL",
+            "Route": "FAX",
+            "CreatedUser": "PORTAL"
+        }
+    }
+}
