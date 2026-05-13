@@ -1,0 +1,1664 @@
+{"url":"https://preview.athenahealth.com/195903/5/hidden_exposed.esp",
+    "RESPONSE": {
+        "RETURNMESSAGE": "",
+        "RETURNCODE": "SUCCESS",
+        "RETURNDATA": {
+            "CHARTCONTACTDETAILS": {
+                "contactowner": "P",
+                "email": "test12123123@gmail.com",
+                "contactrelationship": "Patient",
+                "workphone": "(876) 567-8767",
+                "city": "FLORAL PARK",
+                "contactpreference": "MAIL",
+                "consenttocallflag": "Y",
+                "dob": "01\/18\/1994",
+                "consenttocallflageffectivedate": "03\/25\/2026",
+                "lastname": "TEST APPOINTMENT",
+                "consenttotextyn": "Y",
+                "address2": null,
+                "zip": "11001",
+                "firstname": "RAM",
+                "smsoptindate": "03\/25\/2026",
+                "homephone": "(636) 434-3434",
+                "hasmobileyn": "Y",
+                "mobilephone": "(636) 434-3434",
+                "emailexistsyn": "Y",
+                "patientid": "4406",
+                "contactrelationshipid": "1",
+                "address1": "1ST LINE",
+                "countryid": "1",
+                "state": "NY"
+            },
+            "PATIENTPORTALSTATUS": {
+                "notregistered": [
+                    {
+                        "PORTALACCESS": 0,
+                        "ACTIONTAKEN": 0,
+                        "PATIENTID": "4406",
+                        "INDICATORTEXT": "This patient has not registered for the portal.",
+                        "PATIENTINDICATORTEXT": "This patient has not registered for the portal.",
+                        "WARNINGTEXT": null,
+                        "NOPORTALREASON": null,
+                        "ALERT": 0,
+                        "ENTERPRISEID": "4406",
+                        "NOPORTALREASONDATE": null
+                    }
+                ]
+            },
+            "DEPARTMENT": {
+                "STATE": "NY",
+                "AFTERHOURSCONTACT": null,
+                "PATIENTFACINGWEBSITE": null,
+                "RECURRINGYN": null,
+                "SKIPCHARTREVIEWYN": null,
+                "COMMUNICATORDISPLAYADDR": null,
+                "PHONE": "(617) 402-1111",
+                "DELETEDBY": null,
+                "LATITUDE": "44.419193",
+                "LASTMODIFIEDBY": "p-aransing",
+                "ROUNDINGLISTDEPARTMENTYN": null,
+                "SCHEDULINGNOTE": null,
+                "ADDRESS": "5 Hatley Road",
+                "PATIENTDEPARTMENTYN": null,
+                "CREATED": "12\/14\/2013",
+                "PATIENTFACINGCONTACT": null,
+                "COSTCENTERTYPEID": null,
+                "OFFICEHOURS": null,
+                "CONTRACTDEPARTMENTYN": "N",
+                "MEDICALPROVIDERID": null,
+                "PLCBILLINGNAME": null,
+                "DELETED": null,
+                "COMMUNICATORDISPLAYNAMENOTE": null,
+                "CREATEDBY": "ckoo",
+                "TYPEOFBILLID": null,
+                "SCHEDULINGDEPARTMENTYN": null,
+                "FAX": "(617) 402-1111",
+                "NOCHECKIN": null,
+                "DIRECTIONSTOOFFICE": "Test Orange Test Blue",
+                "PLCCITY": null,
+                "ORDERING": null,
+                "BATCHHEADERFLAGHOLDREVIEWYN": null,
+                "ENTITYIDENTIFIER": "77",
+                "CALLERID": null,
+                "SERVICEDEPARTMENTYN": null,
+                "ADDRESS2": "suite 1",
+                "DEPARTMENTGROUPID": null,
+                "SUPERVISINGPROVIDERATCHECKINYN": "N",
+                "PUBLICHOUSINGYN": null,
+                "ECOMMERCEDEPARTMENTYN": "N",
+                "LONGITUDE": "-69.021307",
+                "CHARTHOMEDEPARTMENTYN": null,
+                "BACKLINEPHONE": "6174021111",
+                "PLCNAME": null,
+                "HIDEINPORTALYN": "N",
+                "ROOTSSIPROJECTTASKID": null,
+                "PLCADDRESS2": null,
+                "SPECIALTYID": "008",
+                "STATEMENTSPHONE": "6174021200",
+                "CAMPUSLOCATION": null,
+                "CITY": "New York",
+                "LASTMODIFIED": "04\/22\/2026",
+                "BATCHHEADERFLAGMISSINGYN": null,
+                "ID": "150",
+                "NAME": "7 Hills Department",
+                "HOSPITALDEPARTMENTYN": null,
+                "TYPEOFBILLCODE": null,
+                "GPCILOCATIONID": "58",
+                "MERCHANTGROUPID": null,
+                "FACILITYID": null,
+                "COMMUNICATORDISPLAYADNOTE": null,
+                "CLIANUMBER": null,
+                "LOCALCLINICALPROVIDERID": null,
+                "COMMUNICATORDISPLAYNAME": "7 Hills Med Group",
+                "CHARTSHARINGGROUPID": "42",
+                "PLCADDRESS": null,
+                "ENVOYSITEIDCODE": null,
+                "PLACEOFSERVICETYPE": "11",
+                "DELIVERYSITEYN": null,
+                "BILLINGNAME": "test- do not bill",
+                "AUTOMATEBILLINGCYCLEYN": null,
+                "TRANSACTDEPARTMENTYN": "N",
+                "ZIP": "10021-0001",
+                "CLINICALPROVIDERID": null,
+                "SCHOOLBASEDYN": null,
+                "PROVIDERGROUPID": "1"
+            },
+            "PORTALMODE": "FULL",
+            "APPMODE": "PORTAL",
+            "FEATUREFLAGS": {
+                "COLCR_5845_MOBILE_PHONE_VALIDATION": 1,
+                "COLCR_6795_FIX_PORTAL_REGISTRATION": 0,
+                "COLCR_6611_PCM_STABILITY_UPDATES": 0,
+                "COLCR_5792_PHONE_ONLY_CONTACTS": 1
+            },
+            "ASKTOUPDATESTATEMENTS": 0,
+            "CLAIMSDISABLED": 0,
+            "COUNTRYOPTIONS": [
+                {
+                    "text": "AFGHANISTAN",
+                    "value": "92"
+                },
+                {
+                    "text": "ALAND ISLANDS",
+                    "value": "93"
+                },
+                {
+                    "text": "ALBANIA",
+                    "value": "94"
+                },
+                {
+                    "text": "ALGERIA",
+                    "value": "95"
+                },
+                {
+                    "text": "AMERICAN SAMOA",
+                    "value": "96"
+                },
+                {
+                    "text": "ANDORRA",
+                    "value": "97"
+                },
+                {
+                    "text": "ANGOLA",
+                    "value": "98"
+                },
+                {
+                    "text": "ANGUILLA",
+                    "value": "99"
+                },
+                {
+                    "text": "ANTARCTICA",
+                    "value": "100"
+                },
+                {
+                    "text": "ANTIGUA AND BARBUDA",
+                    "value": "74"
+                },
+                {
+                    "text": "ARGENTINA",
+                    "value": "34"
+                },
+                {
+                    "text": "ARMENIA",
+                    "value": "101"
+                },
+                {
+                    "text": "ARUBA",
+                    "value": "15"
+                },
+                {
+                    "text": "AUSTRALIA",
+                    "value": "52"
+                },
+                {
+                    "text": "AUSTRIA",
+                    "value": "68"
+                },
+                {
+                    "text": "AZERBAIJAN",
+                    "value": "102"
+                },
+                {
+                    "text": "BAHAMAS",
+                    "value": "9"
+                },
+                {
+                    "text": "BAHRAIN",
+                    "value": "103"
+                },
+                {
+                    "text": "BANGLADESH",
+                    "value": "104"
+                },
+                {
+                    "text": "BARBADOS",
+                    "value": "16"
+                },
+                {
+                    "text": "BELARUS",
+                    "value": "105"
+                },
+                {
+                    "text": "BELGIUM",
+                    "value": "41"
+                },
+                {
+                    "text": "BELIZE",
+                    "value": "69"
+                },
+                {
+                    "text": "BENIN",
+                    "value": "106"
+                },
+                {
+                    "text": "BERMUDA",
+                    "value": "36"
+                },
+                {
+                    "text": "BHUTAN",
+                    "value": "107"
+                },
+                {
+                    "text": "BOLIVIA",
+                    "value": "63"
+                },
+                {
+                    "text": "BOSNIA AND HERZEGOVINA",
+                    "value": "77"
+                },
+                {
+                    "text": "BOTSWANA",
+                    "value": "108"
+                },
+                {
+                    "text": "BOUVET ISLAND",
+                    "value": "109"
+                },
+                {
+                    "text": "BRAZIL",
+                    "value": "33"
+                },
+                {
+                    "text": "BRITISH INDIAN OCEAN TERRITORY",
+                    "value": "110"
+                },
+                {
+                    "text": "BRUNEI DARUSSALAM",
+                    "value": "111"
+                },
+                {
+                    "text": "BULGARIA",
+                    "value": "112"
+                },
+                {
+                    "text": "BURKINA FASO",
+                    "value": "113"
+                },
+                {
+                    "text": "BURUNDI",
+                    "value": "114"
+                },
+                {
+                    "text": "CAMBODIA",
+                    "value": "115"
+                },
+                {
+                    "text": "CAMEROON",
+                    "value": "116"
+                },
+                {
+                    "text": "CANADA",
+                    "value": "3"
+                },
+                {
+                    "text": "CAPE VERDE",
+                    "value": "117"
+                },
+                {
+                    "text": "CAYMAN ISLANDS",
+                    "value": "31"
+                },
+                {
+                    "text": "CENTRAL AFRICAN REPUBLIC",
+                    "value": "118"
+                },
+                {
+                    "text": "CHAD",
+                    "value": "119"
+                },
+                {
+                    "text": "CHILE",
+                    "value": "78"
+                },
+                {
+                    "text": "CHINA",
+                    "value": "29"
+                },
+                {
+                    "text": "CHRISTMAS ISLAND",
+                    "value": "120"
+                },
+                {
+                    "text": "COCOS (KEELING) ISLANDS",
+                    "value": "121"
+                },
+                {
+                    "text": "COLOMBIA",
+                    "value": "11"
+                },
+                {
+                    "text": "COMOROS",
+                    "value": "122"
+                },
+                {
+                    "text": "CONGO",
+                    "value": "123"
+                },
+                {
+                    "text": "CONGO, THE DEMOCRATIC REPUBLIC",
+                    "value": "247"
+                },
+                {
+                    "text": "COOK ISLANDS",
+                    "value": "124"
+                },
+                {
+                    "text": "COSTA RICA",
+                    "value": "12"
+                },
+                {
+                    "text": "COTE D'IVOIRE",
+                    "value": "125"
+                },
+                {
+                    "text": "CROATIA",
+                    "value": "126"
+                },
+                {
+                    "text": "CUBA",
+                    "value": "127"
+                },
+                {
+                    "text": "CURACAO",
+                    "value": "256"
+                },
+                {
+                    "text": "CYPRUS",
+                    "value": "128"
+                },
+                {
+                    "text": "CZECH REPUBLIC",
+                    "value": "129"
+                },
+                {
+                    "text": "CZECHOSLOVAKIA",
+                    "value": "87"
+                },
+                {
+                    "text": "DENMARK",
+                    "value": "20"
+                },
+                {
+                    "text": "DJIBOUTI",
+                    "value": "130"
+                },
+                {
+                    "text": "DOMINICA",
+                    "value": "131"
+                },
+                {
+                    "text": "DOMINICAN REPUBLIC",
+                    "value": "6"
+                },
+                {
+                    "text": "ECUADOR",
+                    "value": "10"
+                },
+                {
+                    "text": "EGYPT",
+                    "value": "39"
+                },
+                {
+                    "text": "EL SALVADOR",
+                    "value": "17"
+                },
+                {
+                    "text": "EQUATORIAL GUINEA",
+                    "value": "132"
+                },
+                {
+                    "text": "ERITREA",
+                    "value": "133"
+                },
+                {
+                    "text": "ESTONIA",
+                    "value": "134"
+                },
+                {
+                    "text": "ETHIOPIA",
+                    "value": "91"
+                },
+                {
+                    "text": "FALKLAND ISLANDS (MALVINAS)",
+                    "value": "135"
+                },
+                {
+                    "text": "FAROE ISLANDS",
+                    "value": "136"
+                },
+                {
+                    "text": "FIJI",
+                    "value": "137"
+                },
+                {
+                    "text": "FINLAND",
+                    "value": "37"
+                },
+                {
+                    "text": "FRANCE",
+                    "value": "26"
+                },
+                {
+                    "text": "FRANCE, METROPOLITAN",
+                    "value": "251"
+                },
+                {
+                    "text": "FRENCH GUIANA",
+                    "value": "138"
+                },
+                {
+                    "text": "FRENCH POLYNESIA",
+                    "value": "139"
+                },
+                {
+                    "text": "FRENCH SOUTHERN TERRITORIES",
+                    "value": "140"
+                },
+                {
+                    "text": "FRENCH WEST INDIES",
+                    "value": "318"
+                },
+                {
+                    "text": "GABON",
+                    "value": "141"
+                },
+                {
+                    "text": "GAMBIA",
+                    "value": "142"
+                },
+                {
+                    "text": "GEORGIA",
+                    "value": "143"
+                },
+                {
+                    "text": "GERMANY",
+                    "value": "21"
+                },
+                {
+                    "text": "GHANA",
+                    "value": "144"
+                },
+                {
+                    "text": "GIBRALTAR",
+                    "value": "145"
+                },
+                {
+                    "text": "GRAND CAYMAN ISLANDS",
+                    "value": "57"
+                },
+                {
+                    "text": "GREECE",
+                    "value": "44"
+                },
+                {
+                    "text": "GREENLAND",
+                    "value": "146"
+                },
+                {
+                    "text": "GRENADA",
+                    "value": "147"
+                },
+                {
+                    "text": "GUADELOUPE",
+                    "value": "148"
+                },
+                {
+                    "text": "GUAM",
+                    "value": "149"
+                },
+                {
+                    "text": "GUATEMALA",
+                    "value": "19"
+                },
+                {
+                    "text": "GUERNSEY",
+                    "value": "150"
+                },
+                {
+                    "text": "GUINEA",
+                    "value": "151"
+                },
+                {
+                    "text": "GUINEA-BISSAU",
+                    "value": "152"
+                },
+                {
+                    "text": "GUYANA",
+                    "value": "71"
+                },
+                {
+                    "text": "HAITI",
+                    "value": "82"
+                },
+                {
+                    "text": "HEARD AND MC DONALD ISLANDS",
+                    "value": "252"
+                },
+                {
+                    "text": "HOLLAND",
+                    "value": "53"
+                },
+                {
+                    "text": "HOLY SEE (VATICAN CITY STATE)",
+                    "value": "153"
+                },
+                {
+                    "text": "HONDURAS",
+                    "value": "65"
+                },
+                {
+                    "text": "HONG KONG",
+                    "value": "154"
+                },
+                {
+                    "text": "HUNGARY",
+                    "value": "83"
+                },
+                {
+                    "text": "ICELAND",
+                    "value": "88"
+                },
+                {
+                    "text": "INDIA",
+                    "value": "62"
+                },
+                {
+                    "text": "INDONESIA",
+                    "value": "47"
+                },
+                {
+                    "text": "IRAN, ISLAMIC REPUBLIC OF",
+                    "value": "155"
+                },
+                {
+                    "text": "IRAQ",
+                    "value": "156"
+                },
+                {
+                    "text": "IRELAND",
+                    "value": "28"
+                },
+                {
+                    "text": "ISLE OF MAN",
+                    "value": "157"
+                },
+                {
+                    "text": "ISRAEL",
+                    "value": "45"
+                },
+                {
+                    "text": "ITALY",
+                    "value": "58"
+                },
+                {
+                    "text": "JAMAICA",
+                    "value": "35"
+                },
+                {
+                    "text": "JAPAN",
+                    "value": "42"
+                },
+                {
+                    "text": "JERSEY",
+                    "value": "158"
+                },
+                {
+                    "text": "JORDAN",
+                    "value": "22"
+                },
+                {
+                    "text": "KAZAKHSTAN",
+                    "value": "159"
+                },
+                {
+                    "text": "KENYA",
+                    "value": "54"
+                },
+                {
+                    "text": "KIRIBATI",
+                    "value": "160"
+                },
+                {
+                    "text": "KOREA, DEMOCRATIC PEOPLES REPU",
+                    "value": "73"
+                },
+                {
+                    "text": "KOREA, REPUBLIC OF",
+                    "value": "161"
+                },
+                {
+                    "text": "KUWAIT",
+                    "value": "56"
+                },
+                {
+                    "text": "KYRGYZSTAN",
+                    "value": "162"
+                },
+                {
+                    "text": "LAO PEOPLE'S DEMOCRATIC REPUB",
+                    "value": "246"
+                },
+                {
+                    "text": "LATVIA",
+                    "value": "72"
+                },
+                {
+                    "text": "LEBANON",
+                    "value": "163"
+                },
+                {
+                    "text": "LESOTHO",
+                    "value": "164"
+                },
+                {
+                    "text": "LIBERIA",
+                    "value": "165"
+                },
+                {
+                    "text": "LIBYA",
+                    "value": "166"
+                },
+                {
+                    "text": "LIECHTENSTEIN",
+                    "value": "167"
+                },
+                {
+                    "text": "LITHUANIA",
+                    "value": "86"
+                },
+                {
+                    "text": "LUXEMBOURG",
+                    "value": "168"
+                },
+                {
+                    "text": "MACAO",
+                    "value": "169"
+                },
+                {
+                    "text": "MACEDONIA",
+                    "value": "253"
+                },
+                {
+                    "text": "MADAGASCAR",
+                    "value": "170"
+                },
+                {
+                    "text": "MALAWI",
+                    "value": "171"
+                },
+                {
+                    "text": "MALAYSIA",
+                    "value": "172"
+                },
+                {
+                    "text": "MALDIVES",
+                    "value": "173"
+                },
+                {
+                    "text": "MALI",
+                    "value": "174"
+                },
+                {
+                    "text": "MALTA",
+                    "value": "175"
+                },
+                {
+                    "text": "MARSHALL ISLANDS",
+                    "value": "176"
+                },
+                {
+                    "text": "MARTINIQUE",
+                    "value": "177"
+                },
+                {
+                    "text": "MAURITANIA",
+                    "value": "178"
+                },
+                {
+                    "text": "MAURITIUS",
+                    "value": "179"
+                },
+                {
+                    "text": "MAYOTTE",
+                    "value": "180"
+                },
+                {
+                    "text": "MEXICO",
+                    "value": "2"
+                },
+                {
+                    "text": "MICRONESIA, FEDERATED STATES O",
+                    "value": "250"
+                },
+                {
+                    "text": "MOLDOVA, REPUBLIC OF",
+                    "value": "181"
+                },
+                {
+                    "text": "MONACO",
+                    "value": "182"
+                },
+                {
+                    "text": "MONGOLIA",
+                    "value": "183"
+                },
+                {
+                    "text": "MONTENEGRO",
+                    "value": "184"
+                },
+                {
+                    "text": "MONTSERRAT",
+                    "value": "185"
+                },
+                {
+                    "text": "MOROCCO",
+                    "value": "186"
+                },
+                {
+                    "text": "MOZAMBIQUE",
+                    "value": "187"
+                },
+                {
+                    "text": "MYANMAR",
+                    "value": "188"
+                },
+                {
+                    "text": "NAMIBIA",
+                    "value": "189"
+                },
+                {
+                    "text": "NAURU",
+                    "value": "190"
+                },
+                {
+                    "text": "NEPAL",
+                    "value": "191"
+                },
+                {
+                    "text": "NETHERLANDS",
+                    "value": "67"
+                },
+                {
+                    "text": "NETHERLANDS ANTILLES",
+                    "value": "18"
+                },
+                {
+                    "text": "NEW CALEDONIA",
+                    "value": "192"
+                },
+                {
+                    "text": "NEW ZEALAND",
+                    "value": "46"
+                },
+                {
+                    "text": "NICARAGUA",
+                    "value": "49"
+                },
+                {
+                    "text": "NIGER",
+                    "value": "193"
+                },
+                {
+                    "text": "NIGERIA",
+                    "value": "194"
+                },
+                {
+                    "text": "NIUE",
+                    "value": "195"
+                },
+                {
+                    "text": "NORFOLK ISLAND",
+                    "value": "196"
+                },
+                {
+                    "text": "NORTHERN MARIANA ISLANDS",
+                    "value": "197"
+                },
+                {
+                    "text": "NORWAY",
+                    "value": "70"
+                },
+                {
+                    "text": "OMAN",
+                    "value": "90"
+                },
+                {
+                    "text": "PAKISTAN",
+                    "value": "27"
+                },
+                {
+                    "text": "PALAU",
+                    "value": "198"
+                },
+                {
+                    "text": "PALESTINE, STATE OF",
+                    "value": "317"
+                },
+                {
+                    "text": "PANAMA",
+                    "value": "4"
+                },
+                {
+                    "text": "PAPUA NEW GUINEA",
+                    "value": "199"
+                },
+                {
+                    "text": "PARAGUAY",
+                    "value": "5"
+                },
+                {
+                    "text": "PERU",
+                    "value": "48"
+                },
+                {
+                    "text": "PHILIPPINES",
+                    "value": "43"
+                },
+                {
+                    "text": "PITCAIRN",
+                    "value": "200"
+                },
+                {
+                    "text": "POLAND",
+                    "value": "51"
+                },
+                {
+                    "text": "PORTUGAL",
+                    "value": "75"
+                },
+                {
+                    "text": "PUERTO RICO",
+                    "value": "14"
+                },
+                {
+                    "text": "QATAR",
+                    "value": "201"
+                },
+                {
+                    "text": "REUNION",
+                    "value": "202"
+                },
+                {
+                    "text": "ROMANIA",
+                    "value": "84"
+                },
+                {
+                    "text": "RUSSIAN FEDERATION",
+                    "value": "81"
+                },
+                {
+                    "text": "RWANDA",
+                    "value": "203"
+                },
+                {
+                    "text": "SAINT HELENA",
+                    "value": "204"
+                },
+                {
+                    "text": "SAINT KITTS AND NEVIS",
+                    "value": "205"
+                },
+                {
+                    "text": "SAINT LUCIA",
+                    "value": "40"
+                },
+                {
+                    "text": "SAINT MAARTEN",
+                    "value": "376"
+                },
+                {
+                    "text": "SAINT PIERRE AND MIQUELON",
+                    "value": "206"
+                },
+                {
+                    "text": "SAINT VINCENT AND THE GRENADIN",
+                    "value": "249"
+                },
+                {
+                    "text": "SAMOA",
+                    "value": "207"
+                },
+                {
+                    "text": "SAN MARINO",
+                    "value": "208"
+                },
+                {
+                    "text": "SAO TOME AND PRINCIPE",
+                    "value": "209"
+                },
+                {
+                    "text": "SAUDI ARABIA",
+                    "value": "61"
+                },
+                {
+                    "text": "SCOTLAND",
+                    "value": "38"
+                },
+                {
+                    "text": "SENEGAL",
+                    "value": "210"
+                },
+                {
+                    "text": "SERBIA",
+                    "value": "211"
+                },
+                {
+                    "text": "SEYCHELLES",
+                    "value": "212"
+                },
+                {
+                    "text": "SIERRA LEONE",
+                    "value": "213"
+                },
+                {
+                    "text": "SINGAPORE",
+                    "value": "55"
+                },
+                {
+                    "text": "SLOVAKIA",
+                    "value": "214"
+                },
+                {
+                    "text": "SLOVENIA",
+                    "value": "215"
+                },
+                {
+                    "text": "SOLOMON ISLANDS",
+                    "value": "216"
+                },
+                {
+                    "text": "SOMALIA",
+                    "value": "217"
+                },
+                {
+                    "text": "SOUTH AFRICA",
+                    "value": "32"
+                },
+                {
+                    "text": "SOUTH GEORGIA AND SOUTH S.S.",
+                    "value": "254"
+                },
+                {
+                    "text": "SOUTH SUDAN, REPUBLIC OF",
+                    "value": "316"
+                },
+                {
+                    "text": "SPAIN",
+                    "value": "76"
+                },
+                {
+                    "text": "SRI LANKA",
+                    "value": "218"
+                },
+                {
+                    "text": "SUDAN",
+                    "value": "219"
+                },
+                {
+                    "text": "SURINAME",
+                    "value": "220"
+                },
+                {
+                    "text": "SVALBARD AND JAN MAYEN",
+                    "value": "221"
+                },
+                {
+                    "text": "SWAZILAND",
+                    "value": "222"
+                },
+                {
+                    "text": "SWEDEN",
+                    "value": "60"
+                },
+                {
+                    "text": "SWITZERLAND",
+                    "value": "30"
+                },
+                {
+                    "text": "SYRIAN ARAB REPUBLIC",
+                    "value": "79"
+                },
+                {
+                    "text": "TAIWAN",
+                    "value": "223"
+                },
+                {
+                    "text": "TAJIKISTAN",
+                    "value": "224"
+                },
+                {
+                    "text": "TANZANIA, UNITED REPUBLIC OF",
+                    "value": "225"
+                },
+                {
+                    "text": "THAILAND",
+                    "value": "85"
+                },
+                {
+                    "text": "TIMOR-LESTE",
+                    "value": "226"
+                },
+                {
+                    "text": "TOGO",
+                    "value": "227"
+                },
+                {
+                    "text": "TOKELAU",
+                    "value": "228"
+                },
+                {
+                    "text": "TONGA",
+                    "value": "229"
+                },
+                {
+                    "text": "TRINIDAD AND TOBAGO",
+                    "value": "13"
+                },
+                {
+                    "text": "TUNISIA",
+                    "value": "230"
+                },
+                {
+                    "text": "TURKEY",
+                    "value": "59"
+                },
+                {
+                    "text": "TURKMENISTAN",
+                    "value": "231"
+                },
+                {
+                    "text": "TURKS AND CAICOS ISLANDS",
+                    "value": "232"
+                },
+                {
+                    "text": "TUVALU",
+                    "value": "233"
+                },
+                {
+                    "text": "U.S. MINOR ISLANDS",
+                    "value": "255"
+                },
+                {
+                    "text": "UGANDA",
+                    "value": "234"
+                },
+                {
+                    "text": "UKRAINE",
+                    "value": "235"
+                },
+                {
+                    "text": "UNITED ARAB EMIRATES",
+                    "value": "50"
+                },
+                {
+                    "text": "UNITED KINGDOM",
+                    "value": "25"
+                },
+                {
+                    "text": "UNITED STATES",
+                    "value": "1"
+                },
+                {
+                    "text": "URUGUAY",
+                    "value": "89"
+                },
+                {
+                    "text": "UZBEKISTAN",
+                    "value": "66"
+                },
+                {
+                    "text": "VANUATU",
+                    "value": "236"
+                },
+                {
+                    "text": "VENEZUELA",
+                    "value": "8"
+                },
+                {
+                    "text": "VIETNAM",
+                    "value": "237"
+                },
+                {
+                    "text": "VIRGIN ISLANDS, BRITISH",
+                    "value": "7"
+                },
+                {
+                    "text": "VIRGIN ISLANDS, U.S.",
+                    "value": "23"
+                },
+                {
+                    "text": "WALLIS AND FUTUNA",
+                    "value": "238"
+                },
+                {
+                    "text": "WEST INDIES",
+                    "value": "80"
+                },
+                {
+                    "text": "WESTERN SAHARA",
+                    "value": "239"
+                },
+                {
+                    "text": "YEMEN",
+                    "value": "240"
+                },
+                {
+                    "text": "YUGOSLAVIA (SERBIA AND MONTENE",
+                    "value": "248"
+                },
+                {
+                    "text": "ZAMBIA",
+                    "value": "241"
+                },
+                {
+                    "text": "ZIMBABWE",
+                    "value": "242"
+                }
+            ],
+            "EMAILDELIVERYALERTS": {
+                "VALIDATIONAPIURL": "https:\/\/messaging.supportphi.api.athena.io\/message-ui-proxy_featurecmeb482mupsandbox\/v1\/email-validation\/validate"
+            },
+            "PATIENT": {
+                "lastname": "TEST APPOINTMENT",
+                "firstname": "RAM",
+                "enterpriseid": "4406",
+                "id": "4406",
+                "dob": "01\/18\/1994",
+                "providergroupid": "1",
+                "altfirstname": "WILLER"
+            },
+            "READONLY": 0,
+            "PORTALDECLINEOPTIONS": [
+                {
+                    "warningtext": "does not have an email",
+                    "text": "Does not have an email",
+                    "value": "NOEMAIL"
+                },
+                {
+                    "warningtext": "does not want to provide an email",
+                    "text": "Does not want to provide an email",
+                    "value": "DECLINEDEMAIL"
+                },
+                {
+                    "warningtext": "does not have internet access",
+                    "text": "Does not have internet access",
+                    "value": "NOINTERNET"
+                },
+                {
+                    "warningtext": "does not want a portal account",
+                    "text": "Does not want a portal account",
+                    "value": "DECLINEDPORTAL"
+                },
+                {
+                    "warningtext": "received portal URL",
+                    "text": "Will sign up with the portal URL",
+                    "value": "PRINTPORTALURL"
+                }
+            ],
+            "HARDSTOP": {},
+            "SMARTYSTREETSEMBEDDEDKEY": "25683096936293624",
+            "PRIMARYCONTACT": {
+                "contactowner": "P",
+                "email": "test12123123@gmail.com",
+                "contactrelationship": "Patient",
+                "workphone": "(876) 567-8767",
+                "city": "FLORAL PARK",
+                "contactpreference": "MAIL",
+                "consenttocallflag": "Y",
+                "dob": "01\/18\/1994",
+                "consenttocallflageffectivedate": "03\/25\/2026",
+                "lastname": "TEST APPOINTMENT",
+                "consenttotextyn": "Y",
+                "address2": null,
+                "zip": "11001",
+                "firstname": "RAM",
+                "smsoptindate": "03\/25\/2026",
+                "homephone": "(636) 434-3434",
+                "hasmobileyn": "Y",
+                "mobilephone": "(636) 434-3434",
+                "emailexistsyn": "Y",
+                "patientid": "4406",
+                "contactrelationshipid": "1",
+                "address1": "1ST LINE",
+                "countryid": "1",
+                "state": "NY"
+            },
+            "REQUIREDFIELDS": {
+                "STATE": 1,
+                "HOMEPHONE": 1,
+                "EMAIL": 1,
+                "CITY": 1,
+                "ADDRESS1": 1,
+                "MOBILEPHONE": 1,
+                "ZIP": 1
+            },
+            "STATEOPTIONS": [
+                {
+                    "text": "AA-Armed Forces Americas",
+                    "value": "AA"
+                },
+                {
+                    "text": "AE-Armed Forces Africa",
+                    "value": "AE"
+                },
+                {
+                    "text": "AK-Alaska",
+                    "value": "AK"
+                },
+                {
+                    "text": "AL-Alabama",
+                    "value": "AL"
+                },
+                {
+                    "text": "AP-Armed Forces Pacific",
+                    "value": "AP"
+                },
+                {
+                    "text": "AR-Arkansas",
+                    "value": "AR"
+                },
+                {
+                    "text": "AS-American Samoa",
+                    "value": "AS"
+                },
+                {
+                    "text": "AZ-Arizona",
+                    "value": "AZ"
+                },
+                {
+                    "text": "CA-California",
+                    "value": "CA"
+                },
+                {
+                    "text": "CO-Colorado",
+                    "value": "CO"
+                },
+                {
+                    "text": "CT-Connecticut",
+                    "value": "CT"
+                },
+                {
+                    "text": "DC-District of Columbia",
+                    "value": "DC"
+                },
+                {
+                    "text": "DE-Delaware",
+                    "value": "DE"
+                },
+                {
+                    "text": "FL-Florida",
+                    "value": "FL"
+                },
+                {
+                    "text": "FM-Federated States of Micronesia",
+                    "value": "FM"
+                },
+                {
+                    "text": "GA-Georgia",
+                    "value": "GA"
+                },
+                {
+                    "text": "GU-Guam",
+                    "value": "GU"
+                },
+                {
+                    "text": "HI-Hawaii",
+                    "value": "HI"
+                },
+                {
+                    "text": "IA-Iowa",
+                    "value": "IA"
+                },
+                {
+                    "text": "ID-Idaho",
+                    "value": "ID"
+                },
+                {
+                    "text": "IL-Illinois",
+                    "value": "IL"
+                },
+                {
+                    "text": "IN-Indiana",
+                    "value": "IN"
+                },
+                {
+                    "text": "KS-Kansas",
+                    "value": "KS"
+                },
+                {
+                    "text": "KY-Kentucky",
+                    "value": "KY"
+                },
+                {
+                    "text": "LA-Louisiana",
+                    "value": "LA"
+                },
+                {
+                    "text": "MA-Massachusetts",
+                    "value": "MA"
+                },
+                {
+                    "text": "MD-Maryland",
+                    "value": "MD"
+                },
+                {
+                    "text": "ME-Maine",
+                    "value": "ME"
+                },
+                {
+                    "text": "MH-Marshall Islands",
+                    "value": "MH"
+                },
+                {
+                    "text": "MI-Michigan",
+                    "value": "MI"
+                },
+                {
+                    "text": "MN-Minnesota",
+                    "value": "MN"
+                },
+                {
+                    "text": "MO-Missouri",
+                    "value": "MO"
+                },
+                {
+                    "text": "MP-Northern Mariana Islands",
+                    "value": "MP"
+                },
+                {
+                    "text": "MS-Mississippi",
+                    "value": "MS"
+                },
+                {
+                    "text": "MT-Montana",
+                    "value": "MT"
+                },
+                {
+                    "text": "NC-North Carolina",
+                    "value": "NC"
+                },
+                {
+                    "text": "ND-North Dakota",
+                    "value": "ND"
+                },
+                {
+                    "text": "NE-Nebraska",
+                    "value": "NE"
+                },
+                {
+                    "text": "NH-New Hampshire",
+                    "value": "NH"
+                },
+                {
+                    "text": "NJ-New Jersey",
+                    "value": "NJ"
+                },
+                {
+                    "text": "NM-New Mexico",
+                    "value": "NM"
+                },
+                {
+                    "text": "NV-Nevada",
+                    "value": "NV"
+                },
+                {
+                    "text": "NY-New York",
+                    "value": "NY"
+                },
+                {
+                    "text": "OH-Ohio",
+                    "value": "OH"
+                },
+                {
+                    "text": "OK-Oklahoma",
+                    "value": "OK"
+                },
+                {
+                    "text": "OR-Oregon",
+                    "value": "OR"
+                },
+                {
+                    "text": "PA-Pennsylvania",
+                    "value": "PA"
+                },
+                {
+                    "text": "PR-Puerto Rico",
+                    "value": "PR"
+                },
+                {
+                    "text": "PW-Palau",
+                    "value": "PW"
+                },
+                {
+                    "text": "RI-Rhode Island",
+                    "value": "RI"
+                },
+                {
+                    "text": "SC-South Carolina",
+                    "value": "SC"
+                },
+                {
+                    "text": "SD-South Dakota",
+                    "value": "SD"
+                },
+                {
+                    "text": "TN-Tennessee",
+                    "value": "TN"
+                },
+                {
+                    "text": "TX-Texas",
+                    "value": "TX"
+                },
+                {
+                    "text": "UT-Utah",
+                    "value": "UT"
+                },
+                {
+                    "text": "VA-Virginia",
+                    "value": "VA"
+                },
+                {
+                    "text": "VI-Virgin Islands",
+                    "value": "VI"
+                },
+                {
+                    "text": "VT-Vermont",
+                    "value": "VT"
+                },
+                {
+                    "text": "WA-Washington",
+                    "value": "WA"
+                },
+                {
+                    "text": "WI-Wisconsin",
+                    "value": "WI"
+                },
+                {
+                    "text": "WV-West Virginia",
+                    "value": "WV"
+                },
+                {
+                    "text": "WY-Wyoming",
+                    "value": "WY"
+                }
+            ],
+            "CONTACTS": [
+                {
+                    "address2": null,
+                    "mobilephone": "(844) 678-3099",
+                    "locked": "0",
+                    "zip": null,
+                    "portaltermsexpirationdate": "10\/27\/2018",
+                    "homeismobileyn": "N",
+                    "enterpriseid": "4406",
+                    "email": "jacklyn.purdyducimus1020992@gaylord.org",
+                    "permission": "2",
+                    "homephone": "(844) 678-3099",
+                    "selfmappedenterpriseid": null,
+                    "registered": "04\/27\/2016",
+                    "workphone": null,
+                    "city": null,
+                    "failedlogindate": "01\/14\/2019",
+                    "relationshiptopatient": "Family Member",
+                    "shellaccount": "0",
+                    "firstname": "TROY",
+                    "lastname": "DACH",
+                    "hasmobileyn": "Y",
+                    "created": "04\/27\/2016",
+                    "lastinvitesent": "04\/27\/2016",
+                    "privacypolicyaccepted": "04\/27\/2016",
+                    "communicatorbrandid": "1",
+                    "state": null,
+                    "permissiondescription": "Billing Only",
+                    "portalusermappingid": "23943",
+                    "lastlogindate": "09\/21\/2017",
+                    "portalthirdpartyuserid": "22102",
+                    "staleinvitation": "0",
+                    "migrated": "04\/27\/2016",
+                    "address1": null,
+                    "dob": null,
+                    "termsandconditionsaccepted": "04\/27\/2016",
+                    "active": "0",
+                    "portaluserpermissionid": "21261",
+                    "portaluserrelationshipid": "21"
+                },
+                {
+                    "address2": "TEST456",
+                    "mobilephone": "(912) 567-1123",
+                    "locked": "0",
+                    "zip": "20001",
+                    "portaltermsexpirationdate": null,
+                    "homeismobileyn": "N",
+                    "enterpriseid": "4406",
+                    "email": "vasudeva123@gmail.com",
+                    "permission": "2",
+                    "homephone": "(912) 567-1123",
+                    "selfmappedenterpriseid": null,
+                    "registered": null,
+                    "workphone": null,
+                    "city": "WASHINGTONDC",
+                    "failedlogindate": null,
+                    "relationshiptopatient": "Father",
+                    "shellaccount": "1",
+                    "firstname": "JOHN",
+                    "lastname": "ADAMS",
+                    "hasmobileyn": "Y",
+                    "created": "09\/04\/2025",
+                    "lastinvitesent": "09\/04\/2025",
+                    "privacypolicyaccepted": null,
+                    "communicatorbrandid": "1",
+                    "state": null,
+                    "permissiondescription": "Billing Only",
+                    "portalusermappingid": "31980",
+                    "lastlogindate": null,
+                    "portalthirdpartyuserid": "29243",
+                    "staleinvitation": "1",
+                    "migrated": null,
+                    "address1": "TEST123",
+                    "dob": null,
+                    "termsandconditionsaccepted": null,
+                    "active": "0",
+                    "portaluserpermissionid": "32009",
+                    "portaluserrelationshipid": "3"
+                },
+                {
+                    "address2": null,
+                    "mobilephone": "(636) 434-3434",
+                    "locked": "0",
+                    "zip": "11001",
+                    "portaltermsexpirationdate": null,
+                    "homeismobileyn": "Y",
+                    "enterpriseid": "4406",
+                    "email": "test12123123@gmail.com",
+                    "countryid": "1",
+                    "permission": "0",
+                    "homephone": "(636) 434-3434",
+                    "selfmappedenterpriseid": "4406",
+                    "registered": null,
+                    "workphone": "(876) 567-8767",
+                    "city": "FLORAL PARK",
+                    "failedlogindate": null,
+                    "relationshiptopatient": "Patient",
+                    "shellaccount": "1",
+                    "firstname": "RAM",
+                    "lastname": "TEST APPOINTMENT",
+                    "hasmobileyn": "Y",
+                    "created": "04\/25\/2016",
+                    "lastinvitesent": "03\/16\/2026",
+                    "privacypolicyaccepted": null,
+                    "communicatorbrandid": "1",
+                    "state": "NY",
+                    "permissiondescription": "Self",
+                    "portalusermappingid": "32080",
+                    "lastlogindate": null,
+                    "portalthirdpartyuserid": "29343",
+                    "staleinvitation": "1",
+                    "migrated": null,
+                    "address1": "1ST LINE",
+                    "dob": "01\/18\/1994",
+                    "termsandconditionsaccepted": null,
+                    "active": "0",
+                    "portaluserpermissionid": "32109",
+                    "portaluserrelationshipid": "1"
+                },
+                {
+                    "address2": "B",
+                    "mobilephone": "(912) 678-3091",
+                    "locked": "0",
+                    "zip": "11111",
+                    "portaltermsexpirationdate": null,
+                    "homeismobileyn": "N",
+                    "enterpriseid": "4406",
+                    "email": "abc@123.com",
+                    "permission": "5",
+                    "homephone": "(912) 678-3091",
+                    "selfmappedenterpriseid": null,
+                    "registered": null,
+                    "workphone": null,
+                    "city": "DDSF",
+                    "failedlogindate": null,
+                    "relationshiptopatient": "Father",
+                    "shellaccount": "1",
+                    "firstname": "DALIP",
+                    "lastname": "KUMAR",
+                    "hasmobileyn": "Y",
+                    "created": "04\/15\/2026",
+                    "lastinvitesent": null,
+                    "privacypolicyaccepted": null,
+                    "communicatorbrandid": "1",
+                    "state": null,
+                    "permissiondescription": "Family Member (No Portal)",
+                    "portalusermappingid": "32100",
+                    "lastlogindate": null,
+                    "portalthirdpartyuserid": "29363",
+                    "staleinvitation": "1",
+                    "migrated": null,
+                    "address1": "A",
+                    "dob": null,
+                    "termsandconditionsaccepted": null,
+                    "active": "0",
+                    "portaluserpermissionid": "32129",
+                    "portaluserrelationshipid": "3"
+                }
+            ],
+            "PRACTICESETTINGS": {
+                "Concierge Portal Registration Beta": "ON",
+                "PatientCycle::Security::PatientCycleEnabled": "ON",
+                "Family Billing": "ON",
+                "Foreign Patient Addresses": "ON",
+                "Enable Register With Smartphone": "ON",
+                "Duplicate Patient Warnings on Quickview": "ON",
+                "Portal Third Party Login Allowed": "ON",
+                "Display Guarantor Information on Quickview": "OFF",
+                "Kiosk Portal Registration Beta": "ON",
+                "Hide SMS Opt-in option": "OFF"
+            },
+            "OKTALOGOUTURL": "https:\/\/identity.athenahealth.com\/api\/v1\/sessions\/me",
+            "BILLINGHOLD": "",
+            "PATIENTEDITDISABLED": 0,
+            "PHONEVALIDATION": {
+                "VALIDATIONAPIURL": "https:\/\/messaging.supportphi.api.athena.io\/message-ui-proxy_featurecmeb482mupsandbox\/v1\/phone-number-validation\/validate"
+            }
+        }
+    }
+}
