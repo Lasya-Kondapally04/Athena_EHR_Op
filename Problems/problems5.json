@@ -1,0 +1,3515 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=active_problems&sources=allergies&sources=chart_id&sources=patient_id&sources=chart_security_labels&sources=diagnoses&sources=potential_hcc_diagnoses&sources=suspected_hcc_diagnoses&sources=suspected_non_hcc_diagnoses&sources=hcc_raf_demographics_factors&sources=hcc_raf_documented_hccs&sources=hcc_raf_hcc_exclusions&sources=hcc_raf_hcc_factors&sources=hcc_raf_apcc_factors&sources=hcc_raf_hcc_interaction_groups&sources=hcc_raf_hcc_interactions&sources=hcc_buddy_code_requirements&sources=hcc_raf_patient_age_and_sex&sources=hcc_raf_patient_demographic_factor&sources=hcc_resource_extended&sources=is_external_gaps_enabled&sources=initial_active_medications&sources=last_visit&sources=provider&sources=simple_problems&sources=simple_medications&request_priority=0&originating_page=%2F195903%2F5%2Fax%2Fdocument_workspace%2Fdocument%2F101702%2FAPPOINTMENTREQUEST&chart_id=21921&department_id=150&patient_id=2581",
+    "simple_problems": {
+        "no_known_problems_checked": "",
+        "problems": [
+            {
+                "laterality": "BILATERAL",
+                "description": "closed fracture of upper end of lower leg",
+                "events": [
+                    {
+                        "Laterality": "BILATERAL",
+                        "CreatedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2014-10-27T17:44:25-04:00"
+                        },
+                        "EnteredDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2014-10-27T00:00:00-04:00"
+                        },
+                        "EncounterDiagnoses": [
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "10502",
+                                "DiagnosisProblemID": "3662"
+                            },
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "7281",
+                                "DiagnosisProblemID": "1861"
+                            }
+                        ],
+                        "VersionToken": "PATIENTSNOMEDPROBLEM:269006",
+                        "ID": "1681",
+                        "ProblemListID": "1221",
+                        "Source": "ENCOUNTER",
+                        "StartDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2014-10-27"
+                        },
+                        "IMOEventList": [],
+                        "EventType": "START",
+                        "Status": "CHRONIC",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "LastModifiedUser": "glisch",
+                        "ChartID": "21921",
+                        "LastModifiedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2016-07-16T10:24:50-04:00"
+                        },
+                        "CreatedUser": "cvilain",
+                        "EnteredUser": "cvilain"
+                    }
+                ]
+            },
+            {
+                "laterality": "RIGHT",
+                "description": "hearing loss",
+                "events": [
+                    {
+                        "Laterality": "RIGHT",
+                        "CreatedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19T06:56:15-04:00"
+                        },
+                        "EnteredDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19T00:00:00-04:00"
+                        },
+                        "EncounterDiagnoses": [
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "12402",
+                                "DiagnosisProblemID": "4701"
+                            }
+                        ],
+                        "VersionToken": "PATIENTSNOMEDPROBLEM:269004",
+                        "ID": "4321",
+                        "ProblemListID": "1221",
+                        "StartDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19"
+                        },
+                        "IMOEventList": [],
+                        "EventType": "START",
+                        "Status": "CHRONIC",
+                        "OnsetDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19"
+                        },
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "LastModifiedUser": "glisch",
+                        "ChartID": "21921",
+                        "LastModifiedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2016-07-16T10:24:50-04:00"
+                        },
+                        "CreatedUser": "rramanagupta",
+                        "EnteredUser": "rramanagupta"
+                    }
+                ]
+            },
+            {
+                "laterality": "RIGHT",
+                "description": "anxiety state",
+                "events": [
+                    {
+                        "Laterality": "RIGHT",
+                        "CreatedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2014-09-04T10:50:17-04:00"
+                        },
+                        "EnteredDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2014-09-04T00:00:00-04:00"
+                        },
+                        "EncounterDiagnoses": [
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "7061",
+                                "DiagnosisProblemID": "1721"
+                            },
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "10501",
+                                "DiagnosisProblemID": "3661"
+                            },
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "7081",
+                                "DiagnosisProblemID": "1741"
+                            }
+                        ],
+                        "VersionToken": "PATIENTSNOMEDPROBLEM:148001",
+                        "ID": "1441",
+                        "ProblemListID": "1221",
+                        "Source": "HISTORY",
+                        "StartDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2014-09-04"
+                        },
+                        "IMOEventList": [],
+                        "EventType": "START",
+                        "Status": "CHRONIC",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "LastModifiedUser": "cvilain",
+                        "ChartID": "21921",
+                        "LastModifiedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-04-15T13:08:52-04:00"
+                        },
+                        "CreatedUser": "cvilain",
+                        "EnteredUser": "cvilain"
+                    }
+                ]
+            },
+            {
+                "laterality": null,
+                "description": "dyspnea",
+                "events": [
+                    {
+                        "CreatedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19T08:13:35-04:00"
+                        },
+                        "EnteredDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19T00:00:00-04:00"
+                        },
+                        "EncounterDiagnoses": [
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "12403",
+                                "DiagnosisProblemID": "4703"
+                            }
+                        ],
+                        "VersionToken": "PATIENTSNOMEDPROBLEM:269010",
+                        "ID": "4327",
+                        "ProblemListID": "1221",
+                        "Source": "ENCOUNTER",
+                        "StartDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19"
+                        },
+                        "IMOEventList": [],
+                        "EventType": "START",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "LastModifiedUser": "glisch",
+                        "ChartID": "21921",
+                        "LastModifiedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2016-07-16T10:24:50-04:00"
+                        },
+                        "CreatedUser": "cvilain",
+                        "EnteredUser": "cvilain"
+                    }
+                ]
+            },
+            {
+                "laterality": null,
+                "description": "jung syndrome",
+                "events": [
+                    {
+                        "CreatedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19T07:02:01-04:00"
+                        },
+                        "EnteredDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19T00:00:00-04:00"
+                        },
+                        "EncounterDiagnoses": [],
+                        "VersionToken": "PATIENTSNOMEDPROBLEM:269008",
+                        "ID": "4322",
+                        "ProblemListID": "1221",
+                        "StartDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19"
+                        },
+                        "IMOEventList": [],
+                        "EventType": "START",
+                        "Status": "ACUTE",
+                        "OnsetDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19"
+                        },
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "LastModifiedUser": "glisch",
+                        "ChartID": "21921",
+                        "LastModifiedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2016-07-16T10:24:50-04:00"
+                        },
+                        "CreatedUser": "rramanagupta",
+                        "EnteredUser": "rramanagupta"
+                    }
+                ]
+            },
+            {
+                "laterality": null,
+                "description": "allergic asthma without status asthmaticus",
+                "events": [
+                    {
+                        "EnteredDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-05-21T00:00:00-04:00"
+                        },
+                        "CreatedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-05-21T10:24:53-04:00"
+                        },
+                        "EncounterDiagnoses": [
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "11183",
+                                "DiagnosisProblemID": "3943"
+                            }
+                        ],
+                        "VersionToken": "PATIENTSNOMEDPROBLEM:-1",
+                        "ID": "3603",
+                        "ProblemListID": "1221",
+                        "Source": "ENCOUNTER",
+                        "StartDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-05-21"
+                        },
+                        "IMOEventList": [],
+                        "EventType": "START",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "ChartID": "21921",
+                        "CreatedUser": "cvilain",
+                        "EnteredUser": "cvilain"
+                    }
+                ]
+            },
+            {
+                "laterality": null,
+                "description": "diabetes mellitus",
+                "events": [
+                    {
+                        "EnteredDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-04-15T00:00:00-04:00"
+                        },
+                        "CreatedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-04-15T13:08:52-04:00"
+                        },
+                        "EncounterDiagnoses": [
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "10503",
+                                "DiagnosisProblemID": "3663"
+                            }
+                        ],
+                        "VersionToken": "PATIENTSNOMEDPROBLEM:-1",
+                        "ID": "3221",
+                        "ProblemListID": "1221",
+                        "Source": "ENCOUNTER",
+                        "StartDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-04-15"
+                        },
+                        "IMOEventList": [],
+                        "EventType": "START",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "ChartID": "21921",
+                        "CreatedUser": "cvilain",
+                        "EnteredUser": "cvilain"
+                    }
+                ]
+            },
+            {
+                "laterality": null,
+                "description": "pregnancy",
+                "events": [
+                    {
+                        "CreatedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19T07:02:58-04:00"
+                        },
+                        "EncounterDiagnoses": [],
+                        "VersionToken": "PATIENTSNOMEDPROBLEM:-1",
+                        "ID": "4323",
+                        "ProblemListID": "1221",
+                        "StartDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19"
+                        },
+                        "IMOEventList": [],
+                        "EventType": "START",
+                        "OnsetDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19"
+                        },
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "ChartID": "21921",
+                        "CreatedUser": "rramanagupta"
+                    }
+                ]
+            }
+        ]
+    },
+    "hcc_raf_hcc_factors": [
+        {
+            "COMMUNITYRAF": ".673",
+            "HCCID": "463",
+            "HCCDESCRIPTION": "Artificial Openings for Feeding or Elimination",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "1.068",
+            "HCCID": "454",
+            "HCCDESCRIPTION": "Stem Cell, Including Bone Marrow, Transplant Status\/Complications",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".598",
+            "HCCID": "409",
+            "HCCDESCRIPTION": "Amputation Status, Lower Limb\/Amputation Complications",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".598",
+            "HCCID": "405",
+            "HCCDESCRIPTION": "Traumatic Amputations and Complications",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".467",
+            "HCCID": "402",
+            "HCCDESCRIPTION": "Hip Fracture\/Dislocation",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".522",
+            "HCCID": "401",
+            "HCCDESCRIPTION": "Vertebral Fractures without Spinal Cord Injury",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".199",
+            "HCCID": "399",
+            "HCCDESCRIPTION": "Major Head Injury without Loss of Consciousness",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".199",
+            "HCCID": "398",
+            "HCCDESCRIPTION": "Major Head Injury with Loss of Consciousness < 1 Hour or Unspecified",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".199",
+            "HCCID": "397",
+            "HCCDESCRIPTION": "Major Head Injury with Loss of Consciousness > 1 Hour",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".406",
+            "HCCID": "387",
+            "HCCDESCRIPTION": "Pemphigus, Pemphigoid, and Other Specified Autoimmune Skin Disorders",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "1.291",
+            "HCCID": "385",
+            "HCCDESCRIPTION": "Severe Skin Burn",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".646",
+            "HCCID": "383",
+            "HCCDESCRIPTION": "Chronic Ulcer of Skin, Except Pressure, Not Specified as Through to Bone or Muscle",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".838",
+            "HCCID": "382",
+            "HCCDESCRIPTION": "Pressure Ulcer of Skin with Partial Thickness Skin Loss",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "1.075",
+            "HCCID": "381",
+            "HCCDESCRIPTION": "Pressure Ulcer of Skin with Full Thickness Skin Loss",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "1.078",
+            "HCCID": "380",
+            "HCCDESCRIPTION": "Chronic Ulcer of Skin, Except Pressure, Through to Bone or Muscle",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "1.965",
+            "HCCID": "379",
+            "HCCDESCRIPTION": "Pressure Ulcer of Skin with Necrosis Through to Muscle, Tendon, or Bone",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".127",
+            "HCCID": "329",
+            "HCCDESCRIPTION": "Chronic Kidney Disease, Moderate (Stage 3, Except 3B)",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".127",
+            "HCCID": "328",
+            "HCCDESCRIPTION": "Chronic Kidney Disease, Moderate (Stage 3B)",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".514",
+            "HCCID": "327",
+            "HCCDESCRIPTION": "Chronic Kidney Disease, Severe (Stage 4)",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".815",
+            "HCCID": "326",
+            "HCCDESCRIPTION": "Chronic Kidney Disease, Stage 5",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".596",
+            "HCCID": "300",
+            "HCCDESCRIPTION": "Exudative Macular Degeneration",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".336",
+            "HCCID": "298",
+            "HCCDESCRIPTION": "Severe Diabetic Eye Disease, Retinal Vein Occlusion, and Vitreous Hemorrhage",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".204",
+            "HCCID": "283",
+            "HCCDESCRIPTION": "Empyema, Lung Abscess",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".44",
+            "HCCID": "282",
+            "HCCDESCRIPTION": "Aspiration and Specified Bacterial Pneumonias",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".319",
+            "HCCID": "280",
+            "HCCDESCRIPTION": "Chronic Obstructive Pulmonary Disease, Interstitial Lung Disorders, and Other Chronic Lung Disorders",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".818",
+            "HCCID": "279",
+            "HCCDESCRIPTION": "Severe Persistent Asthma",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".818",
+            "HCCID": "278",
+            "HCCDESCRIPTION": "Idiopathic Pulmonary Fibrosis and Lung Involvement in Systemic Sclerosis",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".998",
+            "HCCID": "277",
+            "HCCDESCRIPTION": "Cystic Fibrosis",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "2.531",
+            "HCCID": "276",
+            "HCCDESCRIPTION": "Lung Transplant Status\/Complications",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".294",
+            "HCCID": "267",
+            "HCCDESCRIPTION": "Deep Vein Thrombosis and Pulmonary Embolism",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".455",
+            "HCCID": "264",
+            "HCCDESCRIPTION": "Vascular Disease with Complications",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "1.118",
+            "HCCID": "263",
+            "HCCDESCRIPTION": "Atherosclerosis of Arteries of the Extremities with Ulceration or Gangrene",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".321",
+            "HCCID": "254",
+            "HCCDESCRIPTION": "Monoplegia, Other Paralytic Syndromes",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".387",
+            "HCCID": "253",
+            "HCCDESCRIPTION": "Hemiplegia\/Hemiparesis",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".239",
+            "HCCID": "249",
+            "HCCDESCRIPTION": "Ischemic or Unspecified Stroke",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".239",
+            "HCCID": "248",
+            "HCCDESCRIPTION": "Intracranial Hemorrhage",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".299",
+            "HCCID": "238",
+            "HCCDESCRIPTION": "Specified Heart Arrhythmias",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".24",
+            "HCCID": "229",
+            "HCCDESCRIPTION": "Unstable Angina and Other Acute Ischemic Heart Disease",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".252",
+            "HCCID": "228",
+            "HCCDESCRIPTION": "Acute Myocardial Infarction",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".189",
+            "HCCID": "227",
+            "HCCDESCRIPTION": "Cardiomyopathy\/Myocarditis",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".36",
+            "HCCID": "226",
+            "HCCDESCRIPTION": "Heart Failure, Except EndStage and Acute",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".36",
+            "HCCID": "225",
+            "HCCDESCRIPTION": "Acute Heart Failure (Excludes Acute on Chronic)",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".36",
+            "HCCID": "224",
+            "HCCDESCRIPTION": "Acute on Chronic Heart Failure",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "2.505",
+            "HCCID": "223",
+            "HCCDESCRIPTION": "Heart Failure with Heart Assist Device\/Artificial Heart",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "2.505",
+            "HCCID": "222",
+            "HCCDESCRIPTION": "End-Stage Heart Failure",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "1.053",
+            "HCCID": "221",
+            "HCCDESCRIPTION": "Heart Transplant Status\/Complications",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".37",
+            "HCCID": "213",
+            "HCCDESCRIPTION": "Cardio-Respiratory Failure and Shock",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".37",
+            "HCCID": "212",
+            "HCCDESCRIPTION": "Respiratory Arrest",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".879",
+            "HCCID": "211",
+            "HCCDESCRIPTION": "Respirator Dependence\/Tracheostomy Status\/Complications",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".543",
+            "HCCID": "202",
+            "HCCDESCRIPTION": "Coma, Brain Compression\/Anoxic Damage",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".245",
+            "HCCID": "201",
+            "HCCDESCRIPTION": "Seizure Disorders and Convulsions",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".279",
+            "HCCID": "200",
+            "HCCDESCRIPTION": "Friedreich and Other Hereditary Ataxias; Huntington Disease",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".615",
+            "HCCID": "199",
+            "HCCDESCRIPTION": "Parkinson and Other Degenerative Disease of Basal Ganglia",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".647",
+            "HCCID": "198",
+            "HCCDESCRIPTION": "Multiple Sclerosis",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".426",
+            "HCCID": "197",
+            "HCCDESCRIPTION": "Muscular Dystrophy",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".516",
+            "HCCID": "196",
+            "HCCDESCRIPTION": "Myasthenia Gravis without (Acute) Exacerbation and Other Myoneural Disorders",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "2.909",
+            "HCCID": "195",
+            "HCCDESCRIPTION": "Myasthenia Gravis with (Acute) Exacerbation",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "1.692",
+            "HCCID": "193",
+            "HCCDESCRIPTION": "Chronic Inflammatory Demyelinating Polyneuritis and Multifocal Motor Neuropathy",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".314",
+            "HCCID": "192",
+            "HCCDESCRIPTION": "Cerebral Palsy, Except Quadriplegic",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".855",
+            "HCCID": "191",
+            "HCCDESCRIPTION": "Quadriplegic Cerebral Palsy",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "1.175",
+            "HCCID": "190",
+            "HCCDESCRIPTION": "Amyotrophic Lateral Sclerosis and Other Motor Neuron Disease, Spinal Muscular Atrophy",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".478",
+            "HCCID": "182",
+            "HCCDESCRIPTION": "Spinal Cord Disorders\/Injuries",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".942",
+            "HCCID": "181",
+            "HCCDESCRIPTION": "Paraplegia",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "1.125",
+            "HCCID": "180",
+            "HCCDESCRIPTION": "Quadriplegia",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".299",
+            "HCCID": "155",
+            "HCCDESCRIPTION": "Major Depression, Moderate or Severe, without Psychosis",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".351",
+            "HCCID": "154",
+            "HCCDESCRIPTION": "Bipolar Disorders without Psychosis",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".396",
+            "HCCID": "153",
+            "HCCDESCRIPTION": "Personality Disorders; Anorexia\/Bulimia Nervosa",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".484",
+            "HCCID": "152",
+            "HCCDESCRIPTION": "Psychosis, Except Schizophrenia",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".511",
+            "HCCID": "151",
+            "HCCDESCRIPTION": "Schizophrenia",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".242",
+            "HCCID": "139",
+            "HCCDESCRIPTION": "Alcohol Use Disorder, Moderate\/Severe, or Alcohol Use with Specified NonPsychotic Complications",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".423",
+            "HCCID": "138",
+            "HCCDESCRIPTION": "Drug Use Disorder, Mild, Uncomplicated, Except Cannabis",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".424",
+            "HCCID": "137",
+            "HCCDESCRIPTION": "Drug Use Disorder, Moderate\/Severe, or Drug Use with Non-Psychotic Complications",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".424",
+            "HCCID": "136",
+            "HCCDESCRIPTION": "Alcohol Use with Psychotic Complications",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".424",
+            "HCCID": "135",
+            "HCCDESCRIPTION": "Drug Use with Psychotic Complications",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".341",
+            "HCCID": "127",
+            "HCCDESCRIPTION": "Dementia, Mild or Unspecified",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".341",
+            "HCCID": "126",
+            "HCCDESCRIPTION": "Dementia, Moderate",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".341",
+            "HCCID": "125",
+            "HCCDESCRIPTION": "Dementia, Severe",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".565",
+            "HCCID": "115",
+            "HCCDESCRIPTION": "Specified Immunodeficiencies and White Blood Cell Disorders",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "2.262",
+            "HCCID": "114",
+            "HCCDESCRIPTION": "Common Variable and Combined Immunodeficiencies",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".45",
+            "HCCID": "112",
+            "HCCDESCRIPTION": "Immune Thrombocytopenia and Specified Coagulation Defects and Hemorrhagic Conditions",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "4.639",
+            "HCCID": "111",
+            "HCCDESCRIPTION": "Hemophilia, Male",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "1.144",
+            "HCCID": "109",
+            "HCCDESCRIPTION": "Acquired Hemolytic, Aplastic, and Sideroblastic Anemias",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".146",
+            "HCCID": "108",
+            "HCCDESCRIPTION": "Sickle Cell Disorders, Except Sickle Cell Anemia (Hb-SS) and Thalassemia Beta Zero; Beta Thalassemia Major",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".457",
+            "HCCID": "107",
+            "HCCDESCRIPTION": "Sickle Cell Anemia (Hb-SS) and Thalassemia Beta Zero",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".268",
+            "HCCID": "94",
+            "HCCDESCRIPTION": "Systemic Lupus Erythematosus and Other Specified Systemic Connective Tissue Disorders",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".617",
+            "HCCID": "93",
+            "HCCDESCRIPTION": "Rheumatoid Arthritis and Other Specified Inflammatory Rheumatic Disorders",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".479",
+            "HCCID": "92",
+            "HCCDESCRIPTION": "Bone\/Joint\/Muscle\/Severe Soft Tissue Infections\/Necrosis",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".244",
+            "HCCID": "81",
+            "HCCDESCRIPTION": "Ulcerative Colitis",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".55",
+            "HCCID": "80",
+            "HCCDESCRIPTION": "Crohn's Disease (Regional Enteritis)",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".357",
+            "HCCID": "79",
+            "HCCDESCRIPTION": "Chronic Pancreatitis",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".326",
+            "HCCID": "78",
+            "HCCDESCRIPTION": "Intestinal Obstruction\/Perforation",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "1.172",
+            "HCCID": "77",
+            "HCCDESCRIPTION": "Intestine Transplant Status\/Complications",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".388",
+            "HCCID": "68",
+            "HCCDESCRIPTION": "Cholangitis and Obstruction of Bile Duct Without Gallstones",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".185",
+            "HCCID": "65",
+            "HCCDESCRIPTION": "Chronic Hepatitis",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".447",
+            "HCCID": "64",
+            "HCCDESCRIPTION": "Cirrhosis of Liver",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".962",
+            "HCCID": "63",
+            "HCCDESCRIPTION": "Chronic Liver Failure\/EndStage Liver Disorders",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".376",
+            "HCCID": "62",
+            "HCCDESCRIPTION": "Liver Transplant Status\/Complications",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".51",
+            "HCCID": "51",
+            "HCCDESCRIPTION": "Addison's and Cushing's Diseases, Acromegaly, and Other Specified Endocrine Disorders",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".648",
+            "HCCID": "50",
+            "HCCDESCRIPTION": "Amyloidosis, Porphyria, and Other Specified Metabolic Disorders",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "9.256",
+            "HCCID": "49",
+            "HCCDESCRIPTION": "Specified Lysosomal Storage Disorders",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".186",
+            "HCCID": "48",
+            "HCCDESCRIPTION": "Morbid Obesity",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".166",
+            "HCCID": "38",
+            "HCCDESCRIPTION": "Diabetes with Glycemic, Unspecified, or No Complications",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".166",
+            "HCCID": "37",
+            "HCCDESCRIPTION": "Diabetes with Chronic Complications",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".166",
+            "HCCID": "36",
+            "HCCDESCRIPTION": "Diabetes with Severe Acute Complications",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".949",
+            "HCCID": "35",
+            "HCCDESCRIPTION": "Pancreas Transplant Status",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".186",
+            "HCCID": "23",
+            "HCCDESCRIPTION": "Prostate, Breast, and Other Cancers and Tumors",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".363",
+            "HCCID": "22",
+            "HCCDESCRIPTION": "Bladder, Colorectal, and Other Cancers",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".671",
+            "HCCID": "21",
+            "HCCDESCRIPTION": "Lymphoma and Other Cancers",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "1.136",
+            "HCCID": "20",
+            "HCCDESCRIPTION": "Lung and Other Severe Cancers",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "1.798",
+            "HCCID": "19",
+            "HCCDESCRIPTION": "Myelodysplastic Syndromes, Multiple Myeloma, and Other Cancers",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "2.341",
+            "HCCID": "18",
+            "HCCDESCRIPTION": "Cancer Metastatic to Bone, Other and Unspecified Metastatic Cancer; Acute Leukemia Except Myeloid",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": "4.209",
+            "HCCID": "17",
+            "HCCDESCRIPTION": "Cancer Metastatic to Lung, Liver, Brain, and Other Organs; Acute Myeloid Leukemia Except Promyelocytic",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".381",
+            "HCCID": "6",
+            "HCCDESCRIPTION": "OPPORTUNISTIC INFECTIONS",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".5",
+            "HCCID": "2",
+            "HCCDESCRIPTION": "Septicemia, Sepsis, Systemic Inflammatory Response Syndrome\/Shock",
+            "TYPE": "HCC"
+        },
+        {
+            "COMMUNITYRAF": ".301",
+            "HCCID": "1",
+            "HCCDESCRIPTION": "HIV\/AIDS",
+            "TYPE": "HCC"
+        }
+    ],
+    "is_external_gaps_enabled": {
+        "ISEXTERNALGAPSENABLED": 1
+    },
+    "hcc_raf_hcc_interaction_groups": [
+        {
+            "HCCID": "35",
+            "HCCINTERACTIONGROUPNAME": "DIABETES"
+        },
+        {
+            "HCCID": "225",
+            "HCCINTERACTIONGROUPNAME": "CHF"
+        },
+        {
+            "HCCID": "20",
+            "HCCINTERACTIONGROUPNAME": "CANCER"
+        },
+        {
+            "HCCID": "38",
+            "HCCINTERACTIONGROUPNAME": "DIABETES"
+        },
+        {
+            "HCCID": "37",
+            "HCCINTERACTIONGROUPNAME": "DIABETES"
+        },
+        {
+            "HCCID": "211",
+            "HCCINTERACTIONGROUPNAME": "CARD_RESP_FAIL"
+        },
+        {
+            "HCCID": "212",
+            "HCCINTERACTIONGROUPNAME": "CARD_RESP_FAIL"
+        },
+        {
+            "HCCID": "327",
+            "HCCINTERACTIONGROUPNAME": "KIDNEY"
+        },
+        {
+            "HCCID": "213",
+            "HCCINTERACTIONGROUPNAME": "CARD_RESP_FAIL"
+        },
+        {
+            "HCCID": "223",
+            "HCCINTERACTIONGROUPNAME": "CHF"
+        },
+        {
+            "HCCID": "224",
+            "HCCINTERACTIONGROUPNAME": "CHF"
+        },
+        {
+            "HCCID": "329",
+            "HCCINTERACTIONGROUPNAME": "KIDNEY"
+        },
+        {
+            "HCCID": "18",
+            "HCCINTERACTIONGROUPNAME": "CANCER"
+        },
+        {
+            "HCCID": "19",
+            "HCCINTERACTIONGROUPNAME": "CANCER"
+        },
+        {
+            "HCCID": "21",
+            "HCCINTERACTIONGROUPNAME": "CANCER"
+        },
+        {
+            "HCCID": "36",
+            "HCCINTERACTIONGROUPNAME": "DIABETES"
+        },
+        {
+            "HCCID": "222",
+            "HCCINTERACTIONGROUPNAME": "CHF"
+        },
+        {
+            "HCCID": "226",
+            "HCCINTERACTIONGROUPNAME": "CHF"
+        },
+        {
+            "HCCID": "280",
+            "HCCINTERACTIONGROUPNAME": "CHR_LUNG"
+        },
+        {
+            "HCCID": "276",
+            "HCCINTERACTIONGROUPNAME": "CHR_LUNG"
+        },
+        {
+            "HCCID": "328",
+            "HCCINTERACTIONGROUPNAME": "KIDNEY"
+        },
+        {
+            "HCCID": "17",
+            "HCCINTERACTIONGROUPNAME": "CANCER"
+        },
+        {
+            "HCCID": "277",
+            "HCCINTERACTIONGROUPNAME": "CHR_LUNG"
+        },
+        {
+            "HCCID": "278",
+            "HCCINTERACTIONGROUPNAME": "CHR_LUNG"
+        },
+        {
+            "HCCID": "279",
+            "HCCINTERACTIONGROUPNAME": "CHR_LUNG"
+        },
+        {
+            "HCCID": "238",
+            "HCCINTERACTIONGROUPNAME": "HCC238"
+        },
+        {
+            "HCCID": "23",
+            "HCCINTERACTIONGROUPNAME": "CANCER"
+        },
+        {
+            "HCCID": "326",
+            "HCCINTERACTIONGROUPNAME": "KIDNEY"
+        },
+        {
+            "HCCID": "22",
+            "HCCINTERACTIONGROUPNAME": "CANCER"
+        },
+        {
+            "HCCID": "221",
+            "HCCINTERACTIONGROUPNAME": "CHF"
+        }
+    ],
+    "allergies": {
+        "NKDAChecked": false,
+        "__CLASS__": "Athena::Chart::Entity::Allergies",
+        "MUCMeta": {
+            "ContainerToken": "243f381bed0bff6f9f49d5979de59147",
+            "__CLASS__": "Athena::Entity::MUCMeta",
+            "VersionToken": -1,
+            "ContainerArgs": {
+                "CHARTID": "21921",
+                "EXCLUDENKDA": "1",
+                "PATIENTID": "fake",
+                "PROPERLOWERCASE": "1"
+            }
+        },
+        "VersionToken": -1,
+        "Allergies": [
+            {
+                "DeactivationDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2017-03-25T00:00:00-04:00"
+                },
+                "CreatedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2015-10-17T09:53:21-04:00"
+                },
+                "DeactivationUser": "cvilain",
+                "VersionToken": "ALLERGY:9d57b83547b60859601516be9c75f6c5",
+                "Reactions": [
+                    {
+                        "PatientAllergyReactionID": "3361",
+                        "CreatedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-10-17T09:53:21-04:00"
+                        },
+                        "VersionToken": -1,
+                        "Code": {
+                            "__CLASS__": "Athena::Entity::Code::SNOMED",
+                            "VersionToken": -1,
+                            "CodeSet": "SNOMED",
+                            "Code": "422587007"
+                        },
+                        "__CLASS__": "Athena::Chart::Entity::Allergy::Reaction",
+                        "Name": "nausea",
+                        "LastModifiedUser": "cvilain",
+                        "ID": "14",
+                        "LastModifiedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-10-17T09:53:21-04:00"
+                        }
+                    }
+                ],
+                "Name": "bee pollen",
+                "ID": "4101",
+                "Allergen": {
+                    "VersionToken": -1,
+                    "Code": "7890",
+                    "__CLASS__": "Athena::Entity::Allergen",
+                    "Name": "bee pollen",
+                    "ID": "18214",
+                    "Type": "6"
+                },
+                "OnsetDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2015-10-01"
+                },
+                "__CLASS__": "Athena::Chart::Entity::Allergy",
+                "ChartID": "21921",
+                "LastModifiedUser": "cvilain",
+                "LastModifiedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2017-03-25T08:31:33-04:00"
+                },
+                "CreatedUser": "cvilain"
+            }
+        ]
+    },
+    "suspected_non_hcc_diagnoses": [],
+    "hcc_raf_hcc_interactions": [
+        {
+            "HCCINTERACTIONGROUP2NAME": "KIDNEY",
+            "COMMUNITYRAF": ".176",
+            "HCCINTERACTIONGROUP1NAME": "CHF",
+            "TYPE": "DISEASEDISEASEINTERACTION"
+        },
+        {
+            "HCCINTERACTIONGROUP2NAME": "HCC238",
+            "COMMUNITYRAF": ".077",
+            "HCCINTERACTIONGROUP1NAME": "CHF",
+            "TYPE": "DISEASEDISEASEINTERACTION"
+        },
+        {
+            "HCCINTERACTIONGROUP2NAME": "CHR_LUNG",
+            "COMMUNITYRAF": ".078",
+            "HCCINTERACTIONGROUP1NAME": "CHF",
+            "TYPE": "DISEASEDISEASEINTERACTION"
+        },
+        {
+            "HCCINTERACTIONGROUP2NAME": "CARD_RESP_FAIL",
+            "COMMUNITYRAF": ".254",
+            "HCCINTERACTIONGROUP1NAME": "CHR_LUNG",
+            "TYPE": "DISEASEDISEASEINTERACTION"
+        },
+        {
+            "HCCINTERACTIONGROUP2NAME": "CHF",
+            "COMMUNITYRAF": ".112",
+            "HCCINTERACTIONGROUP1NAME": "DIABETES",
+            "TYPE": "DISEASEDISEASEINTERACTION"
+        }
+    ],
+    "patient_id": "2581",
+    "initial_active_medications": {
+        "LastDownloadedDate": null,
+        "Note": null,
+        "Medications": [
+            {
+                "ProductName": "ibuprofen",
+                "MedicationID": "299644",
+                "TherapeuticClass": "NSAIDS, CYCLOOXYGENASE INHIBITOR TYPE ANALGESICS",
+                "EpocratesDrugID": "234",
+                "NewIndicator": "MANUALADD",
+                "MedicationIDType": "MEDNAMEID",
+                "Name": "ibuprofen",
+                "IDSource": "PATIENTMEDICATION",
+                "Description": "ibuprofen",
+                "Created": "2014-09-30 16:30:27",
+                "ID": "3642",
+                "FDBMedicationNameID": "5042",
+                "StartDate": "2014-07-15 00:00:00",
+                "FDBGenericMedicationNameID": "5042",
+                "OrganClass": "LOCOMOTOR SYSTEM"
+            },
+            {
+                "FDBGenericMedicationID": "277345",
+                "ProductName": "Delsym Cough-Chest Congest DM",
+                "MedicationID": "373542",
+                "TherapeuticClass": "NON-OPIOID ANTITUSSIVE AND EXPECTORANT COMBINATION",
+                "EpocratesDrugID": "6815",
+                "NewIndicator": "MANUALADD",
+                "MedicationIDType": "MEDID",
+                "Name": "Delsym Cough-Chest Congestion DM 5 mg-100 mg\/5 mL oral liquid",
+                "IDSource": "CLINICALPRESCRIPTION",
+                "Description": "Delsym Cough-Chest Congestion DM 5 mg-100 mg\/5 mL oral liquid",
+                "ID": "107136",
+                "Created": "2015-05-16 09:25:16",
+                "ProviderNote": "scrambled notes",
+                "OrderDate": "2015-09-11 13:50:06",
+                "FDBMedicationID": "581287",
+                "FutureSubmitDate": "2015-05-16 00:00:00",
+                "ClinicalOrderTypeID": "348867",
+                "OrganClass": "RESPIRATORY SYSTEM",
+                "UnstructuredSig": "3 times a day for 5 days"
+            },
+            {
+                "ProductName": "Elite-Thin Ins Syr .5cc\/30G",
+                "MedicationID": "315262",
+                "NewIndicator": "MANUALADD",
+                "MedicationIDType": "MEDNAMEID",
+                "IDSource": "PATIENTMEDICATION",
+                "Description": "Elite-Thin Ins Syr .5cc\/30G",
+                "Name": "Elite-Thin Ins Syr 0.5cc\/30G",
+                "Created": "2015-09-19 08:25:26",
+                "ID": "5368",
+                "FDBMedicationNameID": "20660",
+                "ProviderNote": "scrambled notes",
+                "StartDate": "2015-06-21 00:00:00",
+                "UnstructuredSig": "fgtujufg"
+            },
+            {
+                "ProductName": "multivitamin",
+                "MedicationID": "312199",
+                "TherapeuticClass": "MULTIVITAMIN PREPARATIONS",
+                "NewIndicator": "MANUALADD",
+                "MedicationIDType": "MEDNAMEID",
+                "IDSource": "PATIENTMEDICATION",
+                "Description": "multivitamin",
+                "Name": "multivitamin",
+                "Created": "2014-12-16 11:23:35",
+                "ID": "3963",
+                "FDBMedicationNameID": "17597",
+                "StartDate": "2014-09-16 00:00:00",
+                "FDBGenericMedicationNameID": "17597",
+                "OrganClass": "ELECTROLYTE BALANCE\/METABOLISM\/NUTRITION"
+            },
+            {
+                "FDBGenericMedicationID": "203395",
+                "ProductName": "acyclovir",
+                "MedicationID": "236245",
+                "TherapeuticClass": "ANTIVIRALS, GENERAL",
+                "EpocratesDrugID": "129",
+                "NewIndicator": "MANUALADD",
+                "MedicationIDType": "MEDID",
+                "Name": "acyclovir 400 mg tablet",
+                "IDSource": "CLINICALPRESCRIPTION",
+                "Description": "acyclovir 400 mg tablet",
+                "ID": "111393",
+                "Created": "2015-09-19 08:31:15",
+                "OrderDate": "2015-09-19 08:35:48",
+                "FDBMedicationID": "203395",
+                "ClinicalOrderTypeID": "198627",
+                "DisplaySig": "Take 1 tablet every 8 hours by oral route for 45 days.",
+                "OrganClass": "ANTI-INFECTING AGENTS"
+            },
+            {
+                "FDBGenericMedicationID": "555135",
+                "ProductName": "Nexium Packet",
+                "MedicationID": "348579",
+                "TherapeuticClass": "PROTON-PUMP INHIBITORS",
+                "EpocratesDrugID": "2340",
+                "NewIndicator": "MANUALADD",
+                "MedicationIDType": "MEDID",
+                "Name": "Nexium Packet 10 mg granules delayed release for susp",
+                "IDSource": "CLINICALPRESCRIPTION",
+                "Description": "Nexium Packet 10 mg granules delayed release for susp",
+                "ID": "111376",
+                "Created": "2015-09-19 07:54:22",
+                "TallManName": "NexIUM Packet 10 mg granules delayed release for susp",
+                "OrderDate": "2015-09-19 07:54:22",
+                "FDBMedicationID": "555152",
+                "FutureSubmitDate": "2015-09-19 00:00:00",
+                "ClinicalOrderTypeID": "269644",
+                "DisplaySig": "Take 1 mg every day by oral route before meals for 6 days.",
+                "OrganClass": "BILIARY SYSTEM\/GASTRO-INTESTINAL SYSTEM"
+            },
+            {
+                "ProductName": "Tylenol",
+                "MedicationID": "301410",
+                "TherapeuticClass": "ANALGESIC\/ANTIPYRETICS,NON-SALICYLATE",
+                "EpocratesDrugID": "1687",
+                "NewIndicator": "MANUALADD",
+                "MedicationIDType": "MEDNAMEID",
+                "IDSource": "PATIENTMEDICATION",
+                "Description": "Tylenol",
+                "Name": "Tylenol",
+                "Created": "2015-09-19 07:37:14",
+                "ID": "5365",
+                "FDBMedicationNameID": "6808",
+                "ProviderNote": "scrambled notes",
+                "FDBGenericMedicationNameID": "361",
+                "OrganClass": "NERVOUS SYSTEM (EXCEPT AUTONOMIC)"
+            },
+            {
+                "FDBGenericMedicationID": "279394",
+                "ProductName": "ProAir HFA",
+                "MedicationID": "338856",
+                "TherapeuticClass": "BETA-ADRENERGIC AGENTS, INHALED, SHORT ACTING",
+                "NewIndicator": "MANUALADD",
+                "MedicationIDType": "MEDID",
+                "Name": "ProAir HFA 90 mcg\/actuation aerosol inhaler",
+                "IDSource": "CLINICALPRESCRIPTION",
+                "Description": "ProAir HFA 90 mcg\/actuation aerosol inhaler",
+                "ID": "111351",
+                "Created": "2015-09-19 06:59:13",
+                "ProviderNote": "scrambled notes",
+                "OrderDate": "2015-09-19 08:29:00",
+                "FDBMedicationID": "545839",
+                "ClinicalOrderTypeID": "259487",
+                "DisplaySig": "Inhale 2 puffs every 4 hours by inhalation route before meals for 45 days.",
+                "OrganClass": "RESPIRATORY SYSTEM"
+            },
+            {
+                "ProductName": "Tylenol",
+                "MedicationID": "266624",
+                "TherapeuticClass": "ANALGESIC\/ANTIPYRETICS,NON-SALICYLATE",
+                "NewIndicator": "MANUALADD",
+                "MedicationIDType": "MEDID",
+                "IDSource": "PATIENTMEDICATION",
+                "Description": "Tylenol 160 mg\/5 mL oral elixir",
+                "Name": "Tylenol 160 mg\/5 mL oral elixir",
+                "Created": "2015-09-19 07:36:09",
+                "ID": "5364",
+                "FDBMedicationID": "436239",
+                "StartDate": "2015-05-21 00:00:00",
+                "DisplaySig": " 2 elixirs twice a day.",
+                "OrganClass": "NERVOUS SYSTEM (EXCEPT AUTONOMIC)"
+            },
+            {
+                "FDBGenericMedicationID": "583666",
+                "ProductName": "Movantik",
+                "MedicationID": "376954",
+                "TherapeuticClass": "MU-OPIOID RECEPTOR ANTAGONISTS,PERIPHERALLY-ACTING",
+                "EpocratesDrugID": "7074",
+                "NewIndicator": "MANUALADD",
+                "MedicationIDType": "MEDID",
+                "Name": "Movantik 25 mg tablet",
+                "IDSource": "CLINICALPRESCRIPTION",
+                "Description": "Movantik 25 mg tablet",
+                "ID": "111186",
+                "Created": "2015-09-11 11:15:12",
+                "ProviderNote": "scrambled notes",
+                "OrderDate": "2015-09-11 11:15:12",
+                "FDBMedicationID": "583829",
+                "FutureSubmitDate": "2015-09-11 00:00:00",
+                "ClinicalOrderTypeID": "355875",
+                "DisplaySig": "Take 1 tablet every day by oral route.",
+                "OrganClass": "NERVOUS SYSTEM (EXCEPT AUTONOMIC)"
+            },
+            {
+                "ProductName": "amoxicillin",
+                "MedicationID": "296121",
+                "TherapeuticClass": "PENICILLIN ANTIBIOTICS",
+                "EpocratesDrugID": "140",
+                "NewIndicator": "MANUALADD",
+                "MedicationIDType": "MEDNAMEID",
+                "IDSource": "PATIENTMEDICATION",
+                "Description": "amoxicillin",
+                "Created": "2014-09-03 13:26:27",
+                "ID": "3482",
+                "FDBMedicationNameID": "1519",
+                "FDBGenericMedicationNameID": "1519",
+                "OrganClass": "ANTI-INFECTING AGENTS",
+                "UnstructuredSig": "15 g"
+            },
+            {
+                "FDBGenericMedicationID": "167135",
+                "ProductName": "albuterol sulfate",
+                "MedicationID": "228062",
+                "TherapeuticClass": "BETA-ADRENERGIC AGENTS, INHALED, SHORT ACTING",
+                "EpocratesDrugID": "3308",
+                "NewIndicator": "MANUALADD",
+                "MedicationIDType": "MEDID",
+                "Name": "albuterol sulfate 2.5 mg\/3 mL (0.083 %) solution for nebulization",
+                "IDSource": "CLINICALPRESCRIPTION",
+                "Description": "albuterol sulfate 2.5 mg\/3 mL (0.083 %) solution for nebulization",
+                "ID": "111391",
+                "Created": "2015-09-19 08:28:34",
+                "OrderDate": "2015-09-19 08:29:00",
+                "FDBMedicationID": "167135",
+                "ClinicalOrderTypeID": "190444",
+                "DisplaySig": "Inhale 3 mL 3 times a day by nebulization route for 45 days.",
+                "OrganClass": "RESPIRATORY SYSTEM"
+            },
+            {
+                "FDBGenericMedicationID": "298924",
+                "ProductName": "Nexium",
+                "MedicationID": "238648",
+                "TherapeuticClass": "PROTON-PUMP INHIBITORS",
+                "EpocratesDrugID": "2340",
+                "NewIndicator": "MANUALADD",
+                "MedicationIDType": "MEDID",
+                "Name": "Nexium 20 mg capsule,delayed release",
+                "IDSource": "CLINICALPRESCRIPTION",
+                "Description": "Nexium 20 mg capsule,delayed release",
+                "ID": "111375",
+                "Created": "2015-09-19 07:54:21",
+                "TallManName": "NexIUM 20 mg capsule,delayed release",
+                "OrderDate": "2015-09-19 07:54:22",
+                "FDBMedicationID": "214019",
+                "FutureSubmitDate": "2015-09-19 00:00:00",
+                "ClinicalOrderTypeID": "201030",
+                "DisplaySig": "Take 1 capsule every day by oral route.",
+                "OrganClass": "BILIARY SYSTEM\/GASTRO-INTESTINAL SYSTEM"
+            },
+            {
+                "FDBGenericMedicationID": "175363",
+                "ProductName": "Cordarone",
+                "MedicationID": "257342",
+                "TherapeuticClass": "ANTIARRHYTHMICS",
+                "NewIndicator": "MANUALADD",
+                "MedicationIDType": "MEDID",
+                "Name": "Cordarone 200 mg tablet",
+                "IDSource": "PATIENTMEDICATION",
+                "Description": "Cordarone 200 mg tablet",
+                "Created": "2015-09-19 08:05:25",
+                "ID": "5367",
+                "FDBMedicationID": "296991",
+                "StartDate": "2015-09-10 00:00:00",
+                "DisplaySig": "Take 2 tablets every day by oral route before meals for 45 days.",
+                "OrganClass": "CARDIOVASCULAR SYSTEM"
+            },
+            {
+                "ProductName": "Apri",
+                "MedicationID": "311085",
+                "TherapeuticClass": "PROGESTATIONAL AGENTS",
+                "EpocratesDrugID": "2363",
+                "NewIndicator": "MANUALADD",
+                "MedicationIDType": "MEDNAMEID",
+                "Name": "Apri",
+                "IDSource": "PATIENTMEDICATION",
+                "Description": "Apri",
+                "Created": "2014-09-03 14:21:28",
+                "ID": "3503",
+                "FDBMedicationNameID": "16483",
+                "ProviderNote": "scrambled notes",
+                "StartDate": "2014-06-01 00:00:00",
+                "FDBGenericMedicationNameID": "18712",
+                "OrganClass": "FEMALE GENITAL SYSTEM"
+            }
+        ],
+        "NoMedicationsReported": 0,
+        "LastDownloadDenied": null,
+        "NewHistoricalMedicationCount": 1,
+        "NeedsDownloadConsent": null,
+        "FilteredCount": 1,
+        "LastDownloadDenialReason": null,
+        "NewActiveMedicationCount": 15
+    },
+    "last_visit": {
+        "specialty": {
+            "VersionToken": -1,
+            "CheckInStopDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2017-03-25T08:31:08-04:00"
+            },
+            "AppointmentDescription": "03\/25\/2017 09:00AM Office Visit",
+            "EncounterPatientStatus": {
+                "__CLASS__": "Athena::Encounter::Entity::PatientStatus",
+                "Name": "Ready For Provider",
+                "ID": "3",
+                "VersionToken": -1
+            },
+            "VisitName": "Office Visit",
+            "IsDocumentedByScribe": false,
+            "DocumentedUser": "abricker1",
+            "AssignedTo": "abricker1",
+            "Stage": "EXAM",
+            "DepartmentID": "150",
+            "AppointmentStartDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2017-03-25T09:00:00-04:00"
+            },
+            "Status": "OPEN",
+            "Diagnoses": [],
+            "EncounterType": "VISIT",
+            "Specialty": "General Practice",
+            "AppointmentID": "847836",
+            "IsUrgentAppointment": false,
+            "IsRestrictedNote": false,
+            "SpecialtyID": "001",
+            "IntakeStopDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2017-03-25T08:38:01-04:00"
+            },
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2017-03-25T08:31:00-04:00"
+            },
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2017-03-25"
+            },
+            "EncounterPatientLocation": {
+                "__CLASS__": "Athena::Encounter::Entity::PatientLocation",
+                "Name": "Waiting Room",
+                "ID": "21",
+                "VersionToken": -1
+            },
+            "ID": "36133",
+            "PatientID": "2581",
+            "IntakeStopUser": "cvilain",
+            "IsClosing": false,
+            "__CLASS__": "Athena::Chart::Entity::Encounter",
+            "ChartID": "21921",
+            "Provider": {
+                "ProviderGroupID": "1",
+                "SchedulingName": "ABRICKER",
+                "LastName": "Bricker",
+                "VersionToken": -1,
+                "TaxonomyCode": "207N00000X",
+                "HideInPortalYN": "N",
+                "DisplayName": "Adam Bricker",
+                "DeletedDate": {
+                    "__CLASS__": "DateTime",
+                    "Date": "2018-07-10"
+                },
+                "ProviderTypeCategory": "MD",
+                "ProviderType": "MD",
+                "PhoneNumber": "(617) 402-1111",
+                "BilledName": "Dr. Adam Bricker",
+                "SchedulingNote": "Only schedule on Mondays. \r\n\r\nDo not schedule 2nd opinion. \r\n\r\nSend notes to nurse.",
+                "Suffix": "",
+                "Specialty": "General Practice",
+                "ProviderTypeDisplayName": "Medical Doctor (MD)",
+                "Address1": "5 Hatley Road",
+                "SpecialtyID": "001",
+                "State": "NY",
+                "DeptID": "150",
+                "Address2": "Suite 1",
+                "CommunicatorHomeDepartment": "150",
+                "TaxonomyName": "Dermatology",
+                "OrganizationName": "MDP - xCaliber - 195903",
+                "DeptName": "7 Hills Department",
+                "ID": "71",
+                "Zip": "10021-0001",
+                "AlternatePhone": "(732) 752-3239",
+                "Billable": "Y",
+                "MedicalGroupID": "1",
+                "ProviderProfileID": "1",
+                "FirstName": "Adam",
+                "City": "New York",
+                "CommunicatorDisplayName": "Dr. Adam Bricker",
+                "EntityTypeID": "1",
+                "__CLASS__": "Athena::Provider::Entity::Provider",
+                "UserName": "abricker1"
+            },
+            "CreatedUser": "cvilain"
+        },
+        "html": {
+            "specialty": {
+                "summary": null,
+                "intro": "<div> <div class=\"primary\"> Office Visit, 03-25-2017 <span><\/span> <span>(OPEN)<\/span> <\/div> <div class=\"secondary\">I have a question<\/div> <div class=\"detail\"> Performed by Adam Bricker, General Practice, (617) 402-1111 <\/div> <\/div>"
+            }
+        }
+    },
+    "hcc_resource_extended": {
+        "DISMISSALREASONCODES": [
+            {
+                "SEQUENCENUMBER": "10",
+                "CODE": "disagree with diagnosis",
+                "ID": "1"
+            },
+            {
+                "SEQUENCENUMBER": "20",
+                "CODE": "condition resolved",
+                "ID": "2"
+            },
+            {
+                "SEQUENCENUMBER": "30",
+                "CODE": "greater specificity is appropriate",
+                "ID": "3"
+            },
+            {
+                "SEQUENCENUMBER": "40",
+                "CODE": "less specificity is appropriate",
+                "ID": "4"
+            },
+            {
+                "SEQUENCENUMBER": "50",
+                "CODE": "duplicate",
+                "ID": "5"
+            },
+            {
+                "SEQUENCENUMBER": "60",
+                "CODE": "Other",
+                "ID": "6"
+            }
+        ]
+    },
+    "hcc_raf_demographics_factors": [
+        {
+            "COMMUNITYRAF": ".896",
+            "MAXAGE": null,
+            "MINAGE": "95",
+            "GENDER": "M",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".742",
+            "MAXAGE": null,
+            "MINAGE": "95",
+            "GENDER": "F",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".737",
+            "MAXAGE": "94",
+            "MINAGE": "90",
+            "GENDER": "F",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".8",
+            "MAXAGE": "94",
+            "MINAGE": "90",
+            "GENDER": "M",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".664",
+            "MAXAGE": "89",
+            "MINAGE": "85",
+            "GENDER": "M",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".624",
+            "MAXAGE": "89",
+            "MINAGE": "85",
+            "GENDER": "F",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".571",
+            "MAXAGE": "84",
+            "MINAGE": "80",
+            "GENDER": "M",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".524",
+            "MAXAGE": "84",
+            "MINAGE": "80",
+            "GENDER": "F",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".465",
+            "MAXAGE": "79",
+            "MINAGE": "75",
+            "GENDER": "F",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".502",
+            "MAXAGE": "79",
+            "MINAGE": "75",
+            "GENDER": "M",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".396",
+            "MAXAGE": "74",
+            "MINAGE": "70",
+            "GENDER": "M",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".395",
+            "MAXAGE": "74",
+            "MINAGE": "70",
+            "GENDER": "F",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".332",
+            "MAXAGE": "69",
+            "MINAGE": "65",
+            "GENDER": "M",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".33",
+            "MAXAGE": "69",
+            "MINAGE": "65",
+            "GENDER": "F",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".436",
+            "MAXAGE": "64",
+            "MINAGE": "60",
+            "GENDER": "F",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".345",
+            "MAXAGE": "64",
+            "MINAGE": "60",
+            "GENDER": "M",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".385",
+            "MAXAGE": "59",
+            "MINAGE": "55",
+            "GENDER": "F",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".283",
+            "MAXAGE": "59",
+            "MINAGE": "55",
+            "GENDER": "M",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".215",
+            "MAXAGE": "54",
+            "MINAGE": "45",
+            "GENDER": "M",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".34",
+            "MAXAGE": "54",
+            "MINAGE": "45",
+            "GENDER": "F",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".154",
+            "MAXAGE": "44",
+            "MINAGE": "35",
+            "GENDER": "M",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".288",
+            "MAXAGE": "44",
+            "MINAGE": "35",
+            "GENDER": "F",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".106",
+            "MAXAGE": "34",
+            "MINAGE": "0",
+            "GENDER": "M",
+            "TYPE": "AGEGENDER"
+        },
+        {
+            "COMMUNITYRAF": ".238",
+            "MAXAGE": "34",
+            "MINAGE": "0",
+            "GENDER": "F",
+            "TYPE": "AGEGENDER"
+        }
+    ],
+    "active_problems": {
+        "NoKnownProblemsChecked": false,
+        "NoteVersionToken": "-1",
+        "MUCMeta": {
+            "ContainerToken": "4c07f583f25e53f040f6d646ef027874",
+            "__CLASS__": "Athena::Entity::MUCMeta",
+            "VersionToken": -1,
+            "ContainerArgs": {
+                "CHARTID": "21921",
+                "ORDERBYUSERNAME": "p-nsharma6",
+                "CONVERTENCOUNTERDIAGNOSESTOSNOMED": 1,
+                "ONLYACTIVE": "1",
+                "PROPERLOWERCASE": 1,
+                "GROUPPROBLEMS": 1,
+                "WITHENCOUNTERDIAGNOSES": 1
+            }
+        },
+        "VersionToken": -1,
+        "NoteLastModifiedDate": {
+            "__CLASS__": "DateTime",
+            "Date": "2015-09-19T06:55:49-04:00"
+        },
+        "NoteLastModifiedUser": "rramanagupta",
+        "Problems": [
+            {
+                "PatientSnomedICD10s": [],
+                "Admit": false,
+                "Events": [
+                    {
+                        "Laterality": "BILATERAL",
+                        "CreatedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2014-10-27T17:44:25-04:00"
+                        },
+                        "EnteredDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2014-10-27T00:00:00-04:00"
+                        },
+                        "EncounterDiagnoses": [
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "10502",
+                                "DiagnosisProblemID": "3662"
+                            },
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "7281",
+                                "DiagnosisProblemID": "1861"
+                            }
+                        ],
+                        "VersionToken": "PATIENTSNOMEDPROBLEM:269006",
+                        "ID": "1681",
+                        "ProblemListID": "1221",
+                        "Source": "ENCOUNTER",
+                        "StartDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2014-10-27"
+                        },
+                        "IMOEventList": [],
+                        "EventType": "START",
+                        "Status": "CHRONIC",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "LastModifiedUser": "glisch",
+                        "ChartID": "21921",
+                        "LastModifiedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2016-07-16T10:24:50-04:00"
+                        },
+                        "CreatedUser": "cvilain",
+                        "EnteredUser": "cvilain"
+                    },
+                    {
+                        "EncounterDiagnoses": [],
+                        "VersionToken": -1,
+                        "IMOEventList": [],
+                        "EventType": "ENCOUNTER",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "EventDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2014-10-27T17:44:25-04:00"
+                        },
+                        "EventDiagnosis": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2014-10-27T17:44:25-04:00"
+                            },
+                            "ClinicalQuickpickID": "5",
+                            "VersionToken": "CLINICALENCOUNTERDIAGNOSIS:-1",
+                            "Code": {
+                                "HasLaterality": true,
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "Closed fracture of upper end of lower leg",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "111644004"
+                            },
+                            "Name": "Closed fracture of upper end of lower leg",
+                            "PatientProblemListID": "1681",
+                            "ID": "7281",
+                            "DiagnosisDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2014-10-27T17:44:25-04:00"
+                            },
+                            "DiagnosisUser": {
+                                "FirstName": "Chloe",
+                                "LastName": "Vilain",
+                                "VersionToken": -1,
+                                "OrganizationID": "ATHENA",
+                                "Username": "cvilain",
+                                "Specialty": "athenahealth specialist",
+                                "__CLASS__": "Athena::Entity::User",
+                                "LastLoginDate": {
+                                    "__CLASS__": "DateTime",
+                                    "Date": "2017-02-06"
+                                },
+                                "ID": "3196651647"
+                            },
+                            "CreatedTimeStamp": "20141027174425",
+                            "PregnancyProblemListID": "4326",
+                            "CodeConversionWarning": false,
+                            "SnomedICDCodes": [
+                                {
+                                    "UnstrippedDiagnosisCode": "823.02",
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "Description": "CLOSED FRACTURE OF UPPER END OF FIBULA WITH TIBIA",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9",
+                                    "Code": "82302"
+                                }
+                            ],
+                            "Ordering": "0",
+                            "EncounterID": "22662",
+                            "IMODiagnosisList": [],
+                            "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                            "CreatedUser": "cvilain"
+                        }
+                    },
+                    {
+                        "EncounterDiagnoses": [],
+                        "VersionToken": -1,
+                        "IMOEventList": [],
+                        "EventType": "ENCOUNTER",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "EventDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-04-15T13:08:51-04:00"
+                        },
+                        "EventDiagnosis": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2015-04-15T13:08:51-04:00"
+                            },
+                            "ClinicalQuickpickID": "5",
+                            "VersionToken": "CLINICALENCOUNTERDIAGNOSIS:-1",
+                            "Code": {
+                                "HasLaterality": true,
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "Closed fracture of upper end of lower leg",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "111644004"
+                            },
+                            "Name": "Closed fracture of upper end of lower leg",
+                            "PatientProblemListID": "1681",
+                            "ID": "10502",
+                            "DiagnosisDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2015-04-15T13:08:51-04:00"
+                            },
+                            "DiagnosisUser": {
+                                "FirstName": "Chloe",
+                                "LastName": "Vilain",
+                                "VersionToken": -1,
+                                "OrganizationID": "ATHENA",
+                                "Username": "cvilain",
+                                "Specialty": "athenahealth specialist",
+                                "__CLASS__": "Athena::Entity::User",
+                                "LastLoginDate": {
+                                    "__CLASS__": "DateTime",
+                                    "Date": "2017-02-06"
+                                },
+                                "ID": "3196651647"
+                            },
+                            "CreatedTimeStamp": "20150415130851",
+                            "PregnancyProblemListID": "4326",
+                            "CodeConversionWarning": false,
+                            "SnomedICDCodes": [
+                                {
+                                    "UnstrippedDiagnosisCode": "823.02",
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "Description": "CLOSED FRACTURE OF UPPER END OF FIBULA WITH TIBIA",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9",
+                                    "Code": "82302"
+                                }
+                            ],
+                            "Ordering": "1",
+                            "EncounterID": "28982",
+                            "IMODiagnosisList": [],
+                            "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                            "CreatedUser": "cvilain"
+                        }
+                    }
+                ],
+                "VersionToken": -1,
+                "Primary": false,
+                "Code": {
+                    "IsDiagnosable": true,
+                    "HasLaterality": true,
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "closed fracture of upper end of lower leg",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "111644004"
+                },
+                "Status": "CHRONIC",
+                "__CLASS__": "Athena::Chart::Entity::Problem",
+                "Name": "closed fracture of upper end of lower leg",
+                "ID": "1681",
+                "Discharge": false
+            },
+            {
+                "PatientSnomedICD10s": [],
+                "Admit": false,
+                "Events": [
+                    {
+                        "Laterality": "RIGHT",
+                        "CreatedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19T06:56:15-04:00"
+                        },
+                        "EnteredDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19T00:00:00-04:00"
+                        },
+                        "EncounterDiagnoses": [
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "12402",
+                                "DiagnosisProblemID": "4701"
+                            }
+                        ],
+                        "VersionToken": "PATIENTSNOMEDPROBLEM:269004",
+                        "ID": "4321",
+                        "ProblemListID": "1221",
+                        "StartDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19"
+                        },
+                        "IMOEventList": [],
+                        "EventType": "START",
+                        "Status": "CHRONIC",
+                        "OnsetDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19"
+                        },
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "LastModifiedUser": "glisch",
+                        "ChartID": "21921",
+                        "LastModifiedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2016-07-16T10:24:50-04:00"
+                        },
+                        "CreatedUser": "rramanagupta",
+                        "EnteredUser": "rramanagupta"
+                    },
+                    {
+                        "EncounterDiagnoses": [],
+                        "VersionToken": -1,
+                        "IMOEventList": [],
+                        "EventType": "ENCOUNTER",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "EventDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19T08:13:35-04:00"
+                        },
+                        "EventDiagnosis": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2015-09-19T08:13:35-04:00"
+                            },
+                            "VersionToken": "CLINICALENCOUNTERDIAGNOSIS:-1",
+                            "Code": {
+                                "HasLaterality": true,
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "Hearing loss",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "15188001"
+                            },
+                            "Name": "Hearing loss",
+                            "PatientProblemListID": "4321",
+                            "ID": "12402",
+                            "DiagnosisDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2015-09-19T08:13:35-04:00"
+                            },
+                            "DiagnosisUser": {
+                                "FirstName": "Chloe",
+                                "LastName": "Vilain",
+                                "VersionToken": -1,
+                                "OrganizationID": "ATHENA",
+                                "Username": "cvilain",
+                                "Specialty": "athenahealth specialist",
+                                "__CLASS__": "Athena::Entity::User",
+                                "LastLoginDate": {
+                                    "__CLASS__": "DateTime",
+                                    "Date": "2017-02-06"
+                                },
+                                "ID": "3196651647"
+                            },
+                            "CreatedTimeStamp": "20150919081335",
+                            "PregnancyProblemListID": "4324",
+                            "CodeConversionWarning": false,
+                            "SnomedICDCodes": [
+                                {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9",
+                                    "Code": "undefined"
+                                }
+                            ],
+                            "Ordering": "0",
+                            "EncounterID": "31988",
+                            "IMODiagnosisList": [],
+                            "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                            "CreatedUser": "cvilain"
+                        }
+                    }
+                ],
+                "VersionToken": -1,
+                "Primary": false,
+                "Code": {
+                    "IsDiagnosable": true,
+                    "HasLaterality": true,
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "hearing loss",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "15188001"
+                },
+                "Status": "CHRONIC",
+                "__CLASS__": "Athena::Chart::Entity::Problem",
+                "Name": "hearing loss",
+                "ID": "4321",
+                "Discharge": false
+            },
+            {
+                "PatientSnomedICD10s": [],
+                "Admit": false,
+                "Events": [
+                    {
+                        "Laterality": "RIGHT",
+                        "CreatedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2014-09-04T10:50:17-04:00"
+                        },
+                        "EnteredDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2014-09-04T00:00:00-04:00"
+                        },
+                        "EncounterDiagnoses": [
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "7061",
+                                "DiagnosisProblemID": "1721"
+                            },
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "7081",
+                                "DiagnosisProblemID": "1741"
+                            },
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "10501",
+                                "DiagnosisProblemID": "3661"
+                            }
+                        ],
+                        "VersionToken": "PATIENTSNOMEDPROBLEM:148001",
+                        "ID": "1441",
+                        "ProblemListID": "1221",
+                        "Source": "HISTORY",
+                        "StartDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2014-09-04"
+                        },
+                        "IMOEventList": [],
+                        "EventType": "START",
+                        "Status": "CHRONIC",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "LastModifiedUser": "cvilain",
+                        "ChartID": "21921",
+                        "LastModifiedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-04-15T13:08:52-04:00"
+                        },
+                        "CreatedUser": "cvilain",
+                        "EnteredUser": "cvilain"
+                    },
+                    {
+                        "EncounterDiagnoses": [],
+                        "VersionToken": -1,
+                        "IMOEventList": [],
+                        "EventType": "ENCOUNTER",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "EventDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2014-09-29T14:29:27-04:00"
+                        },
+                        "EventDiagnosis": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2014-09-29T14:29:27-04:00"
+                            },
+                            "VersionToken": "CLINICALENCOUNTERDIAGNOSIS:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "Anxiety state",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "198288003"
+                            },
+                            "Name": "Anxiety state",
+                            "PatientProblemListID": "1441",
+                            "ID": "7061",
+                            "DiagnosisDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2014-09-29T14:29:27-04:00"
+                            },
+                            "DiagnosisUser": {
+                                "FirstName": "Chloe",
+                                "LastName": "Vilain",
+                                "VersionToken": -1,
+                                "OrganizationID": "ATHENA",
+                                "Username": "cvilain",
+                                "Specialty": "athenahealth specialist",
+                                "__CLASS__": "Athena::Entity::User",
+                                "LastLoginDate": {
+                                    "__CLASS__": "DateTime",
+                                    "Date": "2017-02-06"
+                                },
+                                "ID": "3196651647"
+                            },
+                            "CreatedTimeStamp": "20140929142927",
+                            "CodeConversionWarning": false,
+                            "SnomedICDCodes": [
+                                {
+                                    "UnstrippedDiagnosisCode": "300.00",
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "Description": "ANXIETY STATE, UNSPECIFIED",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9",
+                                    "Code": "30000"
+                                }
+                            ],
+                            "Ordering": "0",
+                            "EncounterID": "22102",
+                            "IMODiagnosisList": [],
+                            "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                            "CreatedUser": "cvilain"
+                        }
+                    },
+                    {
+                        "EncounterDiagnoses": [],
+                        "VersionToken": -1,
+                        "IMOEventList": [],
+                        "EventType": "ENCOUNTER",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "EventDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2014-09-30T16:25:38-04:00"
+                        },
+                        "EventDiagnosis": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2014-09-30T16:25:38-04:00"
+                            },
+                            "VersionToken": "CLINICALENCOUNTERDIAGNOSIS:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "Anxiety state",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "198288003"
+                            },
+                            "Name": "Anxiety state",
+                            "PatientProblemListID": "1441",
+                            "ID": "7081",
+                            "DiagnosisDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2014-09-30T16:25:38-04:00"
+                            },
+                            "DiagnosisUser": {
+                                "FirstName": "Chloe",
+                                "LastName": "Vilain",
+                                "VersionToken": -1,
+                                "OrganizationID": "ATHENA",
+                                "Username": "cvilain",
+                                "Specialty": "athenahealth specialist",
+                                "__CLASS__": "Athena::Entity::User",
+                                "LastLoginDate": {
+                                    "__CLASS__": "DateTime",
+                                    "Date": "2017-02-06"
+                                },
+                                "ID": "3196651647"
+                            },
+                            "CreatedTimeStamp": "20140930162538",
+                            "CodeConversionWarning": false,
+                            "SnomedICDCodes": [
+                                {
+                                    "UnstrippedDiagnosisCode": "300.00",
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "Description": "ANXIETY STATE, UNSPECIFIED",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9",
+                                    "Code": "30000"
+                                }
+                            ],
+                            "Ordering": "0",
+                            "EncounterID": "22122",
+                            "IMODiagnosisList": [],
+                            "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                            "CreatedUser": "cvilain"
+                        }
+                    },
+                    {
+                        "EncounterDiagnoses": [],
+                        "VersionToken": -1,
+                        "IMOEventList": [],
+                        "EventType": "ENCOUNTER",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "EventDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-04-15T13:08:51-04:00"
+                        },
+                        "EventDiagnosis": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2015-04-15T13:08:51-04:00"
+                            },
+                            "VersionToken": "CLINICALENCOUNTERDIAGNOSIS:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "Anxiety state",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "198288003"
+                            },
+                            "Name": "Anxiety state",
+                            "PatientProblemListID": "1441",
+                            "ID": "10501",
+                            "DiagnosisDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2015-04-15T13:08:51-04:00"
+                            },
+                            "DiagnosisUser": {
+                                "FirstName": "Chloe",
+                                "LastName": "Vilain",
+                                "VersionToken": -1,
+                                "OrganizationID": "ATHENA",
+                                "Username": "cvilain",
+                                "Specialty": "athenahealth specialist",
+                                "__CLASS__": "Athena::Entity::User",
+                                "LastLoginDate": {
+                                    "__CLASS__": "DateTime",
+                                    "Date": "2017-02-06"
+                                },
+                                "ID": "3196651647"
+                            },
+                            "CreatedTimeStamp": "20150415130851",
+                            "CodeConversionWarning": false,
+                            "SnomedICDCodes": [
+                                {
+                                    "UnstrippedDiagnosisCode": "300.00",
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "Description": "ANXIETY STATE, UNSPECIFIED",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9",
+                                    "Code": "30000"
+                                }
+                            ],
+                            "Ordering": "0",
+                            "EncounterID": "28982",
+                            "IMODiagnosisList": [],
+                            "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                            "CreatedUser": "cvilain"
+                        }
+                    }
+                ],
+                "VersionToken": -1,
+                "Primary": false,
+                "Code": {
+                    "IsDiagnosable": true,
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "anxiety state",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "198288003"
+                },
+                "Status": "CHRONIC",
+                "__CLASS__": "Athena::Chart::Entity::Problem",
+                "Name": "anxiety state",
+                "ID": "1441",
+                "Discharge": false
+            },
+            {
+                "PatientSnomedICD10s": [],
+                "Admit": false,
+                "Events": [
+                    {
+                        "CreatedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19T08:13:35-04:00"
+                        },
+                        "EnteredDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19T00:00:00-04:00"
+                        },
+                        "EncounterDiagnoses": [
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "12403",
+                                "DiagnosisProblemID": "4703"
+                            }
+                        ],
+                        "VersionToken": "PATIENTSNOMEDPROBLEM:269010",
+                        "ID": "4327",
+                        "ProblemListID": "1221",
+                        "Source": "ENCOUNTER",
+                        "StartDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19"
+                        },
+                        "IMOEventList": [],
+                        "EventType": "START",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "LastModifiedUser": "glisch",
+                        "ChartID": "21921",
+                        "LastModifiedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2016-07-16T10:24:50-04:00"
+                        },
+                        "CreatedUser": "cvilain",
+                        "EnteredUser": "cvilain"
+                    },
+                    {
+                        "EncounterDiagnoses": [],
+                        "VersionToken": -1,
+                        "IMOEventList": [],
+                        "EventType": "ENCOUNTER",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "EventDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19T08:13:35-04:00"
+                        },
+                        "EventDiagnosis": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2015-09-19T08:13:35-04:00"
+                            },
+                            "VersionToken": "CLINICALENCOUNTERDIAGNOSIS:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "Dyspnea",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "267036007"
+                            },
+                            "Name": "Dyspnea",
+                            "PatientProblemListID": "4327",
+                            "ID": "12403",
+                            "DiagnosisDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2015-09-19T08:13:35-04:00"
+                            },
+                            "DiagnosisUser": {
+                                "FirstName": "Chloe",
+                                "LastName": "Vilain",
+                                "VersionToken": -1,
+                                "OrganizationID": "ATHENA",
+                                "Username": "cvilain",
+                                "Specialty": "athenahealth specialist",
+                                "__CLASS__": "Athena::Entity::User",
+                                "LastLoginDate": {
+                                    "__CLASS__": "DateTime",
+                                    "Date": "2017-02-06"
+                                },
+                                "ID": "3196651647"
+                            },
+                            "CreatedTimeStamp": "20150919081335",
+                            "PregnancyProblemListID": "4328",
+                            "CodeConversionWarning": false,
+                            "SnomedICDCodes": [
+                                {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9",
+                                    "Code": "undefined"
+                                }
+                            ],
+                            "Ordering": "1",
+                            "EncounterID": "31988",
+                            "IMODiagnosisList": [],
+                            "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                            "CreatedUser": "cvilain"
+                        }
+                    }
+                ],
+                "VersionToken": -1,
+                "Primary": false,
+                "Code": {
+                    "IsDiagnosable": true,
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "dyspnea",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "267036007"
+                },
+                "Status": null,
+                "__CLASS__": "Athena::Chart::Entity::Problem",
+                "Name": "dyspnea",
+                "ID": "4327",
+                "Discharge": false
+            },
+            {
+                "PatientSnomedICD10s": [],
+                "Admit": false,
+                "Events": [
+                    {
+                        "CreatedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19T07:02:01-04:00"
+                        },
+                        "EnteredDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19T00:00:00-04:00"
+                        },
+                        "EncounterDiagnoses": [],
+                        "VersionToken": "PATIENTSNOMEDPROBLEM:269008",
+                        "ID": "4322",
+                        "ProblemListID": "1221",
+                        "StartDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19"
+                        },
+                        "IMOEventList": [],
+                        "EventType": "START",
+                        "Status": "ACUTE",
+                        "OnsetDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19"
+                        },
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "LastModifiedUser": "glisch",
+                        "ChartID": "21921",
+                        "LastModifiedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2016-07-16T10:24:50-04:00"
+                        },
+                        "CreatedUser": "rramanagupta",
+                        "EnteredUser": "rramanagupta"
+                    }
+                ],
+                "VersionToken": -1,
+                "Primary": false,
+                "Code": {
+                    "IsDiagnosable": true,
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "jung syndrome",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "403838000"
+                },
+                "Status": "ACUTE",
+                "__CLASS__": "Athena::Chart::Entity::Problem",
+                "Name": "jung syndrome",
+                "ID": "4322",
+                "Discharge": false
+            },
+            {
+                "PatientSnomedICD10s": [],
+                "Admit": false,
+                "Events": [
+                    {
+                        "EnteredDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-05-21T00:00:00-04:00"
+                        },
+                        "CreatedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-05-21T10:24:53-04:00"
+                        },
+                        "EncounterDiagnoses": [
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "11183",
+                                "DiagnosisProblemID": "3943"
+                            }
+                        ],
+                        "VersionToken": "PATIENTSNOMEDPROBLEM:-1",
+                        "ID": "3603",
+                        "ProblemListID": "1221",
+                        "Source": "ENCOUNTER",
+                        "StartDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-05-21"
+                        },
+                        "IMOEventList": [],
+                        "EventType": "START",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "ChartID": "21921",
+                        "CreatedUser": "cvilain",
+                        "EnteredUser": "cvilain"
+                    },
+                    {
+                        "EncounterDiagnoses": [],
+                        "VersionToken": -1,
+                        "IMOEventList": [],
+                        "EventType": "ENCOUNTER",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "EventDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-05-21T10:24:53-04:00"
+                        },
+                        "EventDiagnosis": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2015-05-21T10:24:53-04:00"
+                            },
+                            "VersionToken": "CLINICALENCOUNTERDIAGNOSIS:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "Allergic asthma without status asthmaticus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "63088003"
+                            },
+                            "Name": "Allergic asthma without status asthmaticus",
+                            "PatientProblemListID": "3603",
+                            "ID": "11183",
+                            "DiagnosisDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2015-05-21T10:24:53-04:00"
+                            },
+                            "DiagnosisUser": {
+                                "FirstName": "Chloe",
+                                "LastName": "Vilain",
+                                "VersionToken": -1,
+                                "OrganizationID": "ATHENA",
+                                "Username": "cvilain",
+                                "Specialty": "athenahealth specialist",
+                                "__CLASS__": "Athena::Entity::User",
+                                "LastLoginDate": {
+                                    "__CLASS__": "DateTime",
+                                    "Date": "2017-02-06"
+                                },
+                                "ID": "3196651647"
+                            },
+                            "CreatedTimeStamp": "20150521102453",
+                            "CodeConversionWarning": false,
+                            "SnomedICDCodes": [
+                                {
+                                    "UnstrippedDiagnosisCode": "493.00",
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "Description": "EXTRINSIC ASTHMA, UNSPECIFIED",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9",
+                                    "Code": "49300"
+                                }
+                            ],
+                            "Ordering": "1",
+                            "EncounterID": "30103",
+                            "IMODiagnosisList": [],
+                            "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                            "CreatedUser": "cvilain"
+                        }
+                    }
+                ],
+                "VersionToken": -1,
+                "Primary": false,
+                "Code": {
+                    "IsDiagnosable": true,
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "allergic asthma without status asthmaticus",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "63088003"
+                },
+                "Status": null,
+                "__CLASS__": "Athena::Chart::Entity::Problem",
+                "Name": "allergic asthma without status asthmaticus",
+                "ID": "3603",
+                "Discharge": false
+            },
+            {
+                "PatientSnomedICD10s": [],
+                "Admit": false,
+                "Events": [
+                    {
+                        "EnteredDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-04-15T00:00:00-04:00"
+                        },
+                        "CreatedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-04-15T13:08:52-04:00"
+                        },
+                        "EncounterDiagnoses": [
+                            {
+                                "SnomedICDCodes": [],
+                                "VersionToken": -1,
+                                "Code": {
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9"
+                                },
+                                "IMODiagnosisList": [],
+                                "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                                "Name": null,
+                                "ID": "10503",
+                                "DiagnosisProblemID": "3663"
+                            }
+                        ],
+                        "VersionToken": "PATIENTSNOMEDPROBLEM:-1",
+                        "ID": "3221",
+                        "ProblemListID": "1221",
+                        "Source": "ENCOUNTER",
+                        "StartDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-04-15"
+                        },
+                        "IMOEventList": [],
+                        "EventType": "START",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "ChartID": "21921",
+                        "CreatedUser": "cvilain",
+                        "EnteredUser": "cvilain"
+                    },
+                    {
+                        "EncounterDiagnoses": [],
+                        "VersionToken": -1,
+                        "IMOEventList": [],
+                        "EventType": "ENCOUNTER",
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "EventDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-04-15T13:08:51-04:00"
+                        },
+                        "EventDiagnosis": {
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2015-04-15T13:08:51-04:00"
+                            },
+                            "ClinicalQuickpickID": "21",
+                            "VersionToken": "CLINICALENCOUNTERDIAGNOSIS:-1",
+                            "Code": {
+                                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                "Description": "Diabetes mellitus",
+                                "VersionToken": -1,
+                                "CodeSet": "SNOMED",
+                                "Code": "73211009"
+                            },
+                            "Name": "Diabetes mellitus",
+                            "PatientProblemListID": "3221",
+                            "ID": "10503",
+                            "DiagnosisDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2015-04-15T13:08:51-04:00"
+                            },
+                            "DiagnosisUser": {
+                                "FirstName": "Chloe",
+                                "LastName": "Vilain",
+                                "VersionToken": -1,
+                                "OrganizationID": "ATHENA",
+                                "Username": "cvilain",
+                                "Specialty": "athenahealth specialist",
+                                "__CLASS__": "Athena::Entity::User",
+                                "LastLoginDate": {
+                                    "__CLASS__": "DateTime",
+                                    "Date": "2017-02-06"
+                                },
+                                "ID": "3196651647"
+                            },
+                            "CreatedTimeStamp": "20150415130851",
+                            "CodeConversionWarning": false,
+                            "SnomedICDCodes": [
+                                {
+                                    "UnstrippedDiagnosisCode": "250.00",
+                                    "__CLASS__": "Athena::Entity::Code::ICD9",
+                                    "Description": "DIABETES MELLITUS WITHOUT MENTION OF COMPLICATION, TYPE II OR UNSPECIFIED TYPE, NOT STATED AS UNCONTROLLED",
+                                    "VersionToken": -1,
+                                    "CodeSet": "ICD9",
+                                    "Code": "25000"
+                                }
+                            ],
+                            "Ordering": "2",
+                            "EncounterID": "28982",
+                            "IMODiagnosisList": [],
+                            "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                            "CreatedUser": "cvilain"
+                        }
+                    }
+                ],
+                "VersionToken": -1,
+                "Primary": false,
+                "Code": {
+                    "IsDiagnosable": true,
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "diabetes mellitus",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "73211009"
+                },
+                "Status": null,
+                "__CLASS__": "Athena::Chart::Entity::Problem",
+                "Name": "diabetes mellitus",
+                "ID": "3221",
+                "Discharge": false
+            },
+            {
+                "PatientSnomedICD10s": [],
+                "Admit": false,
+                "Events": [
+                    {
+                        "CreatedDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19T07:02:58-04:00"
+                        },
+                        "EncounterDiagnoses": [],
+                        "VersionToken": "PATIENTSNOMEDPROBLEM:-1",
+                        "ID": "4323",
+                        "ProblemListID": "1221",
+                        "StartDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19"
+                        },
+                        "IMOEventList": [],
+                        "EventType": "START",
+                        "OnsetDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2015-09-19"
+                        },
+                        "__CLASS__": "Athena::Chart::Entity::ProblemEvent",
+                        "ChartID": "21921",
+                        "CreatedUser": "rramanagupta"
+                    }
+                ],
+                "VersionToken": -1,
+                "Primary": false,
+                "Code": {
+                    "IsDiagnosable": true,
+                    "__CLASS__": "Athena::Entity::Code::SNOMED",
+                    "Description": "pregnancy",
+                    "VersionToken": -1,
+                    "CodeSet": "SNOMED",
+                    "Code": "77386006"
+                },
+                "Status": null,
+                "__CLASS__": "Athena::Chart::Entity::Problem",
+                "Name": "pregnancy",
+                "ID": "4323",
+                "Discharge": false
+            }
+        ],
+        "FilteredCount": 0,
+        "PregnancyNotes": {},
+        "Note": "xcbhxcv bvb",
+        "__CLASS__": "Athena::Chart::Entity::Problems"
+    },
+    "chart_security_labels": {},
+    "hcc_raf_documented_hccs": [],
+    "hcc_raf_apcc_factors": [
+        {
+            "COMMUNITYRAF": ".728",
+            "HCCCOUNT": "10",
+            "TYPE": "APCC"
+        },
+        {
+            "COMMUNITYRAF": ".444",
+            "HCCCOUNT": "9",
+            "TYPE": "APCC"
+        },
+        {
+            "COMMUNITYRAF": ".316",
+            "HCCCOUNT": "8",
+            "TYPE": "APCC"
+        },
+        {
+            "COMMUNITYRAF": ".188",
+            "HCCCOUNT": "7",
+            "TYPE": "APCC"
+        },
+        {
+            "COMMUNITYRAF": ".102",
+            "HCCCOUNT": "6",
+            "TYPE": "APCC"
+        },
+        {
+            "COMMUNITYRAF": ".05",
+            "HCCCOUNT": "5",
+            "TYPE": "APCC"
+        },
+        {
+            "COMMUNITYRAF": "0",
+            "HCCCOUNT": "4",
+            "TYPE": "APCC"
+        },
+        {
+            "COMMUNITYRAF": "0",
+            "HCCCOUNT": "3",
+            "TYPE": "APCC"
+        },
+        {
+            "COMMUNITYRAF": "0",
+            "HCCCOUNT": "2",
+            "TYPE": "APCC"
+        },
+        {
+            "COMMUNITYRAF": "0",
+            "HCCCOUNT": "1",
+            "TYPE": "APCC"
+        }
+    ],
+    "chart_id": "21921",
+    "simple_medications": {
+        "medications": [
+            "ibuprofen",
+            "Delsym Cough-Chest Congest DM",
+            "Elite-Thin Ins Syr .5cc\/30G",
+            "multivitamin",
+            "acyclovir",
+            "Nexium Packet",
+            "Tylenol",
+            "ProAir HFA",
+            "Tylenol",
+            "Movantik",
+            "amoxicillin",
+            "albuterol sulfate",
+            "Nexium",
+            "Cordarone",
+            "Apri"
+        ],
+        "no_medications_reported": 0
+    },
+    "diagnoses": [],
+    "provider": null,
+    "hcc_buddy_code_requirements": {
+        "289608": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY CONTROL USING:;INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY COMPLICATION",
+            "ICDCODEALLID": "289608",
+            "REQUIRED": null
+        },
+        "79147": {
+            "ADDITIONALCODESNOTES": "CODE FOR ADVERSE EFFECT, IF APPLICABLE, TO IDENTIFY DRUG (T36-T50 WITH FIFTH OR SIXTH CHARACTER 5);CODE(S) TO IDENTIFY THE SPECIFIED CONDITION RESULTING FROM THE COMPLICATION;CODE TO IDENTIFY DEVICES INVOLVED AND DETAILS OF CIRCUMSTANCES (Y62-Y82);CODE TO IDENTIFY ANY RETAINED FOREIGN BODY, IF APPLICABLE (Z18.-)",
+            "ICDCODEALLID": "79147",
+            "REQUIRED": "Y"
+        },
+        "259972": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY ANY RETAINED FOREIGN BODY, IF APPLICABLE (Z18.-);CODE FOR ADVERSE EFFECT, IF APPLICABLE, TO IDENTIFY DRUG (T36-T50 WITH FIFTH OR SIXTH CHARACTER 5);CODE(S) TO IDENTIFY THE SPECIFIED CONDITION RESULTING FROM THE COMPLICATION;CODE TO IDENTIFY DEVICES INVOLVED AND DETAILS OF CIRCUMSTANCES (Y62-Y82)",
+            "ICDCODEALLID": "259972",
+            "REQUIRED": "Y"
+        },
+        "79213": {
+            "ADDITIONALCODESNOTES": "CODE FOR ADVERSE EFFECT, IF APPLICABLE, TO IDENTIFY DRUG (T36-T50 WITH FIFTH OR SIXTH CHARACTER 5);CODE(S) TO IDENTIFY THE SPECIFIED CONDITION RESULTING FROM THE COMPLICATION;CODE TO IDENTIFY DEVICES INVOLVED AND DETAILS OF CIRCUMSTANCES (Y62-Y82);CODE TO IDENTIFY ANY RETAINED FOREIGN BODY, IF APPLICABLE (Z18.-)",
+            "ICDCODEALLID": "79213",
+            "REQUIRED": "Y"
+        },
+        "268301": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY TYPE OF HEART FAILURE (I50.-);CODE TO IDENTIFY STAGE OF CHRONIC KIDNEY DISEASE (N18.1-N18.4, N18.9);CODE TO IDENTIFY:;EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z77.22);HISTORY OF TOBACCO DEPENDENCE (Z87.891);OCCUPATIONAL EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z57.31);TOBACCO DEPENDENCE (F17.-);TOBACCO USE (Z72.0)",
+            "ICDCODEALLID": "268301",
+            "REQUIRED": null
+        },
+        "258614": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY ANY RETAINED FOREIGN BODY, IF APPLICABLE (Z18.-);CODE FOR ADVERSE EFFECT, IF APPLICABLE, TO IDENTIFY DRUG (T36-T50 WITH FIFTH OR SIXTH CHARACTER 5);CODE(S) TO IDENTIFY THE SPECIFIED CONDITION RESULTING FROM THE COMPLICATION;CODE TO IDENTIFY DEVICES INVOLVED AND DETAILS OF CIRCUMSTANCES (Y62-Y82)",
+            "ICDCODEALLID": "258614",
+            "REQUIRED": "Y"
+        },
+        "10252": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY THE STAGE OF CHRONIC KIDNEY DISEASE (N18.5, N18.6);CODE TO IDENTIFY:;EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z77.22);HISTORY OF TOBACCO USE (Z87.891);OCCUPATIONAL EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z57.31);TOBACCO DEPENDENCE (F17.-);TOBACCO USE (Z72.0)",
+            "ICDCODEALLID": "10252",
+            "REQUIRED": null
+        },
+        "268452": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY ANY RETAINED FOREIGN BODY, IF APPLICABLE (Z18.-);CODE FOR ADVERSE EFFECT, IF APPLICABLE, TO IDENTIFY DRUG (T36-T50 WITH FIFTH OR SIXTH CHARACTER 5);CODE(S) TO IDENTIFY THE SPECIFIED CONDITION RESULTING FROM THE COMPLICATION;CODE TO IDENTIFY DEVICES INVOLVED AND DETAILS OF CIRCUMSTANCES (Y62-Y82)",
+            "ICDCODEALLID": "268452",
+            "REQUIRED": "Y"
+        },
+        "299996": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY CONTROL USING:;INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY COMPLICATION",
+            "ICDCODEALLID": "299996",
+            "REQUIRED": null
+        },
+        "341382": {
+            "ADDITIONALCODESNOTES": "CODE FOR ADVERSE EFFECT, IF APPLICABLE, TO IDENTIFY DRUG (T36-T50 WITH FIFTH OR SIXTH CHARACTER 5);CODE TO IDENTIFY CONTROL USING:;INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY COMPLICATION",
+            "ICDCODEALLID": "341382",
+            "REQUIRED": null
+        },
+        "3794": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY COMPLICATION",
+            "ICDCODEALLID": "3794",
+            "REQUIRED": null
+        },
+        "351829": {
+            "ADDITIONALCODESNOTES": "CODE, IF APPLICABLE, TO IDENTIFY:;ASSOCIATED CACHEXIA (E88.A);KIDNEY TRANSPLANT STATUS (Z94.0);CODE TO IDENTIFY DIALYSIS STATUS (Z99.2)",
+            "ICDCODEALLID": "351829",
+            "REQUIRED": null
+        },
+        "3707": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY MANIFESTATION, SUCH AS:;DIABETIC GLAUCOMA (H40-H42)",
+            "ICDCODEALLID": "3707",
+            "REQUIRED": null
+        },
+        "286599": {
+            "ADDITIONALCODESNOTES": "CODE FOR ADVERSE EFFECT, IF APPLICABLE, TO IDENTIFY DRUG (T36-T50 WITH FIFTH OR SIXTH CHARACTER 5);CODE TO IDENTIFY CONTROL USING:;INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY COMPLICATION",
+            "ICDCODEALLID": "286599",
+            "REQUIRED": null
+        },
+        "3822": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY MANIFESTATION, SUCH AS:;DIABETIC GLAUCOMA (H40-H42)",
+            "ICDCODEALLID": "3822",
+            "REQUIRED": null
+        },
+        "10255": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY TYPE OF HEART FAILURE (I50.-);CODE TO IDENTIFY STAGE OF CHRONIC KIDNEY DISEASE (N18.1-N18.4, N18.9);CODE TO IDENTIFY:;EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z77.22);HISTORY OF TOBACCO USE (Z87.891);OCCUPATIONAL EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z57.31);TOBACCO DEPENDENCE (F17.-);TOBACCO USE (Z72.0)",
+            "ICDCODEALLID": "10255",
+            "REQUIRED": null
+        },
+        "3965": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY COMPLICATION",
+            "ICDCODEALLID": "3965",
+            "REQUIRED": null
+        },
+        "329871": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY CONTROL USING:;INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY MANIFESTATION, SUCH AS:;DIABETIC GLAUCOMA (H40-H42)",
+            "ICDCODEALLID": "329871",
+            "REQUIRED": null
+        },
+        "332894": {
+            "ADDITIONALCODESNOTES": null,
+            "ICDCODEALLID": "332894",
+            "REQUIRED": "Y"
+        },
+        "287949": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY CONTROL USING:;INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY MANIFESTATION, SUCH AS:;DIABETIC GLAUCOMA (H40-H42)",
+            "ICDCODEALLID": "287949",
+            "REQUIRED": null
+        },
+        "2152": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY THE SPECIFIC MALIGNANCY",
+            "ICDCODEALLID": "2152",
+            "REQUIRED": null
+        },
+        "294763": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY THE SPECIFIC MALIGNANCY",
+            "ICDCODEALLID": "294763",
+            "REQUIRED": null
+        },
+        "299453": {
+            "ADDITIONALCODESNOTES": null,
+            "ICDCODEALLID": "299453",
+            "REQUIRED": "Y"
+        },
+        "3906": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY COMPLICATION",
+            "ICDCODEALLID": "3906",
+            "REQUIRED": null
+        },
+        "3850": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY COMPLICATION",
+            "ICDCODEALLID": "3850",
+            "REQUIRED": null
+        },
+        "302039": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY CONTROL USING:;INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY MANIFESTATION, SUCH AS:;DIABETIC GLAUCOMA (H40-H42)",
+            "ICDCODEALLID": "302039",
+            "REQUIRED": null
+        },
+        "351546": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY CONTROL USING:;INJECTABLE NON-INSULIN ANTIDIABETIC DRUGS (Z79.85);INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY MANIFESTATION, SUCH AS:;DIABETIC GLAUCOMA (H40-H42)",
+            "ICDCODEALLID": "351546",
+            "REQUIRED": null
+        },
+        "10249": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY TYPE OF HEART FAILURE (I50.-);CODE TO IDENTIFY:;EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z77.22);HISTORY OF TOBACCO USE (Z87.891);OCCUPATIONAL EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z57.31);TOBACCO DEPENDENCE (F17.-);TOBACCO USE (Z72.0)",
+            "ICDCODEALLID": "10249",
+            "REQUIRED": null
+        },
+        "299437": {
+            "ADDITIONALCODESNOTES": "CODE FOR ADVERSE EFFECT, IF APPLICABLE, TO IDENTIFY DRUG (T36-T50 WITH FIFTH OR SIXTH CHARACTER 5);CODE TO IDENTIFY CONTROL USING:;INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY MANIFESTATION, SUCH AS:;DIABETIC GLAUCOMA (H40-H42)",
+            "ICDCODEALLID": "299437",
+            "REQUIRED": null
+        },
+        "270194": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY THE STAGE OF CHRONIC KIDNEY DISEASE (N18.5, N18.6);CODE TO IDENTIFY:;EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z77.22);HISTORY OF TOBACCO DEPENDENCE (Z87.891);OCCUPATIONAL EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z57.31);TOBACCO DEPENDENCE (F17.-);TOBACCO USE (Z72.0)",
+            "ICDCODEALLID": "270194",
+            "REQUIRED": null
+        },
+        "10244": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY TYPE OF HEART FAILURE (I50.-)",
+            "ICDCODEALLID": "10244",
+            "REQUIRED": null
+        },
+        "346669": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY CONTROL USING:;INJECTABLE NON-INSULIN ANTIDIABETIC DRUGS (Z79.85);INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY COMPLICATION",
+            "ICDCODEALLID": "346669",
+            "REQUIRED": null
+        },
+        "257339": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY MANIFESTATION, SUCH AS:;DIABETIC GLAUCOMA (H40-H42)",
+            "ICDCODEALLID": "257339",
+            "REQUIRED": null
+        },
+        "349398": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY CONTROL USING:;INJECTABLE NON-INSULIN ANTIDIABETIC DRUGS (Z79.85);INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY MANIFESTATION, SUCH AS:;DIABETIC GLAUCOMA (H40-H42)",
+            "ICDCODEALLID": "349398",
+            "REQUIRED": null
+        },
+        "347524": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY CONTROL USING:;INJECTABLE NON-INSULIN ANTIDIABETIC DRUGS (Z79.85);INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY COMPLICATION",
+            "ICDCODEALLID": "347524",
+            "REQUIRED": null
+        },
+        "343804": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY TYPE OF HEART FAILURE (I50.-);CODE TO IDENTIFY STAGE OF CHRONIC KIDNEY DISEASE (N18.1-N18.4, N18.9);CODE TO IDENTIFY:;EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z77.22);HISTORY OF TOBACCO DEPENDENCE (Z87.891);OCCUPATIONAL EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z57.31);TOBACCO DEPENDENCE (F17.-);TOBACCO USE (Z72.0)",
+            "ICDCODEALLID": "343804",
+            "REQUIRED": null
+        },
+        "257358": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY COMPLICATION",
+            "ICDCODEALLID": "257358",
+            "REQUIRED": null
+        },
+        "274386": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY TYPE OF HEART FAILURE (I50.-);CODE TO IDENTIFY:;EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z77.22);HISTORY OF TOBACCO DEPENDENCE (Z87.891);OCCUPATIONAL EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z57.31);TOBACCO DEPENDENCE (F17.-);TOBACCO USE (Z72.0)",
+            "ICDCODEALLID": "274386",
+            "REQUIRED": null
+        },
+        "351758": {
+            "ADDITIONALCODESNOTES": "CODE FOR ADVERSE EFFECT, IF APPLICABLE, TO IDENTIFY DRUG (T36-T50 WITH FIFTH OR SIXTH CHARACTER 5);CODE TO IDENTIFY CONTROL USING:;INJECTABLE NON-INSULIN ANTIDIABETIC DRUGS (Z79.85);INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY MANIFESTATION, SUCH AS:;DIABETIC GLAUCOMA (H40-H42)",
+            "ICDCODEALLID": "351758",
+            "REQUIRED": null
+        },
+        "3735": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY COMPLICATION",
+            "ICDCODEALLID": "3735",
+            "REQUIRED": null
+        },
+        "3878": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY MANIFESTATION, SUCH AS:;DIABETIC GLAUCOMA (H40-H42)",
+            "ICDCODEALLID": "3878",
+            "REQUIRED": null
+        },
+        "345209": {
+            "ADDITIONALCODESNOTES": "CODE FOR ADVERSE EFFECT, IF APPLICABLE, TO IDENTIFY DRUG (T36-T50 WITH FIFTH OR SIXTH CHARACTER 5);CODE TO IDENTIFY CONTROL USING:;INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY MANIFESTATION, SUCH AS:;DIABETIC GLAUCOMA (H40-H42)",
+            "ICDCODEALLID": "345209",
+            "REQUIRED": null
+        },
+        "79246": {
+            "ADDITIONALCODESNOTES": "CODE FOR ADVERSE EFFECT, IF APPLICABLE, TO IDENTIFY DRUG (T36-T50 WITH FIFTH OR SIXTH CHARACTER 5);CODE(S) TO IDENTIFY THE SPECIFIED CONDITION RESULTING FROM THE COMPLICATION;CODE TO IDENTIFY DEVICES INVOLVED AND DETAILS OF CIRCUMSTANCES (Y62-Y82);CODE TO IDENTIFY ANY RETAINED FOREIGN BODY, IF APPLICABLE (Z18.-)",
+            "ICDCODEALLID": "79246",
+            "REQUIRED": "Y"
+        },
+        "344377": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY THE STAGE OF CHRONIC KIDNEY DISEASE (N18.5, N18.6);CODE TO IDENTIFY:;EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z77.22);HISTORY OF TOBACCO DEPENDENCE (Z87.891);OCCUPATIONAL EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z57.31);TOBACCO DEPENDENCE (F17.-);TOBACCO USE (Z72.0)",
+            "ICDCODEALLID": "344377",
+            "REQUIRED": null
+        },
+        "296048": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY CONTROL USING:;INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY MANIFESTATION, SUCH AS:;DIABETIC GLAUCOMA (H40-H42)",
+            "ICDCODEALLID": "296048",
+            "REQUIRED": null
+        },
+        "296404": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY CONTROL USING:;INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY COMPLICATION",
+            "ICDCODEALLID": "296404",
+            "REQUIRED": null
+        },
+        "328771": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY THE SPECIFIC MALIGNANCY",
+            "ICDCODEALLID": "328771",
+            "REQUIRED": null
+        },
+        "330195": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY CONTROL USING:;INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY COMPLICATION",
+            "ICDCODEALLID": "330195",
+            "REQUIRED": null
+        },
+        "22479": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY DIALYSIS STATUS (Z99.2)",
+            "ICDCODEALLID": "22479",
+            "REQUIRED": null
+        },
+        "343012": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY TYPE OF HEART FAILURE (I50.-);CODE TO IDENTIFY THE STAGE OF CHRONIC KIDNEY DISEASE (N18.5, N18.6);CODE TO IDENTIFY:;EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z77.22);HISTORY OF TOBACCO DEPENDENCE (Z87.891);OCCUPATIONAL EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z57.31);TOBACCO DEPENDENCE (F17.-);TOBACCO USE (Z72.0)",
+            "ICDCODEALLID": "343012",
+            "REQUIRED": null
+        },
+        "3937": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY MANIFESTATION, SUCH AS:;DIABETIC GLAUCOMA (H40-H42)",
+            "ICDCODEALLID": "3937",
+            "REQUIRED": null
+        },
+        "347670": {
+            "ADDITIONALCODESNOTES": "CODE FOR ADVERSE EFFECT, IF APPLICABLE, TO IDENTIFY DRUG (T36-T50 WITH FIFTH OR SIXTH CHARACTER 5);CODE TO IDENTIFY CONTROL USING:;INJECTABLE NON-INSULIN ANTIDIABETIC DRUGS (Z79.85);INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY COMPLICATION",
+            "ICDCODEALLID": "347670",
+            "REQUIRED": null
+        },
+        "319209": {
+            "ADDITIONALCODESNOTES": null,
+            "ICDCODEALLID": "319209",
+            "REQUIRED": "Y"
+        },
+        "10259": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY TYPE OF HEART FAILURE (I50.-);CODE TO IDENTIFY THE STAGE OF CHRONIC KIDNEY DISEASE (N18.5, N18.6);CODE TO IDENTIFY:;EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z77.22);HISTORY OF TOBACCO USE (Z87.891);OCCUPATIONAL EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z57.31);TOBACCO DEPENDENCE (F17.-);TOBACCO USE (Z72.0)",
+            "ICDCODEALLID": "10259",
+            "REQUIRED": null
+        },
+        "350762": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY CONTROL USING:;INJECTABLE NON-INSULIN ANTIDIABETIC DRUGS (Z79.85);INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY MANIFESTATION, SUCH AS:;DIABETIC GLAUCOMA (H40-H42)",
+            "ICDCODEALLID": "350762",
+            "REQUIRED": null
+        },
+        "345685": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY TYPE OF HEART FAILURE (I50.-);CODE TO IDENTIFY:;EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z77.22);HISTORY OF TOBACCO DEPENDENCE (Z87.891);OCCUPATIONAL EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z57.31);TOBACCO DEPENDENCE (F17.-);TOBACCO USE (Z72.0)",
+            "ICDCODEALLID": "345685",
+            "REQUIRED": null
+        },
+        "348047": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY CONTROL USING:;INJECTABLE NON-INSULIN ANTIDIABETIC DRUGS (Z79.85);INSULIN (Z79.4);ORAL ANTIDIABETIC DRUGS (Z79.84);ORAL HYPOGLYCEMIC DRUGS (Z79.84);CODE TO IDENTIFY COMPLICATION",
+            "ICDCODEALLID": "348047",
+            "REQUIRED": null
+        },
+        "91637": {
+            "ADDITIONALCODESNOTES": null,
+            "ICDCODEALLID": "91637",
+            "REQUIRED": "Y"
+        },
+        "265642": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY TYPE OF HEART FAILURE (I50.-);CODE TO IDENTIFY THE STAGE OF CHRONIC KIDNEY DISEASE (N18.5, N18.6);CODE TO IDENTIFY:;EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z77.22);HISTORY OF TOBACCO DEPENDENCE (Z87.891);OCCUPATIONAL EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z57.31);TOBACCO DEPENDENCE (F17.-);TOBACCO USE (Z72.0)",
+            "ICDCODEALLID": "265642",
+            "REQUIRED": null
+        },
+        "91638": {
+            "ADDITIONALCODESNOTES": null,
+            "ICDCODEALLID": "91638",
+            "REQUIRED": "Y"
+        },
+        "297215": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY KIDNEY TRANSPLANT STATUS, IF APPLICABLE, (Z94.0);CODE TO IDENTIFY DIALYSIS STATUS (Z99.2)",
+            "ICDCODEALLID": "297215",
+            "REQUIRED": null
+        },
+        "259044": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY ANY RETAINED FOREIGN BODY, IF APPLICABLE (Z18.-);CODE FOR ADVERSE EFFECT, IF APPLICABLE, TO IDENTIFY DRUG (T36-T50 WITH FIFTH OR SIXTH CHARACTER 5);CODE(S) TO IDENTIFY THE SPECIFIED CONDITION RESULTING FROM THE COMPLICATION;CODE TO IDENTIFY DEVICES INVOLVED AND DETAILS OF CIRCUMSTANCES (Y62-Y82)",
+            "ICDCODEALLID": "259044",
+            "REQUIRED": "Y"
+        },
+        "345394": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY THE STAGE OF CHRONIC KIDNEY DISEASE (N18.5, N18.6);CODE TO IDENTIFY:;EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z77.22);HISTORY OF TOBACCO DEPENDENCE (Z87.891);OCCUPATIONAL EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z57.31);TOBACCO DEPENDENCE (F17.-);TOBACCO USE (Z72.0)",
+            "ICDCODEALLID": "345394",
+            "REQUIRED": null
+        },
+        "79180": {
+            "ADDITIONALCODESNOTES": "CODE FOR ADVERSE EFFECT, IF APPLICABLE, TO IDENTIFY DRUG (T36-T50 WITH FIFTH OR SIXTH CHARACTER 5);CODE(S) TO IDENTIFY THE SPECIFIED CONDITION RESULTING FROM THE COMPLICATION;CODE TO IDENTIFY DEVICES INVOLVED AND DETAILS OF CIRCUMSTANCES (Y62-Y82);CODE TO IDENTIFY ANY RETAINED FOREIGN BODY, IF APPLICABLE (Z18.-)",
+            "ICDCODEALLID": "79180",
+            "REQUIRED": "Y"
+        },
+        "273400": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY THE STAGE OF CHRONIC KIDNEY DISEASE (N18.5, N18.6);CODE TO IDENTIFY:;EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z77.22);HISTORY OF TOBACCO DEPENDENCE (Z87.891);OCCUPATIONAL EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z57.31);TOBACCO DEPENDENCE (F17.-);TOBACCO USE (Z72.0)",
+            "ICDCODEALLID": "273400",
+            "REQUIRED": null
+        },
+        "284113": {
+            "ADDITIONALCODESNOTES": null,
+            "ICDCODEALLID": "284113",
+            "REQUIRED": "Y"
+        },
+        "10258": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY THE STAGE OF CHRONIC KIDNEY DISEASE (N18.5, N18.6);CODE TO IDENTIFY:;EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z77.22);HISTORY OF TOBACCO USE (Z87.891);OCCUPATIONAL EXPOSURE TO ENVIRONMENTAL TOBACCO SMOKE (Z57.31);TOBACCO DEPENDENCE (F17.-);TOBACCO USE (Z72.0)",
+            "ICDCODEALLID": "10258",
+            "REQUIRED": null
+        },
+        "3766": {
+            "ADDITIONALCODESNOTES": "CODE TO IDENTIFY MANIFESTATION, SUCH AS:;DIABETIC GLAUCOMA (H40-H42)",
+            "ICDCODEALLID": "3766",
+            "REQUIRED": null
+        }
+    },
+    "hcc_raf_hcc_exclusions": [],
+    "hcc_raf_patient_demographic_factor": {},
+    "hcc_raf_patient_age_and_sex": {
+        "SEX": "F",
+        "AGE": 34
+    },
+    "suspected_hcc_diagnoses": [],
+    "potential_hcc_diagnoses": []
+}

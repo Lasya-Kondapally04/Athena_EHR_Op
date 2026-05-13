@@ -1,0 +1,22 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/documents/initial_assignees",
+    "DEFAULT_ASSIGNEE": {
+        "firstName": "naveen",
+        "position": "Provider",
+        "username": "p-nsharma6",
+        "lastName": "sharma"
+    },
+    "FREQUENT_ASSIGNEES": [
+        {
+            "firstName": null,
+            "username": "7 HILLS DEPARTMENT STAFF",
+            "isStaff": "true",
+            "lastName": null
+        },
+        {
+            "firstName": null,
+            "username": "TEST STAFF",
+            "isStaff": "true",
+            "lastName": null
+        }
+    ]
+}

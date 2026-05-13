@@ -1,0 +1,273 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/dashboard/inbox/bucket_items?assignedTo=PORTAL&bucketName=CLINICALDOCUMENT&page=0&perPage=100&sortColumn=prioritysortvalue&sortDirection=asc&sortField=priority",
+    "sortField": "priority",
+    "sortDirection": "asc",
+    "nextItemIndex": 1,
+    "sortColumn": "prioritysortvalue",
+    "items": [
+        {
+            "inboxItem": {
+                "subjectCreated": {
+                    "username": "smanning8",
+                    "date": "2017-09-13T16:09:21-04:00"
+                },
+                "syncDate": "2025-07-07T21:04:18-04:00",
+                "actions": {
+                    "markNotificationCompleted": {
+                        "viewName": "pickOption",
+                        "type": "popover",
+                        "appVersion": "0.6.6",
+                        "groupNumber": 1,
+                        "ordering": 2,
+                        "icon": null,
+                        "displayName": "Mark Notification Completed",
+                        "appName": "clinical-inbox-actions",
+                        "requiresValidation": 1,
+                        "props": {
+                            "optionPickerLabelText": "You are closing the selected item.",
+                            "optionPickerPlaceholderText": "Select Reasons for Closing",
+                            "enabledAthenaML": 0,
+                            "multiSaveOptions": [
+                                {
+                                    "action": "addOrders",
+                                    "text": "Create Order"
+                                },
+                                {
+                                    "action": "createSchedule",
+                                    "text": "Schedule Appointment"
+                                }
+                            ],
+                            "note": "optional",
+                            "maxLength": 4000,
+                            "availableOptions": [
+                                {
+                                    "text": "Closing because notification completed by paper print-out",
+                                    "value": 3450
+                                }
+                            ]
+                        }
+                    },
+                    "reassignDocument": {
+                        "viewName": "reassign",
+                        "type": "popover",
+                        "appVersion": "0.6.6",
+                        "groupNumber": 0,
+                        "ordering": 0,
+                        "icon": "AccelerateSmall",
+                        "displayName": "Reassign",
+                        "appName": "clinical-inbox-actions",
+                        "props": {
+                            "documentToAssign": {
+                                "status": "NOTIFY",
+                                "id": "131265"
+                            },
+                            "noteLabelText": "Action Note",
+                            "multiSaveOptions": [
+                                {
+                                    "action": "addOrders",
+                                    "text": "Create Order"
+                                },
+                                {
+                                    "action": "createSchedule",
+                                    "text": "Schedule Appointment"
+                                }
+                            ],
+                            "enabledAthenaML": 0,
+                            "note": "optional",
+                            "maxLength": 4000,
+                            "defaultUser": "PORTAL"
+                        }
+                    },
+                    "addOrders": {
+                        "displayName": "Add Orders",
+                        "url": "\/ax\/order_group\/add_and_navigate_to_order_group?chart_id=37256&department_id=1&document_id=131265&patient_id=6471&subject_type=letter",
+                        "type": "navigation",
+                        "groupNumber": 3,
+                        "ordering": 4,
+                        "icon": null
+                    },
+                    "createSchedule": {
+                        "displayName": "Schedule Appointment",
+                        "url": "\/schedule\/schedulingplatformcalendarview.esp?PATIENTID=6471",
+                        "type": "navigation",
+                        "groupNumber": 3,
+                        "ordering": 5,
+                        "icon": null
+                    },
+                    "goToQuickview": {
+                        "displayName": "Go to Quickview",
+                        "url": "\/client\/clientsummary.esp?ID=6471",
+                        "type": "navigation",
+                        "groupNumber": 2,
+                        "ordering": 3,
+                        "icon": null
+                    },
+                    "addNote": {
+                        "viewName": "note",
+                        "type": "popover",
+                        "appVersion": "0.6.6",
+                        "groupNumber": 0,
+                        "ordering": 1,
+                        "icon": "AddNoteSmall",
+                        "displayName": "Add Action Note",
+                        "appName": "clinical-inbox-actions",
+                        "props": {
+                            "noteLabelText": "Action Note",
+                            "multiSaveOptions": [
+                                {
+                                    "action": "addOrders",
+                                    "text": "Create Order"
+                                },
+                                {
+                                    "action": "createSchedule",
+                                    "text": "Schedule Appointment"
+                                }
+                            ],
+                            "enabledAthenaML": 0,
+                            "maxLength": 4000
+                        }
+                    }
+                },
+                "status": "NOTIFY",
+                "priority": "1",
+                "consolidationData": {
+                    "consolidationKey": null,
+                    "unconsolidatedCount": null
+                },
+                "location": "Checked Out",
+                "inboxCreatedDate": "2024-10-10T04:07:32-04:00",
+                "document": {
+                    "departmentId": 1,
+                    "id": "131265",
+                    "classId": "LETTER",
+                    "subClassId": "LETTER_PATIENTCORRESPONDENCE",
+                    "encounterId": 37230
+                },
+                "previews": {
+                    "": {}
+                },
+                "patient": {
+                    "chartId": 37256,
+                    "ageAndGender": "91yo M",
+                    "billingFirstName": "Kassandra",
+                    "suffix": null,
+                    "isUnknown": false,
+                    "lastName": "Mills",
+                    "status": "a",
+                    "isBlocked": false,
+                    "firstName": "Kassandra",
+                    "id": "6471",
+                    "pronouns": null,
+                    "dob": "07-03-1934",
+                    "middleName": null
+                },
+                "key": "131265",
+                "mucToken": "2020-12-23 12:40:48",
+                "clinicalProvider": {
+                    "id": "10813793",
+                    "firstName": null,
+                    "name": "CVS\/Pharmacy #5692",
+                    "lastName": null
+                },
+                "source": "ENCOUNTER",
+                "type": "letter",
+                "id": "29095",
+                "description": {
+                    "label": "Patient Correspondence",
+                    "details": null,
+                    "text": "Blank Letter - MILLS, KASSANDRA"
+                },
+                "assignedTo": {
+                    "unconfigured": false,
+                    "username": "PORTAL"
+                },
+                "usualProvider": {
+                    "id": "71",
+                    "name": "Adam Bricker, MD (ABRICKER)"
+                },
+                "subjectLastModified": {
+                    "username": "smanning8",
+                    "date": "2017-09-15T08:19:06-04:00"
+                },
+                "department": {
+                    "id": "1",
+                    "name": "Rome Office"
+                },
+                "subjectLastUpdated": {
+                    "actionName": "Approve",
+                    "date": "2017-09-15T08:19:01-04:00"
+                },
+                "patientInsurance": {
+                    "name": "*SELF PAY*"
+                }
+            },
+            "secondaryIdentifier": [
+                {
+                    "label": "Age and gender",
+                    "text": "91yo M"
+                },
+                {
+                    "label": "Birth day",
+                    "text": "07-03-1934"
+                },
+                {
+                    "label": "Patient id",
+                    "text": "#6471"
+                }
+            ],
+            "updateDetail": null,
+            "tertiaryDetail": [
+                {
+                    "label": "Assigned to",
+                    "text": "PORTAL"
+                },
+                {
+                    "label": "Document origin",
+                    "text": "ENCOUNTER"
+                },
+                {
+                    "label": "Provider or location",
+                    "text": "CVS\/Pharmacy #5692"
+                }
+            ],
+            "created": "2017-09-13T16:09:21-04:00",
+            "primaryIdentifier": {
+                "label": "Patient name",
+                "text": "Mills, Kassandra"
+            },
+            "primaryDetail": {
+                "label": "Message type",
+                "text": "Patient Correspondence"
+            },
+            "navigationEventPayload": {
+                "chartId": 37256,
+                "isBlockPatient": "N",
+                "taskCount": 1,
+                "documentSubClass": "LETTER_PATIENTCORRESPONDENCE",
+                "departmentId": 1,
+                "status": "NOTIFY",
+                "documentClass": "LETTER",
+                "clinicalEncounterId": 37230,
+                "documentId": "131265",
+                "assignedTo": "PORTAL",
+                "messageType": "LETTER - LETTER_PATIENTCORRESPONDENCE",
+                "subjectKey": "131265",
+                "clinicalOrderTypeGroupName": null,
+                "patientId": "6471"
+            },
+            "id": "letter-131265",
+            "secondaryDetail": [
+                {
+                    "label": "Description",
+                    "text": "Blank Letter - MILLS, KASSANDRA"
+                }
+            ],
+            "primaryStatus": {
+                "label": "Status",
+                "text": "NOTIFY"
+            }
+        }
+    ],
+    "page": "0",
+    "unconsolidatedCount": 1,
+    "consolidatedCount": 1
+}
