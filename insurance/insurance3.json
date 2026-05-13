@@ -1,0 +1,93 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/metrics/log_statsd_time",
+    "care_team": {
+        "Members": [
+            {
+                "State": "NY",
+                "LastName": "CUNNINGHAM",
+                "VersionToken": -1,
+                "PhoneNumber": "(212) 774-2515",
+                "ID": "1650",
+                "Zip": "10021",
+                "FAX": "(212) 774-2918",
+                "RecipientName": "MATTHEW CUNNINGHAM MD",
+                "RecipientType": "CLINICALPROVIDERID",
+                "FirstName": "MATTHEW",
+                "NPI": "1134321722",
+                "City": "NEW YORK",
+                "__CLASS__": "Athena::Chart::Entity::CareTeam::Member",
+                "RecipientID": "12000288",
+                "RecipientClass": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "Orthopedic Surgeon",
+                    "VersionToken": -1,
+                    "Code": "130"
+                },
+                "Address1": "535 E 70TH ST"
+            },
+            {
+                "State": "NY",
+                "LastName": "ACUNA",
+                "VersionToken": -1,
+                "PhoneNumber": "(718) 999-1918",
+                "ID": "1652",
+                "Zip": "11201",
+                "FAX": "(718) 999-0171",
+                "RecipientName": "DIANE ACUNA",
+                "RecipientType": "CLINICALPROVIDERID",
+                "FirstName": "DIANE",
+                "NPI": "1902879745",
+                "City": "BROOKLYN",
+                "__CLASS__": "Athena::Chart::Entity::CareTeam::Member",
+                "RecipientID": "12099155",
+                "RecipientClass": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "Cardiologist",
+                    "VersionToken": -1,
+                    "Code": "82"
+                },
+                "Address1": "9 METROTECH CTR"
+            },
+            {
+                "State": "NY",
+                "LastName": "CUNNINGHAM",
+                "VersionToken": -1,
+                "PhoneNumber": "(212) 774-2515",
+                "ID": "1690",
+                "Zip": "10021",
+                "FAX": "(212) 774-2918",
+                "RecipientName": "MATTHEW CUNNINGHAM MD",
+                "RecipientType": "CLINICALPROVIDERID",
+                "FirstName": "MATTHEW",
+                "NPI": "1134321722",
+                "City": "NEW YORK",
+                "__CLASS__": "Athena::Chart::Entity::CareTeam::Member",
+                "RecipientID": "12000288",
+                "RecipientClass": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "Maxillofacial Surgery",
+                    "VersionToken": -1,
+                    "Code": "192"
+                },
+                "Address1": "535 E 70TH ST"
+            },
+            {
+                "RecipientType": "PROVIDERID",
+                "FirstName": "CHRIS",
+                "LastName": "BULKLEY-JONES",
+                "VersionToken": -1,
+                "__CLASS__": "Athena::Chart::Entity::CareTeam::Member",
+                "RecipientID": "27",
+                "ID": "2097",
+                "RecipientClass": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "Primary Care Provider",
+                    "VersionToken": -1,
+                    "Code": "3"
+                },
+                "RecipientName": "CHRIS BULKLEY"
+            }
+        ],
+        "__CLASS__": "Athena::Chart::Entity::CareTeam",
+        "VersionToken": -1
+    }
+}

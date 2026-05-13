@@ -1,0 +1,290 @@
+{"url":"https://preview.athenahealth.com/195903/5/hidden_exposed.esp?CSRFPROTECT=0e24470cfa03f735cb0420fbb2564fac",
+    "RESPONSE": {
+        "QUICKVIEWINTRO": {
+            "PATIENT": {
+                "SETTINGS": {
+                    "USESTREAMLINED": 1,
+                    "EDITDEMOGRAPHICS": 1,
+                    "ISINPATIENT": ""
+                },
+                "DATA": {
+                    "PROVIDERGROUPS": [
+                        {
+                            "PGID": "1",
+                            "CHARTID": "32988",
+                            "PATIENTID": "4406",
+                            "PGNAME": "7 Hills Medical Group",
+                            "CHARTGROUPS": [
+                                {
+                                    "PATIENTID": "4406",
+                                    "CURRENTDEPARTMENTID": "150",
+                                    "ID": "32988",
+                                    "NAME": "7 Hills Medical Group",
+                                    "DEPARTMENTID": "1"
+                                },
+                                {
+                                    "PATIENTID": "4406",
+                                    "CURRENTDEPARTMENTID": "150",
+                                    "ID": "32989",
+                                    "NAME": "5 Peaks Medical Organization",
+                                    "DEPARTMENTID": "149"
+                                }
+                            ]
+                        },
+                        {
+                            "PGID": "2",
+                            "CHARTID": "37268",
+                            "PATIENTID": "6477",
+                            "PGNAME": "BLACKSTONE VALLEY MEDICAL GROUP",
+                            "CHARTGROUPS": [
+                                {
+                                    "PATIENTID": "6477",
+                                    "CURRENTDEPARTMENTID": "62",
+                                    "ID": "37268",
+                                    "NAME": "BLACKSTONE VALLEY MEDICAL GROUP",
+                                    "DEPARTMENTID": "62"
+                                }
+                            ]
+                        },
+                        {
+                            "PGID": "22",
+                            "CHARTID": "78054",
+                            "PATIENTID": "26144",
+                            "PGNAME": "6 Hills Medical Associates",
+                            "CHARTGROUPS": [
+                                {
+                                    "PATIENTID": "26144",
+                                    "CURRENTDEPARTMENTID": "82",
+                                    "ID": "78054",
+                                    "NAME": "6 Hills Medical Associates",
+                                    "DEPARTMENTID": "82"
+                                }
+                            ]
+                        },
+                        {
+                            "PGID": "62",
+                            "CHARTID": "78054",
+                            "PATIENTID": "28979",
+                            "PGNAME": "kate PG",
+                            "CHARTGROUPS": [
+                                {
+                                    "PATIENTID": "28979",
+                                    "CURRENTDEPARTMENTID": "175",
+                                    "ID": "78054",
+                                    "NAME": "6 Hills Medical Associates",
+                                    "DEPARTMENTID": "155"
+                                }
+                            ]
+                        }
+                    ],
+                    "NOTES": "William's phone number is out of date 212312112"
+                }
+            },
+            "ADMISSIONS": {
+                "SETTINGS": {
+                    "ADMISSIONHISTORY": 1,
+                    "ADMITPATIENT": 1
+                },
+                "DATA": {
+                    "ADMITTEDDEPARTMENT": "Not admitted"
+                }
+            }
+        },
+        "PATIENTPRIVACY": {
+            "SETTINGS": {
+                "EMBEDDEDAPPLAUNCHERVERSION": "2.11.1",
+                "CLINICALSENABLED": "ON",
+                "PATIENTRECORDSHARINGENABLED": 0,
+                "EDITDEMOGRAPHICS": 1,
+                "IMMWORKFLOW": "0",
+                "PDQWORKFLOW": 1,
+                "SHOWCONSENTTOCALLFLAG": 0,
+                "CUSTOMFIELDEDITUSER": 1,
+                "FORMS_ON_DEMAND_TOGGLE": "1",
+                "SIGNATURE_PAD_REWORK_TOGGLE": "1",
+                "REGISTRATIONSTATUSBETAENABLED": 1,
+                "HEALTH_DATA_SHARING_TOGGLE": 1,
+                "MEDHISTORYENABLED": 1,
+                "TASKLISTENABLED": "",
+                "FORMSONDEMANDENABLED": 1,
+                "COMMONWELLAUTOCONSENT": 0
+            },
+            "DATA": {
+                "CHARTID": "32988",
+                "INSUREDSIGNATUREONFILEFLAG": "Y",
+                "INSUREDSIGNATUREEXPIRATIONDATE": "12\/01\/2023",
+                "CUSTOMPRIVACYFIELDS": [
+                    {
+                        "DISABLED": 0,
+                        "REQUIREDYN": "N",
+                        "CLIENTRECORDPRIVACYYN": "N",
+                        "DISPLAYFIELDNAME": "Sig Form",
+                        "ID": "CLIENTRECORDNUMBER401",
+                        "NAME": "CLIENTRECORDNUMBER401",
+                        "VALUE": "Y"
+                    }
+                ],
+                "PDQSYNCHTML": null,
+                "NOTICEONFILE": {
+                    "NOTICETYPE": "PRIMARY",
+                    "INFORMATION": {
+                        "NOTICEANDSIGNATURESFLAG": "1"
+                    }
+                },
+                "NOPORTALYN": null,
+                "CONSENTTOCALLFLAG": "Y",
+                "PATIENTSIGNATUREEXPIRATIONDATE": "12\/01\/2023",
+                "ID": "4406",
+                "NOPORTALADOPTIONEMAILYN": null,
+                "SPPFORMS": [
+                    {
+                        "FORMTYPE": "SPP",
+                        "URL": "\/195903\/5\/billing\/newpdfclientform.esp?CLIENTFORMID=282&HTTP%5FREFERER=https%3A%2F%2Fpreview%2Eathenahealth%2Ecom%2F195903%2F5%2Fclient%2Fclientsummary%2Eesp%3FSWITCHPROMPT%3D1%26ID%3D4406%26CSRFPROTECT%3D0e24470cfa03f735cb0420fbb2564fac&PATIENTID=4406",
+                        "ID": "282",
+                        "NAME": "Digital Signature Pad Form - Cook"
+                    }
+                ],
+                "PDQFANOUTHTML": "\n<script type=\"text\/javascript\">\n\tjQuery(function() {\n\t\tCallRemote({\n\t\t\tSUB: 'PDQ::Model::QueryFanoutInterfaces',\n\t\t\tARGS: {\n\t\t\t\tPATIENTID : 4406\n\t\t\t}\n\t\t});\n\t});\n<\/script>\n\t",
+                "DOB": "01\/18\/1994",
+                "PORTALTERMSONFILEFLAG": "Y",
+                "PATIENTSIGNATUREONFILEFLAG": "Y",
+                "HEALTHDATASHARING": {
+                    "INTERFACECONSENT": []
+                },
+                "DONOTCALLYN": null,
+                "WIDGETNOTES": {
+                    "RELEASEAUTHNOTES": [],
+                    "REVIEWNOTECOUNTS": "0",
+                    "PRIVACYNOTESSUMMARY": [],
+                    "EXPIREDSIGNATUREMESSAGE": "The patient signature on file and insured signature on file are expired"
+                },
+                "PRIVACYNOTICEGIVENFLAG": "Y"
+            }
+        },
+        "OUTSTANDINGBALANCES": {
+            "SETTINGS": {
+                "SHOWCTIALERT": null,
+                "PROVIDERGROUPSETTINGON": 1,
+                "PROVIDERGROUPIDSWITHNULL": 1,
+                "SHOWPRINTSTATEMENTS": 1,
+                "ISEPAYMENTON": 1,
+                "SHOWSTATEMENTS": 1,
+                "SHOULD_DISPLAY_BRANDED_FINANCIALS": null,
+                "VIEWPATIENTACCOUNT": 1,
+                "SHOW_ENTERPRISE_PATIENT_BALANCES": 0,
+                "VIEWBALANCESUMMARY": 1,
+                "VIEWBILLINGSUMMARY": 1,
+                "VIEWPATIENTACTIVITY": 1
+            },
+            "DATA": {
+                "DENTALSTATEMENTS": [],
+                "OUTSTANDINGBALANCES": {
+                    "PRECOLLECT": null,
+                    "BADDEBT": 0,
+                    "UNAPPLIEDBALANCES": {
+                        "ALLBALANCES": [
+                            {
+                                "AMOUNT": -2102,
+                                "NAME": "7 Hills Medical Group"
+                            },
+                            {
+                                "AMOUNT": -60,
+                                "NAME": "6 Hills Medical Associates"
+                            }
+                        ]
+                    },
+                    "PREPAYMENTPLANS": [],
+                    "COLLECTIONS": [],
+                    "PAYMENTPLANS": []
+                },
+                "TOTALBALANCES": {
+                    "PATIENT": "-2,102.00",
+                    "TOTAL": "1,694.27",
+                    "INSURANCE": "3,796.27",
+                    "PROVIDERGROUPNAME": "7 Hills Medical Group"
+                },
+                "HOLDCLAIMS": [
+                    {
+                        "PROVIDERNAME": "BULKLEY",
+                        "SERVICEDATE": "04\/01\/2024",
+                        "ID": "335",
+                        "PROVIDERGROUPNAME": "7 Hills Medical Group",
+                        "ERROR": "Duplicate Claim Review Required; Invalid NPI Number; Invalid Medical Group NPI; Procedure Code Review Required; Supervising Provider NPI Number Required; Medical Group Credentialing Status Required; Unverified Medical Group NPI Number; Procedure Code \/ Diagnosis Review Required; Patient\/Insured DOB Mismatch; Invalid Insurance ID Number; Assignment of Benefits Required; Release of Information Required"
+                    },
+                    {
+                        "PROVIDERNAME": "BULKLEY",
+                        "SERVICEDATE": "04\/01\/2024",
+                        "ID": "337",
+                        "PROVIDERGROUPNAME": "7 Hills Medical Group",
+                        "ERROR": "Duplicate Claim Review Required; Invalid NPI Number; Invalid Medical Group NPI; Medically Unlikely Edit Review Required; Supervising Provider NPI Number Required; Medical Group Credentialing Status Required; Unverified Medical Group NPI Number; Procedure Code \/ Diagnosis Review Required; Patient\/Insured DOB Mismatch; Invalid Insurance ID Number; Assignment of Benefits Required; Release of Information Required"
+                    },
+                    {
+                        "PROVIDERNAME": "BULKLEY",
+                        "SERVICEDATE": "04\/02\/2024",
+                        "ID": "334",
+                        "PROVIDERGROUPNAME": "7 Hills Medical Group",
+                        "ERROR": "Invalid NPI Number; Invalid Medical Group NPI; Supervising Provider NPI Number Required; Medical Group Credentialing Status Required; Unverified Medical Group NPI Number; Procedure Code \/ Diagnosis Review Required; Patient\/Insured DOB Mismatch; Invalid Insurance ID Number; Assignment of Benefits Required; Release of Information Required"
+                    },
+                    {
+                        "PROVIDERNAME": "BULKLEY",
+                        "SERVICEDATE": "04\/02\/2024",
+                        "ID": "336",
+                        "PROVIDERGROUPNAME": "7 Hills Medical Group",
+                        "ERROR": "Duplicate Claim Review Required; Invalid NPI Number; Invalid Medical Group NPI; Procedure Code Review Required; Supervising Provider NPI Number Required; Medical Group Credentialing Status Required; Unverified Medical Group NPI Number; Procedure Code \/ Diagnosis Review Required; Patient\/Insured DOB Mismatch; Invalid Insurance ID Number; Assignment of Benefits Required; Release of Information Required"
+                    },
+                    {
+                        "PROVIDERNAME": "BULKLEY",
+                        "SERVICEDATE": "04\/17\/2024",
+                        "ID": "338",
+                        "PROVIDERGROUPNAME": "7 Hills Medical Group",
+                        "ERROR": "Invalid NPI Number; Invalid Medical Group NPI; Supervising Provider NPI Number Required; Medical Group Credentialing Status Required; Unverified Medical Group NPI Number; Procedure Code \/ Diagnosis Review Required; Patient\/Insured DOB Mismatch; Insured Address Review Required; Patient Address Information Required; Invalid Insurance ID Number; Assignment of Benefits Required; Release of Information Required"
+                    },
+                    {
+                        "PROVIDERNAME": "BULKLEY",
+                        "SERVICEDATE": "05\/08\/2024",
+                        "ID": "377",
+                        "PROVIDERGROUPNAME": "7 Hills Medical Group",
+                        "ERROR": "Duplicate Claim Review Required; Invalid NPI Number; Invalid Medical Group NPI; Medically Unlikely Edit Review Required; Supervising Provider NPI Number Required; Medical Group Credentialing Status Required; Unverified Medical Group NPI Number; Procedure Code \/ Diagnosis Review Required; Patient\/Insured DOB Mismatch; Invalid Insurance ID Number; Assignment of Benefits Required; Release of Information Required"
+                    },
+                    {
+                        "PROVIDERNAME": "BULKLEY",
+                        "SERVICEDATE": "05\/08\/2024",
+                        "ID": "376",
+                        "PROVIDERGROUPNAME": "7 Hills Medical Group",
+                        "ERROR": "Duplicate Claim Review Required; Invalid NPI Number; Invalid Medical Group NPI; Medically Unlikely Edit Review Required; Supervising Provider NPI Number Required; Medical Group Credentialing Status Required; Unverified Medical Group NPI Number; Procedure Code \/ Diagnosis Review Required; Patient\/Insured DOB Mismatch; Invalid Insurance ID Number; Assignment of Benefits Required; Release of Information Required"
+                    },
+                    {
+                        "PROVIDERNAME": "BULKLEY",
+                        "SERVICEDATE": "05\/08\/2024",
+                        "ID": "373",
+                        "PROVIDERGROUPNAME": "7 Hills Medical Group",
+                        "ERROR": "Duplicate Claim Review Required; Invalid NPI Number; Invalid Medical Group NPI; Procedure Code Review Required; Supervising Provider NPI Number Required; Medical Group Credentialing Status Required; Unverified Medical Group NPI Number; Procedure Code \/ Diagnosis Review Required; Patient\/Insured DOB Mismatch; Invalid Insurance ID Number; Assignment of Benefits Required; Release of Information Required"
+                    },
+                    {
+                        "PROVIDERNAME": "BULKLEY",
+                        "SERVICEDATE": "05\/08\/2024",
+                        "ID": "372",
+                        "PROVIDERGROUPNAME": "7 Hills Medical Group",
+                        "ERROR": "Invalid NPI Number; Invalid Medical Group NPI; Supervising Provider NPI Number Required; Medical Group Credentialing Status Required; Unverified Medical Group NPI Number; Procedure Code \/ Diagnosis Review Required; Patient\/Insured DOB Mismatch; Invalid Insurance ID Number; Assignment of Benefits Required; Release of Information Required"
+                    },
+                    {
+                        "PROVIDERNAME": "BULKLEY",
+                        "SERVICEDATE": "05\/14\/2024",
+                        "ID": "378",
+                        "PROVIDERGROUPNAME": "7 Hills Medical Group",
+                        "ERROR": "Invalid NPI Number; Invalid Medical Group NPI; Supervising Provider NPI Number Required; Medical Group Credentialing Status Required; Unverified Medical Group NPI Number; Procedure Code \/ Diagnosis Review Required; Patient\/Insured DOB Mismatch; Invalid Insurance ID Number; Assignment of Benefits Required; Release of Information Required"
+                    },
+                    {
+                        "PROVIDERNAME": "A_NADDELMAN",
+                        "SERVICEDATE": "09\/04\/2024",
+                        "ID": "438",
+                        "PROVIDERGROUPNAME": "7 Hills Medical Group",
+                        "ERROR": "Invalid NPI Number; Invalid Medical Group NPI; Supervising Provider NPI Number Required; Medical Group Credentialing Status Required; Unverified Medical Group NPI Number; Procedure Code Review Required; Invalid Insurance ID Number; Procedure Code Review Required"
+                    }
+                ],
+                "STATEMENTS": [],
+                "FAMILYBALANCES": ""
+            }
+        }
+    }
+}
