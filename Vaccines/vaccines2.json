@@ -1,0 +1,54 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=vaccine_forecast&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&chart_id=32988&department_id=150&patient_id=4406&provider_id=27&specialty_id=001",
+    "vaccine_forecast": {
+        "patientFirstName": "Mock",
+        "chartId": 4321,
+        "patientLastName": "Adult",
+        "sourceName": "Jurisdictional Vaccine Registry",
+        "id": 1234,
+        "vaccines": [
+            {
+                "doseNumber": 2,
+                "overdueDate": "",
+                "cvx": 100,
+                "earliestDoseDate": "04\/13\/2026",
+                "vaccineTypeName": "Covid-19",
+                "id": 7890,
+                "recommendedDoseDate": "05\/13\/2026",
+                "latestToGiveDate": ""
+            },
+            {
+                "doseNumber": 1,
+                "overdueDate": "",
+                "cvx": 101,
+                "earliestDoseDate": "04\/13\/2026",
+                "vaccineTypeName": "Pneumococcal",
+                "id": 7891,
+                "recommendedDoseDate": "05\/13\/2026",
+                "latestToGiveDate": ""
+            },
+            {
+                "doseNumber": 1,
+                "overdueDate": "05\/13\/2027",
+                "cvx": 102,
+                "earliestDoseDate": "04\/13\/2026",
+                "vaccineTypeName": "Shingrix",
+                "id": 7892,
+                "recommendedDoseDate": "06\/12\/2026",
+                "latestToGiveDate": "05\/13\/2029"
+            },
+            {
+                "doseNumber": 1,
+                "overdueDate": "05\/13\/2027",
+                "cvx": 103,
+                "earliestDoseDate": "04\/13\/2026",
+                "vaccineTypeName": "T-Dap",
+                "id": 7893,
+                "recommendedDoseDate": "06\/12\/2026",
+                "latestToGiveDate": "05\/13\/2029"
+            }
+        ],
+        "generatedDate": "05\/13\/2026",
+        "patientAge": "> 18 years",
+        "patientDateOfBirth": "01\/01\/2000"
+    }
+}

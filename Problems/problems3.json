@@ -1,0 +1,2365 @@
+{"url":"https://api.imohealth.com/problemlistmanagement/problems/categorize",
+    "categories": [
+        {
+            "code": "1040459359",
+            "title": "Allergies and Adverse Reactions",
+            "problems": [
+                {
+                    "id": "5281",
+                    "title": "environmental allergy",
+                    "lexical_code": "602827",
+                    "lexical_title": "Environmental allergies",
+                    "icd10cm": [
+                        {
+                            "code": "Z91.09",
+                            "title": "Other allergy status, other than to drugs and biological substances"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "V15.09",
+                            "title": "Other allergy, other than to medicinal agents"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "426232007",
+                            "title": "Environmental allergy"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1040448271",
+                        "cluster_title": "AA: Adverse effects Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2427",
+                            "2770857527"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "1329153647",
+            "title": "Behavioral Health",
+            "problems": [
+                {
+                    "id": "8601",
+                    "title": "reactive attachment disorder of infancy or early childhood, disinhibited type",
+                    "lexical_code": "14630",
+                    "lexical_title": "Reactive attachment disorder of infancy or early childhood, disinhibited type",
+                    "icd10cm": [
+                        {
+                            "code": "F94.2",
+                            "title": "Disinhibited attachment disorder of childhood"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "313.89",
+                            "title": "Other emotional disturbance of childhood or adolescence"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "111477005",
+                            "title": "Reactive attachment disorder of infancy OR early childhood, disinhibited type"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677189",
+                        "cluster_title": "MH: Mental Health Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2417"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "12793",
+                    "title": "malingering",
+                    "lexical_code": "49271",
+                    "lexical_title": "Malingering",
+                    "icd10cm": [
+                        {
+                            "code": "Z76.5",
+                            "title": "Malingerer [conscious simulation]"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "V65.2",
+                            "title": "Person feigning illness"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "735641000",
+                            "title": "Feigning of symptoms"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677189",
+                        "cluster_title": "MH: Mental Health Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2417"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "13543",
+                    "title": "attention deficit hyperactivity disorder",
+                    "lexical_code": "84840",
+                    "lexical_title": "Attention deficit hyperactivity disorder",
+                    "icd10cm": [
+                        {
+                            "code": "F90.9",
+                            "title": "Attention-deficit hyperactivity disorder, unspecified type"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "314.01",
+                            "title": "Attention deficit disorder with hyperactivity"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "406506008",
+                            "title": "Attention deficit hyperactivity disorder"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677189",
+                        "cluster_title": "MH: Mental Health Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2417"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "1068676071",
+            "title": "Cardiac and Vasculature",
+            "problems": [
+                {
+                    "id": "13714",
+                    "title": "hypertension screening",
+                    "lexical_code": "314022",
+                    "lexical_title": "Hypertension screen",
+                    "icd10cm": [
+                        {
+                            "code": "Z13.6",
+                            "title": "Encounter for screening for cardiovascular disorders"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "V81.1",
+                            "title": "Screening for hypertension"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "305058001",
+                            "title": "Patient encounter status"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1424614087",
+                        "cluster_title": "CV: Hypertension Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2411",
+                            "2412",
+                            "2428",
+                            "2770857527",
+                            "2771316791",
+                            "2780914991"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "13826",
+                    "title": "hypertensive disorder",
+                    "lexical_code": "314024",
+                    "lexical_title": "Hypertensive disorder",
+                    "icd10cm": [
+                        {
+                            "code": "I10",
+                            "title": "Essential (primary) hypertension"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "401.9",
+                            "title": "Unspecified essential hypertension"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "38341003",
+                            "title": "Hypertensive disorder"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1424614087",
+                        "cluster_title": "CV: Hypertension Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2411",
+                            "2412",
+                            "2428",
+                            "2770857527",
+                            "2771316791",
+                            "2780914991"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "13976",
+                    "title": "orthostatic hypotension",
+                    "lexical_code": "3436",
+                    "lexical_title": "Orthostatic hypotension",
+                    "icd10cm": [
+                        {
+                            "code": "I95.1",
+                            "title": "Orthostatic hypotension"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "458.0",
+                            "title": "Orthostatic hypotension"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "28651003",
+                            "title": "Orthostatic hypotension"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677174",
+                        "cluster_title": "CV: Blood pressure-Other Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2411",
+                            "2428",
+                            "2770857527"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "5941",
+                    "title": "heart murmur",
+                    "lexical_code": "45678",
+                    "lexical_title": "Heart murmur",
+                    "icd10cm": [
+                        {
+                            "code": "R01.1",
+                            "title": "Cardiac murmur, unspecified"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "785.2",
+                            "title": "Undiagnosed cardiac murmurs"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "88610006",
+                            "title": "Heart murmur"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677176",
+                        "cluster_title": "CV: Cardiac valve Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2411",
+                            "2415",
+                            "2428",
+                            "2770857527",
+                            "4646364104"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "11716",
+                    "title": "angina pectoris",
+                    "lexical_code": "84685",
+                    "lexical_title": "Angina pectoris",
+                    "icd10cm": [
+                        {
+                            "code": "I20.9",
+                            "title": "Angina pectoris, unspecified"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "413.9",
+                            "title": "Other and unspecified angina pectoris"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "194828000",
+                            "title": "Angina pectoris"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677191",
+                        "cluster_title": "CV: Coronary artery Cluster",
+                        "hcc_category_code": "88",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2411",
+                            "2428",
+                            "2770857527"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "13385",
+                    "title": "myocardial infarction",
+                    "lexical_code": "50276",
+                    "lexical_title": "Myocardial infarction",
+                    "icd10cm": [
+                        {
+                            "code": "I21.9",
+                            "title": "Acute myocardial infarction, unspecified"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "410.90",
+                            "title": "Acute myocardial infarction, unspecified site, episode of care unspecified"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "22298006",
+                            "title": "Myocardial infarction"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677191",
+                        "cluster_title": "CV: Coronary artery Cluster",
+                        "hcc_category_code": "86",
+                        "hcc_category_code_next": "228",
+                        "specialty_codes": [
+                            "2411",
+                            "2428",
+                            "2770857527"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "13716",
+                    "title": "myocardial infarction",
+                    "lexical_code": "50276",
+                    "lexical_title": "Myocardial infarction",
+                    "icd10cm": [
+                        {
+                            "code": "I21.9",
+                            "title": "Acute myocardial infarction, unspecified"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "410.90",
+                            "title": "Acute myocardial infarction, unspecified site, episode of care unspecified"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "22298006",
+                            "title": "Myocardial infarction"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677191",
+                        "cluster_title": "CV: Coronary artery Cluster",
+                        "hcc_category_code": "86",
+                        "hcc_category_code_next": "228",
+                        "specialty_codes": [
+                            "2411",
+                            "2428",
+                            "2770857527"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "5304",
+                    "title": "hyperlipidemia",
+                    "lexical_code": "46743",
+                    "lexical_title": "Hyperlipidemia",
+                    "icd10cm": [
+                        {
+                            "code": "E78.5",
+                            "title": "Hyperlipidemia, unspecified"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "272.4",
+                            "title": "Other and unspecified hyperlipidemia"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "55822004",
+                            "title": "Hyperlipidemia"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1164421235",
+                        "cluster_title": "LI: Lipids Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2411",
+                            "2412"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "1068992251",
+            "title": "Coag and Thromboembolic",
+            "problems": [
+                {
+                    "id": "13696",
+                    "title": "immune thrombocytopenia",
+                    "lexical_code": "566092",
+                    "lexical_title": "Immune thrombocytopenia",
+                    "icd10cm": [
+                        {
+                            "code": "D69.3",
+                            "title": "Immune thrombocytopenic purpura"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "287.49",
+                            "title": "Other secondary thrombocytopenia"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "2897005",
+                            "title": "Immune thrombocytopenia"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1164286367",
+                        "cluster_title": "CT: Hemostatic Disorders Cluster",
+                        "hcc_category_code": "48",
+                        "hcc_category_code_next": "112",
+                        "specialty_codes": [
+                            "2397",
+                            "2411",
+                            "2413",
+                            "2414",
+                            "2415",
+                            "2416",
+                            "2419",
+                            "2420",
+                            "2422",
+                            "2423",
+                            "2425",
+                            "2428",
+                            "2770857527",
+                            "2770878067",
+                            "2770899499",
+                            "4646364104"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "1040459356",
+            "title": "Endocrine and Metabolic",
+            "problems": [
+                {
+                    "id": "14486",
+                    "title": "diabetes mellitus",
+                    "lexical_code": "29688",
+                    "lexical_title": "Diabetes mellitus",
+                    "icd10cm": [
+                        {
+                            "code": "E11.9",
+                            "title": "Type 2 diabetes mellitus without complications"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "250.00",
+                            "title": "Type II or unspecified type diabetes mellitus without mention of complication, not stated as uncontrolled"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "73211009",
+                            "title": "Diabetes mellitus"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677186",
+                        "cluster_title": "EM: Diabetes and Glucose Cluster",
+                        "hcc_category_code": "19",
+                        "hcc_category_code_next": "38",
+                        "specialty_codes": [
+                            "2412",
+                            "2414",
+                            "2425",
+                            "2771316791"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "10957",
+                    "title": "type 2 diabetes mellitus in obese",
+                    "lexical_code": "1527796857",
+                    "lexical_title": "Type 2 diabetes mellitus in patient with obesity",
+                    "icd10cm": [
+                        {
+                            "code": "E11.9",
+                            "title": "Type 2 diabetes mellitus without complications"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "250.00",
+                            "title": "Type II or unspecified type diabetes mellitus without mention of complication, not stated as uncontrolled"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "81531005",
+                            "title": "Type 2 diabetes mellitus in obese"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677186",
+                        "cluster_title": "EM: Diabetes and Glucose Cluster",
+                        "hcc_category_code": "19",
+                        "hcc_category_code_next": "38",
+                        "specialty_codes": [
+                            "2412",
+                            "2414",
+                            "2425",
+                            "2771316791"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "14760",
+                    "title": "type 2 diabetes mellitus",
+                    "lexical_code": "334677",
+                    "lexical_title": "Type 2 diabetes mellitus",
+                    "icd10cm": [
+                        {
+                            "code": "E11.9",
+                            "title": "Type 2 diabetes mellitus without complications"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "250.00",
+                            "title": "Type II or unspecified type diabetes mellitus without mention of complication, not stated as uncontrolled"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "44054006",
+                            "title": "Type 2 diabetes mellitus"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677186",
+                        "cluster_title": "EM: Diabetes and Glucose Cluster",
+                        "hcc_category_code": "19",
+                        "hcc_category_code_next": "38",
+                        "specialty_codes": [
+                            "2412",
+                            "2414",
+                            "2425",
+                            "2771316791"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "13292",
+                    "title": "Type 1 diabetes mellitus",
+                    "lexical_code": "334672",
+                    "lexical_title": "Type 1 diabetes mellitus",
+                    "icd10cm": [
+                        {
+                            "code": "E10.9",
+                            "title": "Type 1 diabetes mellitus without complications"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "250.01",
+                            "title": "Type I (juvenile type) diabetes mellitus without mention of complication, not stated as uncontrolled"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "46635009",
+                            "title": "Type 1 diabetes mellitus"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677186",
+                        "cluster_title": "EM: Diabetes and Glucose Cluster",
+                        "hcc_category_code": "19",
+                        "hcc_category_code_next": "38",
+                        "specialty_codes": [
+                            "2412",
+                            "2414",
+                            "2425",
+                            "2771316791"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "5301",
+                    "title": "lipoidosis",
+                    "lexical_code": "48699",
+                    "lexical_title": "Lipoidosis",
+                    "icd10cm": [
+                        {
+                            "code": "E75.6",
+                            "title": "Lipid storage disorder, unspecified"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "272.7",
+                            "title": "Lipidoses"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "11455007",
+                            "title": "Lipoidosis"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1217467935",
+                        "cluster_title": "EM: Metabolic Pathway Disorders Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2412"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "14330",
+                    "title": "obesity",
+                    "lexical_code": "92278",
+                    "lexical_title": "Obesity",
+                    "icd10cm": [
+                        {
+                            "code": "E66.9",
+                            "title": "Obesity, unspecified"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "278.00",
+                            "title": "Obesity, unspecified"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "414916001",
+                            "title": "Obesity"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677187",
+                        "cluster_title": "EM: Weight Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2412",
+                            "2415",
+                            "2770878067",
+                            "2771316791"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "5306",
+                    "title": "lipodystrophy",
+                    "lexical_code": "48677",
+                    "lexical_title": "Lipodystrophy",
+                    "icd10cm": [
+                        {
+                            "code": "E88.10",
+                            "title": "Lipodystrophy, unspecified"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "272.6",
+                            "title": "Lipodystrophy"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "71325002",
+                            "title": "Lipodystrophy"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035694311",
+                        "cluster_title": "EM: Endo Metabolic Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2412"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "1040459364",
+            "title": "ENT",
+            "problems": [
+                {
+                    "id": "6506",
+                    "title": "jaw pain",
+                    "lexical_code": "68564",
+                    "lexical_title": "Jaw pain",
+                    "icd10cm": [
+                        {
+                            "code": "R68.84",
+                            "title": "Jaw pain"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "784.92",
+                            "title": "Jaw pain"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "274667000",
+                            "title": "Jaw pain"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677206",
+                        "cluster_title": "EN: Nose, Oral, Sinuses Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2413",
+                            "2770857527",
+                            "2770886103",
+                            "4646364104"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "1040459357",
+            "title": "Gastrointestinal and Abdominal",
+            "problems": [
+                {
+                    "id": "13605",
+                    "title": "Gastroesophageal reflux disease with esophagitis and hemorrhage",
+                    "lexical_code": "1495024250",
+                    "lexical_title": "Gastroesophageal reflux disease with esophagitis and hemorrhage",
+                    "icd10cm": [
+                        {
+                            "code": "K21.01",
+                            "title": "Gastro-esophageal reflux disease with esophagitis, with bleeding"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "530.81",
+                            "title": "Esophageal reflux"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "266433003",
+                            "title": "Gastro-esophageal reflux disease with esophagitis"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677180",
+                        "cluster_title": "GI: Upper GI tract Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2413",
+                            "2415",
+                            "2770878067"
+                        ],
+                        "post_coord_lex_flag": "1"
+                    }
+                },
+                {
+                    "id": "10114",
+                    "title": "heartburn",
+                    "lexical_code": "27506",
+                    "lexical_title": "Heartburn",
+                    "icd10cm": [
+                        {
+                            "code": "R12",
+                            "title": "Heartburn"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "787.1",
+                            "title": "Heartburn"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "16331000",
+                            "title": "Heartburn"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677180",
+                        "cluster_title": "GI: Upper GI tract Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2413",
+                            "2415",
+                            "2770878067"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "5309",
+                    "title": "liver function tests outside reference range",
+                    "lexical_code": "310018",
+                    "lexical_title": "Abnormal liver function tests",
+                    "icd10cm": [
+                        {
+                            "code": "R79.89",
+                            "title": "Other specified abnormal findings of blood chemistry"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "790.6",
+                            "title": "Other abnormal blood chemistry"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "166603001",
+                            "title": "Liver function tests outside reference range"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677183",
+                        "cluster_title": "GI: Hepatobiliary, Pancreas Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2415",
+                            "2770878067"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "15417",
+                    "title": "proctitis",
+                    "lexical_code": "52737",
+                    "lexical_title": "Proctitis",
+                    "icd10cm": [
+                        {
+                            "code": "K62.89",
+                            "title": "Other specified diseases of anus and rectum"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "569.49",
+                            "title": "Other specified disorder of rectum and anus"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "3951002",
+                            "title": "Proctitis"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677184",
+                        "cluster_title": "GI: Intestinal tract Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2415",
+                            "2770878067"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "8277",
+                    "title": "abdominal pain",
+                    "lexical_code": "84356",
+                    "lexical_title": "Abdominal pain",
+                    "icd10cm": [
+                        {
+                            "code": "R10.9",
+                            "title": "Unspecified abdominal pain"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "789.00",
+                            "title": "Abdominal pain, unspecified site"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "21522001",
+                            "title": "Abdominal pain"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677202",
+                        "cluster_title": "GI: Abdominal symptoms and signs Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2415",
+                            "2770878067"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "1040459349",
+            "title": "Genitourinary and Reproductive",
+            "problems": [
+                {
+                    "id": "13447",
+                    "title": "chronic kidney disease stage 3",
+                    "lexical_code": "33959406",
+                    "lexical_title": "Stage 3 chronic kidney disease",
+                    "icd10cm": [
+                        {
+                            "code": "N18.30",
+                            "title": "Chronic kidney disease, stage 3 unspecified"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "585.3",
+                            "title": "Chronic kidney disease, Stage III (moderate)"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "433144002",
+                            "title": "Chronic kidney disease stage 3"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677190",
+                        "cluster_title": "GR: Kidney, Ureter Cluster",
+                        "hcc_category_code": "138",
+                        "hcc_category_code_next": "329",
+                        "specialty_codes": [
+                            "2416",
+                            "2780914991"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "1040459352",
+            "title": "Hematology and Neoplasia",
+            "problems": [
+                {
+                    "id": "14932",
+                    "title": "local tumor spread",
+                    "lexical_code": "1527570495",
+                    "lexical_title": "Local spread of neoplasm",
+                    "icd10cm": [
+                        {
+                            "code": "D49.9",
+                            "title": "Neoplasm of unspecified behavior of unspecified site"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "239.9",
+                            "title": "Neoplasm of unspecified nature, site unspecified"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "255127006",
+                            "title": "Local tumor spread"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677177",
+                        "cluster_title": "HN: Neoplasia Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2419"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "6501",
+                    "title": "family history of malignant neoplasm",
+                    "lexical_code": "34927",
+                    "lexical_title": "Family history of malignant neoplasm",
+                    "icd10cm": [
+                        {
+                            "code": "Z80.9",
+                            "title": "Family history of malignant neoplasm, unspecified"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "V16.9",
+                            "title": "Family history of unspecified malignant neoplasm"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "275937001",
+                            "title": "Family history of malignant neoplasm"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677177",
+                        "cluster_title": "HN: Neoplasia Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2419"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "1040459360",
+            "title": "Infectious Diseases",
+            "problems": [
+                {
+                    "id": "5282",
+                    "title": "influenza",
+                    "lexical_code": "86569",
+                    "lexical_title": "Influenza",
+                    "icd10cm": [
+                        {
+                            "code": "J11.1",
+                            "title": "Influenza due to unidentified influenza virus with other respiratory manifestations"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "487.1",
+                            "title": "Influenza with other respiratory manifestations"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "6142004",
+                            "title": "Influenza"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035694562",
+                        "cluster_title": "ID: Infectious Disease Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2770881923"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "8295",
+                    "title": "suspected COVID-19",
+                    "lexical_code": "1494811678",
+                    "lexical_title": "Suspected severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection",
+                    "icd10cm": [
+                        {
+                            "code": "Z20.822",
+                            "title": "Contact with and (suspected) exposure to COVID-19"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "V01.79",
+                            "title": "Contact with or exposure to other viral diseases"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "840544004",
+                            "title": "Suspected COVID-19"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035694562",
+                        "cluster_title": "ID: Infectious Disease Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2770881923"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "8294",
+                    "title": "exposure to SARS-CoV-2",
+                    "lexical_code": "1494811660",
+                    "lexical_title": "Exposure to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+                    "icd10cm": [
+                        {
+                            "code": "Z20.822",
+                            "title": "Contact with and (suspected) exposure to COVID-19"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "V01.79",
+                            "title": "Contact with or exposure to other viral diseases"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "840546002",
+                            "title": "Exposure to SARS-CoV-2"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035694562",
+                        "cluster_title": "ID: Infectious Disease Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2770881923"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "5305",
+                    "title": "linguatulosis",
+                    "lexical_code": "26918",
+                    "lexical_title": "Linguatulosis",
+                    "icd10cm": [
+                        {
+                            "code": "B88.8",
+                            "title": "Other specified infestations"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "134.8",
+                            "title": "Other specified infestations"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "88547002",
+                            "title": "Linguatulosis"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035694562",
+                        "cluster_title": "ID: Infectious Disease Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2770881923"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "7267",
+                    "title": "genital herpes simplex",
+                    "lexical_code": "46285",
+                    "lexical_title": "Genital herpes simplex",
+                    "icd10cm": [
+                        {
+                            "code": "A60.00",
+                            "title": "Herpesviral infection of urogenital system, unspecified"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "054.10",
+                            "title": "Genital herpes, unspecified"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "33839006",
+                            "title": "Genital herpes simplex"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1453304983",
+                        "cluster_title": "SP: (ID) STD Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2770881923"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "1040459363",
+            "title": "Musculoskeletal and Injuries",
+            "problems": [
+                {
+                    "id": "5285",
+                    "title": "closed fracture of upper end of lower leg",
+                    "lexical_code": "20823",
+                    "lexical_title": "Closed fracture of upper end of lower leg",
+                    "icd10cm": [
+                        {
+                            "code": "S82.90XA",
+                            "title": "Unspecified fracture of unspecified lower leg, initial encounter for closed fracture"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "823.00",
+                            "title": "Closed fracture of upper end of tibia"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "111644004",
+                            "title": "Closed fracture of upper end of lower leg"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1270023503",
+                        "cluster_title": "MS: Pelvis and Lower Extremity Injury Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2420",
+                            "2966568351"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "10464",
+                    "title": "fracture of femur",
+                    "lexical_code": "20755",
+                    "lexical_title": "Fracture of femur",
+                    "icd10cm": [
+                        {
+                            "code": "S72.90XA",
+                            "title": "Unspecified fracture of unspecified femur, initial encounter for closed fracture"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "821.00",
+                            "title": "Closed fracture of unspecified part of femur"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "71620000",
+                            "title": "Fracture of femur"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1270023503",
+                        "cluster_title": "MS: Pelvis and Lower Extremity Injury Cluster",
+                        "hcc_category_code": "170",
+                        "hcc_category_code_next": "402",
+                        "specialty_codes": [
+                            "2420",
+                            "2966568351"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "8276",
+                    "title": "ankle pain",
+                    "lexical_code": "78858",
+                    "lexical_title": "Ankle pain",
+                    "icd10cm": [
+                        {
+                            "code": "M25.579",
+                            "title": "Pain in unspecified ankle and joints of unspecified foot"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "719.47",
+                            "title": "Pain in joint, ankle and foot"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "247373008",
+                            "title": "Ankle pain"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677159",
+                        "cluster_title": "MS: Musculoskeletal Pains Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2420",
+                            "2421",
+                            "2422",
+                            "2770877415",
+                            "2966568351"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "13549",
+                    "title": "muscle weakness",
+                    "lexical_code": "59136",
+                    "lexical_title": "Muscle weakness",
+                    "icd10cm": [
+                        {
+                            "code": "M62.81",
+                            "title": "Muscle weakness (generalized)"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "728.87",
+                            "title": "Muscle weakness (generalized)"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "26544005",
+                            "title": "Muscle weakness"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677153",
+                        "cluster_title": "MS: Muscle disorders Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2420",
+                            "2421",
+                            "2966568351"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "6021",
+                    "title": "laceration of wrist",
+                    "lexical_code": "942756",
+                    "lexical_title": "Laceration of wrist",
+                    "icd10cm": [
+                        {
+                            "code": "S61.519A",
+                            "title": "Laceration without foreign body of unspecified wrist, initial encounter"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "881.02",
+                            "title": "Open wound of wrist, without mention of complication"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "283372003",
+                            "title": "Laceration of wrist"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1276986311",
+                        "cluster_title": "MS: Lacerations Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "14303",
+                    "title": "hang glider accident",
+                    "lexical_code": "50992116",
+                    "lexical_title": "Hang glider accident",
+                    "icd10cm": [
+                        {
+                            "code": "V96.10XA",
+                            "title": "Unspecified hang-glider accident injuring occupant, initial encounter"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "E842.6",
+                            "title": "Accident to unpowered aircraft injuring occupant of unpowered aircraft, except parachutist"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "216087000",
+                            "title": "Hang glider accident"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677200",
+                        "cluster_title": "MS: Injuries Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2420",
+                            "2966568351"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "6361",
+                    "title": "accident caused by volcanic eruption",
+                    "lexical_code": "34252",
+                    "lexical_title": "Accident due to volcanic eruption",
+                    "icd10cm": [
+                        {
+                            "code": "X35.XXXA",
+                            "title": "Volcanic eruption, initial encounter"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "E909.1",
+                            "title": "Volcanic eruptions"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "217744003",
+                            "title": "Accident caused by volcanic eruption"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677200",
+                        "cluster_title": "MS: Injuries Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2420",
+                            "2966568351"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "5284",
+                    "title": "injury of hip region",
+                    "lexical_code": "71753",
+                    "lexical_title": "Hip injury",
+                    "icd10cm": [
+                        {
+                            "code": "S79.919A",
+                            "title": "Unspecified injury of unspecified hip, initial encounter"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "959.6",
+                            "title": "Injury, other and unspecified, hip and thigh"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "125600009",
+                            "title": "Injury of hip region"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677200",
+                        "cluster_title": "MS: Injuries Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2420",
+                            "2966568351"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "6001",
+                    "title": "hang nail",
+                    "lexical_code": "998",
+                    "lexical_title": "Hangnail",
+                    "icd10cm": [
+                        {
+                            "code": "",
+                            "title": ""
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "",
+                            "title": ""
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "1345007",
+                            "title": "Hang nail"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677200",
+                        "cluster_title": "MS: Injuries Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2420",
+                            "2966568351"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "5308",
+                    "title": "chest injury",
+                    "lexical_code": "55631",
+                    "lexical_title": "Chest injury",
+                    "icd10cm": [
+                        {
+                            "code": "S29.9XXA",
+                            "title": "Unspecified injury of thorax, initial encounter"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "959.11",
+                            "title": "Other injury of chest wall"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "262525000",
+                            "title": "Chest injury"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677200",
+                        "cluster_title": "MS: Injuries Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2420",
+                            "2966568351"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "1040459362",
+            "title": "Neuro",
+            "problems": [
+                {
+                    "id": "8610",
+                    "title": "headache",
+                    "lexical_code": "45536",
+                    "lexical_title": "Headache",
+                    "icd10cm": [
+                        {
+                            "code": "R51.9",
+                            "title": "Headache, unspecified"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "784.0",
+                            "title": "Headache"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "25064002",
+                            "title": "Headache"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677164",
+                        "cluster_title": "NE: Headaches Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2422",
+                            "2770877415"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "10273",
+                    "title": "diabetic gastroparesis",
+                    "lexical_code": "89956",
+                    "lexical_title": "Diabetic gastroparesis",
+                    "icd10cm": [
+                        {
+                            "code": "E11.43",
+                            "title": "Type 2 diabetes mellitus with diabetic autonomic (poly)neuropathy"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "250.60",
+                            "title": "Type II or unspecified type diabetes mellitus with neurological manifestations, not stated as uncontrolled"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "713704004",
+                            "title": "Gastroparesis due to diabetes mellitus"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1680315991",
+                        "cluster_title": "EM: Diabetic peripheral neuropathy Cluster",
+                        "hcc_category_code": "18",
+                        "hcc_category_code_next": "37",
+                        "specialty_codes": [
+                            "2412",
+                            "2422",
+                            "2770877415"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "5307",
+                    "title": "lisping",
+                    "lexical_code": "68090",
+                    "lexical_title": "Lisping",
+                    "icd10cm": [
+                        {
+                            "code": "F80.0",
+                            "title": "Phonological disorder"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "307.9",
+                            "title": "Other and unspecified special symptom or syndrome, not elsewhere classified"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "69577009",
+                            "title": "Lisping"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035694564",
+                        "cluster_title": "NE: Neuro Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2422"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "9809",
+                    "title": "chronic pain syndrome",
+                    "lexical_code": "71990",
+                    "lexical_title": "Chronic pain syndrome",
+                    "icd10cm": [
+                        {
+                            "code": "G89.4",
+                            "title": "Chronic pain syndrome"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "338.4",
+                            "title": "Chronic pain syndrome"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "373621006",
+                            "title": "Chronic pain syndrome"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035694564",
+                        "cluster_title": "NE: Neuro Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2422"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "1040459361",
+            "title": "Pulmonary and Pneumonias",
+            "problems": [
+                {
+                    "id": "13825",
+                    "title": "asthma",
+                    "lexical_code": "94262",
+                    "lexical_title": "Asthma",
+                    "icd10cm": [
+                        {
+                            "code": "J45.909",
+                            "title": "Unspecified asthma, uncomplicated"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "493.90",
+                            "title": "Unspecified asthma"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "195967001",
+                            "title": "Asthma"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677170",
+                        "cluster_title": "PU: Bronchospasm Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2423",
+                            "2428",
+                            "2770857527",
+                            "2770886103"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "9047",
+                    "title": "acute exacerbation of chronic obstructive pulmonary disease",
+                    "lexical_code": "808555",
+                    "lexical_title": "Acute exacerbation of chronic obstructive pulmonary disease",
+                    "icd10cm": [
+                        {
+                            "code": "J44.1",
+                            "title": "Chronic obstructive pulmonary disease with (acute) exacerbation"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "491.21",
+                            "title": "Obstructive chronic bronchitis with exacerbation"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "195951007",
+                            "title": "Acute exacerbation of chronic obstructive pulmonary disease"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677151",
+                        "cluster_title": "PU: Lower respiratory Cluster",
+                        "hcc_category_code": "111",
+                        "hcc_category_code_next": "280",
+                        "specialty_codes": [
+                            "2423",
+                            "2428",
+                            "2770857527",
+                            "2770886103"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "13675",
+                    "title": "cough",
+                    "lexical_code": "41149",
+                    "lexical_title": "Cough",
+                    "icd10cm": [
+                        {
+                            "code": "R05.9",
+                            "title": "Cough, unspecified"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "786.2",
+                            "title": "Cough"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "49727002",
+                            "title": "Cough"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035677198",
+                        "cluster_title": "PU: Coughs Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2413",
+                            "2423",
+                            "2428",
+                            "2770857527",
+                            "2770886103"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "1040459353",
+            "title": "Skin",
+            "problems": [
+                {
+                    "id": "13506",
+                    "title": "fistula",
+                    "lexical_code": "44152",
+                    "lexical_title": "Fistula",
+                    "icd10cm": [
+                        {
+                            "code": "L98.8",
+                            "title": "Other specified disorders of the skin and subcutaneous tissue"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "686.9",
+                            "title": "Unspecified local infection of skin and subcutaneous tissue"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "428794004",
+                            "title": "Fistula"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035694567",
+                        "cluster_title": "SK: Skin Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2424"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "1040459358",
+            "title": "Symptoms and Signs",
+            "problems": [
+                {
+                    "id": "5302",
+                    "title": "limping",
+                    "lexical_code": "300606",
+                    "lexical_title": "Limping",
+                    "icd10cm": [
+                        {
+                            "code": "R26.89",
+                            "title": "Other abnormalities of gait and mobility"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "781.2",
+                            "title": "Abnormality of gait"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "16973004",
+                            "title": "Limping"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1773228731",
+                        "cluster_title": "SS: ADL dependence",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [
+                            "2966568351"
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "8592",
+                    "title": "pain",
+                    "lexical_code": "300745",
+                    "lexical_title": "Pain",
+                    "icd10cm": [
+                        {
+                            "code": "R52",
+                            "title": "Pain, unspecified"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "780.96",
+                            "title": "Generalized pain"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "22253000",
+                            "title": "Pain"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035694566",
+                        "cluster_title": "SS: Signs, Symptoms Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "13715",
+                    "title": "fever",
+                    "lexical_code": "27348",
+                    "lexical_title": "Fever",
+                    "icd10cm": [
+                        {
+                            "code": "R50.9",
+                            "title": "Fever, unspecified"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "780.60",
+                            "title": "Fever, unspecified"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "386661006",
+                            "title": "Fever"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035694566",
+                        "cluster_title": "SS: Signs, Symptoms Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "10528",
+                    "title": "lightheadedness",
+                    "lexical_code": "27708",
+                    "lexical_title": "Lightheadedness",
+                    "icd10cm": [
+                        {
+                            "code": "R42",
+                            "title": "Dizziness and giddiness"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "780.4",
+                            "title": "Dizziness and giddiness"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "386705008",
+                            "title": "Lightheadedness"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035694566",
+                        "cluster_title": "SS: Signs, Symptoms Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "9071",
+                    "title": "insufficiency",
+                    "lexical_code": "1527573679",
+                    "lexical_title": "Finding of insufficiency",
+                    "icd10cm": [
+                        {
+                            "code": "R68.89",
+                            "title": "Other general symptoms and signs"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "796.4",
+                            "title": "Other abnormal clinical finding"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "87828008",
+                            "title": "Insufficiency"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035694566",
+                        "cluster_title": "SS: Signs, Symptoms Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "5303",
+                    "title": "indifference",
+                    "lexical_code": "3542570",
+                    "lexical_title": "Listlessness",
+                    "icd10cm": [
+                        {
+                            "code": "R53.83",
+                            "title": "Other fatigue"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "780.79",
+                            "title": "Other malaise and fatigue"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "20602000",
+                            "title": "Indifference"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035694566",
+                        "cluster_title": "SS: Signs, Symptoms Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "6505",
+                    "title": "edema",
+                    "lexical_code": "42607",
+                    "lexical_title": "Edema",
+                    "icd10cm": [
+                        {
+                            "code": "R60.9",
+                            "title": "Edema, unspecified"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "782.3",
+                            "title": "Edema"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "267038008",
+                            "title": "Edema"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1035694566",
+                        "cluster_title": "SS: Signs, Symptoms Misc Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [],
+                        "post_coord_lex_flag": "0"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "1040439628",
+            "title": "Uncategorized",
+            "problems": [
+                {
+                    "id": "13828",
+                    "title": "laser device",
+                    "lexical_code": "",
+                    "lexical_title": "",
+                    "details": {
+                        "cluster_code": "",
+                        "cluster_title": "",
+                        "hcc_category_code": "",
+                        "hcc_category_code_next": "",
+                        "specialty_codes": [
+                            ""
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "6538",
+                    "title": "unable to climb",
+                    "lexical_code": "",
+                    "lexical_title": "",
+                    "details": {
+                        "cluster_code": "",
+                        "cluster_title": "",
+                        "hcc_category_code": "",
+                        "hcc_category_code_next": "",
+                        "specialty_codes": [
+                            ""
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "6151",
+                    "title": "punching other person",
+                    "lexical_code": "",
+                    "lexical_title": "",
+                    "details": {
+                        "cluster_code": "",
+                        "cluster_title": "",
+                        "hcc_category_code": "",
+                        "hcc_category_code_next": "",
+                        "specialty_codes": [
+                            ""
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "6539",
+                    "title": "finding related to ability to climb",
+                    "lexical_code": "",
+                    "lexical_title": "",
+                    "details": {
+                        "cluster_code": "",
+                        "cluster_title": "",
+                        "hcc_category_code": "",
+                        "hcc_category_code_next": "",
+                        "specialty_codes": [
+                            ""
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "9266",
+                    "title": "atypical squamous cells of undetermined significance",
+                    "lexical_code": "",
+                    "lexical_title": "",
+                    "details": {
+                        "cluster_code": "",
+                        "cluster_title": "",
+                        "hcc_category_code": "",
+                        "hcc_category_code_next": "",
+                        "specialty_codes": [
+                            ""
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "13827",
+                    "title": "appendectomy",
+                    "lexical_code": "",
+                    "lexical_title": "",
+                    "details": {
+                        "cluster_code": "",
+                        "cluster_title": "",
+                        "hcc_category_code": "",
+                        "hcc_category_code_next": "",
+                        "specialty_codes": [
+                            ""
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "13625",
+                    "title": "allergy to edible egg",
+                    "lexical_code": "",
+                    "lexical_title": "",
+                    "details": {
+                        "cluster_code": "",
+                        "cluster_title": "",
+                        "hcc_category_code": "",
+                        "hcc_category_code_next": "",
+                        "specialty_codes": [
+                            ""
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "9590",
+                    "title": "testis excision",
+                    "lexical_code": "",
+                    "lexical_title": "",
+                    "details": {
+                        "cluster_code": "",
+                        "cluster_title": "",
+                        "hcc_category_code": "",
+                        "hcc_category_code_next": "",
+                        "specialty_codes": [
+                            ""
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                },
+                {
+                    "id": "6537",
+                    "title": "difficulty climbing",
+                    "lexical_code": "",
+                    "lexical_title": "",
+                    "details": {
+                        "cluster_code": "",
+                        "cluster_title": "",
+                        "hcc_category_code": "",
+                        "hcc_category_code_next": "",
+                        "specialty_codes": [
+                            ""
+                        ],
+                        "post_coord_lex_flag": "0"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "1040459354",
+            "title": "Toxicities and Envenomations",
+            "problems": [
+                {
+                    "id": "9100",
+                    "title": "toxic effect of carbon monoxide",
+                    "lexical_code": "33457",
+                    "lexical_title": "Toxic effect of carbon monoxide",
+                    "icd10cm": [
+                        {
+                            "code": "T58.91XA",
+                            "title": "Toxic effect of carbon monoxide from unspecified source, accidental (unintentional), initial encounter"
+                        }
+                    ],
+                    "icd9cm": [
+                        {
+                            "code": "986",
+                            "title": "Toxic effect of carbon monoxide"
+                        }
+                    ],
+                    "snomed": [
+                        {
+                            "code": "17383000",
+                            "title": "Toxic effect of carbon monoxide"
+                        }
+                    ],
+                    "details": {
+                        "cluster_code": "1164423323",
+                        "cluster_title": "TM: Toxicities Cluster",
+                        "hcc_category_code": "0",
+                        "hcc_category_code_next": "0",
+                        "specialty_codes": [],
+                        "post_coord_lex_flag": "0"
+                    }
+                }
+            ]
+        }
+    ]
+}

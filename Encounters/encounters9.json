@@ -1,0 +1,109 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=historical_clinical_encounter_summaries&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&sections=APPOINTMENTSNIPPET&clinical_encounter_ids=48009&clinical_encounter_ids=48010&clinical_encounter_ids=47987&clinical_encounter_ids=47967&clinical_encounter_ids=47858&clinical_encounter_ids=47848&clinical_encounter_ids=47844&clinical_encounter_ids=47826&clinical_encounter_ids=47829&clinical_encounter_ids=47828&clinical_encounter_ids=47825&clinical_encounter_ids=47827&clinical_encounter_ids=47805&clinical_encounter_ids=47804&clinical_encounter_ids=47797&open_clinical_encounter_ids=48009&open_clinical_encounter_ids=48010&open_clinical_encounter_ids=47987&open_clinical_encounter_ids=47967&open_clinical_encounter_ids=47858&open_clinical_encounter_ids=47848&open_clinical_encounter_ids=47844&open_clinical_encounter_ids=47826&open_clinical_encounter_ids=47829&open_clinical_encounter_ids=47828&open_clinical_encounter_ids=47825&open_clinical_encounter_ids=47827&open_clinical_encounter_ids=47805&open_clinical_encounter_ids=47804&open_clinical_encounter_ids=47797&preload_summary_data=true",
+    "historical_clinical_encounter_summaries": {
+        "47827": {
+            "APPOINTMENTSNIPPET": {
+                "AMENDED": 0,
+                "HTML": "<div> <div class=\"primary\"> order group <\/div> <div class=\"detail\"> 12-09-2025 <\/div> <\/div>",
+                "HEADER": "Appointmentsnippet"
+            }
+        },
+        "47844": {
+            "APPOINTMENTSNIPPET": {
+                "AMENDED": 0,
+                "HTML": "<div> <div class=\"primary\"> order group <\/div> <div class=\"detail\"> 12-16-2025 <\/div> <\/div>",
+                "HEADER": "Appointmentsnippet"
+            }
+        },
+        "47848": {
+            "APPOINTMENTSNIPPET": {
+                "AMENDED": 0,
+                "HTML": "<div> <div class=\"primary\"> order group <\/div> <div class=\"detail\"> 12-17-2025 <\/div> <\/div>",
+                "HEADER": "Appointmentsnippet"
+            }
+        },
+        "47967": {
+            "APPOINTMENTSNIPPET": {
+                "AMENDED": 0,
+                "HTML": "<div> <div class=\"primary\"> order group <\/div> <div class=\"detail\"> 01-30-2026 <\/div> <\/div>",
+                "HEADER": "Appointmentsnippet"
+            }
+        },
+        "47828": {
+            "APPOINTMENTSNIPPET": {
+                "AMENDED": 0,
+                "HTML": "<div> <div class=\"primary\"> order group <\/div> <div class=\"detail\"> 12-09-2025 <\/div> <\/div>",
+                "HEADER": "Appointmentsnippet"
+            }
+        },
+        "48010": {
+            "APPOINTMENTSNIPPET": {
+                "AMENDED": 0,
+                "HTML": "<div> <div class=\"primary\"> order group <\/div> <div class=\"detail\"> 02-10-2026 <\/div> <\/div>",
+                "HEADER": "Appointmentsnippet"
+            }
+        },
+        "47805": {
+            "APPOINTMENTSNIPPET": {
+                "AMENDED": 0,
+                "HTML": "<div> <div class=\"primary\"> order group <\/div> <div class=\"detail\"> 12-04-2025 <\/div> <\/div>",
+                "HEADER": "Appointmentsnippet"
+            }
+        },
+        "47826": {
+            "APPOINTMENTSNIPPET": {
+                "AMENDED": 0,
+                "HTML": "<div> <div class=\"primary\"> order group <\/div> <div class=\"detail\"> 12-09-2025 <\/div> <\/div>",
+                "HEADER": "Appointmentsnippet"
+            }
+        },
+        "47797": {
+            "APPOINTMENTSNIPPET": {
+                "AMENDED": 0,
+                "HTML": "<div> <div class=\"primary\"> order group <\/div> <div class=\"detail\"> 12-01-2025 <\/div> <\/div>",
+                "HEADER": "Appointmentsnippet"
+            }
+        },
+        "47858": {
+            "APPOINTMENTSNIPPET": {
+                "AMENDED": 0,
+                "HTML": "<div> <div class=\"primary\"> order group <\/div> <div class=\"detail\"> 12-22-2025 <\/div> <\/div>",
+                "HEADER": "Appointmentsnippet"
+            }
+        },
+        "47987": {
+            "APPOINTMENTSNIPPET": {
+                "AMENDED": 0,
+                "HTML": "<div> <div class=\"primary\"> order group <\/div> <div class=\"detail\"> 02-04-2026 <\/div> <\/div>",
+                "HEADER": "Appointmentsnippet"
+            }
+        },
+        "47804": {
+            "APPOINTMENTSNIPPET": {
+                "AMENDED": 0,
+                "HTML": "<div> <div class=\"primary\"> order group <\/div> <div class=\"detail\"> 12-04-2025 <\/div> <\/div>",
+                "HEADER": "Appointmentsnippet"
+            }
+        },
+        "48009": {
+            "APPOINTMENTSNIPPET": {
+                "AMENDED": 0,
+                "HTML": "<div> <div class=\"primary\"> order group <\/div> <div class=\"detail\"> 02-10-2026 <\/div> <\/div>",
+                "HEADER": "Appointmentsnippet"
+            }
+        },
+        "47825": {
+            "APPOINTMENTSNIPPET": {
+                "AMENDED": 0,
+                "HTML": "<div> <div class=\"primary\"> order group <\/div> <div class=\"detail\"> 12-09-2025 <\/div> <\/div>",
+                "HEADER": "Appointmentsnippet"
+            }
+        },
+        "47829": {
+            "APPOINTMENTSNIPPET": {
+                "AMENDED": 0,
+                "HTML": "<div> <div class=\"primary\"> order group <\/div> <div class=\"detail\"> 12-09-2025 <\/div> <\/div>",
+                "HEADER": "Appointmentsnippet"
+            }
+        }
+    }
+}

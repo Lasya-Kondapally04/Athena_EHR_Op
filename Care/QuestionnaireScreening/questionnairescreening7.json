@@ -1,0 +1,1251 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/clinical_content/form/02e7b01e-0681-4479-b5bf-dbbcd62e6f8c?form_id=02e7b01e-0681-4479-b5bf-dbbcd62e6f8c",
+    "content": {
+        "display": "form",
+        "components": [
+            {
+                "suffix": "",
+                "inoroutofoffice": "in-office",
+                "tooltip": "",
+                "athena": {
+                    "code": {
+                        "formcodes": [
+                            {
+                                "codesystem": "",
+                                "code": ""
+                            }
+                        ]
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "longname": "Kutcher Adolescent Depression Scale 6-Item",
+                "key": "screenerMetadata",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "scoreLoinc": "",
+                "tabindex": "",
+                "showWordCount": false,
+                "logo": "",
+                "unique": false,
+                "id": "evojg9w",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "formio-component-hidden",
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "autofocus": false,
+                "age": [
+                    {
+                        "maximumageunits": "years",
+                        "minimumageunits": "years"
+                    }
+                ],
+                "loinc": "",
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "specialty": [
+                    {
+                        "text": "OB\/GYN",
+                        "value": "016"
+                    },
+                    {
+                        "text": "Internal Medicine",
+                        "value": "011"
+                    },
+                    {
+                        "text": "Family Medicine",
+                        "value": "008"
+                    },
+                    {
+                        "text": "Pediatric Medicine",
+                        "value": "037"
+                    },
+                    {
+                        "text": "Child and Adolescent Psychiatry",
+                        "value": "670"
+                    },
+                    {
+                        "text": "Clinical Psychology",
+                        "value": "068"
+                    },
+                    {
+                        "text": "Pediatric Psychiatry",
+                        "value": "688"
+                    },
+                    {
+                        "text": "Pediatric Psychology",
+                        "value": "687"
+                    },
+                    {
+                        "text": "Psychiatry",
+                        "value": "026"
+                    },
+                    {
+                        "text": "Psychology",
+                        "value": "062"
+                    },
+                    {
+                        "text": "Licensed Clinical Professional Counselor",
+                        "value": "739"
+                    },
+                    {
+                        "text": "Mental Health Counselor",
+                        "value": "151"
+                    }
+                ],
+                "sex": {
+                    "female": false,
+                    "male": false
+                },
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": true,
+                "errorLabel": "",
+                "label": "Screener Metadata",
+                "type": "athenascreenermetadata",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "depressionscreeningquestionnaire": false,
+                "hideLabel": false,
+                "calculateServer": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "patientPrompt",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "additionalText": "",
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "ei2ecpo",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "text": "Over the last week, how have you been \"on average\" or \"usually\" regarding the following:",
+                "hidden": false,
+                "errorLabel": "",
+                "label": "Patient Prompt",
+                "type": "athenascreenerpatientprompt",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "calculateServer": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "isOptional": false,
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "KADS6Q1",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "additionalText": "",
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "ebe24fo",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "allowOther": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "1. Low mood, sadness, feeling blah or down, depressed, just can't be bothered. ",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "a) Hardly Ever",
+                        "value": "a) Hardly Ever"
+                    },
+                    {
+                        "score": 1,
+                        "text": "b) Much of the time",
+                        "value": "b) Much of the time"
+                    },
+                    {
+                        "score": 2,
+                        "text": "c) Most of the time",
+                        "value": "c) Most of the time"
+                    },
+                    {
+                        "score": 3,
+                        "text": "d) All of the time",
+                        "value": "d) All of the time"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "isOptional": false,
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "KADS6Q2",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "additionalText": "",
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e34nkx",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "allowOther": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "2. Feelings of worthlessness, hopelessness, letting people down, not being a good person. ",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "a) Hardly Ever",
+                        "value": "a) Hardly Ever"
+                    },
+                    {
+                        "score": 1,
+                        "text": "b) Much of the time",
+                        "value": "b) Much of the time"
+                    },
+                    {
+                        "score": 2,
+                        "text": "c) Most of the time",
+                        "value": "c) Most of the time"
+                    },
+                    {
+                        "score": 3,
+                        "text": "d) All of the time",
+                        "value": "d) All of the time"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "isOptional": false,
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "KADS6Q3",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "additionalText": "",
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e5e6ks",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "allowOther": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "3. Feeling tired, feeling fatigued, low in energy, hard to get motivated, have to push to get things done, want to rest or lie down a lot",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "a) Hardly Ever",
+                        "value": "a) Hardly Ever"
+                    },
+                    {
+                        "score": 1,
+                        "text": "b) Much of the time",
+                        "value": "b) Much of the time"
+                    },
+                    {
+                        "score": 2,
+                        "text": "c) Most of the time",
+                        "value": "c) Most of the time"
+                    },
+                    {
+                        "score": 3,
+                        "text": "d) All of the time",
+                        "value": "d) All of the time"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "isOptional": false,
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "KADS6Q4",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "additionalText": "",
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "ew3p17p",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "allowOther": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "4. Feeling that life is not very much fun, not feeling good when usually would feel good, not getting as much pleasure from fun things as usual.",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "a) Hardly Ever",
+                        "value": "a) Hardly Ever"
+                    },
+                    {
+                        "score": 1,
+                        "text": "b) Much of the time",
+                        "value": "b) Much of the time"
+                    },
+                    {
+                        "score": 2,
+                        "text": "c) Most of the time",
+                        "value": "c) Most of the time"
+                    },
+                    {
+                        "score": 3,
+                        "text": "d) All of the time",
+                        "value": "d) All of the time"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "isOptional": false,
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "KADS6Q5",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "additionalText": "",
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "ei16k5b5",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "allowOther": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "5. Feeling worried, nervous, panicky, tense, keyed up, anxious.",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "a) Hardly Ever",
+                        "value": "a) Hardly Ever"
+                    },
+                    {
+                        "score": 1,
+                        "text": "b) Much of the time",
+                        "value": "b) Much of the time"
+                    },
+                    {
+                        "score": 2,
+                        "text": "c) Most of the time",
+                        "value": "c) Most of the time"
+                    },
+                    {
+                        "score": 3,
+                        "text": "d) All of the time",
+                        "value": "d) All of the time"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "isOptional": false,
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "KADS6Q6",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "additionalText": "",
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e9ia7dd",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "allowOther": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "6. Thoughts, plans or actions about suicide or self-harm.",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "a) Hardly Ever",
+                        "value": "a) Hardly Ever"
+                    },
+                    {
+                        "score": 1,
+                        "text": "b) Much of the time",
+                        "value": "b) Much of the time"
+                    },
+                    {
+                        "score": 2,
+                        "text": "c) Most of the time",
+                        "value": "c) Most of the time"
+                    },
+                    {
+                        "score": 3,
+                        "text": "d) All of the time",
+                        "value": "d) All of the time"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "guidelines",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e8anacp",
+                "multiple": false,
+                "input": true,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": [
+                    {
+                        "if": [
+                            {
+                                "and": [
+                                    {
+                                        "and": [
+                                            {
+                                                ">=": [
+                                                    {
+                                                        "var": "data.score.total"
+                                                    },
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "<=": [
+                                                    {
+                                                        "var": "data.score.total"
+                                                    },
+                                                    5
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "Total scores below 6: Indicate 'probably not depressed'"
+                        ]
+                    },
+                    {
+                        "if": [
+                            {
+                                "and": [
+                                    {
+                                        "and": [
+                                            {
+                                                ">=": [
+                                                    {
+                                                        "var": "data.score.total"
+                                                    },
+                                                    6
+                                                ]
+                                            },
+                                            {
+                                                "<=": [
+                                                    {
+                                                        "var": "data.score.total"
+                                                    },
+                                                    18
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "Total scores at or above 6: Suggest 'possible depression' (and a need for more thorough assessment). "
+                        ]
+                    }
+                ],
+                "hidden": false,
+                "errorLabel": "",
+                "label": "Guidelines",
+                "type": "athenascreenerguidelines",
+                "guidelines": [
+                    {
+                        "conditionals": [
+                            {
+                                "maxValue": 5,
+                                "subscoreLabel": "total score",
+                                "subscore": "total",
+                                "minValue": 0
+                            }
+                        ],
+                        "text": "Total scores below 6: Indicate 'probably not depressed'"
+                    },
+                    {
+                        "conditionals": [
+                            {
+                                "maxValue": 18,
+                                "subscoreLabel": "total score",
+                                "subscore": "total",
+                                "minValue": 6
+                            }
+                        ],
+                        "text": "Total scores at or above 6: Suggest 'possible depression' (and a need for more thorough assessment). "
+                    }
+                ],
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "calculateServer": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "markdown": "**References:**\n\nLeBlanc, J. C., Almudevar, A., Brooks, S. J., & Kutcher, S. (2002). *Screening for adolescent depression: comparison of the Kutcher Adolescent Depression Scale with the Beck depression inventory. Journal of child and adolescent psychopharmacology, 12(2), 113–126*. https:\/\/doi.org\/10.1089\/104454602760219153",
+                "key": "screenerDetails",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "euzav8",
+                "multiple": false,
+                "input": true,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "errorLabel": "",
+                "label": "Screener Details",
+                "type": "athenascreenerdetails",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "calculateServer": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "score",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "subscores": [
+                    {
+                        "label": "total",
+                        "selectedQuestionKeys": [
+                            "all questions"
+                        ],
+                        "key": "total"
+                    }
+                ],
+                "tabindex": "",
+                "showWordCount": false,
+                "viewRelationships": [],
+                "unique": false,
+                "id": "e7whhut",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": true,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "scoreMappings": [],
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "scoringMethod": "SIMPLESUM",
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "hidden": false,
+                "errorLabel": "",
+                "label": "Score",
+                "type": "athenascreenerscore",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            }
+        ]
+    },
+    "contentType": "screening-questionnaire",
+    "name": "Kutcher (KADS-6)",
+    "tags": {
+        "locations": [],
+        "specialties": []
+    },
+    "id": "02e7b01e-0681-4479-b5bf-dbbcd62e6f8c",
+    "masterFormId": "3BAC1DD6-AEDE-11EA-BA65-B5AC49BFE5CD",
+    "version": 3
+}

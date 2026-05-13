@@ -1,0 +1,44 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=interpretation_templates&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&chart_id=32988&department_id=150&patient_id=4406&provider_username=cbulkley&specialty_id=001",
+    "interpretation_templates": [
+        {
+            "ID": "321",
+            "NAME": "(IMAGING): X-RAY"
+        },
+        {
+            "ID": "325",
+            "NAME": "MRI Lumbar Spine"
+        },
+        {
+            "ID": "741",
+            "NAME": "Brachial-Basilic Fistula Duplex Exam"
+        },
+        {
+            "ID": "901",
+            "NAME": "Test Interpretation Template"
+        },
+        {
+            "ID": "1222",
+            "NAME": "CT template"
+        },
+        {
+            "ID": "323",
+            "NAME": "Hip X-ray"
+        },
+        {
+            "ID": "326",
+            "NAME": "Scapula X-Ray"
+        },
+        {
+            "ID": "341",
+            "NAME": "ortho"
+        },
+        {
+            "ID": "473",
+            "NAME": "Electrocardiogram (ECG)"
+        },
+        {
+            "ID": "1324",
+            "NAME": "Colonoscopy"
+        }
+    ]
+}

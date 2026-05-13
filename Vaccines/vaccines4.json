@@ -1,0 +1,109 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=vaccine_users&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&chart_id=32988&department_id=150&patient_id=4406&provider_id=27&specialty_id=001",
+    "vaccine_users": {
+        "p-xadmin": {
+            "FirstName": "Xcaliber",
+            "LastName": "Admin",
+            "VersionToken": -1,
+            "OrganizationID": "PRACTICE",
+            "Username": "p-xadmin",
+            "__CLASS__": "AthenaX::Clinical::Entity::User",
+            "Role": "MA"
+        },
+        "DBA_PATCH_20210113": {
+            "Username": "DBA_PATCH_20210113",
+            "__CLASS__": "AthenaX::Clinical::Entity::User",
+            "VersionToken": -1
+        },
+        "VACCINEAUTOREC": {
+            "Username": "VACCINEAUTOREC",
+            "__CLASS__": "AthenaX::Clinical::Entity::User",
+            "VersionToken": -1
+        },
+        "API-177": {
+            "Username": "API-177",
+            "__CLASS__": "AthenaX::Clinical::Entity::User",
+            "VersionToken": -1
+        },
+        "API-28571": {
+            "Username": "API-28571",
+            "__CLASS__": "AthenaX::Clinical::Entity::User",
+            "VersionToken": -1
+        },
+        "p-bkumar1": {
+            "FirstName": "Bhupender",
+            "LastName": "Kumar",
+            "VersionToken": -1,
+            "OrganizationID": "PRACTICE",
+            "Username": "p-bkumar1",
+            "__CLASS__": "AthenaX::Clinical::Entity::User",
+            "Role": "MA"
+        },
+        "p-kkaran": {
+            "FirstName": "Kaustav",
+            "LastName": "Karan",
+            "VersionToken": -1,
+            "OrganizationID": "PRACTICE",
+            "Username": "p-kkaran",
+            "__CLASS__": "AthenaX::Clinical::Entity::User",
+            "Role": "MA"
+        },
+        "asonnenfeldt": {
+            "Username": "asonnenfeldt",
+            "__CLASS__": "AthenaX::Clinical::Entity::User",
+            "Role": "OTHER",
+            "LastName": "Sonnenfeldt",
+            "FirstName": "Alden",
+            "VersionToken": -1
+        },
+        "CVS": {
+            "Username": "CVS",
+            "__CLASS__": "AthenaX::Clinical::Entity::User",
+            "VersionToken": -1
+        },
+        "p-aransing": {
+            "FirstName": "Akshay",
+            "LastName": "Ransing",
+            "VersionToken": -1,
+            "OrganizationID": "PRACTICE",
+            "Username": "p-aransing",
+            "__CLASS__": "AthenaX::Clinical::Entity::User",
+            "Role": "MA"
+        },
+        "TEST STAFF": {
+            "Username": "TEST STAFF",
+            "__CLASS__": "AthenaX::Clinical::Entity::User",
+            "VersionToken": -1
+        },
+        "abellemare": {
+            "Username": "abellemare",
+            "__CLASS__": "AthenaX::Clinical::Entity::User",
+            "Role": "OTHER",
+            "LastName": "Bellemare",
+            "FirstName": "Andrea",
+            "VersionToken": -1
+        },
+        "kdakoulas": {
+            "Username": "kdakoulas",
+            "__CLASS__": "AthenaX::Clinical::Entity::User",
+            "Role": "OTHER",
+            "LastName": "Dakoulas",
+            "FirstName": "Kelsey",
+            "VersionToken": -1
+        },
+        "API-27306": {
+            "Username": "API-27306",
+            "__CLASS__": "AthenaX::Clinical::Entity::User",
+            "VersionToken": -1
+        },
+        "Mark": {
+            "Username": "Mark",
+            "__CLASS__": "AthenaX::Clinical::Entity::User",
+            "VersionToken": -1
+        },
+        "MARK": {
+            "Username": "MARK",
+            "__CLASS__": "AthenaX::Clinical::Entity::User",
+            "VersionToken": -1
+        }
+    }
+}

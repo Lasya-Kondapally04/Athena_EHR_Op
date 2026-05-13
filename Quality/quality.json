@@ -1,0 +1,857 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=p4p_parameter_customizations&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&chart_id=32988&p4p_measure_subscription_ids=10696&p4p_measure_subscription_ids=2448&p4p_measure_subscription_ids=2441&p4p_measure_subscription_ids=201&p4p_measure_subscription_ids=206&p4p_measure_subscription_ids=193&p4p_measure_subscription_ids=85450&p4p_measure_subscription_ids=2450&p4p_measure_subscription_ids=24197&p4p_measure_subscription_ids=244&p4p_measure_subscription_ids=240&p4p_measure_subscription_ids=77360&p4p_measure_subscription_ids=24226&p4p_measure_subscription_ids=33164&p4p_measure_subscription_ids=77361&p4p_measure_subscription_ids=33243",
+    "p4p_parameter_customizations": {
+        "240": [
+            {
+                "INPUTNAME": "PARAMETER{NUMERATOR}{2}{5}{0}{TIMEFRAME}{1023729}{LOOKBACKMONTHS}",
+                "OPTIONS": [
+                    {
+                        "TEXT": "Every 3 months",
+                        "VALUE": "3"
+                    },
+                    {
+                        "TEXT": "Every 6 months",
+                        "VALUE": "6"
+                    },
+                    {
+                        "TEXT": "Every year",
+                        "VALUE": "12"
+                    },
+                    {
+                        "TEXT": "Every 2 years",
+                        "VALUE": "24"
+                    },
+                    {
+                        "TEXT": "Every 3 years",
+                        "VALUE": "36"
+                    },
+                    {
+                        "TEXT": "Every 5 years",
+                        "VALUE": "60"
+                    },
+                    {
+                        "TEXT": "Every 7 years",
+                        "VALUE": "84"
+                    },
+                    {
+                        "TEXT": "Every 10 years",
+                        "VALUE": "120"
+                    },
+                    {
+                        "TEXT": "Every 25 years",
+                        "VALUE": "300"
+                    },
+                    {
+                        "TEXT": "Every 100 years",
+                        "VALUE": "1200"
+                    }
+                ],
+                "LABEL": "Patient treated with appropriate tobacco cessation medication",
+                "VALUE": "12",
+                "TYPE": "FREQUENCY"
+            },
+            {
+                "INPUTNAME": "PARAMETER{NUMERATOR}{3}{5}{0}{TIMEFRAME}{1023763}{LOOKBACKMONTHS}",
+                "OPTIONS": [
+                    {
+                        "TEXT": "Every 3 months",
+                        "VALUE": "3"
+                    },
+                    {
+                        "TEXT": "Every 6 months",
+                        "VALUE": "6"
+                    },
+                    {
+                        "TEXT": "Every year",
+                        "VALUE": "12"
+                    },
+                    {
+                        "TEXT": "Every 2 years",
+                        "VALUE": "24"
+                    },
+                    {
+                        "TEXT": "Every 3 years",
+                        "VALUE": "36"
+                    },
+                    {
+                        "TEXT": "Every 5 years",
+                        "VALUE": "60"
+                    },
+                    {
+                        "TEXT": "Every 7 years",
+                        "VALUE": "84"
+                    },
+                    {
+                        "TEXT": "Every 10 years",
+                        "VALUE": "120"
+                    },
+                    {
+                        "TEXT": "Every 25 years",
+                        "VALUE": "300"
+                    },
+                    {
+                        "TEXT": "Every 100 years",
+                        "VALUE": "1200"
+                    }
+                ],
+                "LABEL": "Patient treated with appropriate tobacco cessation medication",
+                "VALUE": "12",
+                "TYPE": "FREQUENCY"
+            },
+            {
+                "ENDFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{430216}{STOPAGE}",
+                    "TITLE": "Maximum Age",
+                    "VALUE": "999"
+                },
+                "STARTFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{430216}{STARTAGE}",
+                    "TITLE": "Minimum Age",
+                    "VALUE": "18"
+                },
+                "TYPE": "AGERANGE"
+            }
+        ],
+        "206": [
+            {
+                "INPUTNAME": "PARAMETER{NUMERATOR}{5}{63}{0}{TIMEFRAME}{1014865}{LOOKBACKMONTHS}",
+                "OPTIONS": [
+                    {
+                        "TEXT": "Every 3 months",
+                        "VALUE": "3"
+                    },
+                    {
+                        "TEXT": "Every 6 months",
+                        "VALUE": "6"
+                    },
+                    {
+                        "TEXT": "Every year",
+                        "VALUE": "12"
+                    },
+                    {
+                        "TEXT": "Every 2 years",
+                        "VALUE": "24"
+                    },
+                    {
+                        "TEXT": "Every 3 years",
+                        "VALUE": "36"
+                    },
+                    {
+                        "TEXT": "Every 5 years",
+                        "VALUE": "60"
+                    },
+                    {
+                        "TEXT": "Every 7 years",
+                        "VALUE": "84"
+                    },
+                    {
+                        "TEXT": "Every 10 years",
+                        "VALUE": "120"
+                    },
+                    {
+                        "TEXT": "Every 25 years",
+                        "VALUE": "300"
+                    },
+                    {
+                        "TEXT": "Every 100 years",
+                        "VALUE": "1200"
+                    }
+                ],
+                "LABEL": "Dilated eye exam performed",
+                "VALUE": "12",
+                "TYPE": "FREQUENCY"
+            },
+            {
+                "ENDFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1013339}{STOPAGE}",
+                    "TITLE": "Maximum Age",
+                    "VALUE": "999"
+                },
+                "STARTFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1013339}{STARTAGE}",
+                    "TITLE": "Minimum Age",
+                    "VALUE": "18"
+                },
+                "TYPE": "AGERANGE"
+            }
+        ],
+        "10696": [
+            {
+                "ENDFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{928446}{STOPAGE}",
+                    "TITLE": "Maximum Age",
+                    "VALUE": "999"
+                },
+                "STARTFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{928446}{STARTAGE}",
+                    "TITLE": "Minimum Age",
+                    "VALUE": "18"
+                },
+                "TYPE": "AGERANGE"
+            }
+        ],
+        "2448": [
+            {
+                "INPUTNAME": "PARAMETER{NUMERATOR}{0}{8}{0}{TIMEFRAME}{156967}{LOOKBACKMONTHS}",
+                "OPTIONS": [
+                    {
+                        "TEXT": "Every 3 months",
+                        "VALUE": "3"
+                    },
+                    {
+                        "TEXT": "Every 6 months",
+                        "VALUE": "6"
+                    },
+                    {
+                        "TEXT": "Every year",
+                        "VALUE": "12"
+                    },
+                    {
+                        "TEXT": "Every 2 years",
+                        "VALUE": "24"
+                    },
+                    {
+                        "TEXT": "Every 3 years",
+                        "VALUE": "36"
+                    },
+                    {
+                        "TEXT": "Every 5 years",
+                        "VALUE": "60"
+                    },
+                    {
+                        "TEXT": "Every 7 years",
+                        "VALUE": "84"
+                    },
+                    {
+                        "TEXT": "Every 10 years",
+                        "VALUE": "120"
+                    },
+                    {
+                        "TEXT": "Every 25 years",
+                        "VALUE": "300"
+                    },
+                    {
+                        "TEXT": "Every 100 years",
+                        "VALUE": "1200"
+                    }
+                ],
+                "LABEL": "Asthma action plan provided",
+                "VALUE": "12",
+                "TYPE": "FREQUENCY"
+            }
+        ],
+        "244": [
+            {
+                "ENDFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{932628}{STOPAGE}",
+                    "TITLE": "Maximum Age",
+                    "VALUE": "999"
+                },
+                "STARTFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{932628}{STARTAGE}",
+                    "TITLE": "Minimum Age",
+                    "VALUE": "18"
+                },
+                "TYPE": "AGERANGE"
+            }
+        ],
+        "193": [
+            {
+                "INPUTNAME": "PARAMETER{NUMERATOR}{3}{63}{0}{TIMEFRAME}{1372150}{LOOKBACKMONTHS}",
+                "OPTIONS": [
+                    {
+                        "TEXT": "Every 3 months",
+                        "VALUE": "3"
+                    },
+                    {
+                        "TEXT": "Every 6 months",
+                        "VALUE": "6"
+                    },
+                    {
+                        "TEXT": "Every year",
+                        "VALUE": "12"
+                    },
+                    {
+                        "TEXT": "Every 2 years",
+                        "VALUE": "24"
+                    },
+                    {
+                        "TEXT": "Every 3 years",
+                        "VALUE": "36"
+                    },
+                    {
+                        "TEXT": "Every 5 years",
+                        "VALUE": "60"
+                    },
+                    {
+                        "TEXT": "Every 7 years",
+                        "VALUE": "84"
+                    },
+                    {
+                        "TEXT": "Every 10 years",
+                        "VALUE": "120"
+                    },
+                    {
+                        "TEXT": "Every 25 years",
+                        "VALUE": "300"
+                    },
+                    {
+                        "TEXT": "Every 100 years",
+                        "VALUE": "1200"
+                    }
+                ],
+                "LABEL": "HbA1c Screening performed",
+                "VALUE": "12",
+                "TYPE": "FREQUENCY"
+            },
+            {
+                "ENDFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1530041}{STOPAGE}",
+                    "TITLE": "Maximum Age",
+                    "VALUE": "999"
+                },
+                "STARTFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1530041}{STARTAGE}",
+                    "TITLE": "Minimum Age",
+                    "VALUE": "18"
+                },
+                "TYPE": "AGERANGE"
+            }
+        ],
+        "85450": [
+            {
+                "INPUTNAME": "PARAMETER{NUMERATOR}{1}{8}{0}{TIMEFRAME}{1453697}{LOOKBACKMONTHS}",
+                "OPTIONS": [
+                    {
+                        "TEXT": "Every 3 months",
+                        "VALUE": "3"
+                    },
+                    {
+                        "TEXT": "Every 6 months",
+                        "VALUE": "6"
+                    },
+                    {
+                        "TEXT": "Every year",
+                        "VALUE": "12"
+                    },
+                    {
+                        "TEXT": "Every 2 years",
+                        "VALUE": "24"
+                    },
+                    {
+                        "TEXT": "Every 3 years",
+                        "VALUE": "36"
+                    },
+                    {
+                        "TEXT": "Every 5 years",
+                        "VALUE": "60"
+                    },
+                    {
+                        "TEXT": "Every 7 years",
+                        "VALUE": "84"
+                    },
+                    {
+                        "TEXT": "Every 10 years",
+                        "VALUE": "120"
+                    },
+                    {
+                        "TEXT": "Every 25 years",
+                        "VALUE": "300"
+                    },
+                    {
+                        "TEXT": "Every 83.25 years",
+                        "VALUE": "999"
+                    },
+                    {
+                        "TEXT": "Every 100 years",
+                        "VALUE": "1200"
+                    }
+                ],
+                "LABEL": "HBV Triple Panel Screening Performed",
+                "VALUE": "999",
+                "TYPE": "FREQUENCY"
+            },
+            {
+                "ENDFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1455721}{STOPAGE}",
+                    "TITLE": "Maximum Age",
+                    "VALUE": "999"
+                },
+                "STARTFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1455721}{STARTAGE}",
+                    "TITLE": "Minimum Age",
+                    "VALUE": "18"
+                },
+                "TYPE": "AGERANGE"
+            }
+        ],
+        "201": [
+            {
+                "INPUTNAME": "PARAMETER{NUMERATOR}{2}{63}{0}{TIMEFRAME}{1011309}{LOOKBACKMONTHS}",
+                "OPTIONS": [
+                    {
+                        "TEXT": "Every 3 months",
+                        "VALUE": "3"
+                    },
+                    {
+                        "TEXT": "Every 6 months",
+                        "VALUE": "6"
+                    },
+                    {
+                        "TEXT": "Every year",
+                        "VALUE": "12"
+                    },
+                    {
+                        "TEXT": "Every 2 years",
+                        "VALUE": "24"
+                    },
+                    {
+                        "TEXT": "Every 3 years",
+                        "VALUE": "36"
+                    },
+                    {
+                        "TEXT": "Every 5 years",
+                        "VALUE": "60"
+                    },
+                    {
+                        "TEXT": "Every 7 years",
+                        "VALUE": "84"
+                    },
+                    {
+                        "TEXT": "Every 10 years",
+                        "VALUE": "120"
+                    },
+                    {
+                        "TEXT": "Every 25 years",
+                        "VALUE": "300"
+                    },
+                    {
+                        "TEXT": "Every 100 years",
+                        "VALUE": "1200"
+                    }
+                ],
+                "LABEL": "Diabetic foot exam performed",
+                "VALUE": "12",
+                "TYPE": "FREQUENCY"
+            },
+            {
+                "ENDFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1371005}{STOPAGE}",
+                    "TITLE": "Maximum Age",
+                    "VALUE": "999"
+                },
+                "STARTFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1371005}{STARTAGE}",
+                    "TITLE": "Minimum Age",
+                    "VALUE": "18"
+                },
+                "TYPE": "AGERANGE"
+            }
+        ],
+        "77360": [
+            {
+                "INPUTNAME": "PARAMETER{NUMERATOR}{2}{63}{0}{TIMEFRAME}{1262684}{LOOKBACKMONTHS}",
+                "OPTIONS": [
+                    {
+                        "TEXT": "Every 3 months",
+                        "VALUE": "3"
+                    },
+                    {
+                        "TEXT": "Every 6 months",
+                        "VALUE": "6"
+                    },
+                    {
+                        "TEXT": "Every year",
+                        "VALUE": "12"
+                    },
+                    {
+                        "TEXT": "Every 2 years",
+                        "VALUE": "24"
+                    },
+                    {
+                        "TEXT": "Every 3 years",
+                        "VALUE": "36"
+                    },
+                    {
+                        "TEXT": "Every 5 years",
+                        "VALUE": "60"
+                    },
+                    {
+                        "TEXT": "Every 7 years",
+                        "VALUE": "84"
+                    },
+                    {
+                        "TEXT": "Every 10 years",
+                        "VALUE": "120"
+                    },
+                    {
+                        "TEXT": "Every 25 years",
+                        "VALUE": "300"
+                    },
+                    {
+                        "TEXT": "Every 100 years",
+                        "VALUE": "1200"
+                    }
+                ],
+                "LABEL": "LDL screening performed",
+                "VALUE": "12",
+                "TYPE": "FREQUENCY"
+            },
+            {
+                "ENDFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1262446}{STOPAGE}",
+                    "TITLE": "Maximum Age",
+                    "VALUE": "999"
+                },
+                "STARTFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1262446}{STARTAGE}",
+                    "TITLE": "Minimum Age",
+                    "VALUE": "18"
+                },
+                "TYPE": "AGERANGE"
+            }
+        ],
+        "33164": [
+            {
+                "INPUTNAME": "PARAMETER{NUMERATOR}{1}{8}{0}{TIMEFRAME}{929846}{LOOKBACKMONTHS}",
+                "OPTIONS": [
+                    {
+                        "TEXT": "Every 3 months",
+                        "VALUE": "3"
+                    },
+                    {
+                        "TEXT": "Every 6 months",
+                        "VALUE": "6"
+                    },
+                    {
+                        "TEXT": "Every year",
+                        "VALUE": "12"
+                    },
+                    {
+                        "TEXT": "Every 2 years",
+                        "VALUE": "24"
+                    },
+                    {
+                        "TEXT": "Every 3 years",
+                        "VALUE": "36"
+                    },
+                    {
+                        "TEXT": "Every 5 years",
+                        "VALUE": "60"
+                    },
+                    {
+                        "TEXT": "Every 7 years",
+                        "VALUE": "84"
+                    },
+                    {
+                        "TEXT": "Every 10 years",
+                        "VALUE": "120"
+                    },
+                    {
+                        "TEXT": "Every 25 years",
+                        "VALUE": "300"
+                    },
+                    {
+                        "TEXT": "Every 100 years",
+                        "VALUE": "1200"
+                    }
+                ],
+                "LABEL": "Blood glucose screening performed",
+                "VALUE": "36",
+                "TYPE": "FREQUENCY"
+            },
+            {
+                "ENDFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{371673}{STOPAGE}",
+                    "TITLE": "Maximum Age",
+                    "VALUE": "70"
+                },
+                "STARTFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{371673}{STARTAGE}",
+                    "TITLE": "Minimum Age",
+                    "VALUE": "35"
+                },
+                "TYPE": "AGERANGE"
+            }
+        ],
+        "24197": [
+            {
+                "INPUTNAME": "PARAMETER{NUMERATOR}{1}{5}{0}{TIMEFRAME}{1262112}{LOOKBACKMONTHS}",
+                "OPTIONS": [
+                    {
+                        "TEXT": "Every 3 months",
+                        "VALUE": "3"
+                    },
+                    {
+                        "TEXT": "Every 6 months",
+                        "VALUE": "6"
+                    },
+                    {
+                        "TEXT": "Every year",
+                        "VALUE": "12"
+                    },
+                    {
+                        "TEXT": "Every 2 years",
+                        "VALUE": "24"
+                    },
+                    {
+                        "TEXT": "Every 3 years",
+                        "VALUE": "36"
+                    },
+                    {
+                        "TEXT": "Every 5 years",
+                        "VALUE": "60"
+                    },
+                    {
+                        "TEXT": "Every 7 years",
+                        "VALUE": "84"
+                    },
+                    {
+                        "TEXT": "Every 10 years",
+                        "VALUE": "120"
+                    },
+                    {
+                        "TEXT": "Every 25 years",
+                        "VALUE": "300"
+                    },
+                    {
+                        "TEXT": "Every 100 years",
+                        "VALUE": "1200"
+                    }
+                ],
+                "LABEL": "Patient has an active Statin prescription",
+                "VALUE": "12",
+                "TYPE": "FREQUENCY"
+            },
+            {
+                "ENDFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1263069}{STOPAGE}",
+                    "TITLE": "Maximum Age",
+                    "VALUE": "999"
+                },
+                "STARTFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1263069}{STARTAGE}",
+                    "TITLE": "Minimum Age",
+                    "VALUE": "20"
+                },
+                "TYPE": "AGERANGE"
+            }
+        ],
+        "24226": [
+            {
+                "ENDFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{0}{4}{0}{AGERANGE}{1015552}{STOPAGE}",
+                    "TITLE": "Maximum Age",
+                    "VALUE": "999"
+                },
+                "STARTFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{0}{4}{0}{AGERANGE}{1015552}{STARTAGE}",
+                    "TITLE": "Minimum Age",
+                    "VALUE": "18"
+                },
+                "TYPE": "AGERANGE"
+            }
+        ],
+        "2441": [
+            {
+                "INPUTNAME": "PARAMETER{NUMERATOR}{3}{8}{0}{TIMEFRAME}{1263272}{LOOKBACKMONTHS}",
+                "OPTIONS": [
+                    {
+                        "TEXT": "Every 3 months",
+                        "VALUE": "3"
+                    },
+                    {
+                        "TEXT": "Every 6 months",
+                        "VALUE": "6"
+                    },
+                    {
+                        "TEXT": "Every year",
+                        "VALUE": "12"
+                    },
+                    {
+                        "TEXT": "Every 2 years",
+                        "VALUE": "24"
+                    },
+                    {
+                        "TEXT": "Every 3 years",
+                        "VALUE": "36"
+                    },
+                    {
+                        "TEXT": "Every 5 years",
+                        "VALUE": "60"
+                    },
+                    {
+                        "TEXT": "Every 7 years",
+                        "VALUE": "84"
+                    },
+                    {
+                        "TEXT": "Every 10 years",
+                        "VALUE": "120"
+                    },
+                    {
+                        "TEXT": "Every 25 years",
+                        "VALUE": "300"
+                    },
+                    {
+                        "TEXT": "Every 100 years",
+                        "VALUE": "1200"
+                    }
+                ],
+                "LABEL": "Asthma Assessment Performed",
+                "VALUE": "12",
+                "TYPE": "FREQUENCY"
+            },
+            {
+                "ENDFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1846840}{STOPAGE}",
+                    "TITLE": "Maximum Age",
+                    "VALUE": "999"
+                },
+                "STARTFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1846840}{STARTAGE}",
+                    "TITLE": "Minimum Age",
+                    "VALUE": "5"
+                },
+                "TYPE": "AGERANGE"
+            }
+        ],
+        "2450": [
+            {
+                "INPUTNAME": "PARAMETER{NUMERATOR}{1}{22}{0}{GROUPOPTIONLIST}{1846825}{LOOKBACKMONTHS}",
+                "OPTIONS": [
+                    {
+                        "TEXT": "Every 3 months",
+                        "VALUE": "3"
+                    },
+                    {
+                        "TEXT": "Every 6 months",
+                        "VALUE": "6"
+                    },
+                    {
+                        "TEXT": "Every year",
+                        "VALUE": "12"
+                    },
+                    {
+                        "TEXT": "Every 2 years",
+                        "VALUE": "24"
+                    },
+                    {
+                        "TEXT": "Every 3 years",
+                        "VALUE": "36"
+                    },
+                    {
+                        "TEXT": "Every 5 years",
+                        "VALUE": "60"
+                    },
+                    {
+                        "TEXT": "Every 7 years",
+                        "VALUE": "84"
+                    },
+                    {
+                        "TEXT": "Every 10 years",
+                        "VALUE": "120"
+                    },
+                    {
+                        "TEXT": "Every 25 years",
+                        "VALUE": "300"
+                    },
+                    {
+                        "TEXT": "Every 100 years",
+                        "VALUE": "1200"
+                    }
+                ],
+                "LABEL": "Spirometry test performed",
+                "VALUE": "12",
+                "TYPE": "FREQUENCY"
+            },
+            {
+                "INPUTNAME": "PARAMETER{NUMERATOR}{3}{8}{0}{TIMEFRAME}{1846832}{LOOKBACKMONTHS}",
+                "OPTIONS": [
+                    {
+                        "TEXT": "Every 3 months",
+                        "VALUE": "3"
+                    },
+                    {
+                        "TEXT": "Every 6 months",
+                        "VALUE": "6"
+                    },
+                    {
+                        "TEXT": "Every year",
+                        "VALUE": "12"
+                    },
+                    {
+                        "TEXT": "Every 2 years",
+                        "VALUE": "24"
+                    },
+                    {
+                        "TEXT": "Every 3 years",
+                        "VALUE": "36"
+                    },
+                    {
+                        "TEXT": "Every 5 years",
+                        "VALUE": "60"
+                    },
+                    {
+                        "TEXT": "Every 7 years",
+                        "VALUE": "84"
+                    },
+                    {
+                        "TEXT": "Every 10 years",
+                        "VALUE": "120"
+                    },
+                    {
+                        "TEXT": "Every 25 years",
+                        "VALUE": "300"
+                    },
+                    {
+                        "TEXT": "Every 100 years",
+                        "VALUE": "1200"
+                    }
+                ],
+                "LABEL": "Spirometry test performed",
+                "VALUE": "12",
+                "TYPE": "FREQUENCY"
+            },
+            {
+                "ENDFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1847084}{STOPAGE}",
+                    "TITLE": "Maximum Age",
+                    "VALUE": "999"
+                },
+                "STARTFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1847084}{STARTAGE}",
+                    "TITLE": "Minimum Age",
+                    "VALUE": "6"
+                },
+                "TYPE": "AGERANGE"
+            }
+        ],
+        "77361": [
+            {
+                "ENDFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1263392}{STOPAGE}",
+                    "TITLE": "Maximum Age",
+                    "VALUE": "75"
+                },
+                "STARTFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{1}{4}{0}{AGERANGE}{1263392}{STARTAGE}",
+                    "TITLE": "Minimum Age",
+                    "VALUE": "40"
+                },
+                "TYPE": "AGERANGE"
+            },
+            {
+                "ENDFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{2}{4}{0}{AGERANGE}{1263398}{STOPAGE}",
+                    "TITLE": "Maximum Age",
+                    "VALUE": "39"
+                },
+                "STARTFIELD": {
+                    "INPUTNAME": "PARAMETER{DENOMINATOR}{2}{4}{0}{AGERANGE}{1263398}{STARTAGE}",
+                    "TITLE": "Minimum Age",
+                    "VALUE": "18"
+                },
+                "TYPE": "AGERANGE"
+            }
+        ]
+    }
+}

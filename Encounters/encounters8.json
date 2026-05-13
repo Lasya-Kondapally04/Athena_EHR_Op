@@ -1,0 +1,17 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=encounter_and_chart_security_labels&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&chart_id=32988&department_id=150&patient_id=4406&provider_id=27&specialty_id=001",
+    "encounter_and_chart_security_labels": {
+        "RESULT": {
+            "116866": [
+                {
+                    "DELETEDBYNAME": null,
+                    "SYSTEM": "http:\/\/terminology.hl7.org\/CodeSystem\/v3-ActCode",
+                    "SETBYNAME": "Xcaliber Admin",
+                    "AUTOLOCKEDYN": null,
+                    "CODE": "NOPAT",
+                    "SETDATEUTC": "2025-06-06T05:58:24",
+                    "SETBY": "p-xadmin"
+                }
+            ]
+        }
+    }
+}

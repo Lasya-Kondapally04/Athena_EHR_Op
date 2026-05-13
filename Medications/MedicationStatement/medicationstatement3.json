@@ -1,0 +1,26 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=flowsheet_elements&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&flowsheet_element_type=MEDICATION&fdb_med_name_id=128420&fdb_med_id=&chart_id=32988",
+    "flowsheet_elements": {
+        "elements": [
+            {
+                "ChartEntityIDs": [
+                    {
+                        "FDBGenericMedNameID": "12934",
+                        "MedicationID": "359424"
+                    },
+                    {
+                        "FDBGenericMedicationID": "201097",
+                        "MedicationID": "359401"
+                    }
+                ],
+                "VersionToken": -1,
+                "ChartEntities": [],
+                "FDBGenericMedNameID": "12934",
+                "__CLASS__": "Athena::Chart::Entity::Flowsheet::Element::Medication::FDB::GenericName",
+                "IDSource": "TRANSIENTMEDICATIONELEMENT",
+                "Name": "fexofenadine",
+                "ID": "12934",
+                "Type": "MEDICATION"
+            }
+        ]
+    }
+}

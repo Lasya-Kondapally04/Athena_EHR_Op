@@ -1,0 +1,246 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=result_documents_by_order_type&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&chart_id=32988&clinical_order_type_id=393817",
+    "result_documents_by_order_type": [
+        {
+            "CreatedTimeDate": "2026-02-03T02:48:05",
+            "ResultStatus": "Final",
+            "ChartDisplayDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-01-14T10:30:00-05:00"
+            },
+            "VersionToken": "CLINICALRESULT:98739",
+            "ClinicalResultIDs": [
+                "37207"
+            ],
+            "IsGroupable": true,
+            "DisplayName": "US, echocardiogram, transthoracic, complete",
+            "ClinicalOrderType": {
+                "SnomedCodes": [],
+                "PanelYN": "N",
+                "DefaultAlarmDays": "14",
+                "ClinicalOrderGenusID": "1551",
+                "VersionToken": -1,
+                "IsDiscontinued": false,
+                "__CLASS__": "Athena::Entity::Clinical::OrderType",
+                "IncomingDocumentClass": "IMAGINGRESULT",
+                "Name": "US, echocardiogram, transthoracic, complete",
+                "ID": "393817",
+                "OrderableFlag": "Y",
+                "ClinicalOrderTypeGroup": {
+                    "IsOutpatient": true,
+                    "Ordering": "3",
+                    "VersionToken": -1,
+                    "DocumentClass": "ORDER",
+                    "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+                    "Description": "Imaging",
+                    "Name": "IMAGING",
+                    "ID": "12",
+                    "IsInpatient": false
+                }
+            },
+            "ReviewedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2026-04-08T11:13:40-04:00"
+            },
+            "Observations": [],
+            "ObservationDateTime": "2025-01-14T10:30:00-05:00",
+            "ObservationDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-01-14T10:30:00-05:00"
+            },
+            "DepartmentID": "1",
+            "SourceName": "interface",
+            "Priority": "2",
+            "Status": "CLOSED",
+            "ResultDocumentID": "237115",
+            "Class": "IMAGINGRESULT",
+            "ResultCount": "1",
+            "LastModifiedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2026-04-08T11:13:40-04:00"
+            },
+            "ParentOrderDocumentID": "237115",
+            "ClinicalResultID": "37207",
+            "ClassDescription": "imaging\/diagnostic result",
+            "PayloadType": "RESULT",
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2026-02-03T02:48:05-05:00"
+            },
+            "DiscussedUser": "p-aransing",
+            "ObservationTimeDate": "2025-01-14T10:30:00-05:00",
+            "HasAttachment": false,
+            "Description": "US, echocardiogram, transthoracic, complete",
+            "ID": "237115",
+            "Source": "INTERFACE",
+            "ReviewedUser": "p-aransing",
+            "PatientID": "4406",
+            "DocumentID": "237115",
+            "DiscussedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2026-04-08T11:13:40-04:00"
+            },
+            "__CLASS__": "Athena::Result::Entity::ResultDocument",
+            "LastModifiedUser": "p-aransing",
+            "ChartID": "32988",
+            "Route": "FAX",
+            "CreatedUser": "API-28571"
+        },
+        {
+            "CreatedTimeDate": "2018-03-27T15:28:11",
+            "ChartDisplayDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2018-03-27T15:28:11-04:00"
+            },
+            "VersionToken": "CLINICALRESULT:1512563",
+            "ClinicalResultIDs": [
+                "25790"
+            ],
+            "IsGroupable": true,
+            "DisplayName": "US, echocardiogram, transthoracic, complete",
+            "ClinicalOrderType": {
+                "SnomedCodes": [],
+                "PanelYN": "N",
+                "DefaultAlarmDays": "14",
+                "ClinicalOrderGenusID": "1551",
+                "VersionToken": -1,
+                "IsDiscontinued": false,
+                "__CLASS__": "Athena::Entity::Clinical::OrderType",
+                "IncomingDocumentClass": "IMAGINGRESULT",
+                "Name": "US, echocardiogram, transthoracic, complete",
+                "ID": "393817",
+                "OrderableFlag": "Y",
+                "ClinicalOrderTypeGroup": {
+                    "IsOutpatient": true,
+                    "Ordering": "3",
+                    "VersionToken": -1,
+                    "DocumentClass": "ORDER",
+                    "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+                    "Description": "Imaging",
+                    "Name": "IMAGING",
+                    "ID": "12",
+                    "IsInpatient": false
+                }
+            },
+            "ReviewedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2021-05-14T10:30:36-04:00"
+            },
+            "Observations": [],
+            "ObservationDateTime": null,
+            "DepartmentID": "1",
+            "SourceName": "interface",
+            "Priority": "2",
+            "PatientDOB": "12\/05\/1981",
+            "Status": "CLOSED",
+            "ResultDocumentID": "134575",
+            "Class": "IMAGINGRESULT",
+            "ResultCount": "1",
+            "LastModifiedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2021-05-14T10:30:36-04:00"
+            },
+            "ParentOrderDocumentID": "134575",
+            "ClinicalResultID": "25790",
+            "ClassDescription": "imaging\/diagnostic result",
+            "PayloadType": "RESULT",
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2018-03-27T15:28:11-04:00"
+            },
+            "DiscussedUser": "abellemare",
+            "HasAttachment": false,
+            "Description": "US, echocardiogram, transthoracic, complete",
+            "ID": "134575",
+            "Source": "INTERFACE",
+            "ReviewedUser": "abellemare",
+            "PatientID": "4406",
+            "DocumentID": "134575",
+            "DiscussedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2021-05-14T10:30:36-04:00"
+            },
+            "__CLASS__": "Athena::Result::Entity::ResultDocument",
+            "LastModifiedUser": "abellemare",
+            "ChartID": "32988",
+            "Route": "FAX",
+            "CreatedUser": "API-177"
+        },
+        {
+            "CreatedTimeDate": "2018-01-23T11:42:39",
+            "ChartDisplayDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2018-01-23T11:42:39-05:00"
+            },
+            "VersionToken": "CLINICALRESULT:1467582",
+            "ClinicalResultIDs": [
+                "25568"
+            ],
+            "IsGroupable": true,
+            "DisplayName": "US, echocardiogram, transthoracic, complete",
+            "ClinicalOrderType": {
+                "SnomedCodes": [],
+                "PanelYN": "N",
+                "DefaultAlarmDays": "14",
+                "ClinicalOrderGenusID": "1551",
+                "VersionToken": -1,
+                "IsDiscontinued": false,
+                "__CLASS__": "Athena::Entity::Clinical::OrderType",
+                "IncomingDocumentClass": "IMAGINGRESULT",
+                "Name": "US, echocardiogram, transthoracic, complete",
+                "ID": "393817",
+                "OrderableFlag": "Y",
+                "ClinicalOrderTypeGroup": {
+                    "IsOutpatient": true,
+                    "Ordering": "3",
+                    "VersionToken": -1,
+                    "DocumentClass": "ORDER",
+                    "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+                    "Description": "Imaging",
+                    "Name": "IMAGING",
+                    "ID": "12",
+                    "IsInpatient": false
+                }
+            },
+            "ReviewedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2020-01-29T18:32:47-05:00"
+            },
+            "Observations": [],
+            "ObservationDateTime": null,
+            "DepartmentID": "1",
+            "SourceName": "interface",
+            "Priority": "2",
+            "PatientDOB": "12\/29\/1981",
+            "Status": "CLOSED",
+            "ResultDocumentID": "133233",
+            "Class": "IMAGINGRESULT",
+            "ResultCount": "1",
+            "LastModifiedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2020-01-29T18:32:47-05:00"
+            },
+            "ParentOrderDocumentID": "133233",
+            "ClinicalResultID": "25568",
+            "ClassDescription": "imaging\/diagnostic result",
+            "PayloadType": "RESULT",
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2018-01-23T11:42:39-05:00"
+            },
+            "AlarmDays": "14",
+            "HasAttachment": true,
+            "Description": "US, echocardiogram, transthoracic, complete",
+            "ID": "133233",
+            "Source": "INTERFACE",
+            "ExternalNote": "can you see tihs or action note",
+            "ReviewedUser": "kneuberger",
+            "PatientID": "4406",
+            "DocumentID": "133233",
+            "__CLASS__": "Athena::Result::Entity::ResultDocument",
+            "LastModifiedUser": "kneuberger",
+            "ChartID": "32988",
+            "Route": "FAX",
+            "CreatedUser": "API-177"
+        }
+    ]
+}

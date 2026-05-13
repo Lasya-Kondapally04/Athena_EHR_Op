@@ -1,0 +1,267 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/documents/get_document_audit_history?document_id=239949",
+    "audit_history": [
+        [
+            {
+                "FIELDNAME": "PARENTORDERDOCUMENTID",
+                "CREATEDBY": "p-aransing",
+                "ORGANIZATIONFORNEWVALUE": null,
+                "ORGANIZATIONFOROLDVALUE": null,
+                "NEWVALUE": "239949",
+                "CREATEDBYUSER": "p-aransing",
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "null",
+                "SORTKEY": "2026-04-20 04-30-51,p-aransing",
+                "ORGANIZATIONFORCREATEDBY": "PRACTICE",
+                "CREATED": "4\/20\/2026 4:30:51 AM"
+            },
+            {
+                "FIELDNAME": "RESULTCATEGORYID",
+                "CREATEDBY": "p-aransing",
+                "ORGANIZATIONFORNEWVALUE": null,
+                "ORGANIZATIONFOROLDVALUE": null,
+                "NEWVALUE": "3",
+                "CREATEDBYUSER": "p-aransing",
+                "TABLENAME": "CLINICALRESULT",
+                "OLDVALUE": "null",
+                "SORTKEY": "2026-04-20 04-30-51,p-aransing",
+                "ORGANIZATIONFORCREATEDBY": "PRACTICE",
+                "CREATED": "4\/20\/2026 4:30:51 AM"
+            },
+            {
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "null",
+                "FIELDNAME": "PATIENTID",
+                "SORTKEY": "2026-04-20 04-30-51,p-aransing",
+                "CREATEDBY": "p-aransing",
+                "CREATED": "4\/20\/2026 4:30:51 AM",
+                "CREATEDBYUSER": "p-aransing",
+                "NEWVALUE": "TEST APPOINTMENT, RAM  #4406"
+            },
+            {
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "null",
+                "FIELDNAME": "CHARTID",
+                "SORTKEY": "2026-04-20 04-30-51,p-aransing",
+                "CREATEDBY": "p-aransing",
+                "CREATED": "4\/20\/2026 4:30:51 AM",
+                "CREATEDBYUSER": "p-aransing",
+                "NEWVALUE": "32988"
+            },
+            {
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "null",
+                "FIELDNAME": "ASSIGNEDTO",
+                "SORTKEY": "2026-04-20 04-30-51,p-aransing",
+                "CREATEDBY": "p-aransing",
+                "CREATED": "4\/20\/2026 4:30:51 AM",
+                "CREATEDBYUSER": "p-aransing",
+                "NEWVALUE": "p-aransing"
+            },
+            {
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "null",
+                "FIELDNAME": "SPECIALTYID",
+                "SORTKEY": "2026-04-20 04-30-51,p-aransing",
+                "CREATEDBY": "p-aransing",
+                "CREATED": "4\/20\/2026 4:30:51 AM",
+                "CREATEDBYUSER": "p-aransing",
+                "NEWVALUE": "001"
+            },
+            {
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "null",
+                "FIELDNAME": "DOCUMENTATIONONLYYN",
+                "SORTKEY": "2026-04-20 04-30-51,p-aransing",
+                "CREATEDBY": "p-aransing",
+                "CREATED": "4\/20\/2026 4:30:51 AM",
+                "CREATEDBYUSER": "p-aransing",
+                "NEWVALUE": "N"
+            },
+            {
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "null",
+                "FIELDNAME": "DOCUMENTCLASS",
+                "SORTKEY": "2026-04-20 04-30-51,p-aransing",
+                "CREATEDBY": "p-aransing",
+                "CREATED": "4\/20\/2026 4:30:51 AM",
+                "CREATEDBYUSER": "p-aransing",
+                "NEWVALUE": "LABRESULT"
+            },
+            {
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "null",
+                "FIELDNAME": "ROUTE",
+                "SORTKEY": "2026-04-20 04-30-51,p-aransing",
+                "CREATEDBY": "p-aransing",
+                "CREATED": "4\/20\/2026 4:30:51 AM",
+                "CREATEDBYUSER": "p-aransing",
+                "NEWVALUE": "FAX"
+            },
+            {
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "null",
+                "FIELDNAME": "DEPARTMENTID",
+                "SORTKEY": "2026-04-20 04-30-51,p-aransing",
+                "CREATEDBY": "p-aransing",
+                "CREATED": "4\/20\/2026 4:30:51 AM",
+                "CREATEDBYUSER": "p-aransing",
+                "NEWVALUE": "150"
+            },
+            {
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "null",
+                "FIELDNAME": "PRIORITY",
+                "SORTKEY": "2026-04-20 04-30-51,p-aransing",
+                "CREATEDBY": "p-aransing",
+                "CREATED": "4\/20\/2026 4:30:51 AM",
+                "CREATEDBYUSER": "p-aransing",
+                "NEWVALUE": "2"
+            },
+            {
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "null",
+                "FIELDNAME": "STATUS",
+                "SORTKEY": "2026-04-20 04-30-51,p-aransing",
+                "CREATEDBY": "p-aransing",
+                "CREATED": "4\/20\/2026 4:30:51 AM",
+                "CREATEDBYUSER": "p-aransing",
+                "NEWVALUE": "DATAENTRY"
+            },
+            {
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "null",
+                "FIELDNAME": "OCRPRIORITY",
+                "SORTKEY": "2026-04-20 04-30-51,p-aransing",
+                "CREATEDBY": "p-aransing",
+                "CREATED": "4\/20\/2026 4:30:51 AM",
+                "CREATEDBYUSER": "p-aransing",
+                "NEWVALUE": "0"
+            },
+            {
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "null",
+                "FIELDNAME": "SOURCE",
+                "SORTKEY": "2026-04-20 04-30-51,p-aransing",
+                "CREATEDBY": "p-aransing",
+                "CREATED": "4\/20\/2026 4:30:51 AM",
+                "CREATEDBYUSER": "p-aransing",
+                "NEWVALUE": "UPLOAD"
+            },
+            {
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "null",
+                "FIELDNAME": "PATIENTDOB",
+                "SORTKEY": "2026-04-20 04-30-51,p-aransing",
+                "CREATEDBY": "p-aransing",
+                "CREATED": "4\/20\/2026 4:30:51 AM",
+                "CREATEDBYUSER": "p-aransing",
+                "NEWVALUE": "1994-01-18 00:00:00"
+            },
+            {
+                "TABLENAME": "CLINICALRESULT",
+                "OLDVALUE": "null",
+                "FIELDNAME": "RESULTDOCUMENTID",
+                "SORTKEY": "2026-04-20 04-30-51,p-aransing",
+                "CREATEDBY": "p-aransing",
+                "CREATED": "4\/20\/2026 4:30:51 AM",
+                "CREATEDBYUSER": "p-aransing",
+                "NEWVALUE": "239949"
+            }
+        ],
+        [
+            {
+                "FIELDNAME": "PROVIDERUSERNAME",
+                "CREATEDBY": "ATHENA",
+                "ORGANIZATIONFORNEWVALUE": "ATHENA",
+                "ORGANIZATIONFOROLDVALUE": null,
+                "NEWVALUE": "cbulkley",
+                "CREATEDBYUSER": "ATHENA",
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "null",
+                "SORTKEY": "2026-04-20 04-30-57,ATHENA",
+                "ORGANIZATIONFORCREATEDBY": null,
+                "CREATED": "4\/20\/2026 4:30:57 AM"
+            },
+            {
+                "FIELDNAME": "SPECIALTYID",
+                "CREATEDBY": "ATHENA",
+                "ORGANIZATIONFORNEWVALUE": null,
+                "ORGANIZATIONFOROLDVALUE": null,
+                "NEWVALUE": "001",
+                "CREATEDBYUSER": "ATHENA",
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "null",
+                "SORTKEY": "2026-04-20 04-30-57,ATHENA",
+                "ORGANIZATIONFORCREATEDBY": null,
+                "CREATED": "4\/20\/2026 4:30:57 AM"
+            }
+        ],
+        [
+            {
+                "FIELDNAME": "ASSIGNEDTO",
+                "CREATEDBY": "p-aransing",
+                "ORGANIZATIONFORNEWVALUE": "ATHENA",
+                "ORGANIZATIONFOROLDVALUE": "PRACTICE",
+                "NEWVALUE": "&lt;i&gt;cbulkley&lt;\/i&gt;",
+                "CREATEDBYUSER": "p-aransing",
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "p-aransing",
+                "SORTKEY": "2026-04-20 04-30-57,p-aransing",
+                "ORGANIZATIONFORCREATEDBY": "PRACTICE",
+                "CREATED": "4\/20\/2026 4:30:57 AM"
+            },
+            {
+                "FIELDNAME": "AUTOPUBLISHEXCLUSIONREASON",
+                "CREATEDBY": "p-aransing",
+                "ORGANIZATIONFORNEWVALUE": null,
+                "ORGANIZATIONFOROLDVALUE": null,
+                "NEWVALUE": "Result is not tied to an order",
+                "CREATEDBYUSER": "p-aransing",
+                "TABLENAME": "CLINICALRESULT",
+                "OLDVALUE": "null",
+                "SORTKEY": "2026-04-20 04-30-57,p-aransing",
+                "ORGANIZATIONFORCREATEDBY": "PRACTICE",
+                "CREATED": "4\/20\/2026 4:30:57 AM"
+            },
+            {
+                "FIELDNAME": "SPECIALTYID",
+                "CREATEDBY": "p-aransing",
+                "ORGANIZATIONFORNEWVALUE": null,
+                "ORGANIZATIONFOROLDVALUE": null,
+                "NEWVALUE": "null",
+                "CREATEDBYUSER": "p-aransing",
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "001",
+                "SORTKEY": "2026-04-20 04-30-57,p-aransing",
+                "ORGANIZATIONFORCREATEDBY": "PRACTICE",
+                "CREATED": "4\/20\/2026 4:30:57 AM"
+            },
+            {
+                "FIELDNAME": "SPECIALTYID",
+                "CREATEDBY": "p-aransing",
+                "ORGANIZATIONFORNEWVALUE": null,
+                "ORGANIZATIONFOROLDVALUE": null,
+                "NEWVALUE": "001",
+                "CREATEDBYUSER": "p-aransing",
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "null",
+                "SORTKEY": "2026-04-20 04-30-57,p-aransing",
+                "ORGANIZATIONFORCREATEDBY": "PRACTICE",
+                "CREATED": "4\/20\/2026 4:30:57 AM"
+            },
+            {
+                "FIELDNAME": "STATUS",
+                "CREATEDBY": "p-aransing",
+                "ORGANIZATIONFORNEWVALUE": null,
+                "ORGANIZATIONFOROLDVALUE": null,
+                "NEWVALUE": "REVIEW",
+                "CREATEDBYUSER": "p-aransing",
+                "TABLENAME": "DOCUMENT",
+                "OLDVALUE": "DATAENTRY",
+                "SORTKEY": "2026-04-20 04-30-57,p-aransing",
+                "ORGANIZATIONFORCREATEDBY": "PRACTICE",
+                "CREATED": "4\/20\/2026 4:30:57 AM"
+            }
+        ]
+    ]
+}

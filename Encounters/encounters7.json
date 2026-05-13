@@ -1,0 +1,484 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=historical_clinical_encounters&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&clinical_encounter_ids=48009&clinical_encounter_ids=48010&clinical_encounter_ids=47987&clinical_encounter_ids=47967&clinical_encounter_ids=47858&clinical_encounter_ids=47848&clinical_encounter_ids=47844&clinical_encounter_ids=47826&clinical_encounter_ids=47829&clinical_encounter_ids=47828&clinical_encounter_ids=47825&clinical_encounter_ids=47827&clinical_encounter_ids=47805&clinical_encounter_ids=47804&clinical_encounter_ids=47797&chart_id=32988&department_id=150&patient_id=4406&provider_id=27&specialty_id=001&sort_encounters_by_most_recent=true",
+    "historical_clinical_encounters": [
+        {
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2026-02-10T05:51:36-05:00"
+            },
+            "VersionToken": -1,
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2026-02-10"
+            },
+            "VisitName": "",
+            "IsDocumentedByScribe": false,
+            "ID": "48010",
+            "PatientID": "4406",
+            "Stage": "INTAKE",
+            "DepartmentID": "150",
+            "IsClosing": false,
+            "Status": "TEMP",
+            "EncounterType": "ORDERSONLY",
+            "Diagnoses": [],
+            "__CLASS__": "Athena::Chart::Entity::Encounter",
+            "ChartID": "32988",
+            "Provider": {
+                "DisplayName": "",
+                "__CLASS__": "Athena::Provider::Entity::Provider",
+                "VersionToken": -1
+            },
+            "IsRestrictedNote": false,
+            "CreatedUser": "API-28571"
+        },
+        {
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2026-02-10T05:51:17-05:00"
+            },
+            "VersionToken": -1,
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2026-02-10"
+            },
+            "VisitName": "",
+            "IsDocumentedByScribe": false,
+            "ID": "48009",
+            "PatientID": "4406",
+            "Stage": "INTAKE",
+            "DepartmentID": "150",
+            "IsClosing": false,
+            "Status": "TEMP",
+            "EncounterType": "ORDERSONLY",
+            "Diagnoses": [],
+            "__CLASS__": "Athena::Chart::Entity::Encounter",
+            "ChartID": "32988",
+            "Provider": {
+                "DisplayName": "",
+                "__CLASS__": "Athena::Provider::Entity::Provider",
+                "VersionToken": -1
+            },
+            "IsRestrictedNote": false,
+            "CreatedUser": "API-28571"
+        },
+        {
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2026-02-04T12:36:28-05:00"
+            },
+            "VersionToken": -1,
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2026-02-04"
+            },
+            "VisitName": "",
+            "IsDocumentedByScribe": false,
+            "ID": "47987",
+            "PatientID": "4406",
+            "Stage": "INTAKE",
+            "DepartmentID": "150",
+            "IsClosing": false,
+            "Status": "TEMP",
+            "EncounterType": "ORDERSONLY",
+            "Diagnoses": [],
+            "__CLASS__": "Athena::Chart::Entity::Encounter",
+            "ChartID": "32988",
+            "Provider": {
+                "DisplayName": "",
+                "__CLASS__": "Athena::Provider::Entity::Provider",
+                "VersionToken": -1
+            },
+            "IsRestrictedNote": false,
+            "CreatedUser": "API-28571"
+        },
+        {
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2026-01-30T14:08:51-05:00"
+            },
+            "VersionToken": -1,
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2026-01-30"
+            },
+            "VisitName": "",
+            "IsDocumentedByScribe": false,
+            "ID": "47967",
+            "PatientID": "4406",
+            "Stage": "INTAKE",
+            "DepartmentID": "150",
+            "IsClosing": false,
+            "Status": "TEMP",
+            "EncounterType": "ORDERSONLY",
+            "Diagnoses": [
+                {
+                    "CreatedDate": {
+                        "__CLASS__": "DateTime",
+                        "Date": "2026-01-30T14:35:59-05:00"
+                    },
+                    "VersionToken": "CLINICALENCOUNTERDIAGNOSIS:-1",
+                    "Code": {
+                        "HasLaterality": true,
+                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                        "Description": "Injury of hip region",
+                        "VersionToken": -1,
+                        "CodeSet": "SNOMED",
+                        "Code": "125600009"
+                    },
+                    "Name": "Injury of hip region",
+                    "ID": "24429",
+                    "DiagnosisDate": {
+                        "__CLASS__": "DateTime",
+                        "Date": "2026-01-30"
+                    },
+                    "CreatedTimeStamp": "20260130143559",
+                    "CodeConversionWarning": false,
+                    "Ordering": "0",
+                    "SnomedICDCodes": [],
+                    "EncounterID": "47967",
+                    "IMODiagnosisList": [],
+                    "__CLASS__": "Athena::Encounter::Entity::Diagnosis",
+                    "CreatedUser": "API-28571"
+                }
+            ],
+            "__CLASS__": "Athena::Chart::Entity::Encounter",
+            "ChartID": "32988",
+            "Provider": {
+                "DisplayName": "",
+                "__CLASS__": "Athena::Provider::Entity::Provider",
+                "VersionToken": -1
+            },
+            "IsRestrictedNote": false,
+            "CreatedUser": "API-28571"
+        },
+        {
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-22T09:07:27-05:00"
+            },
+            "VersionToken": -1,
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-22"
+            },
+            "VisitName": "",
+            "IsDocumentedByScribe": false,
+            "ID": "47858",
+            "PatientID": "4406",
+            "Stage": "INTAKE",
+            "DepartmentID": "150",
+            "IsClosing": false,
+            "Status": "TEMP",
+            "EncounterType": "ORDERSONLY",
+            "Diagnoses": [],
+            "__CLASS__": "Athena::Chart::Entity::Encounter",
+            "ChartID": "32988",
+            "Provider": {
+                "DisplayName": "",
+                "__CLASS__": "Athena::Provider::Entity::Provider",
+                "VersionToken": -1
+            },
+            "IsRestrictedNote": false,
+            "CreatedUser": "API-28571"
+        },
+        {
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-17T01:47:31-05:00"
+            },
+            "VersionToken": -1,
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-17"
+            },
+            "VisitName": "",
+            "IsDocumentedByScribe": false,
+            "ID": "47848",
+            "PatientID": "4406",
+            "Stage": "INTAKE",
+            "DepartmentID": "150",
+            "IsClosing": false,
+            "Status": "TEMP",
+            "EncounterType": "ORDERSONLY",
+            "Diagnoses": [],
+            "__CLASS__": "Athena::Chart::Entity::Encounter",
+            "ChartID": "32988",
+            "Provider": {
+                "DisplayName": "",
+                "__CLASS__": "Athena::Provider::Entity::Provider",
+                "VersionToken": -1
+            },
+            "IsRestrictedNote": false,
+            "CreatedUser": "API-28571"
+        },
+        {
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-16T06:22:22-05:00"
+            },
+            "VersionToken": -1,
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-16"
+            },
+            "VisitName": "",
+            "IsDocumentedByScribe": false,
+            "ID": "47844",
+            "PatientID": "4406",
+            "Stage": "INTAKE",
+            "DepartmentID": "150",
+            "IsClosing": false,
+            "Status": "TEMP",
+            "EncounterType": "ORDERSONLY",
+            "Diagnoses": [],
+            "__CLASS__": "Athena::Chart::Entity::Encounter",
+            "ChartID": "32988",
+            "Provider": {
+                "DisplayName": "",
+                "__CLASS__": "Athena::Provider::Entity::Provider",
+                "VersionToken": -1
+            },
+            "IsRestrictedNote": false,
+            "CreatedUser": "API-28571"
+        },
+        {
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-09T09:01:09-05:00"
+            },
+            "VersionToken": -1,
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-09"
+            },
+            "VisitName": "",
+            "IsDocumentedByScribe": false,
+            "ID": "47828",
+            "PatientID": "4406",
+            "Stage": "INTAKE",
+            "DepartmentID": "150",
+            "IsClosing": false,
+            "Status": "TEMP",
+            "EncounterType": "ORDERSONLY",
+            "Diagnoses": [],
+            "__CLASS__": "Athena::Chart::Entity::Encounter",
+            "ChartID": "32988",
+            "Provider": {
+                "DisplayName": "",
+                "__CLASS__": "Athena::Provider::Entity::Provider",
+                "VersionToken": -1
+            },
+            "IsRestrictedNote": false,
+            "CreatedUser": "API-28571"
+        },
+        {
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-09T08:59:28-05:00"
+            },
+            "VersionToken": -1,
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-09"
+            },
+            "VisitName": "",
+            "IsDocumentedByScribe": false,
+            "ID": "47827",
+            "PatientID": "4406",
+            "Stage": "INTAKE",
+            "DepartmentID": "150",
+            "IsClosing": false,
+            "Status": "TEMP",
+            "EncounterType": "ORDERSONLY",
+            "Diagnoses": [],
+            "__CLASS__": "Athena::Chart::Entity::Encounter",
+            "ChartID": "32988",
+            "Provider": {
+                "DisplayName": "",
+                "__CLASS__": "Athena::Provider::Entity::Provider",
+                "VersionToken": -1
+            },
+            "IsRestrictedNote": false,
+            "CreatedUser": "API-28571"
+        },
+        {
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-09T08:49:33-05:00"
+            },
+            "VersionToken": -1,
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-09"
+            },
+            "VisitName": "",
+            "IsDocumentedByScribe": false,
+            "ID": "47826",
+            "PatientID": "4406",
+            "Stage": "INTAKE",
+            "DepartmentID": "150",
+            "IsClosing": false,
+            "Status": "TEMP",
+            "EncounterType": "ORDERSONLY",
+            "Diagnoses": [],
+            "__CLASS__": "Athena::Chart::Entity::Encounter",
+            "ChartID": "32988",
+            "Provider": {
+                "DisplayName": "",
+                "__CLASS__": "Athena::Provider::Entity::Provider",
+                "VersionToken": -1
+            },
+            "IsRestrictedNote": false,
+            "CreatedUser": "API-28571"
+        },
+        {
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-09T08:14:47-05:00"
+            },
+            "VersionToken": -1,
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-09"
+            },
+            "VisitName": "",
+            "IsDocumentedByScribe": false,
+            "ID": "47825",
+            "PatientID": "4406",
+            "Stage": "INTAKE",
+            "DepartmentID": "150",
+            "IsClosing": false,
+            "Status": "TEMP",
+            "EncounterType": "ORDERSONLY",
+            "Diagnoses": [],
+            "__CLASS__": "Athena::Chart::Entity::Encounter",
+            "ChartID": "32988",
+            "Provider": {
+                "DisplayName": "",
+                "__CLASS__": "Athena::Provider::Entity::Provider",
+                "VersionToken": -1
+            },
+            "IsRestrictedNote": false,
+            "CreatedUser": "API-28571"
+        },
+        {
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-09T09:01:47-05:00"
+            },
+            "VersionToken": -1,
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-09"
+            },
+            "VisitName": "",
+            "IsDocumentedByScribe": false,
+            "ID": "47829",
+            "PatientID": "4406",
+            "Stage": "INTAKE",
+            "DepartmentID": "150",
+            "IsClosing": false,
+            "Status": "TEMP",
+            "EncounterType": "ORDERSONLY",
+            "Diagnoses": [],
+            "__CLASS__": "Athena::Chart::Entity::Encounter",
+            "ChartID": "32988",
+            "Provider": {
+                "DisplayName": "",
+                "__CLASS__": "Athena::Provider::Entity::Provider",
+                "VersionToken": -1
+            },
+            "IsRestrictedNote": false,
+            "CreatedUser": "API-28571"
+        },
+        {
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-04T03:51:39-05:00"
+            },
+            "VersionToken": -1,
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-04"
+            },
+            "VisitName": "",
+            "IsDocumentedByScribe": false,
+            "ID": "47804",
+            "PatientID": "4406",
+            "Stage": "INTAKE",
+            "DepartmentID": "150",
+            "IsClosing": false,
+            "Status": "TEMP",
+            "EncounterType": "ORDERSONLY",
+            "Diagnoses": [],
+            "__CLASS__": "Athena::Chart::Entity::Encounter",
+            "ChartID": "32988",
+            "Provider": {
+                "DisplayName": "",
+                "__CLASS__": "Athena::Provider::Entity::Provider",
+                "VersionToken": -1
+            },
+            "IsRestrictedNote": false,
+            "CreatedUser": "API-28571"
+        },
+        {
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-04T03:54:05-05:00"
+            },
+            "VersionToken": -1,
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-04"
+            },
+            "VisitName": "",
+            "IsDocumentedByScribe": false,
+            "ID": "47805",
+            "PatientID": "4406",
+            "Stage": "INTAKE",
+            "DepartmentID": "150",
+            "IsClosing": false,
+            "Status": "TEMP",
+            "EncounterType": "ORDERSONLY",
+            "Diagnoses": [],
+            "__CLASS__": "Athena::Chart::Entity::Encounter",
+            "ChartID": "32988",
+            "Provider": {
+                "DisplayName": "",
+                "__CLASS__": "Athena::Provider::Entity::Provider",
+                "VersionToken": -1
+            },
+            "IsRestrictedNote": false,
+            "CreatedUser": "API-28571"
+        },
+        {
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-01T03:08:49-05:00"
+            },
+            "VersionToken": -1,
+            "EncounterDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-12-01"
+            },
+            "VisitName": "",
+            "IsDocumentedByScribe": false,
+            "ID": "47797",
+            "PatientID": "4406",
+            "Stage": "INTAKE",
+            "DepartmentID": "1",
+            "IsClosing": false,
+            "Status": "TEMP",
+            "EncounterType": "ORDERSONLY",
+            "Diagnoses": [],
+            "__CLASS__": "Athena::Chart::Entity::Encounter",
+            "ChartID": "32988",
+            "Provider": {
+                "DisplayName": "",
+                "__CLASS__": "Athena::Provider::Entity::Provider",
+                "VersionToken": -1
+            },
+            "IsRestrictedNote": false,
+            "CreatedUser": "API-28571"
+        }
+    ]
+}

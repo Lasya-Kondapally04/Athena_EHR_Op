@@ -1,0 +1,3581 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=alarm_days_options&sources=confidentiality_reason_options&sources=universal_text_area_conf&sources=allergy_severities&sources=allergy_reactions&sources=all_dosage_routes&sources=all_dosage_units&sources=medication_stop_reasons&sources=dosage_frequencies&sources=dosage_additional_instructions&sources=clinical_order_type_groups&sources=states&sources=departments&sources=place_of_service_options&sources=speechtotext_vendor&sources=administer_sites&sources=vaccine_routes&sources=vaccine_not_given_reasons&sources=all_relations&sources=implant_options&sources=pregnancy_options&sources=created_macros&request_priority=X&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988",
+    "dosage_additional_instructions": [
+        "before meal(s)",
+        "with meal(s)",
+        "after meal(s)",
+        "in the morning",
+        "at noon",
+        "in the evening",
+        "at dinner",
+        "at bedtime",
+        "around the clock",
+        "as directed",
+        "as needed"
+    ],
+    "vaccine_not_given_reasons": [
+        {
+            "DESCRIPTION": "Patient Declined",
+            "REASONS": [
+                {
+                    "DESCRIPTION": "Parental decision",
+                    "CODE": "00",
+                    "ID": "2",
+                    "ORDERNOTDONEREASONID": "73"
+                },
+                {
+                    "DESCRIPTION": "Patient decision",
+                    "CODE": "03",
+                    "ID": "1",
+                    "ORDERNOTDONEREASONID": "70"
+                },
+                {
+                    "DESCRIPTION": "Religious exemption",
+                    "CODE": "01",
+                    "ID": "3",
+                    "ORDERNOTDONEREASONID": "24"
+                }
+            ]
+        },
+        {
+            "DESCRIPTION": "Provider Deferred",
+            "REASONS": [
+                {
+                    "DESCRIPTION": "Contraindication",
+                    "REASONS": [
+                        {
+                            "DESCRIPTION": "Allergy - 2-phenoxyethanol",
+                            "CODE": "VXC17",
+                            "ID": "27",
+                            "ORDERNOTDONEREASONID": "102"
+                        },
+                        {
+                            "DESCRIPTION": "Allergy - aluminum",
+                            "CODE": "402306009",
+                            "ID": "28",
+                            "ORDERNOTDONEREASONID": "103"
+                        },
+                        {
+                            "DESCRIPTION": "Allergy - baker's yeast",
+                            "CODE": "VXC18",
+                            "ID": "29",
+                            "ORDERNOTDONEREASONID": "104"
+                        },
+                        {
+                            "DESCRIPTION": "Allergy - eggs",
+                            "CODE": "91930004",
+                            "ID": "30",
+                            "ORDERNOTDONEREASONID": "105"
+                        },
+                        {
+                            "DESCRIPTION": "Allergy - gelatin",
+                            "CODE": "294847001",
+                            "ID": "37",
+                            "ORDERNOTDONEREASONID": "112"
+                        },
+                        {
+                            "DESCRIPTION": "Allergy - latex",
+                            "CODE": "300916003",
+                            "ID": "41",
+                            "ORDERNOTDONEREASONID": "116"
+                        },
+                        {
+                            "DESCRIPTION": "Allergy - neomycin",
+                            "CODE": "294468006",
+                            "ID": "42",
+                            "ORDERNOTDONEREASONID": "117"
+                        },
+                        {
+                            "DESCRIPTION": "Allergy - polymyxin B",
+                            "CODE": "294530006",
+                            "ID": "44",
+                            "ORDERNOTDONEREASONID": "119"
+                        },
+                        {
+                            "DESCRIPTION": "Allergy - rodent or neural",
+                            "CODE": "VXC30",
+                            "ID": "26",
+                            "ORDERNOTDONEREASONID": "101"
+                        },
+                        {
+                            "DESCRIPTION": "Allergy - streptomycin",
+                            "CODE": "294466005",
+                            "ID": "46",
+                            "ORDERNOTDONEREASONID": "121"
+                        },
+                        {
+                            "DESCRIPTION": "Allergy - thimerosal",
+                            "CODE": "VXC19",
+                            "ID": "32",
+                            "ORDERNOTDONEREASONID": "107"
+                        },
+                        {
+                            "DESCRIPTION": "Allergy - vaccine or components",
+                            "CODE": "VXC20",
+                            "ID": "31",
+                            "ORDERNOTDONEREASONID": "106"
+                        },
+                        {
+                            "DESCRIPTION": "Arthus Reaction to tetanus",
+                            "CODE": "VXC25",
+                            "ID": "39",
+                            "ORDERNOTDONEREASONID": "114"
+                        },
+                        {
+                            "DESCRIPTION": "Chronic disease",
+                            "CODE": "27624003",
+                            "ID": "33",
+                            "ORDERNOTDONEREASONID": "108"
+                        },
+                        {
+                            "DESCRIPTION": "Encephalopathy with previous DTP\/DTaP",
+                            "CODE": "VXC22",
+                            "ID": "36",
+                            "ORDERNOTDONEREASONID": "111"
+                        },
+                        {
+                            "DESCRIPTION": "Fever",
+                            "CODE": "VXC23",
+                            "ID": "35",
+                            "ORDERNOTDONEREASONID": "110"
+                        },
+                        {
+                            "DESCRIPTION": "Illness",
+                            "CODE": "VXC24",
+                            "ID": "34",
+                            "ORDERNOTDONEREASONID": "109"
+                        },
+                        {
+                            "DESCRIPTION": "Immunodeficiency",
+                            "CODE": "VXC27",
+                            "ID": "40",
+                            "ORDERNOTDONEREASONID": "115"
+                        },
+                        {
+                            "DESCRIPTION": "Intussusception history",
+                            "CODE": "VXC21",
+                            "ID": "45",
+                            "ORDERNOTDONEREASONID": "120"
+                        },
+                        {
+                            "DESCRIPTION": "Neurologic disorder",
+                            "CODE": "VXC26",
+                            "ID": "48",
+                            "ORDERNOTDONEREASONID": "123"
+                        },
+                        {
+                            "DESCRIPTION": "Pregnant",
+                            "CODE": "77386006",
+                            "ID": "43",
+                            "ORDERNOTDONEREASONID": "118"
+                        },
+                        {
+                            "DESCRIPTION": "Purpura",
+                            "CODE": "161461006",
+                            "ID": "38",
+                            "ORDERNOTDONEREASONID": "113"
+                        },
+                        {
+                            "DESCRIPTION": "Thrombocytopenic",
+                            "CODE": "302215000",
+                            "ID": "47",
+                            "ORDERNOTDONEREASONID": "122"
+                        }
+                    ]
+                },
+                {
+                    "DESCRIPTION": "Immunity presumed",
+                    "REASONS": [
+                        {
+                            "DESCRIPTION": "Acute poliomyelitis",
+                            "CODE": "398102009",
+                            "ID": "58",
+                            "ORDERNOTDONEREASONID": "133"
+                        },
+                        {
+                            "DESCRIPTION": "Anthrax",
+                            "CODE": "409498004",
+                            "ID": "59",
+                            "ORDERNOTDONEREASONID": "134"
+                        },
+                        {
+                            "DESCRIPTION": "Diphtheria",
+                            "CODE": "397428000",
+                            "ID": "60",
+                            "ORDERNOTDONEREASONID": "135"
+                        },
+                        {
+                            "DESCRIPTION": "Haemophilus influenzae",
+                            "CODE": "91428005",
+                            "ID": "62",
+                            "ORDERNOTDONEREASONID": "137"
+                        },
+                        {
+                            "DESCRIPTION": "Human papilloma virus",
+                            "CODE": "240532009",
+                            "ID": "63",
+                            "ORDERNOTDONEREASONID": "138"
+                        },
+                        {
+                            "DESCRIPTION": "Influenza",
+                            "CODE": "6142004",
+                            "ID": "64",
+                            "ORDERNOTDONEREASONID": "139"
+                        },
+                        {
+                            "DESCRIPTION": "Japanese encephalitis",
+                            "CODE": "52947006",
+                            "ID": "65",
+                            "ORDERNOTDONEREASONID": "140"
+                        },
+                        {
+                            "DESCRIPTION": "Measles",
+                            "CODE": "14189004",
+                            "ID": "66",
+                            "ORDERNOTDONEREASONID": "141"
+                        },
+                        {
+                            "DESCRIPTION": "Meningococcal",
+                            "CODE": "23511006",
+                            "ID": "67",
+                            "ORDERNOTDONEREASONID": "142"
+                        },
+                        {
+                            "DESCRIPTION": "Mumps",
+                            "CODE": "36989005",
+                            "ID": "68",
+                            "ORDERNOTDONEREASONID": "143"
+                        },
+                        {
+                            "DESCRIPTION": "Pertussis",
+                            "CODE": "27836007",
+                            "ID": "69",
+                            "ORDERNOTDONEREASONID": "144"
+                        },
+                        {
+                            "DESCRIPTION": "Rabies",
+                            "CODE": "14168008",
+                            "ID": "70",
+                            "ORDERNOTDONEREASONID": "145"
+                        },
+                        {
+                            "DESCRIPTION": "Rotavirus",
+                            "CODE": "18624000",
+                            "ID": "61",
+                            "ORDERNOTDONEREASONID": "136"
+                        },
+                        {
+                            "DESCRIPTION": "Rubella",
+                            "CODE": "36653000",
+                            "ID": "71",
+                            "ORDERNOTDONEREASONID": "146"
+                        },
+                        {
+                            "DESCRIPTION": "Tetanus",
+                            "CODE": "76902006",
+                            "ID": "72",
+                            "ORDERNOTDONEREASONID": "147"
+                        },
+                        {
+                            "DESCRIPTION": "Type A hepatitis",
+                            "CODE": "40468003",
+                            "ID": "77",
+                            "ORDERNOTDONEREASONID": "152"
+                        },
+                        {
+                            "DESCRIPTION": "Type B hepatitis",
+                            "CODE": "66071002",
+                            "ID": "73",
+                            "ORDERNOTDONEREASONID": "148"
+                        },
+                        {
+                            "DESCRIPTION": "Typhoid fever",
+                            "CODE": "4834000",
+                            "ID": "74",
+                            "ORDERNOTDONEREASONID": "149"
+                        },
+                        {
+                            "DESCRIPTION": "Vaccinia",
+                            "CODE": "111852003",
+                            "ID": "75",
+                            "ORDERNOTDONEREASONID": "150"
+                        },
+                        {
+                            "DESCRIPTION": "Varicella",
+                            "CODE": "38907003",
+                            "ID": "76",
+                            "ORDERNOTDONEREASONID": "151"
+                        },
+                        {
+                            "DESCRIPTION": "Yellow fever",
+                            "CODE": "16541001",
+                            "ID": "78",
+                            "ORDERNOTDONEREASONID": "153"
+                        }
+                    ]
+                },
+                {
+                    "DESCRIPTION": "Immunity serologic",
+                    "REASONS": [
+                        {
+                            "DESCRIPTION": "Hepatitis A",
+                            "CODE": "278971009",
+                            "ID": "79",
+                            "ORDERNOTDONEREASONID": "154"
+                        },
+                        {
+                            "DESCRIPTION": "Hepatitis B",
+                            "CODE": "271511000",
+                            "ID": "80",
+                            "ORDERNOTDONEREASONID": "155"
+                        },
+                        {
+                            "DESCRIPTION": "Measles",
+                            "CODE": "371111005",
+                            "ID": "81",
+                            "ORDERNOTDONEREASONID": "156"
+                        },
+                        {
+                            "DESCRIPTION": "Mumps",
+                            "CODE": "371112003",
+                            "ID": "82",
+                            "ORDERNOTDONEREASONID": "157"
+                        },
+                        {
+                            "DESCRIPTION": "Rubella",
+                            "CODE": "278968001",
+                            "ID": "83",
+                            "ORDERNOTDONEREASONID": "158"
+                        },
+                        {
+                            "DESCRIPTION": "Varicella",
+                            "CODE": "371113008",
+                            "ID": "84",
+                            "ORDERNOTDONEREASONID": "159"
+                        }
+                    ]
+                },
+                {
+                    "DESCRIPTION": "Not available",
+                    "CODE": "309846006",
+                    "ID": "101",
+                    "ORDERNOTDONEREASONID": "181"
+                },
+                {
+                    "DESCRIPTION": "Reaction",
+                    "REASONS": [
+                        {
+                            "DESCRIPTION": "Anaphylaxis",
+                            "CODE": "39579001",
+                            "ID": "49",
+                            "ORDERNOTDONEREASONID": "124"
+                        },
+                        {
+                            "DESCRIPTION": "Brain disorder",
+                            "CODE": "81308009",
+                            "ID": "52",
+                            "ORDERNOTDONEREASONID": "127"
+                        },
+                        {
+                            "DESCRIPTION": "Fever - 48 hrs of dose",
+                            "CODE": "VXC12",
+                            "ID": "53",
+                            "ORDERNOTDONEREASONID": "128"
+                        },
+                        {
+                            "DESCRIPTION": "Guillain-Barre - 6 weeks of dose",
+                            "CODE": "VXC13",
+                            "ID": "54",
+                            "ORDERNOTDONEREASONID": "129"
+                        },
+                        {
+                            "DESCRIPTION": "Intussusception  - 30 days of dose",
+                            "CODE": "VXC15",
+                            "ID": "55",
+                            "ORDERNOTDONEREASONID": "130"
+                        },
+                        {
+                            "DESCRIPTION": "Persistent crying - 48hrs of dose",
+                            "CODE": "VXC9",
+                            "ID": "56",
+                            "ORDERNOTDONEREASONID": "131"
+                        },
+                        {
+                            "DESCRIPTION": "Rash - 14 days of dose",
+                            "CODE": "VXC14",
+                            "ID": "57",
+                            "ORDERNOTDONEREASONID": "132"
+                        },
+                        {
+                            "DESCRIPTION": "Shock - 48 hrs of dose",
+                            "CODE": "VXC10",
+                            "ID": "50",
+                            "ORDERNOTDONEREASONID": "125"
+                        },
+                        {
+                            "DESCRIPTION": "Shock - 72 hrs of dose",
+                            "CODE": "VXC11",
+                            "ID": "51",
+                            "ORDERNOTDONEREASONID": "126"
+                        }
+                    ]
+                },
+                {
+                    "DESCRIPTION": "Special indication",
+                    "REASONS": [
+                        {
+                            "DESCRIPTION": "Rabies exposed last 10 days",
+                            "CODE": "VXC7",
+                            "ID": "86",
+                            "ORDERNOTDONEREASONID": "161"
+                        },
+                        {
+                            "DESCRIPTION": "Special risk",
+                            "CODE": "VXC8",
+                            "ID": "85",
+                            "ORDERNOTDONEREASONID": "160"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "all_relations": {
+        "MOTHER": "Mother",
+        "FATHER": "Father",
+        "BROTHER": "Brother",
+        "SISTER": "Sister",
+        "SON": "Son",
+        "DAUGHTER": "Daughter",
+        "MATERNALGRANDMOTHER": "Maternal Grandmother",
+        "MATERNALGRANDFATHER": "Maternal Grandfather",
+        "PATERNALGRANDMOTHER": "Paternal Grandmother",
+        "PATERNALGRANDFATHER": "Paternal Grandfather",
+        "MATERNALAUNT": "Maternal Aunt",
+        "MATERNALUNCLE": "Maternal Uncle",
+        "PATERNALAUNT": "Paternal Aunt",
+        "PATERNALUNCLE": "Paternal Uncle",
+        "UNSPECIFIED": "Unspecified Relation"
+    },
+    "dosage_frequencies": [
+        {
+            "ID": "every day",
+            "NAME": "every day",
+            "QUANTITYPERDAY": "1"
+        },
+        {
+            "ID": "2 times a day",
+            "NAME": "twice a day",
+            "QUANTITYPERDAY": "2"
+        },
+        {
+            "ID": "3 times a day",
+            "NAME": "3 times a day",
+            "QUANTITYPERDAY": "3"
+        },
+        {
+            "ID": "4 times a day",
+            "NAME": "4 times a day",
+            "QUANTITYPERDAY": "4"
+        },
+        {
+            "ID": "5 times a day",
+            "NAME": "5 times a day",
+            "QUANTITYPERDAY": "5"
+        },
+        {
+            "ID": "6 times a day",
+            "NAME": "6 times a day",
+            "QUANTITYPERDAY": "6"
+        },
+        {
+            "ID": "every 2 day",
+            "NAME": "every other day",
+            "QUANTITYPERDAY": ".5"
+        },
+        {
+            "ID": "every hour",
+            "NAME": "every hour",
+            "QUANTITYPERDAY": "24"
+        },
+        {
+            "ID": "every 2 hours",
+            "NAME": "every 2 hours",
+            "QUANTITYPERDAY": "12"
+        },
+        {
+            "ID": "every 3 hours",
+            "NAME": "every 3 hours",
+            "QUANTITYPERDAY": "8"
+        },
+        {
+            "ID": "every 3-4 hours",
+            "NAME": "every 3-4 hours",
+            "QUANTITYPERDAY": "8"
+        },
+        {
+            "ID": "every 4 hours",
+            "NAME": "every 4 hours",
+            "QUANTITYPERDAY": "6"
+        },
+        {
+            "ID": "every 4-6 hours",
+            "NAME": "every 4-6 hours",
+            "QUANTITYPERDAY": "6"
+        },
+        {
+            "ID": "every 6 hours",
+            "NAME": "every 6 hours",
+            "QUANTITYPERDAY": "4"
+        },
+        {
+            "ID": "every 6-8 hours",
+            "NAME": "every 6-8 hours",
+            "QUANTITYPERDAY": "4"
+        },
+        {
+            "ID": "every 8 hours",
+            "NAME": "every 8 hours",
+            "QUANTITYPERDAY": "3"
+        },
+        {
+            "ID": "every 12 hours",
+            "NAME": "every 12 hours",
+            "QUANTITYPERDAY": "2"
+        },
+        {
+            "ID": "every 24 hours",
+            "NAME": "every 24 hours",
+            "QUANTITYPERDAY": "1"
+        },
+        {
+            "ID": "every 72 hours",
+            "NAME": "every 72 hours",
+            "QUANTITYPERDAY": ".333333"
+        },
+        {
+            "ID": "every week",
+            "NAME": "every week",
+            "QUANTITYPERDAY": ".142857"
+        },
+        {
+            "ID": "2 times a week",
+            "NAME": "twice a week",
+            "QUANTITYPERDAY": ".285714"
+        },
+        {
+            "ID": "3 times a week",
+            "NAME": "3 times a week",
+            "QUANTITYPERDAY": ".428571"
+        },
+        {
+            "ID": "every 2 weeks",
+            "NAME": "every 2 weeks",
+            "QUANTITYPERDAY": ".071428"
+        },
+        {
+            "ID": "every 3 weeks",
+            "NAME": "every 3 weeks",
+            "QUANTITYPERDAY": ".047619"
+        },
+        {
+            "ID": "every 4 weeks",
+            "NAME": "every 4 weeks",
+            "QUANTITYPERDAY": ".035714"
+        },
+        {
+            "ID": "every month",
+            "NAME": "every month",
+            "QUANTITYPERDAY": ".033333"
+        },
+        {
+            "ID": "every 2 months",
+            "NAME": "every 2 months",
+            "QUANTITYPERDAY": ".016666"
+        },
+        {
+            "ID": "every 3 months",
+            "NAME": "every 3 months",
+            "QUANTITYPERDAY": ".011111"
+        },
+        {
+            "ID": "as needed",
+            "NAME": "as needed",
+            "QUANTITYPERDAY": "0"
+        }
+    ],
+    "pregnancy_options": {
+        "DELIVERYSITEOPTIONS": [
+            {
+                "ID": null,
+                "NAME": null
+            },
+            {
+                "ID": "192",
+                "NAME": "Pediatrics"
+            },
+            {
+                "ID": "194",
+                "NAME": "South Dental"
+            },
+            {
+                "ID": "196",
+                "NAME": "demo-test"
+            },
+            {
+                "ID": "202",
+                "NAME": "merlin testing"
+            },
+            {
+                "ID": "198",
+                "NAME": "Cardiology Holzer"
+            },
+            {
+                "ID": "199",
+                "NAME": "interactly"
+            },
+            {
+                "ID": "201",
+                "NAME": "Interactly Radiology"
+            },
+            {
+                "ID": "200",
+                "NAME": "Interactly Cardiology"
+            },
+            {
+                "ID": "150",
+                "NAME": "7 Hills Department"
+            },
+            {
+                "ID": "1",
+                "NAME": "Rome Office"
+            },
+            {
+                "ID": "21",
+                "NAME": "Cartersville Office"
+            },
+            {
+                "ID": "62",
+                "NAME": "Blackstone Valley"
+            },
+            {
+                "ID": "147",
+                "NAME": "Ohio Health Primary Care Pickerington"
+            },
+            {
+                "ID": "169",
+                "NAME": "16.11 Testing"
+            },
+            {
+                "ID": "171",
+                "NAME": "FL Dept"
+            },
+            {
+                "ID": "181",
+                "NAME": "Grantville Family Care"
+            },
+            {
+                "ID": "183",
+                "NAME": "Michigan Test"
+            },
+            {
+                "ID": "184",
+                "NAME": "Angela L Crawford"
+            },
+            {
+                "ID": "143",
+                "NAME": "5 Peaks"
+            },
+            {
+                "ID": "148",
+                "NAME": "Testing Dept"
+            },
+            {
+                "ID": "149",
+                "NAME": "Psych OP"
+            },
+            {
+                "ID": "157",
+                "NAME": "CommOpsDevTest"
+            },
+            {
+                "ID": "159",
+                "NAME": "Lombardi Office"
+            },
+            {
+                "ID": "161",
+                "NAME": "West Branch"
+            },
+            {
+                "ID": "162",
+                "NAME": "MAIN OFFICE - NY"
+            },
+            {
+                "ID": "163",
+                "NAME": "athenaHealth"
+            },
+            {
+                "ID": "164",
+                "NAME": "Internal Medical Associates"
+            },
+            {
+                "ID": "180",
+                "NAME": "HCP TIN"
+            },
+            {
+                "ID": "142",
+                "NAME": "Test Department"
+            },
+            {
+                "ID": "145",
+                "NAME": "Belfast Test"
+            },
+            {
+                "ID": "155",
+                "NAME": "Kate Smith Internalist"
+            },
+            {
+                "ID": "158",
+                "NAME": "Test Belfast"
+            },
+            {
+                "ID": "160",
+                "NAME": "Heisman Office"
+            },
+            {
+                "ID": "165",
+                "NAME": "test"
+            },
+            {
+                "ID": "166",
+                "NAME": "Training Dept"
+            },
+            {
+                "ID": "185",
+                "NAME": "Ashley's Department"
+            },
+            {
+                "ID": "82",
+                "NAME": "6 Hills"
+            },
+            {
+                "ID": "144",
+                "NAME": "NonCommunicator"
+            },
+            {
+                "ID": "168",
+                "NAME": "Springfield Medical"
+            },
+            {
+                "ID": "170",
+                "NAME": "athenaclinic"
+            },
+            {
+                "ID": "172",
+                "NAME": "Lana Dept Name"
+            }
+        ],
+        "DELIVERYTYPEOPTIONS": [],
+        "ANESTHESIAOPTIONS": [
+            "",
+            "General",
+            "Local",
+            "Regional-Epidural",
+            "Regional-Spinal",
+            "None"
+        ],
+        "OUTCOMEOPTIONS": [
+            {
+                "ID": "7",
+                "NAME": "Full Term Birth"
+            },
+            {
+                "ID": "8",
+                "NAME": "Premature Birth"
+            },
+            {
+                "ID": "9",
+                "NAME": "Abortion, Induced"
+            },
+            {
+                "ID": "10",
+                "NAME": "Abortion, Spontaneous"
+            },
+            {
+                "ID": "11",
+                "NAME": "Ectopic"
+            },
+            {
+                "ID": "12",
+                "NAME": "Fetal Demise"
+            }
+        ]
+    },
+    "place_of_service_options": [
+        {
+            "ID": "42",
+            "NAME": "AMBULANCE - AIR OR WATER"
+        },
+        {
+            "ID": "41",
+            "NAME": "AMBULANCE - LAND"
+        },
+        {
+            "ID": "24",
+            "NAME": "AMBULATORY SURGICAL CENTER"
+        },
+        {
+            "ID": "13",
+            "NAME": "ASSISTED LIVING"
+        },
+        {
+            "ID": "25",
+            "NAME": "BIRTHING CENTER"
+        },
+        {
+            "ID": "53",
+            "NAME": "COMMUNITY MENTAL HEALTH CENTER"
+        },
+        {
+            "ID": "61",
+            "NAME": "COMPREHENSIVE INPATIENT REHABILITATION FACILITY"
+        },
+        {
+            "ID": "62",
+            "NAME": "COMPREHENSIVE OUTPATIENT REHABILITATION FACILITY"
+        },
+        {
+            "ID": "33",
+            "NAME": "CUSTODIAL CARE FACILITY"
+        },
+        {
+            "ID": "23",
+            "NAME": "EMERGENCY ROOM"
+        },
+        {
+            "ID": "65",
+            "NAME": "END STAGE RENAL DISEASE TREATMENT FACILITY"
+        },
+        {
+            "ID": "50",
+            "NAME": "FEDERALLY QUALIFIED HEALTH CENTER"
+        },
+        {
+            "ID": "14",
+            "NAME": "GROUP HOME"
+        },
+        {
+            "ID": "04",
+            "NAME": "HOMELESS SHELTER"
+        },
+        {
+            "ID": "34",
+            "NAME": "HOSPICE"
+        },
+        {
+            "ID": "49",
+            "NAME": "INDEPENDENT CLINIC"
+        },
+        {
+            "ID": "81",
+            "NAME": "INDEPENDENT LABORATORY"
+        },
+        {
+            "ID": "05",
+            "NAME": "INDIAN HEALTH SERVICE FREE-STANDING FACILITY"
+        },
+        {
+            "ID": "06",
+            "NAME": "INDIAN HEALTH SERVICE PROVIDER-BASED FACILITY"
+        },
+        {
+            "ID": "21",
+            "NAME": "INPATIENT HOSPITAL"
+        },
+        {
+            "ID": "54",
+            "NAME": "INTERMEDIATE CARE FACILITY\/INDIVIDUALS WITH INTELLECTUAL DISABILITIES"
+        },
+        {
+            "ID": "60",
+            "NAME": "MASS IMMUNIZATION CENTER"
+        },
+        {
+            "ID": "26",
+            "NAME": "MILITARY TREATMENT FACILITY"
+        },
+        {
+            "ID": "15",
+            "NAME": "MOBILE UNIT"
+        },
+        {
+            "ID": "58",
+            "NAME": "NON-RESIDENTIAL OPIOID TREATMENT FACILITY"
+        },
+        {
+            "ID": "57",
+            "NAME": "NON-RESIDENTIAL SUBSTANCE ABUSE TREATMENT FACILITY"
+        },
+        {
+            "ID": "32",
+            "NAME": "NURSING FACILITY"
+        },
+        {
+            "ID": "19",
+            "NAME": "OFF CAMPUS-OUTPATIENT HOSPITAL"
+        },
+        {
+            "ID": "11",
+            "NAME": "OFFICE"
+        },
+        {
+            "ID": "22",
+            "NAME": "ON CAMPUS-OUTPATIENT HOSPITAL"
+        },
+        {
+            "ID": "99",
+            "NAME": "OTHER UNLISTED FACILITY"
+        },
+        {
+            "ID": "27",
+            "NAME": "OUTREACH SITE\/STREET"
+        },
+        {
+            "ID": "12",
+            "NAME": "PATIENTS HOME"
+        },
+        {
+            "ID": "01",
+            "NAME": "PHARMACY"
+        },
+        {
+            "ID": "18",
+            "NAME": "PLACE OF EMPLOYMENT-WORKSITE"
+        },
+        {
+            "ID": "09",
+            "NAME": "PRISON - CORRECTIONAL FACILITY"
+        },
+        {
+            "ID": "66",
+            "NAME": "PROGRAMS OF ALL-INCLUSIVE CARE FOR THE ELDERLY (PACE) CENTER"
+        },
+        {
+            "ID": "51",
+            "NAME": "PSYCHIATRIC FACILITY - INPATIENT"
+        },
+        {
+            "ID": "52",
+            "NAME": "PSYCHIATRIC FACILITY - OUTPATIENT"
+        },
+        {
+            "ID": "56",
+            "NAME": "PSYCHIATRIC FACILITY - RESIDENTIAL TREATMENT CENTER"
+        },
+        {
+            "ID": "55",
+            "NAME": "RESIDENTIAL SUBSTANCE ABUSE TREATMENT FACILITY"
+        },
+        {
+            "ID": "72",
+            "NAME": "RURAL HEALTH CLINIC"
+        },
+        {
+            "ID": "03",
+            "NAME": "SCHOOL"
+        },
+        {
+            "ID": "31",
+            "NAME": "SKILLED NURSING FACILITY"
+        },
+        {
+            "ID": "71",
+            "NAME": "STATE OR LOCAL PUBLIC HEALTH CLINIC"
+        },
+        {
+            "ID": "02",
+            "NAME": "TELEHEALTH - OTHER"
+        },
+        {
+            "ID": "10",
+            "NAME": "TELEHEALTH - PATIENTS HOME"
+        },
+        {
+            "ID": "16",
+            "NAME": "TEMPORARY LODGING"
+        },
+        {
+            "ID": "07",
+            "NAME": "TRIBAL 638 FREE-STANDING FACILITY"
+        },
+        {
+            "ID": "08",
+            "NAME": "TRIBAL 638 PROVIDER-BASED FACILITY"
+        },
+        {
+            "ID": "46",
+            "NAME": "UNASSIGNED"
+        },
+        {
+            "ID": "20",
+            "NAME": "URGENT CARE FACILITY"
+        },
+        {
+            "ID": "17",
+            "NAME": "WALK-IN RETAIL HEALTH CLINIC"
+        }
+    ],
+    "departments": [
+        {
+            "ID": "1",
+            "NAME": "Rome Office"
+        },
+        {
+            "ID": "21",
+            "NAME": "Cartersville Office"
+        },
+        {
+            "ID": "42",
+            "NAME": "Christopher Currier"
+        },
+        {
+            "ID": "62",
+            "NAME": "Blackstone Valley"
+        },
+        {
+            "ID": "82",
+            "NAME": "6 Hills"
+        },
+        {
+            "ID": "102",
+            "NAME": "CARDIOLOGY"
+        },
+        {
+            "ID": "122",
+            "NAME": "autoContract - 7 Hills Medical Group"
+        },
+        {
+            "ID": "142",
+            "NAME": "Test Department"
+        },
+        {
+            "ID": "143",
+            "NAME": "5 Peaks"
+        },
+        {
+            "ID": "144",
+            "NAME": "NonCommunicator"
+        },
+        {
+            "ID": "145",
+            "NAME": "Belfast Test"
+        },
+        {
+            "ID": "147",
+            "NAME": "Ohio Health Primary Care Pickerington"
+        },
+        {
+            "ID": "148",
+            "NAME": "Testing Dept"
+        },
+        {
+            "ID": "149",
+            "NAME": "Psych OP"
+        },
+        {
+            "ID": "150",
+            "NAME": "7 Hills Department"
+        },
+        {
+            "ID": "155",
+            "NAME": "Kate Smith Internalist"
+        },
+        {
+            "ID": "157",
+            "NAME": "CommOpsDevTest"
+        },
+        {
+            "ID": "158",
+            "NAME": "Test Belfast"
+        },
+        {
+            "ID": "159",
+            "NAME": "Lombardi Office"
+        },
+        {
+            "ID": "160",
+            "NAME": "Heisman Office"
+        },
+        {
+            "ID": "161",
+            "NAME": "West Branch"
+        },
+        {
+            "ID": "162",
+            "NAME": "MAIN OFFICE - NY"
+        },
+        {
+            "ID": "163",
+            "NAME": "athenaHealth"
+        },
+        {
+            "ID": "164",
+            "NAME": "Internal Medical Associates"
+        },
+        {
+            "ID": "165",
+            "NAME": "test"
+        },
+        {
+            "ID": "166",
+            "NAME": "Training Dept"
+        },
+        {
+            "ID": "168",
+            "NAME": "Springfield Medical"
+        },
+        {
+            "ID": "169",
+            "NAME": "16.11 Testing"
+        },
+        {
+            "ID": "170",
+            "NAME": "athenaclinic"
+        },
+        {
+            "ID": "171",
+            "NAME": "FL Dept"
+        },
+        {
+            "ID": "172",
+            "NAME": "Lana Dept Name"
+        },
+        {
+            "ID": "173",
+            "NAME": "autoECommerce - 6 Hills Medical Associates"
+        },
+        {
+            "ID": "174",
+            "NAME": "autoECommerce - BLACKSTONE VALLEY MEDICAL GROUP"
+        },
+        {
+            "ID": "175",
+            "NAME": "autoECommerce - kate PG"
+        },
+        {
+            "ID": "176",
+            "NAME": "autoContract - 6 Hills Medical Associates"
+        },
+        {
+            "ID": "177",
+            "NAME": "autoContract - BLACKSTONE VALLEY MEDICAL GROUP"
+        },
+        {
+            "ID": "178",
+            "NAME": "autoContract - kate PG"
+        },
+        {
+            "ID": "180",
+            "NAME": "HCP TIN"
+        },
+        {
+            "ID": "181",
+            "NAME": "Grantville Family Care"
+        },
+        {
+            "ID": "183",
+            "NAME": "Michigan Test"
+        },
+        {
+            "ID": "184",
+            "NAME": "Angela L Crawford"
+        },
+        {
+            "ID": "185",
+            "NAME": "Ashley's Department"
+        },
+        {
+            "ID": "189",
+            "NAME": "autoTransact - 6 Hills Medical Associates"
+        },
+        {
+            "ID": "190",
+            "NAME": "autoTransact - 7 Hills Medical Group"
+        },
+        {
+            "ID": "191",
+            "NAME": "autoTransact - kate PG"
+        },
+        {
+            "ID": "192",
+            "NAME": "Pediatrics"
+        },
+        {
+            "ID": "193",
+            "NAME": "autoECommerce - 7 Hills Medical Group"
+        },
+        {
+            "ID": "194",
+            "NAME": "South Dental"
+        },
+        {
+            "ID": "196",
+            "NAME": "demo-test"
+        },
+        {
+            "ID": "198",
+            "NAME": "Cardiology Holzer"
+        },
+        {
+            "ID": "199",
+            "NAME": "interactly"
+        },
+        {
+            "ID": "200",
+            "NAME": "Interactly Cardiology"
+        },
+        {
+            "ID": "201",
+            "NAME": "Interactly Radiology"
+        },
+        {
+            "ID": "202",
+            "NAME": "merlin testing"
+        }
+    ],
+    "vaccine_routes": [
+        {
+            "GCRT2": "BC",
+            "DESCRIPTION": "Buccal",
+            "ID": "161"
+        },
+        {
+            "GCRT2": "DT",
+            "DESCRIPTION": "Dental",
+            "ID": "170"
+        },
+        {
+            "GCRT2": "EP",
+            "DESCRIPTION": "Epidural",
+            "ID": "171"
+        },
+        {
+            "GCRT2": "HE",
+            "DESCRIPTION": "Hemodialysis",
+            "ID": "277"
+        },
+        {
+            "GCRT2": "IL",
+            "DESCRIPTION": "Implant",
+            "ID": "270"
+        },
+        {
+            "GCRT2": "IN",
+            "DESCRIPTION": "In Vitro",
+            "ID": "347"
+        },
+        {
+            "GCRT2": "IH",
+            "DESCRIPTION": "Inhalation",
+            "ID": "183"
+        },
+        {
+            "GCRT2": "IJ",
+            "DESCRIPTION": "Injection",
+            "ID": "330"
+        },
+        {
+            "GCRT2": "IA",
+            "DESCRIPTION": "Intra-arterial",
+            "ID": "190"
+        },
+        {
+            "GCRT2": "IU",
+            "DESCRIPTION": "Intra-articular",
+            "ID": "177"
+        },
+        {
+            "GCRT2": "IC",
+            "DESCRIPTION": "Intra-cavernosal",
+            "ID": "179"
+        },
+        {
+            "GCRT2": "UR",
+            "DESCRIPTION": "Intra-urethral",
+            "ID": "193"
+        },
+        {
+            "GCRT2": "ID",
+            "DESCRIPTION": "Intradermal",
+            "ID": "180"
+        },
+        {
+            "GCRT2": "IM",
+            "DESCRIPTION": "Intramuscular",
+            "ID": "186"
+        },
+        {
+            "GCRT2": "NS",
+            "DESCRIPTION": "Intranasal",
+            "ID": "187"
+        },
+        {
+            "GCRT2": "IO",
+            "DESCRIPTION": "Intraocular",
+            "ID": "188"
+        },
+        {
+            "GCRT2": "IP",
+            "DESCRIPTION": "Intraperitoneal",
+            "ID": "189"
+        },
+        {
+            "GCRT2": "IX",
+            "DESCRIPTION": "Intrapleural",
+            "ID": "185"
+        },
+        {
+            "GCRT2": "IT",
+            "DESCRIPTION": "Intrathecal",
+            "ID": "192"
+        },
+        {
+            "GCRT2": "IY",
+            "DESCRIPTION": "Intrauterine",
+            "ID": "228"
+        },
+        {
+            "GCRT2": "IV",
+            "DESCRIPTION": "Intravenous",
+            "ID": "194"
+        },
+        {
+            "GCRT2": "IS",
+            "DESCRIPTION": "Intravesical",
+            "ID": "229"
+        },
+        {
+            "GCRT2": "IR",
+            "DESCRIPTION": "Irrigation",
+            "ID": "182"
+        },
+        {
+            "GCRT2": "MC",
+            "DESCRIPTION": "Miscellaneous",
+            "ID": "201"
+        },
+        {
+            "GCRT2": "MM",
+            "DESCRIPTION": "Mucous Membrane",
+            "ID": "202"
+        },
+        {
+            "GCRT2": "OP",
+            "DESCRIPTION": "Ophthalmic",
+            "ID": "207"
+        },
+        {
+            "GCRT2": "PO",
+            "DESCRIPTION": "Oral",
+            "ID": "212"
+        },
+        {
+            "GCRT2": "OT",
+            "DESCRIPTION": "Otic",
+            "ID": "172"
+        },
+        {
+            "GCRT2": "PF",
+            "DESCRIPTION": "Perfusion",
+            "ID": "211"
+        },
+        {
+            "GCRT2": "RC",
+            "DESCRIPTION": "Rectal",
+            "ID": "215"
+        },
+        {
+            "GCRT2": "SQ",
+            "DESCRIPTION": "Subcutaneous",
+            "ID": "217"
+        },
+        {
+            "GCRT2": "SL",
+            "DESCRIPTION": "Sublingual",
+            "ID": "219"
+        },
+        {
+            "GCRT2": "TP",
+            "DESCRIPTION": "Topical",
+            "ID": "225"
+        },
+        {
+            "GCRT2": "TD",
+            "DESCRIPTION": "Transdermal",
+            "ID": "223"
+        },
+        {
+            "GCRT2": "TL",
+            "DESCRIPTION": "Translingual",
+            "ID": "224"
+        },
+        {
+            "GCRT2": "VG",
+            "DESCRIPTION": "Vaginal",
+            "ID": "230"
+        }
+    ],
+    "states": [
+        "AL",
+        "AK",
+        "AZ",
+        "AR",
+        "CA",
+        "CO",
+        "CT",
+        "DE",
+        "FL",
+        "GA",
+        "HI",
+        "ID",
+        "IL",
+        "IN",
+        "IA",
+        "KS",
+        "KY",
+        "LA",
+        "ME",
+        "MD",
+        "MA",
+        "MI",
+        "MN",
+        "MS",
+        "MO",
+        "MT",
+        "NE",
+        "NV",
+        "NH",
+        "NJ",
+        "NM",
+        "NY",
+        "NC",
+        "ND",
+        "OH",
+        "OK",
+        "OR",
+        "PA",
+        "RI",
+        "SC",
+        "SD",
+        "TN",
+        "TX",
+        "UT",
+        "VT",
+        "VA",
+        "WA",
+        "WV",
+        "WI",
+        "WY",
+        "AS",
+        "DC",
+        "FM",
+        "GU",
+        "MH",
+        "MP",
+        "PW",
+        "PR",
+        "VI",
+        "AE",
+        "AA",
+        "AP"
+    ],
+    "confidentiality_reason_options": {
+        "LOCKINGREASONOPTIONS": [
+            {
+                "SHORTDESCRIPTION": "",
+                "DESCRIPTION": "NONE",
+                "SORTORDER": 0,
+                "REASONCODE": "NONE"
+            },
+            {
+                "SHORTDESCRIPTION": "risk of harm",
+                "DESCRIPTION": "Risk of harm to patient or others",
+                "SORTORDER": 1,
+                "REASONCODE": "RISKOFHARMTOPATIENT"
+            },
+            {
+                "SHORTDESCRIPTION": "state\/federal law",
+                "DESCRIPTION": "State\/federal law prohibits disclosure",
+                "SORTORDER": 2,
+                "REASONCODE": "STATEFEDERALLAW"
+            },
+            {
+                "SHORTDESCRIPTION": "patient request",
+                "DESCRIPTION": "Patient request",
+                "SORTORDER": 4,
+                "REASONCODE": "PATIENTREQUEST"
+            },
+            {
+                "SHORTDESCRIPTION": "other",
+                "DESCRIPTION": "Other (please specify)",
+                "SORTORDER": 5,
+                "REASONCODE": "OTHER"
+            },
+            {
+                "SHORTDESCRIPTION": "internal policy",
+                "DESCRIPTION": "Internal policy\/procedure prohibits disclosure",
+                "SORTORDER": 3,
+                "REASONCODE": "INTERNALPOLICY"
+            }
+        ],
+        "UNLOCKINGREASONOPTIONS": [
+            {
+                "SHORTDESCRIPTION": "",
+                "DESCRIPTION": "NONE",
+                "SORTORDER": 0,
+                "REASONCODE": "NONE"
+            },
+            {
+                "SHORTDESCRIPTION": "",
+                "DESCRIPTION": "Other (please specify)",
+                "SORTORDER": 3,
+                "REASONCODE": "OTHER"
+            },
+            {
+                "SHORTDESCRIPTION": "",
+                "DESCRIPTION": "Reason for confidentiality no longer applies",
+                "SORTORDER": 1,
+                "REASONCODE": "REASONNOLONGERAPPLIES"
+            },
+            {
+                "SHORTDESCRIPTION": "",
+                "DESCRIPTION": "Locked in error",
+                "SORTORDER": 2,
+                "REASONCODE": "LOCKEDINERROR"
+            }
+        ]
+    },
+    "allergy_severities": [
+        {
+            "__CLASS__": "Athena::Entity::Code::SNOMED",
+            "Description": "mild",
+            "VersionToken": -1,
+            "CodeSet": "SNOMED",
+            "Code": "255604002"
+        },
+        {
+            "__CLASS__": "Athena::Entity::Code::SNOMED",
+            "Description": "mild to moderate",
+            "VersionToken": -1,
+            "CodeSet": "SNOMED",
+            "Code": "371923003"
+        },
+        {
+            "__CLASS__": "Athena::Entity::Code::SNOMED",
+            "Description": "moderate severity",
+            "VersionToken": -1,
+            "CodeSet": "SNOMED",
+            "Code": "6736007"
+        },
+        {
+            "__CLASS__": "Athena::Entity::Code::SNOMED",
+            "Description": "moderate to severe",
+            "VersionToken": -1,
+            "CodeSet": "SNOMED",
+            "Code": "371924009"
+        },
+        {
+            "__CLASS__": "Athena::Entity::Code::SNOMED",
+            "Description": "severe",
+            "VersionToken": -1,
+            "CodeSet": "SNOMED",
+            "Code": "24484000"
+        },
+        {
+            "__CLASS__": "Athena::Entity::Code::SNOMED",
+            "Description": "fatal",
+            "VersionToken": -1,
+            "CodeSet": "SNOMED",
+            "Code": "399166001"
+        }
+    ],
+    "alarm_days_options": "<option value='' >no alarm<option value='1' >1 day<option value='2' >2 days<option value='3' >3 days<option value='4' >4 days<option value='5' >5 days<option value='6' >6 days<option value='7' >1 week<option value='14' >2 weeks<option value='21' >3 weeks<option value='28' >4 weeks<option value='35' >5 weeks<option value='42' >6 weeks<option value='49' >7 weeks<option value='56' >8 weeks<option value='90' >3 months<option value='120' >4 months<option value='150' >5 months<option value='180' >6 months<option value='210' >7 months<option value='240' >8 months<option value='270' >9 months<option value='300' >10 months<option value='330' >11 months<option value='360' >1 year",
+    "administer_sites": [
+        {
+            "ID": "357",
+            "NAME": "Abdomen, LLQ",
+            "DELETED": null
+        },
+        {
+            "ID": "358",
+            "NAME": "Abdomen, LUQ",
+            "DELETED": null
+        },
+        {
+            "ID": "359",
+            "NAME": "Abdomen, RLQ",
+            "DELETED": null
+        },
+        {
+            "ID": "360",
+            "NAME": "Abdomen, RUQ",
+            "DELETED": null
+        },
+        {
+            "ID": "297",
+            "NAME": "Ankle, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "298",
+            "NAME": "Ankle, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "361",
+            "NAME": "Antecubital Fossa, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "362",
+            "NAME": "Antecubital Fossa, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "363",
+            "NAME": "Arm, Left Upper",
+            "DELETED": null
+        },
+        {
+            "ID": "364",
+            "NAME": "Arm, Right Upper",
+            "DELETED": null
+        },
+        {
+            "ID": "13",
+            "NAME": "Bladder",
+            "DELETED": null
+        },
+        {
+            "ID": "7",
+            "NAME": "Buttock, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "8",
+            "NAME": "Buttock, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "134",
+            "NAME": "Chest Port, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "135",
+            "NAME": "Chest Port, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "41",
+            "NAME": "Chest, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "42",
+            "NAME": "Chest, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "113",
+            "NAME": "Deltoid, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "114",
+            "NAME": "Deltoid, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "233",
+            "NAME": "Dorsogluteal, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "234",
+            "NAME": "Dorsogluteal, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "365",
+            "NAME": "Ear, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "366",
+            "NAME": "Ear, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "273",
+            "NAME": "Elbow, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "274",
+            "NAME": "Elbow, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "367",
+            "NAME": "Eye, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "368",
+            "NAME": "Eye, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "45",
+            "NAME": "Foot, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "46",
+            "NAME": "Foot, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "37",
+            "NAME": "Forearm, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "38",
+            "NAME": "Forearm, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "39",
+            "NAME": "Hand, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "40",
+            "NAME": "Hand, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "254",
+            "NAME": "Hip, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "253",
+            "NAME": "Hip, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "11",
+            "NAME": "Knee, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "12",
+            "NAME": "Knee, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "6",
+            "NAME": "Nasal",
+            "DELETED": null
+        },
+        {
+            "ID": "5",
+            "NAME": "Oral",
+            "DELETED": null
+        },
+        {
+            "ID": "93",
+            "NAME": "Other",
+            "DELETED": null
+        },
+        {
+            "ID": "236",
+            "NAME": "Penis",
+            "DELETED": null
+        },
+        {
+            "ID": "133",
+            "NAME": "Rectal",
+            "DELETED": null
+        },
+        {
+            "ID": "369",
+            "NAME": "Rectus femoris, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "370",
+            "NAME": "Rectus femoris, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "235",
+            "NAME": "Scrotum",
+            "DELETED": null
+        },
+        {
+            "ID": "214",
+            "NAME": "Shoulder, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "213",
+            "NAME": "Shoulder, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "3",
+            "NAME": "Thigh, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "4",
+            "NAME": "Thigh, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "275",
+            "NAME": "Thumb, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "276",
+            "NAME": "Thumb, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "377",
+            "NAME": "Uterus",
+            "DELETED": null
+        },
+        {
+            "ID": "371",
+            "NAME": "Vaginal",
+            "DELETED": null
+        },
+        {
+            "ID": "153",
+            "NAME": "Vastus Lateralis, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "154",
+            "NAME": "Vastus Lateralis, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "193",
+            "NAME": "Ventrogluteal, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "194",
+            "NAME": "Ventrogluteal, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "9",
+            "NAME": "Wrist, Left",
+            "DELETED": null
+        },
+        {
+            "ID": "10",
+            "NAME": "Wrist, Right",
+            "DELETED": null
+        },
+        {
+            "ID": "1",
+            "NAME": "Left Arm",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "2",
+            "NAME": "Right Arm",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "34",
+            "NAME": "Right Upper Arm",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "33",
+            "NAME": "Left Upper Arm",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "43",
+            "NAME": "Left Leg",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "44",
+            "NAME": "Right Leg",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "35",
+            "NAME": "Left ACF",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "36",
+            "NAME": "Right ACF",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "53",
+            "NAME": "Abdomen",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "76",
+            "NAME": "Left Lower Thigh",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "74",
+            "NAME": "Right Lower Thigh",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "75",
+            "NAME": "Left Upper Thigh",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "73",
+            "NAME": "Right Upper Thigh",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "116",
+            "NAME": "Right Upper Extremity",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "117",
+            "NAME": "Left Lower Extremity",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "115",
+            "NAME": "Left Upper Extremity",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "118",
+            "NAME": "Right Lower Extremity",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "173",
+            "NAME": "INTRA ARTICULAR JOINT",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "215",
+            "NAME": "Left Abdomen",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "216",
+            "NAME": "Right Abdomen",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "277",
+            "NAME": "Bilateral Knee",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "318",
+            "NAME": "Left Upper Eyelid",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "319",
+            "NAME": "Right Lower Eyelid",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "317",
+            "NAME": "Right Upper Eyelid",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "320",
+            "NAME": "Left Lower Eyelid",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "397",
+            "NAME": null,
+            "DELETED": "10\/17\/2019"
+        },
+        {
+            "ID": "299",
+            "NAME": "Bilateral Thigh",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "337",
+            "NAME": "Left Flank",
+            "DELETED": "05\/08\/2020"
+        },
+        {
+            "ID": "338",
+            "NAME": "Right Flank",
+            "DELETED": "05\/08\/2020"
+        }
+    ],
+    "universal_text_area_conf": {
+        "macros_role_refactor": "",
+        "metrics_throttling": {
+            "spellCheck:addToUserDictionary": "10",
+            "spellCheck:selectSuggestion": "10",
+            "fallback_mmodal": "10000",
+            "spellCheck:openContextMenu": "10",
+            "initialRender": "10",
+            "fallback_chrome_extension": "10000",
+            "spellCheck:renderEditor": "10",
+            "fallback_ie": "10000",
+            "macros:select": "10",
+            "fallback_nimbus_failure": "10",
+            "spellCheck:batchRequests": "10",
+            "fallback_dme": "10000",
+            "UTA_render_success": "10000"
+        }
+    },
+    "created_macros": {},
+    "clinical_order_type_groups": [
+        {
+            "IsOutpatient": true,
+            "Ordering": "1",
+            "VersionToken": -1,
+            "DocumentClass": "PRESCRIPTION",
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Prescription",
+            "Name": "PRESCRIPTION",
+            "ID": "10",
+            "IsInpatient": false
+        },
+        {
+            "IsOutpatient": true,
+            "Ordering": "2",
+            "VersionToken": -1,
+            "DocumentClass": "ORDER",
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Lab",
+            "Name": "LAB",
+            "ID": "11",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": true,
+            "Ordering": "3",
+            "VersionToken": -1,
+            "DocumentClass": "ORDER",
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Imaging",
+            "Name": "IMAGING",
+            "ID": "12",
+            "IsInpatient": false
+        },
+        {
+            "IsOutpatient": true,
+            "Ordering": "4",
+            "VersionToken": -1,
+            "DocumentClass": "ORDER",
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Consult",
+            "Name": "CONSULT",
+            "ID": "14",
+            "IsInpatient": false
+        },
+        {
+            "IsOutpatient": true,
+            "Ordering": "5",
+            "VersionToken": -1,
+            "DocumentClass": "PATIENTINFO",
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Patient Info",
+            "Name": "PATIENTINFO",
+            "ID": "15",
+            "IsInpatient": false
+        },
+        {
+            "IsOutpatient": true,
+            "Ordering": "6",
+            "VersionToken": -1,
+            "DocumentClass": "ORDER",
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Procedure",
+            "Name": "PROCEDURE",
+            "ID": "17",
+            "IsInpatient": false
+        },
+        {
+            "IsOutpatient": true,
+            "Ordering": "7",
+            "VersionToken": -1,
+            "DocumentClass": "SURGERY",
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Surgery",
+            "Name": "SURGERY",
+            "ID": "18",
+            "IsInpatient": false
+        },
+        {
+            "IsOutpatient": true,
+            "Ordering": "8",
+            "VersionToken": -1,
+            "DocumentClass": "DME",
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "DME",
+            "Name": "DME",
+            "ID": "19",
+            "IsInpatient": false
+        },
+        {
+            "IsOutpatient": true,
+            "Ordering": "9",
+            "VersionToken": -1,
+            "DocumentClass": "VACCINE",
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Vaccine",
+            "Name": "VACCINE",
+            "ID": "16",
+            "IsInpatient": false
+        },
+        {
+            "IsOutpatient": true,
+            "Ordering": "10",
+            "VersionToken": -1,
+            "DocumentClass": "ORDER",
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Other",
+            "Name": "OTHER",
+            "ID": "13",
+            "IsInpatient": false
+        },
+        {
+            "IsOutpatient": true,
+            "Ordering": "11",
+            "VersionToken": -1,
+            "DocumentClass": "CORRECTIVELENS",
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Glasses",
+            "Name": "GLASSES",
+            "ID": "160",
+            "IsInpatient": false
+        },
+        {
+            "IsOutpatient": true,
+            "Ordering": "12",
+            "VersionToken": -1,
+            "DocumentClass": "CORRECTIVELENS",
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Contact Lenses",
+            "Name": "CONTACTLENSES",
+            "ID": "161",
+            "IsInpatient": false
+        },
+        {
+            "IsOutpatient": true,
+            "Ordering": "13",
+            "VersionToken": -1,
+            "DocumentClass": "PRESCRIPTION",
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Prior Authorization",
+            "Name": "PRIOR_AUTHORIZATION",
+            "ID": "200",
+            "IsInpatient": false
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Anesthesia",
+            "Name": "INPT_ANESTHESIA",
+            "ID": "180",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Inpatient Code Status",
+            "Name": "INPT_CODE_STATUS",
+            "ID": "260",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Consult",
+            "Name": "INPT_CONSULT",
+            "ID": "80",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Diet",
+            "Name": "INPT_DIET",
+            "ID": "120",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Imaging",
+            "Name": "INPT_IMAGING",
+            "ID": "61",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "IV Fluid",
+            "Name": "INPT_IVFLUID",
+            "ID": "101",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "IV Medication",
+            "Name": "INPT_IVMED",
+            "ID": "100",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Inpatient Lab",
+            "Name": "INPT_LAB",
+            "ID": "60",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Nursing",
+            "Name": "INPT_NURSING_REPEATING",
+            "ID": "83",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Inpatient Patient Controlled Analgesia",
+            "Name": "INPT_PCA",
+            "ID": "220",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Medication",
+            "Name": "INPT_PRESCRIPTION",
+            "ID": "20",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Procedure",
+            "Name": "INPT_PROCEDURE",
+            "ID": "81",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Respiratory",
+            "Name": "INPT_RESPIRATORY",
+            "ID": "181",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Restraint",
+            "Name": "INPT_RESTRAINT",
+            "ID": "280",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Therapy",
+            "Name": "INPT_THERAPY",
+            "ID": "140",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Therapy Note",
+            "Name": "INPT_THERAPY_NOTE",
+            "ID": "141",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Inpatient Vaccine",
+            "Name": "INPT_VACCINE",
+            "ID": "240",
+            "IsInpatient": true
+        },
+        {
+            "IsOutpatient": false,
+            "VersionToken": -1,
+            "DocumentClass": "LETTER",
+            "__CLASS__": "Athena::Entity::Clinical::OrderTypeGroup",
+            "Description": "Testing note",
+            "Name": "TESTING NOTE",
+            "ID": "380",
+            "IsInpatient": false
+        }
+    ],
+    "speechtotext_vendor": 0,
+    "implant_options": [
+        {
+            "DISPLAYNAME": "Cardiac pacemaker",
+            "SNOMEDCODE": "14106009"
+        },
+        {
+            "DISPLAYNAME": "Intravenous cardiac pacemaker system",
+            "SNOMEDCODE": "360127006"
+        },
+        {
+            "DISPLAYNAME": "Intravenous triggered cardiac pacemaker system",
+            "SNOMEDCODE": "360128001"
+        },
+        {
+            "DISPLAYNAME": "Permanent cardiac pacemaker, device",
+            "SNOMEDCODE": "424921004"
+        },
+        {
+            "DISPLAYNAME": "Cardiac transvenous pacemaker",
+            "SNOMEDCODE": "56961003"
+        }
+    ],
+    "medication_stop_reasons": [
+        {
+            "ID": "5",
+            "NAME": "adverse reaction"
+        },
+        {
+            "ID": "12",
+            "NAME": "duplicate"
+        },
+        {
+            "ID": "1",
+            "NAME": "end of course"
+        },
+        {
+            "ID": "4",
+            "NAME": "ineffective"
+        },
+        {
+            "ID": "13",
+            "NAME": "not applicable to patient"
+        },
+        {
+            "ID": "9",
+            "NAME": "not in stock"
+        },
+        {
+            "ID": "7",
+            "NAME": "off formulary"
+        },
+        {
+            "ID": "6",
+            "NAME": "patient refused"
+        },
+        {
+            "ID": "11",
+            "NAME": "stopped by PCP"
+        },
+        {
+            "ID": "10",
+            "NAME": "stopped by specialist"
+        },
+        {
+            "ID": "32",
+            "NAME": "therapeutic change"
+        },
+        {
+            "ID": "3",
+            "NAME": "too expensive"
+        },
+        {
+            "ID": "8",
+            "NAME": "unknown"
+        }
+    ],
+    "allergy_reactions": {
+        "bradycardia": "149",
+        "swelling": "289",
+        "dry mouth": "249",
+        "tachycardia": "150",
+        "respiratory distress": "13",
+        "nausea": "14",
+        "eye redness": "169",
+        "hives": "7",
+        "eye swelling": "131",
+        "numbness\/tingling\/paresthesia": "372",
+        "stevens-johnson syndrome": "137",
+        "irregular heart rate": "10",
+        "encephalitis": "229",
+        "confusion": "130",
+        "rash": "1",
+        "decreased blood pressure": "135",
+        "muscle cramps": "309",
+        "arthralgia (joint pain)": "69",
+        "anaphylaxis": "2",
+        "itching": "3",
+        "anxiety": "369",
+        "insomnia": "190",
+        "hallucinations": "141",
+        "vomiting": "15",
+        "chest pain": "9",
+        "hair loss": "269",
+        "other": "89",
+        "seizure": "189",
+        "wheezing": "140",
+        "photosensitivity": "12",
+        "suicidal thoughts": "373",
+        "cough": "8",
+        "headache": "17",
+        "agitation": "370",
+        "diarrhea": "11",
+        "edema": "109",
+        "fever": "133",
+        "abdominal pain": "129",
+        "dyspnea": "329",
+        "lightheadedness": "136",
+        "mood change\/worsened mood": "371",
+        "myalgias (muscle pain)": "29",
+        "dizziness": "16",
+        "gi bleed": "151",
+        "vasculitis": "139",
+        "facial swelling": "132",
+        "ringing in ears": "138",
+        "angioedema": "49",
+        "flushing": "134",
+        "cardiac arrest": "349",
+        "palpitations": "209"
+    },
+    "all_dosage_units": [
+        {
+            "Abbreviation": "1.73 m2",
+            "ID": "831"
+        },
+        {
+            "Abbreviation": "appful",
+            "ID": "377"
+        },
+        {
+            "Abbreviation": "applic",
+            "ID": "374"
+        },
+        {
+            "Abbreviation": "billion cells",
+            "ID": "916"
+        },
+        {
+            "Abbreviation": "Bq",
+            "ID": "810"
+        },
+        {
+            "Abbreviation": "cap",
+            "ID": "132"
+        },
+        {
+            "Abbreviation": "cap\/kg",
+            "ID": "877"
+        },
+        {
+            "Abbreviation": "cap\/m2",
+            "ID": "874"
+        },
+        {
+            "Abbreviation": "caplet",
+            "ID": "148"
+        },
+        {
+            "Abbreviation": "cell",
+            "ID": "798"
+        },
+        {
+            "Abbreviation": "cells\/kg",
+            "ID": "885"
+        },
+        {
+            "Abbreviation": "CF unit",
+            "ID": "827"
+        },
+        {
+            "Abbreviation": "cm",
+            "ID": "373"
+        },
+        {
+            "Abbreviation": "cm2 of lesion",
+            "ID": "186"
+        },
+        {
+            "Abbreviation": "cm2 of lesion (DNU)",
+            "ID": "834"
+        },
+        {
+            "Abbreviation": "day",
+            "ID": "133"
+        },
+        {
+            "Abbreviation": "device",
+            "ID": "683"
+        },
+        {
+            "Abbreviation": "dose",
+            "ID": "161"
+        },
+        {
+            "Abbreviation": "dose pk",
+            "ID": "888"
+        },
+        {
+            "Abbreviation": "drp",
+            "ID": "370"
+        },
+        {
+            "Abbreviation": "ea",
+            "ID": "482"
+        },
+        {
+            "Abbreviation": "EIN",
+            "ID": "975"
+        },
+        {
+            "Abbreviation": "EIN\/kg",
+            "ID": "977"
+        },
+        {
+            "Abbreviation": "film",
+            "ID": "785"
+        },
+        {
+            "Abbreviation": "g",
+            "ID": "368"
+        },
+        {
+            "Abbreviation": "g of CH2O",
+            "ID": "837"
+        },
+        {
+            "Abbreviation": "g\/hr",
+            "ID": "490"
+        },
+        {
+            "Abbreviation": "g\/kg",
+            "ID": "435"
+        },
+        {
+            "Abbreviation": "g\/L",
+            "ID": "852"
+        },
+        {
+            "Abbreviation": "g\/m2",
+            "ID": "167"
+        },
+        {
+            "Abbreviation": "g\/m2\/hr",
+            "ID": "173"
+        },
+        {
+            "Abbreviation": "GBq",
+            "ID": "807"
+        },
+        {
+            "Abbreviation": "gc",
+            "ID": "862"
+        },
+        {
+            "Abbreviation": "gc\/kg",
+            "ID": "970"
+        },
+        {
+            "Abbreviation": "hr",
+            "ID": "410"
+        },
+        {
+            "Abbreviation": "implant",
+            "ID": "192"
+        },
+        {
+            "Abbreviation": "in2",
+            "ID": "165"
+        },
+        {
+            "Abbreviation": "inch",
+            "ID": "375"
+        },
+        {
+            "Abbreviation": "inch\/kg",
+            "ID": "794"
+        },
+        {
+            "Abbreviation": "inh",
+            "ID": "378"
+        },
+        {
+            "Abbreviation": "insert",
+            "ID": "366"
+        },
+        {
+            "Abbreviation": "irrig",
+            "ID": "180"
+        },
+        {
+            "Abbreviation": "kBq",
+            "ID": "811"
+        },
+        {
+            "Abbreviation": "kBq\/kg",
+            "ID": "864"
+        },
+        {
+            "Abbreviation": "kBq\/m2",
+            "ID": "863"
+        },
+        {
+            "Abbreviation": "kg",
+            "ID": "168"
+        },
+        {
+            "Abbreviation": "kHz",
+            "ID": "902"
+        },
+        {
+            "Abbreviation": "L",
+            "ID": "170"
+        },
+        {
+            "Abbreviation": "L\/day",
+            "ID": "778"
+        },
+        {
+            "Abbreviation": "L\/hr",
+            "ID": "779"
+        },
+        {
+            "Abbreviation": "L\/min",
+            "ID": "853"
+        },
+        {
+            "Abbreviation": "lesion",
+            "ID": "166"
+        },
+        {
+            "Abbreviation": "loz",
+            "ID": "185"
+        },
+        {
+            "Abbreviation": "m2",
+            "ID": "164"
+        },
+        {
+            "Abbreviation": "MBq",
+            "ID": "812"
+        },
+        {
+            "Abbreviation": "MBq\/kg",
+            "ID": "901"
+        },
+        {
+            "Abbreviation": "MBq\/m2",
+            "ID": "858"
+        },
+        {
+            "Abbreviation": "MBq\/mL",
+            "ID": "892"
+        },
+        {
+            "Abbreviation": "mcg",
+            "ID": "372"
+        },
+        {
+            "Abbreviation": "mcg DFE",
+            "ID": "910"
+        },
+        {
+            "Abbreviation": "mcg DFE\/kg",
+            "ID": "912"
+        },
+        {
+            "Abbreviation": "mcg\/1.73 m2",
+            "ID": "833"
+        },
+        {
+            "Abbreviation": "mcg\/day",
+            "ID": "346"
+        },
+        {
+            "Abbreviation": "mcg\/hr",
+            "ID": "413"
+        },
+        {
+            "Abbreviation": "mcg\/kg",
+            "ID": "430"
+        },
+        {
+            "Abbreviation": "mcg\/kg\/hr",
+            "ID": "462"
+        },
+        {
+            "Abbreviation": "mcg\/kg\/min",
+            "ID": "427"
+        },
+        {
+            "Abbreviation": "mcg\/m2",
+            "ID": "479"
+        },
+        {
+            "Abbreviation": "mcg\/m2\/hr",
+            "ID": "199"
+        },
+        {
+            "Abbreviation": "mcg\/min",
+            "ID": "347"
+        },
+        {
+            "Abbreviation": "mCi",
+            "ID": "201"
+        },
+        {
+            "Abbreviation": "mCi\/kg",
+            "ID": "744"
+        },
+        {
+            "Abbreviation": "mCi\/m2",
+            "ID": "857"
+        },
+        {
+            "Abbreviation": "mEq",
+            "ID": "406"
+        },
+        {
+            "Abbreviation": "mEq\/day",
+            "ID": "401"
+        },
+        {
+            "Abbreviation": "mEq\/hr",
+            "ID": "387"
+        },
+        {
+            "Abbreviation": "mEq\/kg",
+            "ID": "444"
+        },
+        {
+            "Abbreviation": "mEq\/kg\/hr",
+            "ID": "439"
+        },
+        {
+            "Abbreviation": "mEq\/m2",
+            "ID": "724"
+        },
+        {
+            "Abbreviation": "mEq\/m2\/day",
+            "ID": "725"
+        },
+        {
+            "Abbreviation": "mg",
+            "ID": "367"
+        },
+        {
+            "Abbreviation": "mg pe",
+            "ID": "363"
+        },
+        {
+            "Abbreviation": "mg pe\/kg",
+            "ID": "426"
+        },
+        {
+            "Abbreviation": "mg\/cm2",
+            "ID": "523"
+        },
+        {
+            "Abbreviation": "mg\/cm2\/day",
+            "ID": "524"
+        },
+        {
+            "Abbreviation": "mg\/day",
+            "ID": "358"
+        },
+        {
+            "Abbreviation": "mg\/hr",
+            "ID": "355"
+        },
+        {
+            "Abbreviation": "mg\/in2",
+            "ID": "383"
+        },
+        {
+            "Abbreviation": "mg\/kg",
+            "ID": "451"
+        },
+        {
+            "Abbreviation": "mg\/kg\/day",
+            "ID": "449"
+        },
+        {
+            "Abbreviation": "mg\/kg\/dose",
+            "ID": "495"
+        },
+        {
+            "Abbreviation": "mg\/kg\/hr",
+            "ID": "429"
+        },
+        {
+            "Abbreviation": "mg\/kg\/min",
+            "ID": "454"
+        },
+        {
+            "Abbreviation": "mg\/l",
+            "ID": "350"
+        },
+        {
+            "Abbreviation": "mg\/lesion",
+            "ID": "836"
+        },
+        {
+            "Abbreviation": "mg\/m2",
+            "ID": "466"
+        },
+        {
+            "Abbreviation": "mg\/m2\/hr",
+            "ID": "471"
+        },
+        {
+            "Abbreviation": "mg\/min",
+            "ID": "404"
+        },
+        {
+            "Abbreviation": "mg\/mL",
+            "ID": "191"
+        },
+        {
+            "Abbreviation": "micro units",
+            "ID": "420"
+        },
+        {
+            "Abbreviation": "microCi",
+            "ID": "769"
+        },
+        {
+            "Abbreviation": "microCi\/kg",
+            "ID": "865"
+        },
+        {
+            "Abbreviation": "microL",
+            "ID": "745"
+        },
+        {
+            "Abbreviation": "microL\/kg",
+            "ID": "746"
+        },
+        {
+            "Abbreviation": "micromole",
+            "ID": "748"
+        },
+        {
+            "Abbreviation": "milliu\/kg\/hr",
+            "ID": "431"
+        },
+        {
+            "Abbreviation": "milliu\/kg\/min",
+            "ID": "848"
+        },
+        {
+            "Abbreviation": "milliu\/min",
+            "ID": "415"
+        },
+        {
+            "Abbreviation": "milliunit",
+            "ID": "357"
+        },
+        {
+            "Abbreviation": "milliunit\/hr",
+            "ID": "408"
+        },
+        {
+            "Abbreviation": "milliunit\/kg",
+            "ID": "169"
+        },
+        {
+            "Abbreviation": "milln TCE",
+            "ID": "866"
+        },
+        {
+            "Abbreviation": "min",
+            "ID": "405"
+        },
+        {
+            "Abbreviation": "mL",
+            "ID": "380"
+        },
+        {
+            "Abbreviation": "mL\/1.73 m2\/day",
+            "ID": "502"
+        },
+        {
+            "Abbreviation": "mL\/cm2",
+            "ID": "521"
+        },
+        {
+            "Abbreviation": "mL\/day",
+            "ID": "361"
+        },
+        {
+            "Abbreviation": "mL\/hr",
+            "ID": "356"
+        },
+        {
+            "Abbreviation": "mL\/kg",
+            "ID": "436"
+        },
+        {
+            "Abbreviation": "mL\/kg\/hr",
+            "ID": "501"
+        },
+        {
+            "Abbreviation": "mL\/kg\/min",
+            "ID": "783"
+        },
+        {
+            "Abbreviation": "mL\/m2",
+            "ID": "475"
+        },
+        {
+            "Abbreviation": "mL\/m2\/hr",
+            "ID": "747"
+        },
+        {
+            "Abbreviation": "mL\/min",
+            "ID": "195"
+        },
+        {
+            "Abbreviation": "mm",
+            "ID": "816"
+        },
+        {
+            "Abbreviation": "mmol",
+            "ID": "369"
+        },
+        {
+            "Abbreviation": "mmol\/hr",
+            "ID": "348"
+        },
+        {
+            "Abbreviation": "mmol\/kg",
+            "ID": "461"
+        },
+        {
+            "Abbreviation": "mmol\/kg\/hr",
+            "ID": "442"
+        },
+        {
+            "Abbreviation": "mMol\/m2",
+            "ID": "904"
+        },
+        {
+            "Abbreviation": "mmu",
+            "ID": "400"
+        },
+        {
+            "Abbreviation": "mmu cells",
+            "ID": "684"
+        },
+        {
+            "Abbreviation": "mmu cells\/cm2",
+            "ID": "193"
+        },
+        {
+            "Abbreviation": "mmu\/day",
+            "ID": "397"
+        },
+        {
+            "Abbreviation": "mmu\/hr",
+            "ID": "362"
+        },
+        {
+            "Abbreviation": "mmu\/kg",
+            "ID": "445"
+        },
+        {
+            "Abbreviation": "mmu\/lesion",
+            "ID": "384"
+        },
+        {
+            "Abbreviation": "mmu\/m2",
+            "ID": "477"
+        },
+        {
+            "Abbreviation": "mmu\/m2\/day",
+            "ID": "468"
+        },
+        {
+            "Abbreviation": "mmu\/m2\/hr",
+            "ID": "476"
+        },
+        {
+            "Abbreviation": "mo",
+            "ID": "141"
+        },
+        {
+            "Abbreviation": "mPF unit",
+            "ID": "883"
+        },
+        {
+            "Abbreviation": "neb",
+            "ID": "561"
+        },
+        {
+            "Abbreviation": "ng",
+            "ID": "424"
+        },
+        {
+            "Abbreviation": "ng\/kg",
+            "ID": "443"
+        },
+        {
+            "Abbreviation": "ng\/kg\/min",
+            "ID": "448"
+        },
+        {
+            "Abbreviation": "ng\/min",
+            "ID": "341"
+        },
+        {
+            "Abbreviation": "oz",
+            "ID": "819"
+        },
+        {
+            "Abbreviation": "packet",
+            "ID": "389"
+        },
+        {
+            "Abbreviation": "pad",
+            "ID": "419"
+        },
+        {
+            "Abbreviation": "patch",
+            "ID": "402"
+        },
+        {
+            "Abbreviation": "PF unit",
+            "ID": "867"
+        },
+        {
+            "Abbreviation": "PF unit\/mL",
+            "ID": "868"
+        },
+        {
+            "Abbreviation": "piece of gum",
+            "ID": "149"
+        },
+        {
+            "Abbreviation": "pkg",
+            "ID": "386"
+        },
+        {
+            "Abbreviation": "PO pk",
+            "ID": "890"
+        },
+        {
+            "Abbreviation": "pop",
+            "ID": "849"
+        },
+        {
+            "Abbreviation": "puff",
+            "ID": "140"
+        },
+        {
+            "Abbreviation": "pump",
+            "ID": "200"
+        },
+        {
+            "Abbreviation": "pump\/day",
+            "ID": "895"
+        },
+        {
+            "Abbreviation": "sachet",
+            "ID": "153"
+        },
+        {
+            "Abbreviation": "sachet\/day",
+            "ID": "787"
+        },
+        {
+            "Abbreviation": "sc",
+            "ID": "505"
+        },
+        {
+            "Abbreviation": "sec",
+            "ID": "412"
+        },
+        {
+            "Abbreviation": "sliding scale dose",
+            "ID": "891"
+        },
+        {
+            "Abbreviation": "spray",
+            "ID": "407"
+        },
+        {
+            "Abbreviation": "startr pk",
+            "ID": "889"
+        },
+        {
+            "Abbreviation": "strip",
+            "ID": "425"
+        },
+        {
+            "Abbreviation": "supp",
+            "ID": "391"
+        },
+        {
+            "Abbreviation": "tab",
+            "ID": "131"
+        },
+        {
+            "Abbreviation": "tab-cap",
+            "ID": "376"
+        },
+        {
+            "Abbreviation": "tab-cap\/day",
+            "ID": "353"
+        },
+        {
+            "Abbreviation": "tab-cap\/kg",
+            "ID": "440"
+        },
+        {
+            "Abbreviation": "tab-cap\/m2",
+            "ID": "869"
+        },
+        {
+            "Abbreviation": "tab-cap\/m2\/day",
+            "ID": "870"
+        },
+        {
+            "Abbreviation": "tab\/kg",
+            "ID": "112"
+        },
+        {
+            "Abbreviation": "tab\/m2",
+            "ID": "873"
+        },
+        {
+            "Abbreviation": "tbsp",
+            "ID": "144"
+        },
+        {
+            "Abbreviation": "thousand unit",
+            "ID": "388"
+        },
+        {
+            "Abbreviation": "thousand unit\/min",
+            "ID": "398"
+        },
+        {
+            "Abbreviation": "towel",
+            "ID": "581"
+        },
+        {
+            "Abbreviation": "tsp",
+            "ID": "138"
+        },
+        {
+            "Abbreviation": "tube",
+            "ID": "896"
+        },
+        {
+            "Abbreviation": "unit",
+            "ID": "371"
+        },
+        {
+            "Abbreviation": "unit\/day",
+            "ID": "416"
+        },
+        {
+            "Abbreviation": "unit\/g of CH2O",
+            "ID": "838"
+        },
+        {
+            "Abbreviation": "unit\/hr",
+            "ID": "409"
+        },
+        {
+            "Abbreviation": "unit\/kg",
+            "ID": "428"
+        },
+        {
+            "Abbreviation": "unit\/kg\/day",
+            "ID": "433"
+        },
+        {
+            "Abbreviation": "unit\/kg\/hr",
+            "ID": "434"
+        },
+        {
+            "Abbreviation": "unit\/m2",
+            "ID": "469"
+        },
+        {
+            "Abbreviation": "unit\/m2\/day",
+            "ID": "465"
+        },
+        {
+            "Abbreviation": "unit\/m2\/hr",
+            "ID": "175"
+        },
+        {
+            "Abbreviation": "unit\/min",
+            "ID": "364"
+        },
+        {
+            "Abbreviation": "vag ring",
+            "ID": "399"
+        },
+        {
+            "Abbreviation": "vg",
+            "ID": "893"
+        },
+        {
+            "Abbreviation": "vg\/kg",
+            "ID": "907"
+        },
+        {
+            "Abbreviation": "vial",
+            "ID": "422"
+        },
+        {
+            "Abbreviation": "vp",
+            "ID": "878"
+        },
+        {
+            "Abbreviation": "vp\/kg",
+            "ID": "880"
+        },
+        {
+            "Abbreviation": "vp\/mL",
+            "ID": "879"
+        },
+        {
+            "Abbreviation": "wafer",
+            "ID": "583"
+        },
+        {
+            "Abbreviation": "wk",
+            "ID": "135"
+        },
+        {
+            "Abbreviation": "x 10e11 particle unit",
+            "ID": "1021"
+        },
+        {
+            "Abbreviation": "x 10e11 vg",
+            "ID": "985"
+        },
+        {
+            "Abbreviation": "x 10e11 vg\/kg",
+            "ID": "986"
+        },
+        {
+            "Abbreviation": "x 10e13 gc",
+            "ID": "971"
+        },
+        {
+            "Abbreviation": "x 10e13 gc\/kg",
+            "ID": "972"
+        },
+        {
+            "Abbreviation": "x 10e14 vg",
+            "ID": "909"
+        },
+        {
+            "Abbreviation": "x 10e14 vg\/kg",
+            "ID": "908"
+        },
+        {
+            "Abbreviation": "x 10e15 vg",
+            "ID": "987"
+        },
+        {
+            "Abbreviation": "x 10e6 CARpos viabl T cells",
+            "ID": "898"
+        },
+        {
+            "Abbreviation": "x 10e6 CARpos viabl T cells\/kg",
+            "ID": "899"
+        },
+        {
+            "Abbreviation": "x 10e6 CD34+ cells",
+            "ID": "968"
+        },
+        {
+            "Abbreviation": "x 10e6 CD34+ cells\/kg",
+            "ID": "969"
+        },
+        {
+            "Abbreviation": "x 10e6 MSCs",
+            "ID": "1019"
+        },
+        {
+            "Abbreviation": "x 10e6 MSCs\/kg",
+            "ID": "1020"
+        },
+        {
+            "Abbreviation": "x 10e8 CARpos viabl T cells",
+            "ID": "905"
+        },
+        {
+            "Abbreviation": "x 10e8 CARpos viabl T cells\/kg",
+            "ID": "906"
+        },
+        {
+            "Abbreviation": "x 10e8 PF unit",
+            "ID": "973"
+        },
+        {
+            "Abbreviation": "x 10e9 MAGE-A4 TCR pos T cells",
+            "ID": "988"
+        },
+        {
+            "Abbreviation": "x 10e9 PF unit",
+            "ID": "974"
+        },
+        {
+            "Abbreviation": "x 10e9 viable cells",
+            "ID": "984"
+        },
+        {
+            "Abbreviation": "x10e6 EIN",
+            "ID": "979"
+        }
+    ],
+    "all_dosage_routes": [
+        {
+            "GCRT2": "BC",
+            "DESCRIPTION": "Buccal",
+            "RT": "BUCCAL"
+        },
+        {
+            "GCRT2": "DT",
+            "DESCRIPTION": "Dental",
+            "RT": "DENTAL"
+        },
+        {
+            "GCRT2": "EP",
+            "DESCRIPTION": "Epidural",
+            "RT": "EPIDURAL"
+        },
+        {
+            "GCRT2": "HE",
+            "DESCRIPTION": "Hemodialysis",
+            "RT": "HEMODIALYS"
+        },
+        {
+            "GCRT2": "IL",
+            "DESCRIPTION": "Implantation",
+            "RT": "IMPLANT"
+        },
+        {
+            "GCRT2": "IN",
+            "DESCRIPTION": "In Vitro",
+            "RT": "IN VITRO"
+        },
+        {
+            "GCRT2": "IH",
+            "DESCRIPTION": "Inhalation",
+            "RT": "INHALATION"
+        },
+        {
+            "GCRT2": "IJ",
+            "DESCRIPTION": "Injection",
+            "RT": "INJECTION"
+        },
+        {
+            "GCRT2": "IA",
+            "DESCRIPTION": "Intraarterial",
+            "RT": "INTRAARTER"
+        },
+        {
+            "GCRT2": "IU",
+            "DESCRIPTION": "Intraarticular",
+            "RT": "INTRAARTIC"
+        },
+        {
+            "GCRT2": "IC",
+            "DESCRIPTION": "Intracavernosal",
+            "RT": "INTRACAVER"
+        },
+        {
+            "GCRT2": "ID",
+            "DESCRIPTION": "Intradermal",
+            "RT": "INTRADERM."
+        },
+        {
+            "GCRT2": "IM",
+            "DESCRIPTION": "Intramuscular",
+            "RT": "INTRAMUSC."
+        },
+        {
+            "GCRT2": "IO",
+            "DESCRIPTION": "Intraocular",
+            "RT": "INTRAOCULR"
+        },
+        {
+            "GCRT2": "IP",
+            "DESCRIPTION": "Intraperitoneal",
+            "RT": "INTRAPERIT"
+        },
+        {
+            "GCRT2": "IX",
+            "DESCRIPTION": "Intrapleural",
+            "RT": "INTRAPLEUR"
+        },
+        {
+            "GCRT2": "IT",
+            "DESCRIPTION": "Intrathecal",
+            "RT": "INTRATHEC."
+        },
+        {
+            "GCRT2": "IY",
+            "DESCRIPTION": "Intrauterine",
+            "RT": "INTRAUTERI"
+        },
+        {
+            "GCRT2": "IV",
+            "DESCRIPTION": "Intravenous",
+            "RT": "INTRAVEN."
+        },
+        {
+            "GCRT2": "IS",
+            "DESCRIPTION": "Intravesical",
+            "RT": "INTRAVESIC"
+        },
+        {
+            "GCRT2": "IR",
+            "DESCRIPTION": "Irrigation",
+            "RT": "IRRIGATION"
+        },
+        {
+            "GCRT2": "MC",
+            "DESCRIPTION": "Miscell.",
+            "RT": "MISCELL."
+        },
+        {
+            "GCRT2": "MM",
+            "DESCRIPTION": "Mucous Membrane",
+            "RT": "MUCOUS MEM"
+        },
+        {
+            "GCRT2": "NS",
+            "DESCRIPTION": "Nasal",
+            "RT": "NASAL"
+        },
+        {
+            "GCRT2": "OP",
+            "DESCRIPTION": "Ophthalmic",
+            "RT": "OPHTHALMIC"
+        },
+        {
+            "GCRT2": "PO",
+            "DESCRIPTION": "Oral",
+            "RT": "ORAL"
+        },
+        {
+            "GCRT2": "OT",
+            "DESCRIPTION": "Otic",
+            "RT": "OTIC"
+        },
+        {
+            "GCRT2": "PF",
+            "DESCRIPTION": "Perfusion",
+            "RT": "PERFUSION"
+        },
+        {
+            "GCRT2": "RC",
+            "DESCRIPTION": "Rectal",
+            "RT": "RECTAL"
+        },
+        {
+            "GCRT2": "SQ",
+            "DESCRIPTION": "Subcutaneous",
+            "RT": "SUB-Q"
+        },
+        {
+            "GCRT2": "SL",
+            "DESCRIPTION": "Sublingual",
+            "RT": "SUBLINGUAL"
+        },
+        {
+            "GCRT2": "TP",
+            "DESCRIPTION": "Topical",
+            "RT": "TOPICAL"
+        },
+        {
+            "GCRT2": "TD",
+            "DESCRIPTION": "Transdermal",
+            "RT": "TRANSDERM."
+        },
+        {
+            "GCRT2": "TL",
+            "DESCRIPTION": "Translingual",
+            "RT": "TRANSLING."
+        },
+        {
+            "GCRT2": "UR",
+            "DESCRIPTION": "Urethral",
+            "RT": "URETHRAL"
+        },
+        {
+            "GCRT2": "VG",
+            "DESCRIPTION": "Vaginal",
+            "RT": "VAGINAL"
+        }
+    ]
+}

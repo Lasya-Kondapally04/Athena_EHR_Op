@@ -1,0 +1,200 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/clinical_content/form/68fd75d2-b935-46a0-954b-82f5b7ba8b3e?form_id=68fd75d2-b935-46a0-954b-82f5b7ba8b3e",
+    "content": {
+        "display": "form",
+        "components": [
+            {
+                "suffix": "",
+                "tooltip": "",
+                "athena": {
+                    "code": {
+                        "formcodes": []
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "longname": "AM-PAC Generic Outpatient Basic Mobility Short Form",
+                "key": "screenerMetadata",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "eymywpm",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "formio-component-hidden",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "age": [
+                    {
+                        "maximumageunits": "years",
+                        "maximumage": null,
+                        "minimumageunits": "years",
+                        "minimumage": null
+                    }
+                ],
+                "loinc": null,
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "specialty": [
+                    {
+                        "text": "General Practice",
+                        "value": "001"
+                    },
+                    {
+                        "text": "Internal Medicine",
+                        "value": "011"
+                    },
+                    {
+                        "text": "Family Medicine",
+                        "value": "008"
+                    },
+                    {
+                        "text": "Physical Therapy",
+                        "value": "065"
+                    },
+                    {
+                        "text": "Geriatric Medicine",
+                        "value": "038"
+                    },
+                    {
+                        "text": "Occupational Therapy",
+                        "value": "067"
+                    },
+                    {
+                        "text": "Phys. Med. & Rehab.",
+                        "value": "025"
+                    }
+                ],
+                "sex": {
+                    "female": "",
+                    "male": ""
+                },
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": true,
+                "errorLabel": "",
+                "label": "Screener Metadata",
+                "type": "athenascreenermetadata",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "depressionscreeningquestionnaire": false,
+                "hideLabel": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "score",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "subscores": [
+                    {
+                        "label": "total",
+                        "key": "total",
+                        "selectedQuestionKeys": [
+                            "all questions"
+                        ]
+                    }
+                ],
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e4mc1ns",
+                "multiple": false,
+                "input": true,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "scoringMethod": "SCOREONLY",
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "errorLabel": "",
+                "label": "Score",
+                "type": "athenascreenerscore",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            }
+        ]
+    },
+    "contentType": "screening-questionnaire",
+    "name": "AM-PAC",
+    "tags": {
+        "locations": [],
+        "specialties": []
+    },
+    "id": "68fd75d2-b935-46a0-954b-82f5b7ba8b3e",
+    "masterFormId": "3BAC37BC-AEDE-11EA-BA65-B5AC49BFE5CD",
+    "version": 1
+}
