@@ -1,0 +1,42 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=document_view_data&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&document_class=prescription+-+new&document_id=231427&url=https%3A%2F%2Fpreview.athenahealth.com%2F195903%2F5",
+    "document_view_data": {
+        "document": {
+            "SubClass": "PRESCRIPTION_NEW",
+            "ChartDisplayDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-09-08T13:11:16-04:00"
+            },
+            "VersionToken": "14336105",
+            "DisplayName": "Allegra Allergy 180 mg tablet",
+            "DepartmentID": "150",
+            "SourceName": "encounter",
+            "Priority": "2",
+            "Status": "CLOSED",
+            "Class": "PRESCRIPTION",
+            "LastModifiedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-10-21T13:09:03-04:00"
+            },
+            "ParentOrderDocumentID": "231427",
+            "SpecialtyID": "001",
+            "ClassDescription": "prescription - new",
+            "CreatedDate": {
+                "__CLASS__": "DateTime",
+                "Date": "2025-09-08T13:11:16-04:00"
+            },
+            "PayloadType": "DOCUMENT",
+            "ProviderUsername": "cbulkley",
+            "Description": "Allegra Allergy 180 mg tablet",
+            "ID": "231427",
+            "Source": "ENCOUNTER",
+            "PatientID": "4406",
+            "EncounterID": "46318",
+            "__CLASS__": "Athena::InternalDocument::Entity::Document",
+            "ChartID": "32988",
+            "LastModifiedUser": "p-hxcaliber",
+            "Route": "FAX",
+            "CreatedEncounterID": "46318",
+            "CreatedUser": "p-xadmin"
+        }
+    }
+}

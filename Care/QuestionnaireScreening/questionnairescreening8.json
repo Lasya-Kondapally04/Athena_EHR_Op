@@ -1,0 +1,890 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/clinical_content/form/850f7a5f-cf4f-44e9-b8a6-18a34cc6d22d?form_id=850f7a5f-cf4f-44e9-b8a6-18a34cc6d22d",
+    "content": {
+        "display": "form",
+        "components": [
+            {
+                "suffix": "",
+                "inoroutofoffice": "both",
+                "tooltip": "",
+                "athena": {
+                    "code": {
+                        "formcodes": [
+                            {
+                                "codesystem": "SNOMED",
+                                "code": "273466005"
+                            },
+                            {
+                                "codesystem": "SNOMED",
+                                "code": "273547007"
+                            },
+                            {
+                                "codesystem": "SNOMED",
+                                "code": "304492001"
+                            }
+                        ]
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "respondenttype": "both",
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "longname": "Katz index of independence in activities of daily living",
+                "key": "screenerMetadata",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "scoreLoinc": "",
+                "tabindex": "",
+                "showWordCount": false,
+                "logo": "",
+                "unique": false,
+                "id": "ez37qbc",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "formio-component-hidden",
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "autofocus": false,
+                "age": [
+                    {
+                        "maximumageunits": "years",
+                        "maximumage": null,
+                        "minimumageunits": "years",
+                        "minimumage": null
+                    }
+                ],
+                "loinc": null,
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "specialty": [],
+                "properties": {},
+                "sex": {
+                    "female": "",
+                    "male": ""
+                },
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": true,
+                "errorLabel": "",
+                "label": "Screener Metadata",
+                "type": "athenascreenermetadata",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "depressionscreeningquestionnaire": false,
+                "hideLabel": false,
+                "calculateServer": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "BATHING_KATZADL",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "eck2ux",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Bathing",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 1,
+                        "text": "Independence: Bathes self completely or needs help in bathing only a single part of the body, such as the back, genital area, or disabled extremity.",
+                        "value": "Independence: Bathes self completely or needs help in bathing only a single part of the body, such as the back, genital area, or disabled extremity."
+                    },
+                    {
+                        "score": 0,
+                        "text": "Dependence: Needs help with bathing more than one part of the body, getting in or out of the tub or shower. Requires total bathing.",
+                        "value": "Dependence: Needs help with bathing more than one part of the body, getting in or out of the tub or shower. Requires total bathing."
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "DRESSING_KATZADL",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "evwavb2",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Dressing",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 1,
+                        "text": "Independence: Gets clothes from closets and drawers and puts on clothes and outer garments complete with fasteners. May have help tying shoes.",
+                        "value": "Independence: Gets clothes from closets and drawers and puts on clothes and outer garments complete with fasteners. May have help tying shoes."
+                    },
+                    {
+                        "score": 0,
+                        "text": "Dependence: Needs help with dressing self or needs to be completely dressed.",
+                        "value": "Dependence: Needs help with dressing self or needs to be completely dressed."
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "TOILETING_KATZADL",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "ekdz61h",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Toileting",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 1,
+                        "text": "Independence: Goes to toilet, gets on and off, arranges clothes, cleans genital area without help.",
+                        "value": "Independence: Goes to toilet, gets on and off, arranges clothes, cleans genital area without help."
+                    },
+                    {
+                        "score": 0,
+                        "text": "Dependence: Needs help transferring to the toilet and cleaning self or uses bedpan or commode.",
+                        "value": "Dependence: Needs help transferring to the toilet and cleaning self or uses bedpan or commode."
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "TRANSFERRING_KATZADL",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e1efql",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Transferring",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 1,
+                        "text": "Independence: Moves in and out of bed or chair unassisted. Mechanical transferring aides are acceptable.",
+                        "value": "Independence: Moves in and out of bed or chair unassisted. Mechanical transferring aides are acceptable."
+                    },
+                    {
+                        "score": 0,
+                        "text": "Dependence: Needs help in moving from bed to chair or requires a complete transfer.",
+                        "value": "Dependence: Needs help in moving from bed to chair or requires a complete transfer."
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CONTINENCE_KATZADL",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e5u5ysp",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Continence",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 1,
+                        "text": "Independence: Exercises complete self-control over urination and defecation.",
+                        "value": "Independence: Exercises complete self-control over urination and defecation."
+                    },
+                    {
+                        "score": 0,
+                        "text": "Dependence: Is partially or totally incontinent of bowel or bladder.",
+                        "value": "Dependence: Is partially or totally incontinent of bowel or bladder."
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "FEEDING_KATZADL",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "ep061zh",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Feeding",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 1,
+                        "text": "Independence: Gets food from plate into mouth without help. Preparation of food may be done by another person.",
+                        "value": "Independence: Gets food from plate into mouth without help. Preparation of food may be done by another person."
+                    },
+                    {
+                        "score": 0,
+                        "text": "Dependence: Needs partial or total help with feeding or requires parenteral feeding.",
+                        "value": "Dependence: Needs partial or total help with feeding or requires parenteral feeding."
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "score",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "subscores": [
+                    {
+                        "label": "total",
+                        "key": "total",
+                        "selectedQuestionKeys": [
+                            "all questions"
+                        ]
+                    }
+                ],
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "eqajze3",
+                "multiple": false,
+                "input": true,
+                "refreshOn": "",
+                "disabled": true,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "scoringMethod": "SIMPLESUM",
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "hidden": false,
+                "errorLabel": "",
+                "label": "Score",
+                "type": "athenascreenerscore",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "markdown": "Katz ADL Scoring Guidelines\n---------------------------------------\n\n* **6 points**: High (patient independent)\n* **0 points**: Low (patient very dependent)\n\n**References:**\n\n1. Katz S, Down TD, Cash HR, Grotz RC. Progress in the development of the index of ADL. Gerontologist 1970, 10:20. Copyright © 1970 Oxford University Press.",
+                "key": "screenerDetails",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e2l3keq",
+                "multiple": false,
+                "input": true,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "errorLabel": "",
+                "label": "Screener Details",
+                "type": "athenascreenerdetails",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "calculateServer": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            }
+        ]
+    },
+    "contentType": "screening-questionnaire",
+    "name": "Katz ADL",
+    "tags": {
+        "locations": [],
+        "specialties": []
+    },
+    "id": "850f7a5f-cf4f-44e9-b8a6-18a34cc6d22d",
+    "masterFormId": "3BAC3ADC-AEDE-11EA-BA65-B5AC49BFE5CD",
+    "version": 5
+}

@@ -1,0 +1,68 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=confidentiality_reason_options&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988",
+    "confidentiality_reason_options": {
+        "LOCKINGREASONOPTIONS": [
+            {
+                "SHORTDESCRIPTION": "",
+                "DESCRIPTION": "NONE",
+                "SORTORDER": 0,
+                "REASONCODE": "NONE"
+            },
+            {
+                "SHORTDESCRIPTION": "risk of harm",
+                "DESCRIPTION": "Risk of harm to patient or others",
+                "SORTORDER": 1,
+                "REASONCODE": "RISKOFHARMTOPATIENT"
+            },
+            {
+                "SHORTDESCRIPTION": "state\/federal law",
+                "DESCRIPTION": "State\/federal law prohibits disclosure",
+                "SORTORDER": 2,
+                "REASONCODE": "STATEFEDERALLAW"
+            },
+            {
+                "SHORTDESCRIPTION": "patient request",
+                "DESCRIPTION": "Patient request",
+                "SORTORDER": 4,
+                "REASONCODE": "PATIENTREQUEST"
+            },
+            {
+                "SHORTDESCRIPTION": "other",
+                "DESCRIPTION": "Other (please specify)",
+                "SORTORDER": 5,
+                "REASONCODE": "OTHER"
+            },
+            {
+                "SHORTDESCRIPTION": "internal policy",
+                "DESCRIPTION": "Internal policy\/procedure prohibits disclosure",
+                "SORTORDER": 3,
+                "REASONCODE": "INTERNALPOLICY"
+            }
+        ],
+        "UNLOCKINGREASONOPTIONS": [
+            {
+                "SHORTDESCRIPTION": "",
+                "DESCRIPTION": "NONE",
+                "SORTORDER": 0,
+                "REASONCODE": "NONE"
+            },
+            {
+                "SHORTDESCRIPTION": "",
+                "DESCRIPTION": "Other (please specify)",
+                "SORTORDER": 3,
+                "REASONCODE": "OTHER"
+            },
+            {
+                "SHORTDESCRIPTION": "",
+                "DESCRIPTION": "Reason for confidentiality no longer applies",
+                "SORTORDER": 1,
+                "REASONCODE": "REASONNOLONGERAPPLIES"
+            },
+            {
+                "SHORTDESCRIPTION": "",
+                "DESCRIPTION": "Locked in error",
+                "SORTORDER": 2,
+                "REASONCODE": "LOCKEDINERROR"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=meds_not_reviewed_options&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988",
+    "meds_not_reviewed_options": [
+        {
+            "DISPLAYNAME": "Not indicated",
+            "SNOMEDCODE": "428119001"
+        },
+        {
+            "DISPLAYNAME": null,
+            "SNOMEDCODE": "183932001"
+        },
+        {
+            "DISPLAYNAME": null,
+            "SNOMEDCODE": "397745006"
+        },
+        {
+            "DISPLAYNAME": "Not tolerated",
+            "SNOMEDCODE": "407563006"
+        },
+        {
+            "DISPLAYNAME": "Patient refused",
+            "SNOMEDCODE": "443390004"
+        },
+        {
+            "DISPLAYNAME": "Acute health crisis",
+            "SNOMEDCODE": "705016005"
+        },
+        {
+            "DISPLAYNAME": null,
+            "SNOMEDCODE": "105480006"
+        }
+    ]
+}

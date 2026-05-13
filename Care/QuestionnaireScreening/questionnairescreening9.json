@@ -1,0 +1,177 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/clinical_content/form/2c108879-f0a7-4673-8a85-4510e4d96fc2?form_id=2c108879-f0a7-4673-8a85-4510e4d96fc2",
+    "content": {
+        "display": "form",
+        "components": [
+            {
+                "suffix": "",
+                "tooltip": "",
+                "athena": {
+                    "code": {
+                        "formcodes": [
+                            {
+                                "codesystem": "LOINC",
+                                "code": "71493-1"
+                            }
+                        ]
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "longname": "Informant Questionnaire on Cognitive Decline (IQCODE)",
+                "key": "screenerMetadata",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "scoreLoinc": "71493-1",
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e7fdvhm",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "formio-component-hidden",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "age": [
+                    {
+                        "maximumageunits": "years",
+                        "maximumage": null,
+                        "minimumageunits": "years",
+                        "minimumage": null
+                    }
+                ],
+                "loinc": null,
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "specialty": [],
+                "properties": {},
+                "sex": {
+                    "female": "",
+                    "male": ""
+                },
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": true,
+                "errorLabel": "",
+                "label": "Screener Metadata",
+                "type": "athenascreenermetadata",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "depressionscreeningquestionnaire": false,
+                "hideLabel": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "score",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "subscores": [
+                    {
+                        "label": "total",
+                        "key": "total",
+                        "selectedQuestionKeys": [
+                            "all questions"
+                        ]
+                    }
+                ],
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "eef0y2i",
+                "multiple": false,
+                "input": true,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "scoringMethod": "SCOREONLY",
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "errorLabel": "",
+                "label": "Score",
+                "type": "athenascreenerscore",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            }
+        ]
+    },
+    "contentType": "screening-questionnaire",
+    "name": "IQCODE",
+    "tags": {
+        "locations": [],
+        "specialties": []
+    },
+    "id": "2c108879-f0a7-4673-8a85-4510e4d96fc2",
+    "masterFormId": "3BAC4180-AEDE-11EA-BA65-B5AC49BFE5CD",
+    "version": 1
+}

@@ -1,0 +1,251 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/clinical_content/form/d4b6f0cb-ab88-4a8f-97ca-720dc217f4ea?form_id=d4b6f0cb-ab88-4a8f-97ca-720dc217f4ea",
+    "content": {
+        "display": "form",
+        "components": [
+            {
+                "suffix": "",
+                "inoroutofoffice": "neither",
+                "tooltip": "",
+                "athena": {
+                    "code": {
+                        "formcodes": [
+                            {
+                                "codesystem": "SNOMED",
+                                "code": "171207006"
+                            },
+                            {
+                                "codesystem": "SNOMED",
+                                "code": "273601006"
+                            },
+                            {
+                                "codesystem": "SNOMED",
+                                "code": "428221000124108"
+                            },
+                            {
+                                "codesystem": "SNOMED",
+                                "code": "446765009"
+                            },
+                            {
+                                "codesystem": "LOINC",
+                                "code": "73832-8"
+                            },
+                            {
+                                "codesystem": "LOINC",
+                                "code": "94015-5"
+                            }
+                        ]
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "respondenttype": "",
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "longname": "Beck Depression Inventory",
+                "key": "screenerMetadata",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "dataGridLabel": false,
+                "modalEdit": false,
+                "scoreLoinc": "",
+                "tabindex": "",
+                "showWordCount": false,
+                "logo": "",
+                "addons": [],
+                "unique": false,
+                "id": "eoxxmg2",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "formio-component-hidden",
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "autofocus": false,
+                "age": [
+                    {
+                        "maximumageunits": "years",
+                        "maximumage": null,
+                        "minimumageunits": "years",
+                        "minimumage": null
+                    }
+                ],
+                "loinc": null,
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "specialty": [
+                    {
+                        "text": "Clinical Psychology",
+                        "value": "068"
+                    },
+                    {
+                        "text": "Psychology",
+                        "value": "062"
+                    },
+                    {
+                        "text": "Child and Adolescent Psychiatry",
+                        "value": "670"
+                    },
+                    {
+                        "text": "Pediatric Psychology",
+                        "value": "687"
+                    },
+                    {
+                        "text": "Psychiatry",
+                        "value": "026"
+                    },
+                    {
+                        "text": "Pediatric Psychiatry",
+                        "value": "688"
+                    },
+                    {
+                        "text": "Internal Medicine",
+                        "value": "011"
+                    },
+                    {
+                        "text": "Family Medicine",
+                        "value": "008"
+                    },
+                    {
+                        "text": "Pediatric Medicine",
+                        "value": "037"
+                    },
+                    {
+                        "text": "Gynecology",
+                        "value": "612"
+                    },
+                    {
+                        "text": "OB\/GYN",
+                        "value": "016"
+                    }
+                ],
+                "sex": {
+                    "female": "",
+                    "male": ""
+                },
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": true,
+                "errorLabel": "",
+                "label": "Screener Metadata",
+                "type": "athenascreenermetadata",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "depressionscreeningquestionnaire": true,
+                "hideLabel": false,
+                "calculateServer": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "score",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "dataGridLabel": false,
+                "modalEdit": false,
+                "subscores": [
+                    {
+                        "label": "total",
+                        "key": "total",
+                        "selectedQuestionKeys": [
+                            "all questions"
+                        ]
+                    }
+                ],
+                "tabindex": "",
+                "showWordCount": false,
+                "addons": [],
+                "unique": false,
+                "id": "eauw1so",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "scoringMethod": "SCOREONLY",
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "errorLabel": "",
+                "label": "Score",
+                "type": "athenascreenerscore",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            }
+        ]
+    },
+    "contentType": "screening-questionnaire",
+    "name": "Beck Depression Inventory",
+    "tags": {
+        "locations": [],
+        "specialties": []
+    },
+    "id": "d4b6f0cb-ab88-4a8f-97ca-720dc217f4ea",
+    "masterFormId": "3BAC21AA-AEDE-11EA-BA65-B5AC49BFE5CD",
+    "version": 2
+}

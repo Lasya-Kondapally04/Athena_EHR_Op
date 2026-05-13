@@ -1,0 +1,2773 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/clinical_content/form/837a8851-c1b1-42bf-81ba-d0e2050ebdcb?form_id=837a8851-c1b1-42bf-81ba-d0e2050ebdcb",
+    "content": {
+        "display": "form",
+        "components": [
+            {
+                "suffix": "",
+                "inoroutofoffice": "both",
+                "tooltip": "",
+                "athena": {
+                    "code": {
+                        "formcodes": []
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "longname": "Modified Checklist for Autism in Toddlers",
+                "key": "screenerMetadata",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "elo05ha",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "formio-component-hidden",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "age": [
+                    {
+                        "maximumageunits": "years",
+                        "maximumage": null,
+                        "minimumageunits": "years",
+                        "minimumage": null
+                    }
+                ],
+                "loinc": null,
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "specialty": [
+                    {
+                        "text": "Family Medicine",
+                        "value": "008"
+                    },
+                    {
+                        "text": "Pediatric Medicine",
+                        "value": "037"
+                    },
+                    {
+                        "text": "Developmental Pediatrics",
+                        "value": "608"
+                    }
+                ],
+                "sex": {
+                    "female": "",
+                    "male": ""
+                },
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": true,
+                "errorLabel": "",
+                "label": "Screener Metadata",
+                "type": "athenascreenermetadata",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "depressionscreeningquestionnaire": false,
+                "hideLabel": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDBOUNCED",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "euvl61k",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child enjoy being swung, bounced on your knee, etc.?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDLIKEOTHERCHILDREN",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "eaf8fha",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child take an interest in other children?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1.5,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDLIKECLIMBING",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "exzseb4",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child like climbing on things, such as up stairs?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDPEEKABOO",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "edkwgw",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child enjoy playing peek-a-boo\/hide-and-seek?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDPRETEND",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e3kb278",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child ever pretend, for example, to talk on the phone or take care of a doll or pretend other things?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDINDEXFINGERASK",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e0pjlcg",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child ever use his\/her index finger to point, to ask for something?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDINDEXFINGERINTEREST",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "ek1qzq",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child ever use his\/her index finger to point, to indicate interest in something?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1.5,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDPLAYSMALLTOYS",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "exq9ta",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Can your child play properly with small toys (e.g. cars or blocks) without just mouthing, fiddling, or dropping them?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDBRINGOBJECTS",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "eb4dvr",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child ever bring objects over to you (parent) to show you something?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1.5,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDLOOKINEYE",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "ee7p3qs",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child look you in the eye for more than a second or two?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDOVERSENSITIVETONOISE",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "eqzph2o",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child ever seem oversensitive to noise? (e.g., plugging ears)",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 1,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 0,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDSMILEINRESPONSE",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e28xnhf",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child smile in response to your face or your smile?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDIMITATE",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "ec9s6x",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child imitate you? (e.g., you make a face-will your child imitate it?)",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1.5,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDRESPONDTONAME",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e1py9kr",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child respond to his\/her name when you call?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1.5,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDRESPONDTOPOINT",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "expr7l6l",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "If you point at a toy across the room, does your child look at it?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1.5,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDWALK",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "eua7ms",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child walk?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDLOOKATTHINGS",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "efmlvm5",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child look at things you are looking at?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDUNUSUALFINGER",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e2gq1w8",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child make unusual finger movements near his\/her face?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 1,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 0,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDATTRACTATTENTION",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "ecf4fks",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child try to attract your attention to his\/her own activity?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDDEAF",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "efa157v",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Have you ever wondered if your child is deaf?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 1,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 0,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDUNDERSTAND",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e577ymh",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child understand what people say?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDSTAREORWANDER",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "erxi2umf",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child sometimes stare at nothing or wander with no purpose?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 1,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 0,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "",
+                        "radiogroupoption": ""
+                    }
+                ],
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "CHILDCHECKREACTION",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "eipltaf",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "align": "horizontal",
+                "hidden": false,
+                "answerlistloinc": "",
+                "errorLabel": "",
+                "label": "Does your child look at your face to check your reaction when faced with something unfamiliar?",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Yes",
+                        "value": "Yes"
+                    },
+                    {
+                        "score": 1,
+                        "text": "No",
+                        "value": "No"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "score",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "subscores": [
+                    {
+                        "label": "total",
+                        "key": "total",
+                        "selectedQuestionKeys": [
+                            "all questions"
+                        ]
+                    }
+                ],
+                "tabindex": "",
+                "showWordCount": false,
+                "viewRelationships": [],
+                "unique": false,
+                "id": "ely9al",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "scoreMappings": [
+                    {
+                        "maxValue": 2,
+                        "text": "Pass",
+                        "minValue": 0
+                    },
+                    {
+                        "maxValue": 100,
+                        "text": "Fail",
+                        "minValue": 3
+                    }
+                ],
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "scoringMethod": "SIMPLESUM",
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "hidden": false,
+                "errorLabel": "",
+                "label": "Score",
+                "type": "athenascreenerscore",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "guidelines",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "ef3hm6",
+                "multiple": false,
+                "input": true,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": [
+                    {
+                        "if": [
+                            {
+                                "and": [
+                                    {
+                                        ">=": [
+                                            {
+                                                "var": "data.score.total"
+                                            },
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "<=": [
+                                            {
+                                                "var": "data.score.total"
+                                            },
+                                            2
+                                        ]
+                                    }
+                                ]
+                            },
+                            "Pass"
+                        ]
+                    },
+                    {
+                        "if": [
+                            {
+                                "and": [
+                                    {
+                                        ">=": [
+                                            {
+                                                "var": "data.score.total"
+                                            },
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "<=": [
+                                            {
+                                                "var": "data.score.total"
+                                            },
+                                            100
+                                        ]
+                                    }
+                                ]
+                            },
+                            "Fail- Children who fail the checklist should be evaluated in more depth by the physician or referred for a developmental evaluation with a specialist."
+                        ]
+                    }
+                ],
+                "hidden": false,
+                "errorLabel": "",
+                "label": "Guidelines",
+                "type": "athenascreenerguidelines",
+                "guidelines": [
+                    {
+                        "maxValue": 2,
+                        "subscoreLabel": "total score",
+                        "text": "Pass",
+                        "subscore": "total",
+                        "minValue": 0
+                    },
+                    {
+                        "maxValue": 100,
+                        "subscoreLabel": "total score",
+                        "text": "Fail- Children who fail the checklist should be evaluated in more depth by the physician or referred for a developmental evaluation with a specialist.",
+                        "subscore": "total",
+                        "minValue": 3
+                    }
+                ],
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "markdown": "**M-CHAT Scoring Guidelines**\n\nThe M-CHAT (© 1999 Robins, Fein, & Barton) is validated for screening toddlers between 16 and 30 months of age to assess risk for autism spectrum disorders (ASD). A child fails the checklist when 2 or more critical items are failed OR when any three items are failed. Yes\/no answers convert to pass\/fail responses. Below are listed the failed responses for each item on the M-CHAT. BOLD CAPITALIZED items are CRITICAL items.\n\nNot all children who fail the checklist will meet criteria for a diagnosis on the autism spectrum. However, children who fail the checklist should be evaluated in more depth by the physician or referred for a developmental evaluation with a specialist.\n\n| M-CHAT Failed Responses (Bold Capitalized items are \"CRITICAL\") | | | | | | |\n|----------- | - | - | - | - | - |\n| 1. No | 6. No | 11. Yes | 16. No | 21. No |\n| **2. NO** | **7. NO** | 12. No | 17. No | 22. Yes |\n| 3. No | 8. No | **13. NO** | 18. Yes | 23. No |\n| 4. No | **9. NO** | **14. NO** | 19. No |\n| 5. No | 10. No | **15. NO** | 20. Yes |\n\n© 1999 Diana Robins, Deborah Fein, & Marianne Barton\n\n**References:**\n\n1. Chlebowski C., Robins D. L., Barton M. L., Fein D. Large-scale use of the Modified Checklist for Autism in low-risk toddlers. *Pediatrics*. 25 March 2013; 131(4): 1121–1127.\n\n2. Wiggins L. D., Piazza V., Robins D. L. Comparison of a broad-band screen versus disorder-specific screen in detecting young children with an autism spectrum disorder. *Autism*. 21 Dec. 2012; 18(2): 76–84.\n\n3. Robins D.L. Screening for Autism Spectrum Disorders in Primary Care Settings. Autism. 2008; 12(5): 537–556.\n\n4. Pandey J., Verbalis A., Robins D. L., Boorstein H., Klin A., Babitz T., Chawarska K., Volkmar F., Green J., Barton M., Fein D. Screening for autism in older and younger toddlers. *Autism*. 12 Sept. 2008; 12(5): 513–535.\n\n4. Kleinman J. M., Robins D. L., Ventola P. E., Pandey J., Boorstein H. C., Esser E. L., Wilson L. B., Rosenthal M. A., Sutera S., Verbalis A. D., Marshia G., Barton M., Hodgson S., Green J., Dumont-Mathieu T., Volkmar F., Charwarska K., Klin A., Fein D. The Modified Checklist for Autism in Toddlers: A Follow-up Study Investigating the Early Detection of Autism Spectrum Disorders. *Journal of Autism and Developmental Disorders*. 20 Sept. 2007; 38(5): 827–39.\n\n5. Robins D. L., Dumont-Mathieu T. The Modified Checklist for Autism in Toddlers (M-CHAT): A review of current finding and future directions. *Journal of Developmental and Behavioral Pediatrics*. 2006; 27(Supplement 2): S111–S119.\n\n6. Robins D., Fein D., Barton M., Green J. (2001). The Modified-Checklist for Autism in Toddlers (M-CHAT): An initial investigation in the early detection of autism and Pervasive Developmental Disorders. *Journal of Autism and Developmental Disorders*. 2001; 31(2): 131–144.\n\n7. Robins D., Fein D., Barton M. Reply to Charman et al.'s commentary on the Modified Checklist for Autism in Toddlers. *Journal of Autism and Developmental Disorders*. 2001; 31(2): 149–151.",
+                "key": "screenerDetails",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "ebu1ale",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "errorLabel": "",
+                "label": "Screener Details",
+                "type": "athenascreenerdetails",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            }
+        ]
+    },
+    "contentType": "screening-questionnaire",
+    "name": "M-CHAT",
+    "tags": {
+        "locations": [],
+        "specialties": []
+    },
+    "id": "837a8851-c1b1-42bf-81ba-d0e2050ebdcb",
+    "masterFormId": "3BAC1714-AEDE-11EA-BA65-B5AC49BFE5CD",
+    "version": 1
+}

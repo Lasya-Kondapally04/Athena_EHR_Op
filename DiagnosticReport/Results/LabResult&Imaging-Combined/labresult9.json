@@ -1,0 +1,25 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/documents/initial_assignees",
+    "DEFAULT_ASSIGNEE": {
+        "firstName": "Christopher",
+        "specialty": "General Practice",
+        "providerGroup": "7 Hills Medical Group",
+        "position": "Employee",
+        "credentials": "MD",
+        "username": "cbulkley",
+        "lastName": "Bulkley"
+    },
+    "FREQUENT_ASSIGNEES": [
+        {
+            "firstName": null,
+            "username": "7 HILLS DEPARTMENT STAFF",
+            "isStaff": "true",
+            "lastName": null
+        },
+        {
+            "firstName": null,
+            "username": "TEST STAFF",
+            "isStaff": "true",
+            "lastName": null
+        }
+    ]
+}

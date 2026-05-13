@@ -1,0 +1,80 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/clinical_content/form/e407b229-8d1d-419a-a821-0e992a2b9013?form_id=e407b229-8d1d-419a-a821-0e992a2b9013",
+    "content": {
+        "display": "form",
+        "components": [
+            {
+                "label": "Screener Metadata",
+                "type": "athenascreenermetadata",
+                "specialty": [
+                    {
+                        "text": "General Surgery",
+                        "value": "002"
+                    },
+                    {
+                        "text": "Vascular Surgery",
+                        "value": "077"
+                    },
+                    {
+                        "text": "Orthopedic Trauma Surgery",
+                        "value": "700"
+                    },
+                    {
+                        "text": "Pediatric Orthopedic Surgery",
+                        "value": "672"
+                    },
+                    {
+                        "text": "Orthopedic Surgery",
+                        "value": "020"
+                    }
+                ],
+                "sex": {
+                    "female": "",
+                    "male": ""
+                },
+                "input": true,
+                "athena": {
+                    "code": {
+                        "formcodes": []
+                    }
+                },
+                "depressionscreeningquestionnaire": false,
+                "longname": "Amputee Mobility Predictor Assessment Tool (without Prosthesis)",
+                "key": "screenerMetadata",
+                "age": [
+                    {
+                        "maximumageunits": "years",
+                        "maximumage": null,
+                        "minimumageunits": "years",
+                        "minimumage": null
+                    }
+                ],
+                "loinc": null
+            },
+            {
+                "label": "Score",
+                "type": "athenascreenerscore",
+                "subscores": [
+                    {
+                        "label": "total",
+                        "key": "total",
+                        "selectedQuestionKeys": [
+                            "all questions"
+                        ]
+                    }
+                ],
+                "scoringMethod": "SCOREONLY",
+                "key": "score",
+                "input": true
+            }
+        ]
+    },
+    "contentType": "screening-questionnaire",
+    "name": "AMPNOPRO",
+    "tags": {
+        "locations": [],
+        "specialties": []
+    },
+    "id": "e407b229-8d1d-419a-a821-0e992a2b9013",
+    "masterFormId": "3BAC251A-AEDE-11EA-BA65-B5AC49BFE5CD",
+    "version": 1
+}

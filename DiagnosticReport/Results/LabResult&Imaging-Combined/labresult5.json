@@ -1,0 +1,22 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=document_findings&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&document_id=240735",
+    "document_findings": {
+        "240735": {
+            "DOCUMENT": {
+                "ReportedByVersionToken": -1,
+                "FindingNodes": [],
+                "NoteVersionToken": -1,
+                "TemplateIDs": [],
+                "VersionToken": -1,
+                "MUCMeta": {
+                    "ContainerToken": -1,
+                    "__CLASS__": "Athena::Entity::MUCMeta",
+                    "VersionToken": -1
+                },
+                "TemplateNames": {},
+                "__CLASS__": "Athena::Encounter::Entity::Findings",
+                "PatientEntered": {},
+                "TemplatePortalNames": {}
+            }
+        }
+    }
+}

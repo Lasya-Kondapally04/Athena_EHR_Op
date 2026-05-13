@@ -1,0 +1,510 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=denied_medications&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&chart_id=32988&department_id=150&patient_id=4406&provider_id=27&specialty_id=001",
+    "denied_medications": {
+        "Note": "This is for medication  testing note",
+        "NoteVersionToken": "12036",
+        "Medications": [
+            {
+                "__CLASS__": "Athena::Chart::Entity::Medication",
+                "Events": [
+                    {
+                        "__CLASS__": "Athena::Chart::Entity::MedicationEvent",
+                        "Instance": {
+                            "RefillsAllowed": "0",
+                            "_DosageDurationUnit": "day",
+                            "VersionToken": "CLINICALPRESCRIPTION:250027;DOCUMENT:14238504",
+                            "DiagnosisList": [
+                                {
+                                    "SequenceNumber": "0",
+                                    "DocumentID": "128134",
+                                    "SnomedICDCodes": [
+                                        {
+                                            "UnstrippedDiagnosisCode": "G44.209",
+                                            "VersionToken": -1,
+                                            "Code": "G44209",
+                                            "__CLASS__": "Athena::Entity::Code::ICD10",
+                                            "Description": "Tension-type headache, unspecified, not intractable",
+                                            "CodeSet": "ICD10",
+                                            "ICDCodeAllID": "5759"
+                                        }
+                                    ],
+                                    "VersionToken": -1,
+                                    "IMODiagnosisList": [],
+                                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Diagnosis",
+                                    "DiagnosisCode": {
+                                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                        "Description": "Tension-type headache",
+                                        "VersionToken": -1,
+                                        "CodeSet": "SNOMED",
+                                        "Code": "398057008"
+                                    },
+                                    "ID": "16038"
+                                }
+                            ],
+                            "_DosageFrequencyValue": "3",
+                            "Medication": {
+                                "DefaultUnstructuredSig": "TAKE 1 TABLET (800 MG) BY ORAL ROUTE 3 TIMES PER DAY WITH FOOD",
+                                "ClinicalOrderTypeGroupName": "PRESCRIPTION",
+                                "ProductName": "ibuprofen",
+                                "VersionToken": -1,
+                                "TherapeuticClass": "NSAIDS, CYCLOOXYGENASE INHIBITOR TYPE ANALGESICS",
+                                "WeightBasedDosageUnitOptions": {
+                                    "mg": {
+                                        "IsConstant": 0,
+                                        "Dimension": {
+                                            "weight": 0
+                                        },
+                                        "VersionToken": -1,
+                                        "UnitsProduct": {
+                                            "kg": -1,
+                                            "mg": 1
+                                        },
+                                        "__CLASS__": "Athena::Entity::MeasurementUnit",
+                                        "RequiresNonLinearConversion": false
+                                    }
+                                },
+                                "_DefaultQuantityValue": null,
+                                "EpocratesDrugID": "234",
+                                "MedicationIDType": "MEDID",
+                                "DosedProductName": "ibuprofen 800 mg tablet",
+                                "Name": "ibuprofen 800 mg tablet",
+                                "_DefaultDosageQuantityUnit": "tablet(s)",
+                                "DosageRanges": [
+                                    {
+                                        "_HighDoseCheckUnit": "mg\/kg",
+                                        "LowAge": "0",
+                                        "HighAge": "29",
+                                        "VersionToken": -1,
+                                        "_HighDoseCheckValue": "10",
+                                        "DiagnosisCode": {
+                                            "VersionToken": -1,
+                                            "Code": "DEFAULTDIAGNOSIS"
+                                        },
+                                        "_LowDoseCheckValue": "5",
+                                        "_MaxDoseCheckValue": "20",
+                                        "_LowDoseCheckUnit": "mg\/kg",
+                                        "_MaxDoseCheckUnit": "mg\/kg"
+                                    },
+                                    {
+                                        "_HighDoseCheckUnit": "mg\/kg",
+                                        "LowAge": "30",
+                                        "HighAge": "89",
+                                        "VersionToken": -1,
+                                        "_HighDoseCheckValue": "40",
+                                        "DiagnosisCode": {
+                                            "VersionToken": -1,
+                                            "Code": "DEFAULTDIAGNOSIS"
+                                        },
+                                        "_LowDoseCheckValue": "4",
+                                        "_MaxDoseCheckValue": "40",
+                                        "_LowDoseCheckUnit": "mg\/kg",
+                                        "_MaxDoseCheckUnit": "mg\/kg"
+                                    },
+                                    {
+                                        "_HighDoseCheckUnit": "mg\/kg",
+                                        "LowAge": "90",
+                                        "HighAge": "1824",
+                                        "VersionToken": -1,
+                                        "_HighDoseCheckValue": "40",
+                                        "DiagnosisCode": {
+                                            "VersionToken": -1,
+                                            "Code": "DEFAULTDIAGNOSIS"
+                                        },
+                                        "_LowDoseCheckValue": "4",
+                                        "_MaxDoseCheckValue": "2400",
+                                        "_LowDoseCheckUnit": "mg\/kg",
+                                        "_MaxDoseCheckUnit": "mg"
+                                    },
+                                    {
+                                        "_HighDoseCheckUnit": "mg\/kg",
+                                        "LowAge": "1825",
+                                        "HighAge": "6569",
+                                        "VersionToken": -1,
+                                        "_HighDoseCheckValue": "40",
+                                        "DiagnosisCode": {
+                                            "VersionToken": -1,
+                                            "Code": "DEFAULTDIAGNOSIS"
+                                        },
+                                        "_LowDoseCheckValue": "4",
+                                        "_MaxDoseCheckValue": "3200",
+                                        "_LowDoseCheckUnit": "mg\/kg",
+                                        "_MaxDoseCheckUnit": "mg"
+                                    },
+                                    {
+                                        "_HighDoseCheckUnit": "mg",
+                                        "LowAge": "6570",
+                                        "HighAge": "40150",
+                                        "VersionToken": -1,
+                                        "_HighDoseCheckValue": "3200",
+                                        "DiagnosisCode": {
+                                            "VersionToken": -1,
+                                            "Code": "DEFAULTDIAGNOSIS"
+                                        },
+                                        "_LowDoseCheckValue": "200",
+                                        "_MaxDoseCheckValue": "3200",
+                                        "_LowDoseCheckUnit": "mg",
+                                        "_MaxDoseCheckUnit": "mg"
+                                    }
+                                ],
+                                "_DefaultQuantityUnit": null,
+                                "FDBMedicationID": "173420",
+                                "IsUnlistedMedication": false,
+                                "DosageAction": "TAKE",
+                                "_DefaultDosageQuantityValue": "1",
+                                "IsDiscontinued": false,
+                                "DefaultDosageFrequencyDescription": "3 TIMES A DAY",
+                                "DefaultIsStructuredSig": true,
+                                "AugmentedWithUnitOptions": true,
+                                "DefaultDosageAction": "TAKE",
+                                "_DefaultDosageFrequencyValue": "3",
+                                "DosageForm": "tablet(s)",
+                                "DosageRoute": "ORAL",
+                                "DefaultDosageRoute": "ORAL",
+                                "_DefaultDosageFrequencyUnit": "day(s)",
+                                "QuantityUnitOptions": [
+                                    {
+                                        "ID": "00904585540",
+                                        "NAME": "tablet"
+                                    },
+                                    {
+                                        "ID": "76282071446",
+                                        "NAME": "100 tablet blister pack"
+                                    },
+                                    {
+                                        "ID": "75907032989",
+                                        "NAME": "1500 tablet packet"
+                                    }
+                                ],
+                                "FDBGenericMedicationID": "173420",
+                                "CombinationMedComponentData": [],
+                                "StrengthValue": "800",
+                                "MedicationID": "229535",
+                                "DosageFormProductName": "ibuprofen tablet",
+                                "StrengthUnit": "mg",
+                                "DefaultFrequency": "3 times a day",
+                                "StrengthKey": "800||mg",
+                                "IsGenericCompoundMedication": false,
+                                "DosageQuantityUnitOptions": [
+                                    "mg",
+                                    "tablet(s)"
+                                ],
+                                "IsCompoundMedication": false,
+                                "__CLASS__": "Athena::Entity::Medication",
+                                "ClinicalOrderTypeID": "191917",
+                                "OrganClass": "LOCOMOTOR SYSTEM"
+                            },
+                            "IDSource": "CLINICALPRESCRIPTION",
+                            "_DosageQuantityUnit": "tablet(s)",
+                            "_DosageQuantityValue": 1,
+                            "_DosageFrequencyUnit": "per day",
+                            "QuantityUnit": "tablet(s)",
+                            "QuantityValue": 23,
+                            "Status": "NOTIFY",
+                            "LastModifiedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2023-11-30T07:04:24-05:00"
+                            },
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2017-03-27T15:20:18-04:00"
+                            },
+                            "Frequency": "3 times a day",
+                            "IsSafeToRenew": true,
+                            "QuantityUnitDefault": "UNKNOWN UNIT",
+                            "DocumentSubClass": "PRESCRIPTION_NEW",
+                            "DocumentClass": "PRESCRIPTION",
+                            "DosageQuantityUnitDefault": "UNKNOWN UNIT",
+                            "ID": "128134",
+                            "IsStructuredSig": true,
+                            "Source": "ATHENA",
+                            "DosageFrequencyDescription": "3 times a day",
+                            "DeniedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2017-04-13T14:04:16-04:00"
+                            },
+                            "DeniedUser": "asonnenfeldt",
+                            "DocumentID": "128134",
+                            "EncounterID": "36138",
+                            "FutureSubmitDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2017-03-27"
+                            },
+                            "_PatientWeightUnit": "kg",
+                            "IsPreapproved": false,
+                            "__CLASS__": "Athena::Chart::Entity::MedicationInstance",
+                            "LastModifiedUser": "ATHENA",
+                            "OrderingMode": "PRESCRIBE",
+                            "CreatedUser": "asonnenfeldt",
+                            "ClinicalPrescriptionID": "5282"
+                        },
+                        "Type": "DENIED",
+                        "EventDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2017-04-13T14:04:16-04:00"
+                        },
+                        "VersionToken": -1
+                    },
+                    {
+                        "__CLASS__": "Athena::Chart::Entity::MedicationEvent",
+                        "Instance": {
+                            "RefillsAllowed": "0",
+                            "_DosageDurationUnit": "day",
+                            "VersionToken": "CLINICALPRESCRIPTION:250027;DOCUMENT:14238504",
+                            "DiagnosisList": [
+                                {
+                                    "SequenceNumber": "0",
+                                    "DocumentID": "128134",
+                                    "SnomedICDCodes": [
+                                        {
+                                            "UnstrippedDiagnosisCode": "G44.209",
+                                            "VersionToken": -1,
+                                            "Code": "G44209",
+                                            "__CLASS__": "Athena::Entity::Code::ICD10",
+                                            "Description": "Tension-type headache, unspecified, not intractable",
+                                            "CodeSet": "ICD10",
+                                            "ICDCodeAllID": "5759"
+                                        }
+                                    ],
+                                    "VersionToken": -1,
+                                    "IMODiagnosisList": [],
+                                    "__CLASS__": "Athena::Order::Entity::OrderRequest::Diagnosis",
+                                    "DiagnosisCode": {
+                                        "__CLASS__": "Athena::Entity::Code::SNOMED",
+                                        "Description": "Tension-type headache",
+                                        "VersionToken": -1,
+                                        "CodeSet": "SNOMED",
+                                        "Code": "398057008"
+                                    },
+                                    "ID": "16038"
+                                }
+                            ],
+                            "_DosageFrequencyValue": "3",
+                            "Medication": {
+                                "DefaultUnstructuredSig": "TAKE 1 TABLET (800 MG) BY ORAL ROUTE 3 TIMES PER DAY WITH FOOD",
+                                "ClinicalOrderTypeGroupName": "PRESCRIPTION",
+                                "ProductName": "ibuprofen",
+                                "VersionToken": -1,
+                                "TherapeuticClass": "NSAIDS, CYCLOOXYGENASE INHIBITOR TYPE ANALGESICS",
+                                "WeightBasedDosageUnitOptions": {
+                                    "mg": {
+                                        "IsConstant": 0,
+                                        "Dimension": {
+                                            "weight": 0
+                                        },
+                                        "VersionToken": -1,
+                                        "UnitsProduct": {
+                                            "kg": -1,
+                                            "mg": 1
+                                        },
+                                        "__CLASS__": "Athena::Entity::MeasurementUnit",
+                                        "RequiresNonLinearConversion": false
+                                    }
+                                },
+                                "_DefaultQuantityValue": null,
+                                "EpocratesDrugID": "234",
+                                "MedicationIDType": "MEDID",
+                                "DosedProductName": "ibuprofen 800 mg tablet",
+                                "Name": "ibuprofen 800 mg tablet",
+                                "_DefaultDosageQuantityUnit": "tablet(s)",
+                                "DosageRanges": [
+                                    {
+                                        "_HighDoseCheckUnit": "mg\/kg",
+                                        "LowAge": "0",
+                                        "HighAge": "29",
+                                        "VersionToken": -1,
+                                        "_HighDoseCheckValue": "10",
+                                        "DiagnosisCode": {
+                                            "VersionToken": -1,
+                                            "Code": "DEFAULTDIAGNOSIS"
+                                        },
+                                        "_LowDoseCheckValue": "5",
+                                        "_MaxDoseCheckValue": "20",
+                                        "_LowDoseCheckUnit": "mg\/kg",
+                                        "_MaxDoseCheckUnit": "mg\/kg"
+                                    },
+                                    {
+                                        "_HighDoseCheckUnit": "mg\/kg",
+                                        "LowAge": "30",
+                                        "HighAge": "89",
+                                        "VersionToken": -1,
+                                        "_HighDoseCheckValue": "40",
+                                        "DiagnosisCode": {
+                                            "VersionToken": -1,
+                                            "Code": "DEFAULTDIAGNOSIS"
+                                        },
+                                        "_LowDoseCheckValue": "4",
+                                        "_MaxDoseCheckValue": "40",
+                                        "_LowDoseCheckUnit": "mg\/kg",
+                                        "_MaxDoseCheckUnit": "mg\/kg"
+                                    },
+                                    {
+                                        "_HighDoseCheckUnit": "mg\/kg",
+                                        "LowAge": "90",
+                                        "HighAge": "1824",
+                                        "VersionToken": -1,
+                                        "_HighDoseCheckValue": "40",
+                                        "DiagnosisCode": {
+                                            "VersionToken": -1,
+                                            "Code": "DEFAULTDIAGNOSIS"
+                                        },
+                                        "_LowDoseCheckValue": "4",
+                                        "_MaxDoseCheckValue": "2400",
+                                        "_LowDoseCheckUnit": "mg\/kg",
+                                        "_MaxDoseCheckUnit": "mg"
+                                    },
+                                    {
+                                        "_HighDoseCheckUnit": "mg\/kg",
+                                        "LowAge": "1825",
+                                        "HighAge": "6569",
+                                        "VersionToken": -1,
+                                        "_HighDoseCheckValue": "40",
+                                        "DiagnosisCode": {
+                                            "VersionToken": -1,
+                                            "Code": "DEFAULTDIAGNOSIS"
+                                        },
+                                        "_LowDoseCheckValue": "4",
+                                        "_MaxDoseCheckValue": "3200",
+                                        "_LowDoseCheckUnit": "mg\/kg",
+                                        "_MaxDoseCheckUnit": "mg"
+                                    },
+                                    {
+                                        "_HighDoseCheckUnit": "mg",
+                                        "LowAge": "6570",
+                                        "HighAge": "40150",
+                                        "VersionToken": -1,
+                                        "_HighDoseCheckValue": "3200",
+                                        "DiagnosisCode": {
+                                            "VersionToken": -1,
+                                            "Code": "DEFAULTDIAGNOSIS"
+                                        },
+                                        "_LowDoseCheckValue": "200",
+                                        "_MaxDoseCheckValue": "3200",
+                                        "_LowDoseCheckUnit": "mg",
+                                        "_MaxDoseCheckUnit": "mg"
+                                    }
+                                ],
+                                "_DefaultQuantityUnit": null,
+                                "FDBMedicationID": "173420",
+                                "IsUnlistedMedication": false,
+                                "DosageAction": "TAKE",
+                                "_DefaultDosageQuantityValue": "1",
+                                "IsDiscontinued": false,
+                                "DefaultDosageFrequencyDescription": "3 TIMES A DAY",
+                                "DefaultIsStructuredSig": true,
+                                "AugmentedWithUnitOptions": true,
+                                "DefaultDosageAction": "TAKE",
+                                "_DefaultDosageFrequencyValue": "3",
+                                "DosageForm": "tablet(s)",
+                                "DosageRoute": "ORAL",
+                                "DefaultDosageRoute": "ORAL",
+                                "_DefaultDosageFrequencyUnit": "day(s)",
+                                "QuantityUnitOptions": [
+                                    {
+                                        "ID": "00904585540",
+                                        "NAME": "tablet"
+                                    },
+                                    {
+                                        "ID": "76282071446",
+                                        "NAME": "100 tablet blister pack"
+                                    },
+                                    {
+                                        "ID": "75907032989",
+                                        "NAME": "1500 tablet packet"
+                                    }
+                                ],
+                                "FDBGenericMedicationID": "173420",
+                                "CombinationMedComponentData": [],
+                                "StrengthValue": "800",
+                                "MedicationID": "229535",
+                                "DosageFormProductName": "ibuprofen tablet",
+                                "StrengthUnit": "mg",
+                                "DefaultFrequency": "3 times a day",
+                                "StrengthKey": "800||mg",
+                                "IsGenericCompoundMedication": false,
+                                "DosageQuantityUnitOptions": [
+                                    "mg",
+                                    "tablet(s)"
+                                ],
+                                "IsCompoundMedication": false,
+                                "__CLASS__": "Athena::Entity::Medication",
+                                "ClinicalOrderTypeID": "191917",
+                                "OrganClass": "LOCOMOTOR SYSTEM"
+                            },
+                            "IDSource": "CLINICALPRESCRIPTION",
+                            "_DosageQuantityUnit": "tablet(s)",
+                            "_DosageQuantityValue": 1,
+                            "_DosageFrequencyUnit": "per day",
+                            "QuantityUnit": "tablet(s)",
+                            "QuantityValue": 23,
+                            "Status": "NOTIFY",
+                            "LastModifiedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2023-11-30T07:04:24-05:00"
+                            },
+                            "CreatedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2017-03-27T15:20:18-04:00"
+                            },
+                            "Frequency": "3 times a day",
+                            "IsSafeToRenew": true,
+                            "QuantityUnitDefault": "UNKNOWN UNIT",
+                            "DocumentSubClass": "PRESCRIPTION_NEW",
+                            "DocumentClass": "PRESCRIPTION",
+                            "DosageQuantityUnitDefault": "UNKNOWN UNIT",
+                            "ID": "128134",
+                            "IsStructuredSig": true,
+                            "Source": "ATHENA",
+                            "DosageFrequencyDescription": "3 times a day",
+                            "DeniedDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2017-04-13T14:04:16-04:00"
+                            },
+                            "DeniedUser": "asonnenfeldt",
+                            "DocumentID": "128134",
+                            "EncounterID": "36138",
+                            "FutureSubmitDate": {
+                                "__CLASS__": "DateTime",
+                                "Date": "2017-03-27"
+                            },
+                            "_PatientWeightUnit": "kg",
+                            "IsPreapproved": false,
+                            "__CLASS__": "Athena::Chart::Entity::MedicationInstance",
+                            "LastModifiedUser": "ATHENA",
+                            "OrderingMode": "PRESCRIBE",
+                            "CreatedUser": "asonnenfeldt",
+                            "ClinicalPrescriptionID": "5282"
+                        },
+                        "Type": "ENTER",
+                        "EventDate": {
+                            "__CLASS__": "DateTime",
+                            "Date": "2017-03-27T15:20:18-04:00"
+                        },
+                        "VersionToken": -1
+                    }
+                ],
+                "VersionToken": -1
+            }
+        ],
+        "VersionToken": -1,
+        "MUCMeta": {
+            "ContainerToken": "4bfef2213b113c4683abd267d85f72e7",
+            "__CLASS__": "Athena::Entity::MUCMeta",
+            "VersionToken": -1,
+            "ContainerArgs": {
+                "CHARTID": "32988",
+                "WITHDETAILS": 1,
+                "ONLYDENIED": "1",
+                "INCLUDEPEND": 1,
+                "EXCLUDEUNAPPROVED": 0,
+                "ADDDIAGNOSES": 1,
+                "ONLYMOSTRECENTINSTANCES": 1,
+                "INCLUDEDENIEDEVENTS": 1,
+                "ADDDEFAULTSIG": 1,
+                "GROUPBYGENERICID": null,
+                "EXCLUDEADDEDINERROR": 1
+            }
+        },
+        "NoMedicationsReported": false,
+        "__CLASS__": "Athena::Chart::Entity::Medications",
+        "FilteredCount": 0
+    }
+}

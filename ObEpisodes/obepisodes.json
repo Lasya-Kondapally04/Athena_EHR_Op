@@ -1,0 +1,36 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=cancer_cases_note&sources=chart_abstraction&sources=family_history_by_problem&sources=social_history_template_availability&sources=social_history_declined_reason_options&sources=family_history_default_list&sources=gpal_history&sources=gpal_score&sources=gyn_history&sources=gyn_toggle_state&sources=past_medical_history&sources=perinatal_history&sources=perinatal_toggle_state&sources=pregnancy_history&sources=social_history&sources=gender_and_sexual_identity_questions&sources=episodes_of_care&sources=file_links&sources=has_cancer_cases&sources=has_cancer_cases_container&sources=pregnancy_problems&sources=ob_episode&sources=sex_gender_profile&sources=text_macros&request_priority=6&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&chart_id=32988&department_id=150&patient_id=4406&provider_id=27&specialty_id=001",
+"ob_episode": {
+        "CreatedDate": {
+            "__CLASS__": "DateTime",
+            "Date": "2024-01-15T03:56:18-05:00"
+        },
+        "GPAL": "G 1 P 0 0 0 0",
+        "VersionToken": -1,
+        "ID": "800",
+        "Title": "ob G 1 P 0 0 0 0, AB+",
+        "RHStatus": "Positive",
+        "StreamlinedTitle": "G 1 P 0 0 0 0, AB+",
+        "BloodType": "AB",
+        "CalculatedEDDDate": null,
+        "Status": "OPEN",
+        "DeliveryDate": "01\/08\/2025",
+        "LMPDate": "02\/05\/2025",
+        "__CLASS__": "Athena::Chart::Entity::OBEpisode",
+        "ClinicalEpisodeID": "800",
+        "LastModifiedUser": "p-nsharma6",
+        "ChartID": "32988",
+        "InitialDate": "02\/17\/2025",
+        "PregnantProblemCode": {
+            "__CLASS__": "Athena::Entity::Code::SNOMED",
+            "Description": "patient currently pregnant",
+            "VersionToken": -1,
+            "CodeSet": "SNOMED",
+            "Code": 77386006
+        },
+        "LastModifiedDate": {
+            "__CLASS__": "DateTime",
+            "Date": "2026-04-30T03:29:46-04:00"
+        },
+        "CreatedUser": "API-27306",
+        "WeeksGestation": null
+    }}

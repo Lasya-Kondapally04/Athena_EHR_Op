@@ -1,0 +1,883 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=alerted_measures&sources=care_team&sources=care_team_roles&sources=contact_persons&sources=user_relationships&sources=ccm_enrollment&sources=confidential_chart_flag&sources=encounter_and_chart_security_labels&sources=enhanced_attribution_enabled&sources=patient_insurance&sources=has_insurance_policy&sources=order_groups&sources=default_order_route_clinical_providers&sources=preferred_clinical_providers&sources=default_clinical_providers&sources=coordinator_relationships&sources=default_pharmacy&sources=pdmp_conf&sources=pdmp_provider_access&sources=provider_option_list&sources=supervising_provider_option_list&sources=risk_contract_status&request_priority=7&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988&chart_id=32988&department_id=150&patient_id=4406&provider_id=27&specialty_id=001",
+    "care_team": {
+        "Members": [
+            {
+                "State": "NY",
+                "LastName": "CUNNINGHAM",
+                "VersionToken": -1,
+                "PhoneNumber": "(212) 774-2515",
+                "ID": "1650",
+                "Zip": "10021",
+                "FAX": "(212) 774-2918",
+                "RecipientName": "MATTHEW CUNNINGHAM MD",
+                "RecipientType": "CLINICALPROVIDERID",
+                "FirstName": "MATTHEW",
+                "NPI": "1134321722",
+                "City": "NEW YORK",
+                "__CLASS__": "Athena::Chart::Entity::CareTeam::Member",
+                "RecipientID": "12000288",
+                "RecipientClass": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "Orthopedic Surgeon",
+                    "VersionToken": -1,
+                    "Code": "130"
+                },
+                "Address1": "535 E 70TH ST"
+            },
+            {
+                "State": "NY",
+                "LastName": "ACUNA",
+                "VersionToken": -1,
+                "PhoneNumber": "(718) 999-1918",
+                "ID": "1652",
+                "Zip": "11201",
+                "FAX": "(718) 999-0171",
+                "RecipientName": "DIANE ACUNA",
+                "RecipientType": "CLINICALPROVIDERID",
+                "FirstName": "DIANE",
+                "NPI": "1902879745",
+                "City": "BROOKLYN",
+                "__CLASS__": "Athena::Chart::Entity::CareTeam::Member",
+                "RecipientID": "12099155",
+                "RecipientClass": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "Cardiologist",
+                    "VersionToken": -1,
+                    "Code": "82"
+                },
+                "Address1": "9 METROTECH CTR"
+            },
+            {
+                "State": "NY",
+                "LastName": "CUNNINGHAM",
+                "VersionToken": -1,
+                "PhoneNumber": "(212) 774-2515",
+                "ID": "1690",
+                "Zip": "10021",
+                "FAX": "(212) 774-2918",
+                "RecipientName": "MATTHEW CUNNINGHAM MD",
+                "RecipientType": "CLINICALPROVIDERID",
+                "FirstName": "MATTHEW",
+                "NPI": "1134321722",
+                "City": "NEW YORK",
+                "__CLASS__": "Athena::Chart::Entity::CareTeam::Member",
+                "RecipientID": "12000288",
+                "RecipientClass": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "Maxillofacial Surgery",
+                    "VersionToken": -1,
+                    "Code": "192"
+                },
+                "Address1": "535 E 70TH ST"
+            },
+            {
+                "RecipientType": "PROVIDERID",
+                "FirstName": "CHRIS",
+                "LastName": "BULKLEY-JONES",
+                "VersionToken": -1,
+                "__CLASS__": "Athena::Chart::Entity::CareTeam::Member",
+                "RecipientID": "27",
+                "ID": "2097",
+                "RecipientClass": {
+                    "__CLASS__": "Athena::Entity::Code",
+                    "Description": "Primary Care Provider",
+                    "VersionToken": -1,
+                    "Code": "3"
+                },
+                "RecipientName": "CHRIS BULKLEY"
+            }
+        ],
+        "__CLASS__": "Athena::Chart::Entity::CareTeam",
+        "VersionToken": -1
+    },
+    "care_team_roles": {
+        "DefaultCareTeamRoles": [
+            {
+                "Name": "Primary Care Provider",
+                "ID": "3"
+            },
+            {
+                "Name": "Referring Provider",
+                "ID": "4"
+            },
+            {
+                "Name": "Cardiologist",
+                "ID": "82"
+            },
+            {
+                "Name": "Other",
+                "ID": "2"
+            },
+            {
+                "Name": "Insurance Adjuster",
+                "ID": "1"
+            },
+            {
+                "Name": "Patient Designee",
+                "ID": "62"
+            },
+            {
+                "Name": "General Practitioner",
+                "ID": "101"
+            },
+            {
+                "Name": "General Surgeon",
+                "ID": "102"
+            },
+            {
+                "Name": "Allergist\/Immunologist",
+                "ID": "103"
+            },
+            {
+                "Name": "Dermatologist",
+                "ID": "105"
+            },
+            {
+                "Name": "Family Medicine",
+                "ID": "106"
+            },
+            {
+                "Name": "Internal Medicine",
+                "ID": "108"
+            },
+            {
+                "Name": "OB\/GYN",
+                "ID": "110"
+            },
+            {
+                "Name": "Pediatrician",
+                "ID": "116"
+            },
+            {
+                "Name": "Nephrologist",
+                "ID": "118"
+            },
+            {
+                "Name": "Cardiac Surgeon",
+                "ID": "123"
+            },
+            {
+                "Name": "Neurologist",
+                "ID": "129"
+            },
+            {
+                "Name": "Orthopedic Surgeon",
+                "ID": "130"
+            },
+            {
+                "Name": "Acupuncturist",
+                "ID": "150"
+            },
+            {
+                "Name": "Dentist",
+                "ID": "176"
+            },
+            {
+                "Name": "Anesthesiologist",
+                "ID": "181"
+            },
+            {
+                "Name": "Addiction Medicine",
+                "ID": "203"
+            },
+            {
+                "Name": "Orthopedist",
+                "ID": "212"
+            },
+            {
+                "Name": "Osteopathic Manipulative Medicine",
+                "ID": "213"
+            },
+            {
+                "Name": "Adolescent Medicine",
+                "ID": "227"
+            },
+            {
+                "Name": "Hospitalist",
+                "ID": "247"
+            },
+            {
+                "Name": "Neurophysiologist",
+                "ID": "252"
+            },
+            {
+                "Name": "Behavioral Health",
+                "ID": "289"
+            }
+        ],
+        "AllCareTeamRoles": [
+            {
+                "Name": "Primary Care Provider",
+                "ID": "3"
+            },
+            {
+                "Name": "Referring Provider",
+                "ID": "4"
+            },
+            {
+                "Name": "Cardiologist",
+                "ID": "82"
+            },
+            {
+                "Name": "Other",
+                "ID": "2"
+            },
+            {
+                "Name": "Insurance Adjuster",
+                "ID": "1"
+            },
+            {
+                "Name": "Related Person",
+                "ID": "301"
+            },
+            {
+                "Name": "Patient Designee",
+                "ID": "62"
+            },
+            {
+                "Name": "Care Manager",
+                "ID": "61"
+            },
+            {
+                "Name": "General Practitioner",
+                "ID": "101"
+            },
+            {
+                "Name": "General Surgeon",
+                "ID": "102"
+            },
+            {
+                "Name": "Allergist\/Immunologist",
+                "ID": "103"
+            },
+            {
+                "Name": "Otolaryngologist",
+                "ID": "104"
+            },
+            {
+                "Name": "Dermatologist",
+                "ID": "105"
+            },
+            {
+                "Name": "Family Medicine",
+                "ID": "106"
+            },
+            {
+                "Name": "Gastroenterologist",
+                "ID": "107"
+            },
+            {
+                "Name": "Internal Medicine",
+                "ID": "108"
+            },
+            {
+                "Name": "Neurosurgeon",
+                "ID": "109"
+            },
+            {
+                "Name": "OB\/GYN",
+                "ID": "110"
+            },
+            {
+                "Name": "Ophthalmologist",
+                "ID": "111"
+            },
+            {
+                "Name": "Phys. Med. & Rehab",
+                "ID": "112"
+            },
+            {
+                "Name": "Psychiatrist",
+                "ID": "113"
+            },
+            {
+                "Name": "Pulmonologist",
+                "ID": "114"
+            },
+            {
+                "Name": "Urologist",
+                "ID": "115"
+            },
+            {
+                "Name": "Pediatrician",
+                "ID": "116"
+            },
+            {
+                "Name": "Geriatric Medicine",
+                "ID": "117"
+            },
+            {
+                "Name": "Nephrologist",
+                "ID": "118"
+            },
+            {
+                "Name": "Endocrinologist",
+                "ID": "119"
+            },
+            {
+                "Name": "Podiatrist",
+                "ID": "120"
+            },
+            {
+                "Name": "Rheumatologist",
+                "ID": "121"
+            },
+            {
+                "Name": "Vascular Surgeon",
+                "ID": "122"
+            },
+            {
+                "Name": "Cardiac Surgeon",
+                "ID": "123"
+            },
+            {
+                "Name": "Pain Management",
+                "ID": "124"
+            },
+            {
+                "Name": "Physical Therapist",
+                "ID": "125"
+            },
+            {
+                "Name": "Gynecologist",
+                "ID": "126"
+            },
+            {
+                "Name": "Sports Medicine",
+                "ID": "127"
+            },
+            {
+                "Name": "Urgent Care",
+                "ID": "128"
+            },
+            {
+                "Name": "Neurologist",
+                "ID": "129"
+            },
+            {
+                "Name": "Orthopedic Surgeon",
+                "ID": "130"
+            },
+            {
+                "Name": "Pediatric Dentist",
+                "ID": "141"
+            },
+            {
+                "Name": "Gynecological\/Oncology",
+                "ID": "142"
+            },
+            {
+                "Name": "Massage Therapist",
+                "ID": "143"
+            },
+            {
+                "Name": "Nutritionist",
+                "ID": "144"
+            },
+            {
+                "Name": "Interventional Radiologist",
+                "ID": "145"
+            },
+            {
+                "Name": "Pathologist",
+                "ID": "146"
+            },
+            {
+                "Name": "Indigent Care",
+                "ID": "147"
+            },
+            {
+                "Name": "Pediatric Audiologist",
+                "ID": "148"
+            },
+            {
+                "Name": "Neonatologist",
+                "ID": "149"
+            },
+            {
+                "Name": "Acupuncturist",
+                "ID": "150"
+            },
+            {
+                "Name": "Pediatric Hematology\/Oncology",
+                "ID": "151"
+            },
+            {
+                "Name": "Adult Reconstructive Orthopedic Surgeon",
+                "ID": "152"
+            },
+            {
+                "Name": "Nurse Practitioner",
+                "ID": "153"
+            },
+            {
+                "Name": "Hand Surgeon",
+                "ID": "154"
+            },
+            {
+                "Name": "Certified Prosthetist",
+                "ID": "155"
+            },
+            {
+                "Name": "Maternal Fetal Medicine",
+                "ID": "156"
+            },
+            {
+                "Name": "Sleep Medicine",
+                "ID": "157"
+            },
+            {
+                "Name": "Pediatric Infectious Disease",
+                "ID": "158"
+            },
+            {
+                "Name": "Pediatric Surgeon",
+                "ID": "159"
+            },
+            {
+                "Name": "Hepatologist",
+                "ID": "160"
+            },
+            {
+                "Name": "Audiologist",
+                "ID": "161"
+            },
+            {
+                "Name": "Dietician\/Nutritionist",
+                "ID": "162"
+            },
+            {
+                "Name": "Pediatric Pulmonologist",
+                "ID": "163"
+            },
+            {
+                "Name": "Physician Assistant",
+                "ID": "164"
+            },
+            {
+                "Name": "Pediatric Neurosurgeon",
+                "ID": "165"
+            },
+            {
+                "Name": "Certified Nurse Midwife",
+                "ID": "166"
+            },
+            {
+                "Name": "Neuropsychologist",
+                "ID": "167"
+            },
+            {
+                "Name": "Pediatric Neurologist",
+                "ID": "168"
+            },
+            {
+                "Name": "Pediatric Nutritionist",
+                "ID": "169"
+            },
+            {
+                "Name": "Critical Care Provider",
+                "ID": "170"
+            },
+            {
+                "Name": "Pediatric Emergency Medicine",
+                "ID": "171"
+            },
+            {
+                "Name": "Homeopathologist",
+                "ID": "172"
+            },
+            {
+                "Name": "Naturopathic Medicine",
+                "ID": "173"
+            },
+            {
+                "Name": "Dermatopathologist",
+                "ID": "174"
+            },
+            {
+                "Name": "Interventional Pain Manager",
+                "ID": "175"
+            },
+            {
+                "Name": "Dentist",
+                "ID": "176"
+            },
+            {
+                "Name": "Certified Registered Nurse Anesthetist",
+                "ID": "177"
+            },
+            {
+                "Name": "Pediatric Psychiatrist",
+                "ID": "178"
+            },
+            {
+                "Name": "Pediatric Endocrinologist",
+                "ID": "179"
+            },
+            {
+                "Name": "Pediatric Pain Management",
+                "ID": "180"
+            },
+            {
+                "Name": "Anesthesiologist",
+                "ID": "181"
+            },
+            {
+                "Name": "Psychologist",
+                "ID": "182"
+            },
+            {
+                "Name": "Chiropractor",
+                "ID": "183"
+            },
+            {
+                "Name": "Speech Language Pathologist",
+                "ID": "184"
+            },
+            {
+                "Name": "Pediatric Palliative Care",
+                "ID": "185"
+            },
+            {
+                "Name": "Neuropsychiatrist",
+                "ID": "186"
+            },
+            {
+                "Name": "Pediatric Sleep Medicine",
+                "ID": "187"
+            },
+            {
+                "Name": "Hematologist",
+                "ID": "188"
+            },
+            {
+                "Name": "Urogynecologist",
+                "ID": "189"
+            },
+            {
+                "Name": "Preventive Medicine",
+                "ID": "190"
+            },
+            {
+                "Name": "Clinical Nurse Specialist",
+                "ID": "191"
+            },
+            {
+                "Name": "Maxillofacial Surgery",
+                "ID": "192"
+            },
+            {
+                "Name": "Infectious Disease",
+                "ID": "193"
+            },
+            {
+                "Name": "Emergency Medicine",
+                "ID": "194"
+            },
+            {
+                "Name": "Plastic\/Reconstructive Surgeon",
+                "ID": "195"
+            },
+            {
+                "Name": "Certified Orthotist",
+                "ID": "196"
+            },
+            {
+                "Name": "Radiation Oncologist",
+                "ID": "197"
+            },
+            {
+                "Name": "Surgical Oncologist",
+                "ID": "198"
+            },
+            {
+                "Name": "Transplant Hepatologist",
+                "ID": "199"
+            },
+            {
+                "Name": "Bariatric Surgeon",
+                "ID": "200"
+            },
+            {
+                "Name": "Colorectal Surgeon",
+                "ID": "201"
+            },
+            {
+                "Name": "Child and Adolescent Psychiatrist",
+                "ID": "202"
+            },
+            {
+                "Name": "Addiction Medicine",
+                "ID": "203"
+            },
+            {
+                "Name": "Palliative Care",
+                "ID": "204"
+            },
+            {
+                "Name": "Clinical Psychologist",
+                "ID": "205"
+            },
+            {
+                "Name": "Pediatric Physical Medicine and Rehabilitation",
+                "ID": "206"
+            },
+            {
+                "Name": "Periodontist",
+                "ID": "207"
+            },
+            {
+                "Name": "Pediatric Allergy\/Immunologist",
+                "ID": "208"
+            },
+            {
+                "Name": "Diabetes Education",
+                "ID": "209"
+            },
+            {
+                "Name": "Hematology\/Oncology",
+                "ID": "210"
+            },
+            {
+                "Name": "Perinatologist",
+                "ID": "211"
+            },
+            {
+                "Name": "Orthopedist",
+                "ID": "212"
+            },
+            {
+                "Name": "Osteopathic Manipulative Medicine",
+                "ID": "213"
+            },
+            {
+                "Name": "Podiatric Surgeon",
+                "ID": "214"
+            },
+            {
+                "Name": "Interventional Cardiologist",
+                "ID": "215"
+            },
+            {
+                "Name": "OB\/GYN Oncologist",
+                "ID": "216"
+            },
+            {
+                "Name": "Transplant Surgeon",
+                "ID": "217"
+            },
+            {
+                "Name": "Breast Surgeon",
+                "ID": "218"
+            },
+            {
+                "Name": "Pediatric Ophthalmologist",
+                "ID": "219"
+            },
+            {
+                "Name": "Pediatric Sports Medicine",
+                "ID": "220"
+            },
+            {
+                "Name": "Geneticist",
+                "ID": "221"
+            },
+            {
+                "Name": "Clinical Cardiac Electrophysiologist",
+                "ID": "222"
+            },
+            {
+                "Name": "Pediatric Intensivist",
+                "ID": "223"
+            },
+            {
+                "Name": "Nuclear Medicine",
+                "ID": "224"
+            },
+            {
+                "Name": "Developmental Pediatrician",
+                "ID": "225"
+            },
+            {
+                "Name": "Diagnostic Radiologist",
+                "ID": "226"
+            },
+            {
+                "Name": "Adolescent Medicine",
+                "ID": "227"
+            },
+            {
+                "Name": "Pediatric Otolaryngologist",
+                "ID": "228"
+            },
+            {
+                "Name": "Social Worker",
+                "ID": "229"
+            },
+            {
+                "Name": "Oral Surgeon\/Dentist",
+                "ID": "230"
+            },
+            {
+                "Name": "Paramedic",
+                "ID": "231"
+            },
+            {
+                "Name": "Pediatric Nephrologist",
+                "ID": "232"
+            },
+            {
+                "Name": "Hematology\/Oncology:Cell Therapy",
+                "ID": "233"
+            },
+            {
+                "Name": "Occupational Therapist",
+                "ID": "234"
+            },
+            {
+                "Name": "EMT",
+                "ID": "235"
+            },
+            {
+                "Name": "Pediatric Plastic\/Reconstructive Surgeon",
+                "ID": "236"
+            },
+            {
+                "Name": "Pediatric Neuropsychologist",
+                "ID": "237"
+            },
+            {
+                "Name": "Pediatric Dermatologist",
+                "ID": "238"
+            },
+            {
+                "Name": "Pediatric Rheumatology",
+                "ID": "239"
+            },
+            {
+                "Name": "Optometrist",
+                "ID": "240"
+            },
+            {
+                "Name": "Fertility and Reproductive Endocrinologist",
+                "ID": "241"
+            },
+            {
+                "Name": "Pediatric Hospitalist",
+                "ID": "242"
+            },
+            {
+                "Name": "Occupational Medicine",
+                "ID": "243"
+            },
+            {
+                "Name": "Certified Prosthetist-Orthotist",
+                "ID": "244"
+            },
+            {
+                "Name": "Pediatric Orthopedic Surgeon",
+                "ID": "245"
+            },
+            {
+                "Name": "Thoracic Surgeon",
+                "ID": "246"
+            },
+            {
+                "Name": "Hospitalist",
+                "ID": "247"
+            },
+            {
+                "Name": "Roentgenologist",
+                "ID": "248"
+            },
+            {
+                "Name": "Pediatric Neonatal-Perinatal Medicine",
+                "ID": "249"
+            },
+            {
+                "Name": "Perfusionist",
+                "ID": "250"
+            },
+            {
+                "Name": "Pediatric Urologist",
+                "ID": "251"
+            },
+            {
+                "Name": "Neurophysiologist",
+                "ID": "252"
+            },
+            {
+                "Name": "Pediatric Genetics",
+                "ID": "253"
+            },
+            {
+                "Name": "Pediatric Gastroenterologist",
+                "ID": "254"
+            },
+            {
+                "Name": "Pediatric Neuropsychiatry",
+                "ID": "255"
+            },
+            {
+                "Name": "Pediatric Cardiologist",
+                "ID": "256"
+            },
+            {
+                "Name": "Spinal Orthopedic Surgeon",
+                "ID": "257"
+            },
+            {
+                "Name": "Medical Oncologist",
+                "ID": "258"
+            },
+            {
+                "Name": "Cardiovascular and Thoracic Surgeon",
+                "ID": "259"
+            },
+            {
+                "Name": "Pediatric Psychologist",
+                "ID": "260"
+            },
+            {
+                "Name": "Dental Hygienist",
+                "ID": "261"
+            },
+            {
+                "Name": "Transgender Medicine",
+                "ID": "281"
+            },
+            {
+                "Name": "Family Medicine Obstetrics",
+                "ID": "282"
+            },
+            {
+                "Name": "Gender-affirmation Surgery",
+                "ID": "283"
+            },
+            {
+                "Name": "HIV Specialist",
+                "ID": "284"
+            },
+            {
+                "Name": "Integrative Medicine",
+                "ID": "285"
+            },
+            {
+                "Name": "Community Health Worker",
+                "ID": "286"
+            },
+            {
+                "Name": "Pharmacist",
+                "ID": "287"
+            },
+            {
+                "Name": "Pharmacy Technician",
+                "ID": "288"
+            },
+            {
+                "Name": "Behavioral Health",
+                "ID": "289"
+            }
+        ]
+    }
+}

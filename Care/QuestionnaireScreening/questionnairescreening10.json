@@ -1,0 +1,1698 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/clinical_content/form/7f7fd520-e476-48d1-b907-0f3a966ff3a3?form_id=7f7fd520-e476-48d1-b907-0f3a966ff3a3",
+    "content": {
+        "display": "form",
+        "components": [
+            {
+                "suffix": "",
+                "inoroutofoffice": "both",
+                "tooltip": "",
+                "athena": {
+                    "code": {
+                        "formcodes": [
+                            {
+                                "codesystem": "SNOMED",
+                                "code": "273466005"
+                            },
+                            {
+                                "codesystem": "SNOMED",
+                                "code": "428433009"
+                            },
+                            {
+                                "codesystem": "SNOMED",
+                                "code": "428556002"
+                            },
+                            {
+                                "codesystem": "SNOMED",
+                                "code": "763125007"
+                            },
+                            {
+                                "codesystem": "LOINC",
+                                "code": "80976-4"
+                            }
+                        ]
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "longname": "International prostate symptom score",
+                "key": "screenerMetadata",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "scoreLoinc": "",
+                "tabindex": "",
+                "showWordCount": false,
+                "logo": "",
+                "unique": false,
+                "id": "eo22gu",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "formio-component-hidden",
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "autofocus": false,
+                "age": [
+                    {
+                        "maximumageunits": "years",
+                        "minimumageunits": "years"
+                    }
+                ],
+                "loinc": "",
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "specialty": [
+                    {
+                        "text": "Family Medicine",
+                        "value": "008"
+                    },
+                    {
+                        "text": "Internal Medicine",
+                        "value": "011"
+                    },
+                    {
+                        "text": "OB\/GYN",
+                        "value": "016"
+                    },
+                    {
+                        "text": "Pediatric Medicine",
+                        "value": "037"
+                    },
+                    {
+                        "text": "Urology",
+                        "value": "034"
+                    },
+                    {
+                        "text": "Urgent Care",
+                        "value": "626"
+                    }
+                ],
+                "sex": {
+                    "female": false,
+                    "male": false
+                },
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": true,
+                "errorLabel": "",
+                "label": "Screener Metadata",
+                "type": "athenascreenermetadata",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "depressionscreeningquestionnaire": false,
+                "hideLabel": false,
+                "calculateServer": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "LA14724-1",
+                        "radiogroupoption": "More than half the time"
+                    },
+                    {
+                        "answerloinc": "LA24963-3",
+                        "radiogroupoption": "About half the time"
+                    },
+                    {
+                        "answerloinc": "LA14723-3",
+                        "radiogroupoption": "Less than half the time"
+                    },
+                    {
+                        "answerloinc": "LA24478-2",
+                        "radiogroupoption": "Less than 1 time in 5"
+                    },
+                    {
+                        "answerloinc": "LA6568-5",
+                        "radiogroupoption": "Not at all"
+                    },
+                    {
+                        "answerloinc": "LA13865-3",
+                        "radiogroupoption": "Almost always"
+                    }
+                ],
+                "isOptional": false,
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "IPSSQ1",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "additionalText": "Over the past month, how often have you had a sensation of not emptying your bladder completely after you finish urinating?",
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e4r94jj",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "allowOther": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "answerlistloinc": "LL3797-9",
+                "errorLabel": "",
+                "label": "Incomplete emptying:",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "80884-0",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Not at all",
+                        "value": "Not at all"
+                    },
+                    {
+                        "score": 1,
+                        "text": "Less than 1 time in 5",
+                        "value": "Less than 1 time in 5"
+                    },
+                    {
+                        "score": 2,
+                        "text": "Less than half the time",
+                        "value": "Less than half the time"
+                    },
+                    {
+                        "score": 3,
+                        "text": "About half the time",
+                        "value": "About half the time"
+                    },
+                    {
+                        "score": 4,
+                        "text": "More than half the time",
+                        "value": "More than half the time"
+                    },
+                    {
+                        "score": 5,
+                        "text": "Almost always",
+                        "value": "Almost always"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "LA14724-1",
+                        "radiogroupoption": "More than half the time"
+                    },
+                    {
+                        "answerloinc": "LA24963-3",
+                        "radiogroupoption": "About half the time"
+                    },
+                    {
+                        "answerloinc": "LA14723-3",
+                        "radiogroupoption": "Less than half the time"
+                    },
+                    {
+                        "answerloinc": "LA24478-2",
+                        "radiogroupoption": "Less than 1 time in 5"
+                    },
+                    {
+                        "answerloinc": "LA6568-5",
+                        "radiogroupoption": "Not at all"
+                    },
+                    {
+                        "answerloinc": "LA13865-3",
+                        "radiogroupoption": "Almost always"
+                    }
+                ],
+                "isOptional": false,
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "IPSSQ2",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "additionalText": "Over the past month, how often have you had to urinate again\nless than two hours after you finished urinating?",
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "euooje",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "allowOther": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "answerlistloinc": "LL3797-9",
+                "errorLabel": "",
+                "label": "Frequency:",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "80885-7",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Not at all",
+                        "value": "Not at all"
+                    },
+                    {
+                        "score": 1,
+                        "text": "Less than 1 time in 5",
+                        "value": "Less than 1 time in 5"
+                    },
+                    {
+                        "score": 2,
+                        "text": "Less than half the time",
+                        "value": "Less than half the time"
+                    },
+                    {
+                        "score": 3,
+                        "text": "About half the time",
+                        "value": "About half the time"
+                    },
+                    {
+                        "score": 4,
+                        "text": "More than half the time",
+                        "value": "More than half the time"
+                    },
+                    {
+                        "score": 5,
+                        "text": "Almost always",
+                        "value": "Almost always"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "LA14724-1",
+                        "radiogroupoption": "More than half the time"
+                    },
+                    {
+                        "answerloinc": "LA24963-3",
+                        "radiogroupoption": "About half the time"
+                    },
+                    {
+                        "answerloinc": "LA14723-3",
+                        "radiogroupoption": "Less than half the time"
+                    },
+                    {
+                        "answerloinc": "LA24478-2",
+                        "radiogroupoption": "Less than 1 time in 5"
+                    },
+                    {
+                        "answerloinc": "LA6568-5",
+                        "radiogroupoption": "Not at all"
+                    },
+                    {
+                        "answerloinc": "LA13865-3",
+                        "radiogroupoption": "Almost always"
+                    }
+                ],
+                "isOptional": false,
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "IPSSQ3",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "additionalText": "Over the past month, how often have you found you stopped\nand started again several times when you urinated?",
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "ed2u3rf",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "allowOther": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "answerlistloinc": "LL3797-9",
+                "errorLabel": "",
+                "label": "Intermittency:",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "80886-5",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Not at all",
+                        "value": "Not at all"
+                    },
+                    {
+                        "score": 1,
+                        "text": "Less than 1 time in 5",
+                        "value": "Less than 1 time in 5"
+                    },
+                    {
+                        "score": 2,
+                        "text": "Less than half the time",
+                        "value": "Less than half the time"
+                    },
+                    {
+                        "score": 3,
+                        "text": "About half the time",
+                        "value": "About half the time"
+                    },
+                    {
+                        "score": 4,
+                        "text": "More than half the time",
+                        "value": "More than half the time"
+                    },
+                    {
+                        "score": 5,
+                        "text": "Almost always",
+                        "value": "Almost always"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "LA14724-1",
+                        "radiogroupoption": "More than half the time"
+                    },
+                    {
+                        "answerloinc": "LA24963-3",
+                        "radiogroupoption": "About half the time"
+                    },
+                    {
+                        "answerloinc": "LA14723-3",
+                        "radiogroupoption": "Less than half the time"
+                    },
+                    {
+                        "answerloinc": "LA24478-2",
+                        "radiogroupoption": "Less than 1 time in 5"
+                    },
+                    {
+                        "answerloinc": "LA6568-5",
+                        "radiogroupoption": "Not at all"
+                    },
+                    {
+                        "answerloinc": "LA13865-3",
+                        "radiogroupoption": "Almost always"
+                    }
+                ],
+                "isOptional": false,
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "IPSSQ4",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "additionalText": "Over the last month, how difficult have you found it to\npostpone urination?",
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e0odk0h",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "allowOther": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "answerlistloinc": "LL3797-9",
+                "errorLabel": "",
+                "label": "Urgency:",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "80887-3",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Not at all",
+                        "value": "Not at all"
+                    },
+                    {
+                        "score": 1,
+                        "text": "Less than 1 time in 5",
+                        "value": "Less than 1 time in 5"
+                    },
+                    {
+                        "score": 2,
+                        "text": "Less than half the time",
+                        "value": "Less than half the time"
+                    },
+                    {
+                        "score": 3,
+                        "text": "About half the time",
+                        "value": "About half the time"
+                    },
+                    {
+                        "score": 4,
+                        "text": "More than half the time",
+                        "value": "More than half the time"
+                    },
+                    {
+                        "score": 5,
+                        "text": "Almost always",
+                        "value": "Almost always"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "LA14724-1",
+                        "radiogroupoption": "More than half the time"
+                    },
+                    {
+                        "answerloinc": "LA24963-3",
+                        "radiogroupoption": "About half the time"
+                    },
+                    {
+                        "answerloinc": "LA14723-3",
+                        "radiogroupoption": "Less than half the time"
+                    },
+                    {
+                        "answerloinc": "LA24478-2",
+                        "radiogroupoption": "Less than 1 time in 5"
+                    },
+                    {
+                        "answerloinc": "LA6568-5",
+                        "radiogroupoption": "Not at all"
+                    },
+                    {
+                        "answerloinc": "LA13865-3",
+                        "radiogroupoption": "Almost always"
+                    }
+                ],
+                "isOptional": false,
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "IPSSQ5",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "additionalText": "Over the past month, how often have you had a weak urinary\nstream?",
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e2ll05l",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "allowOther": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "answerlistloinc": "LL3797-9",
+                "errorLabel": "",
+                "label": "Weak stream:",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "80888-1",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Not at all",
+                        "value": "Not at all"
+                    },
+                    {
+                        "score": 1,
+                        "text": "Less than 1 time in 5",
+                        "value": "Less than 1 time in 5"
+                    },
+                    {
+                        "score": 2,
+                        "text": "Less than half the time",
+                        "value": "Less than half the time"
+                    },
+                    {
+                        "score": 3,
+                        "text": "About half the time",
+                        "value": "About half the time"
+                    },
+                    {
+                        "score": 4,
+                        "text": "More than half the time",
+                        "value": "More than half the time"
+                    },
+                    {
+                        "score": 5,
+                        "text": "Almost always",
+                        "value": "Almost always"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "LA14724-1",
+                        "radiogroupoption": "More than half the time"
+                    },
+                    {
+                        "answerloinc": "LA24963-3",
+                        "radiogroupoption": "About half the time"
+                    },
+                    {
+                        "answerloinc": "LA14723-3",
+                        "radiogroupoption": "Less than half the time"
+                    },
+                    {
+                        "answerloinc": "LA24478-2",
+                        "radiogroupoption": "Less than 1 time in 5"
+                    },
+                    {
+                        "answerloinc": "LA6568-5",
+                        "radiogroupoption": "Not at all"
+                    },
+                    {
+                        "answerloinc": "LA13865-3",
+                        "radiogroupoption": "Almost always"
+                    }
+                ],
+                "isOptional": false,
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "IPSSQ6",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "additionalText": "Over the past month, how often have you had to push or\nstrain to begin urination?",
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "eafw4s",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "allowOther": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "answerlistloinc": "LL3797-9",
+                "errorLabel": "",
+                "label": "Straining:",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "80889-9",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Not at all",
+                        "value": "Not at all"
+                    },
+                    {
+                        "score": 1,
+                        "text": "Less than 1 time in 5",
+                        "value": "Less than 1 time in 5"
+                    },
+                    {
+                        "score": 2,
+                        "text": "Less than half the time",
+                        "value": "Less than half the time"
+                    },
+                    {
+                        "score": 3,
+                        "text": "About half the time",
+                        "value": "About half the time"
+                    },
+                    {
+                        "score": 4,
+                        "text": "More than half the time",
+                        "value": "More than half the time"
+                    },
+                    {
+                        "score": 5,
+                        "text": "Almost always",
+                        "value": "Almost always"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "LA137-2",
+                        "radiogroupoption": "None"
+                    },
+                    {
+                        "answerloinc": "LA14677-1",
+                        "radiogroupoption": "1 time"
+                    },
+                    {
+                        "answerloinc": "LA23711-7",
+                        "radiogroupoption": "2 times"
+                    },
+                    {
+                        "answerloinc": "LA23712-5",
+                        "radiogroupoption": "3 times"
+                    },
+                    {
+                        "answerloinc": "LA26056-4",
+                        "radiogroupoption": "4 times"
+                    },
+                    {
+                        "answerloinc": "LA26057-2",
+                        "radiogroupoption": "5 times or more"
+                    }
+                ],
+                "isOptional": false,
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "IPSSQ7",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "additionalText": "Over the past month, how many times did you most typically get\nup to urinate from the time you went to bed until the time you\ngot up in the morning?",
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "e4hmtmq",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "allowOther": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "answerlistloinc": "LL3961-1",
+                "errorLabel": "",
+                "label": "Nocturia:",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": "80890-7",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "None",
+                        "value": "None"
+                    },
+                    {
+                        "score": 1,
+                        "text": "1 time",
+                        "value": "1 time"
+                    },
+                    {
+                        "score": 2,
+                        "text": "2 times",
+                        "value": "2 times"
+                    },
+                    {
+                        "score": 3,
+                        "text": "3 times",
+                        "value": "3 times"
+                    },
+                    {
+                        "score": 4,
+                        "text": "4 times",
+                        "value": "4 times"
+                    },
+                    {
+                        "score": 5,
+                        "text": "5 times or more",
+                        "value": "5 times or more"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "answerloincs": [
+                    {
+                        "answerloinc": "LA24974-0",
+                        "radiogroupoption": "Mostly satisfied"
+                    },
+                    {
+                        "answerloinc": "LA24975-7",
+                        "radiogroupoption": "Mixed: Equally satisfied\/ dissatisfied"
+                    },
+                    {
+                        "answerloinc": "LA16674-6",
+                        "radiogroupoption": "Delighted"
+                    },
+                    {
+                        "answerloinc": "LA24973-2",
+                        "radiogroupoption": "Pleased"
+                    },
+                    {
+                        "answerloinc": "LA24976-5",
+                        "radiogroupoption": "Mostly dissatisfied"
+                    },
+                    {
+                        "answerloinc": "LA24977-3",
+                        "radiogroupoption": "Unhappy"
+                    },
+                    {
+                        "answerloinc": "LA24978-1",
+                        "radiogroupoption": "Terrible"
+                    }
+                ],
+                "isOptional": false,
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "IPSSQ8",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "additionalText": "If you were to spend the rest of your life with your urinary\ncondition the way it is now, how would you feel about that?",
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "ey2zzj",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "allowOther": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "answerlistloinc": "LL3801-9",
+                "errorLabel": "",
+                "label": "Quality of life due to urinary symptoms",
+                "type": "athenaforgeradiogroup",
+                "questionloinc": " 81090-3",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "options": [
+                    {
+                        "score": 0,
+                        "text": "Delighted",
+                        "value": "Delighted"
+                    },
+                    {
+                        "score": 0,
+                        "text": "Pleased",
+                        "value": "Pleased"
+                    },
+                    {
+                        "score": 0,
+                        "text": "Mostly satisfied",
+                        "value": "Mostly satisfied"
+                    },
+                    {
+                        "score": 0,
+                        "text": "Mixed: Equally satisfied\/ dissatisfied",
+                        "value": "Mixed: Equally satisfied\/ dissatisfied"
+                    },
+                    {
+                        "score": 0,
+                        "text": "Mostly dissatisfied",
+                        "value": "Mostly dissatisfied"
+                    },
+                    {
+                        "score": 0,
+                        "text": "Unhappy",
+                        "value": "Unhappy"
+                    },
+                    {
+                        "score": 0,
+                        "text": "Terrible",
+                        "value": "Terrible"
+                    }
+                ],
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "score",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "subscores": [
+                    {
+                        "label": "total",
+                        "selectedQuestionKeys": [
+                            "all questions"
+                        ],
+                        "key": "total"
+                    },
+                    {
+                        "label": "Symptom score",
+                        "selectedQuestionKeys": [
+                            "IPSSQ1",
+                            "IPSSQ2",
+                            "IPSSQ3",
+                            "IPSSQ4",
+                            "IPSSQ5",
+                            "IPSSQ6",
+                            "IPSSQ7"
+                        ],
+                        "key": "Symptom_score"
+                    },
+                    {
+                        "label": "Quality of life",
+                        "selectedQuestionKeys": [
+                            "IPSSQ8"
+                        ],
+                        "key": "Quality_of_life"
+                    }
+                ],
+                "tabindex": "",
+                "showWordCount": false,
+                "viewRelationships": [],
+                "unique": false,
+                "id": "e0l3lz",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": true,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "scoreMappings": [],
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "scoringMethod": "SIMPLESUM",
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "hidden": false,
+                "errorLabel": "",
+                "label": "Score",
+                "type": "athenascreenerscore",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": true,
+                "calculateServer": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "key": "guidelines",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "ekt40tk",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": [
+                    {
+                        "if": [
+                            {
+                                "and": [
+                                    {
+                                        "and": [
+                                            {
+                                                ">=": [
+                                                    {
+                                                        "var": "data.score.subscores.Symptom_score"
+                                                    },
+                                                    0
+                                                ]
+                                            },
+                                            {
+                                                "<=": [
+                                                    {
+                                                        "var": "data.score.subscores.Symptom_score"
+                                                    },
+                                                    7
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "Mildly Symptomatic"
+                        ]
+                    },
+                    {
+                        "if": [
+                            {
+                                "and": [
+                                    {
+                                        "and": [
+                                            {
+                                                ">=": [
+                                                    {
+                                                        "var": "data.score.subscores.Symptom_score"
+                                                    },
+                                                    8
+                                                ]
+                                            },
+                                            {
+                                                "<=": [
+                                                    {
+                                                        "var": "data.score.subscores.Symptom_score"
+                                                    },
+                                                    19
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "Moderately Symptomatic"
+                        ]
+                    },
+                    {
+                        "if": [
+                            {
+                                "and": [
+                                    {
+                                        "and": [
+                                            {
+                                                ">=": [
+                                                    {
+                                                        "var": "data.score.subscores.Symptom_score"
+                                                    },
+                                                    20
+                                                ]
+                                            },
+                                            {
+                                                "<=": [
+                                                    {
+                                                        "var": "data.score.subscores.Symptom_score"
+                                                    },
+                                                    35
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "Severely Symptomatic"
+                        ]
+                    }
+                ],
+                "hidden": false,
+                "errorLabel": "",
+                "label": "Guidelines",
+                "type": "athenascreenerguidelines",
+                "guidelines": [
+                    {
+                        "conditionals": [
+                            {
+                                "maxValue": 7,
+                                "subscoreLabel": "Symptom score score",
+                                "subscore": "Symptom_score",
+                                "minValue": 0
+                            }
+                        ],
+                        "text": "Mildly Symptomatic"
+                    },
+                    {
+                        "conditionals": [
+                            {
+                                "maxValue": 19,
+                                "subscoreLabel": "Symptom score score",
+                                "subscore": "Symptom_score",
+                                "minValue": 8
+                            }
+                        ],
+                        "text": "Moderately Symptomatic"
+                    },
+                    {
+                        "conditionals": [
+                            {
+                                "maxValue": 35,
+                                "subscoreLabel": "Symptom score score",
+                                "subscore": "Symptom_score",
+                                "minValue": 20
+                            }
+                        ],
+                        "text": "Severely Symptomatic"
+                    }
+                ],
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "calculateServer": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            },
+            {
+                "suffix": "",
+                "tooltip": "",
+                "athena": {
+                    "conditional": {
+                        "in": "",
+                        "show": "",
+                        "when": ""
+                    },
+                    "code": {
+                        "inputcodes": [],
+                        "fieldcodes": [],
+                        "responsecodes": []
+                    },
+                    "filter": {
+                        "age": {
+                            "min": 0,
+                            "max": null
+                        },
+                        "sex": ""
+                    }
+                },
+                "customDefaultValue": "",
+                "defaultValue": null,
+                "clearOnHide": true,
+                "labelPosition": "top",
+                "markdown": "**References:**\n\n1. Barry MJ, Fowler FJ Jr, O'Leary MP, et al. *The American Urological Association symptom index for benign prostatic hyperplasia. The Measurement Committee of the American Urological Association.* J Urol 1992; 148:1549.",
+                "key": "screenerDetails",
+                "encrypted": false,
+                "attributes": {},
+                "validate": {
+                    "unique": false,
+                    "strictDateValidation": false,
+                    "multiple": false,
+                    "custom": "",
+                    "required": false,
+                    "customPrivate": false
+                },
+                "modalEdit": false,
+                "tabindex": "",
+                "showWordCount": false,
+                "unique": false,
+                "id": "ecvb6ed",
+                "input": true,
+                "multiple": false,
+                "refreshOn": "",
+                "disabled": false,
+                "allowCalculateOverride": false,
+                "customClass": "",
+                "autofocus": false,
+                "conditional": {
+                    "eq": "",
+                    "show": null,
+                    "when": null
+                },
+                "placeholder": "",
+                "persistent": true,
+                "dbIndex": false,
+                "showCharCount": false,
+                "properties": {},
+                "validateOn": "change",
+                "calculateValue": "",
+                "hidden": false,
+                "errorLabel": "",
+                "label": "Screener Details",
+                "type": "athenascreenerdetails",
+                "description": "",
+                "protected": false,
+                "tableView": false,
+                "redrawOn": "",
+                "widget": null,
+                "hideLabel": false,
+                "calculateServer": false,
+                "prefix": "",
+                "allowMultipleMasks": false,
+                "overlay": {
+                    "style": "",
+                    "height": "",
+                    "width": "",
+                    "left": "",
+                    "top": ""
+                }
+            }
+        ]
+    },
+    "contentType": "screening-questionnaire",
+    "name": "IPSS",
+    "tags": {
+        "locations": [],
+        "specialties": []
+    },
+    "id": "7f7fd520-e476-48d1-b907-0f3a966ff3a3",
+    "masterFormId": "118ab8bc-3ac5-4f45-b68f-3a3f8ee8ab47",
+    "version": 3
+}

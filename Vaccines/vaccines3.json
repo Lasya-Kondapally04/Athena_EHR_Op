@@ -1,0 +1,1504 @@
+{"url":"https://preview.athenahealth.com/195903/5/ax/data?sources=order_not_done_reasons_by_id&originating_page=%2F195903%2F5%2Fax%2Fbriefing%2F32988",
+    "order_not_done_reasons_by_id": {
+        "130": {
+            "DISPLAYTEXT": "Intussusception  - 30 days of dose",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Reaction",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Complication of medical care",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "35688006"
+            }
+        },
+        "70": {
+            "DISPLAYTEXT": "Patient decision",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Patient Declined",
+            "PARENTDISPLAYTEXT": null,
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Declined",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "443390004"
+            }
+        },
+        "146": {
+            "DISPLAYTEXT": "Rubella",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "155": {
+            "DISPLAYTEXT": "Hepatitis B",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity serologic",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "7": {
+            "DISPLAYTEXT": "Declined",
+            "CLINICALORDERTYPEGROUPID": "15",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Declined",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "443390004"
+            }
+        },
+        "157": {
+            "DISPLAYTEXT": "Mumps",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity serologic",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "151": {
+            "DISPLAYTEXT": "Varicella",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "63": {
+            "DISPLAYTEXT": "Contraindicated",
+            "CLINICALORDERTYPEGROUPID": "15",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "143": {
+            "DISPLAYTEXT": "Mumps",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "121": {
+            "DISPLAYTEXT": "Allergy - streptomycin",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "46": {
+            "DISPLAYTEXT": "Contraindicated",
+            "CLINICALORDERTYPEGROUPID": "12",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "127": {
+            "DISPLAYTEXT": "Brain disorder",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Reaction",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Complication of medical care",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "35688006"
+            }
+        },
+        "125": {
+            "DISPLAYTEXT": "Shock - 48 hrs of dose",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Reaction",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Complication of medical care",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "35688006"
+            }
+        },
+        "144": {
+            "DISPLAYTEXT": "Pertussis",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "82": {
+            "DISPLAYTEXT": "Treatment changed",
+            "CLINICALORDERTYPEGROUPID": "10",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Treatment changed",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "445528004"
+            }
+        },
+        "71": {
+            "DISPLAYTEXT": "Treatment changed",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Treatment changed",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "445528004"
+            }
+        },
+        "136": {
+            "DISPLAYTEXT": "Rotavirus",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "122": {
+            "DISPLAYTEXT": "Thrombocytopenic",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "140": {
+            "DISPLAYTEXT": "Japanese encephalitis",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "22": {
+            "DISPLAYTEXT": "Parental decision",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Patient Declined",
+            "PARENTDISPLAYTEXT": null,
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Refusal of treatment by parents",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "371138003"
+            }
+        },
+        "67": {
+            "DISPLAYTEXT": "Medical complication",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Complication of medical care",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "35688006"
+            }
+        },
+        "56": {
+            "DISPLAYTEXT": "Not indicated",
+            "CLINICALORDERTYPEGROUPID": "18",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "152": {
+            "DISPLAYTEXT": "Type A hepatitis",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "134": {
+            "DISPLAYTEXT": "Anthrax",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "85": {
+            "DISPLAYTEXT": "Religious exemption",
+            "CLINICALORDERTYPEGROUPID": "15",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Procedure declined for religious reason",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "183945002"
+            }
+        },
+        "133": {
+            "DISPLAYTEXT": "Acute poliomyelitis",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "3": {
+            "DISPLAYTEXT": "Financial problem",
+            "CLINICALORDERTYPEGROUPID": "10",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Financial problem",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "160932005"
+            }
+        },
+        "25": {
+            "DISPLAYTEXT": "Not available",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Treatment not available",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "309846006"
+            }
+        },
+        "64": {
+            "DISPLAYTEXT": "Not tolerated",
+            "CLINICALORDERTYPEGROUPID": "15",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Treatment not tolerated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "407563006"
+            }
+        },
+        "49": {
+            "DISPLAYTEXT": "Patient refused",
+            "CLINICALORDERTYPEGROUPID": "12",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Refusal of treatment by patient",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "105480006"
+            }
+        },
+        "73": {
+            "DISPLAYTEXT": "Parental decision",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Patient Declined",
+            "PARENTDISPLAYTEXT": null,
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Declined",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "443390004"
+            }
+        },
+        "116": {
+            "DISPLAYTEXT": "Allergy - latex",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "129": {
+            "DISPLAYTEXT": "Guillain-Barre - 6 weeks of dose",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Reaction",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Complication of medical care",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "35688006"
+            }
+        },
+        "128": {
+            "DISPLAYTEXT": "Fever - 48 hrs of dose",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Reaction",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Complication of medical care",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "35688006"
+            }
+        },
+        "55": {
+            "DISPLAYTEXT": "Contraindicated",
+            "CLINICALORDERTYPEGROUPID": "18",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "158": {
+            "DISPLAYTEXT": "Rubella",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity serologic",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "159": {
+            "DISPLAYTEXT": "Varicella",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity serologic",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "60": {
+            "DISPLAYTEXT": "Contraindicated",
+            "CLINICALORDERTYPEGROUPID": "10",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "114": {
+            "DISPLAYTEXT": "Arthus Reaction to tetanus",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "86": {
+            "DISPLAYTEXT": "Religious exemption",
+            "CLINICALORDERTYPEGROUPID": "11",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Procedure declined for religious reason",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "183945002"
+            }
+        },
+        "6": {
+            "DISPLAYTEXT": "Declined",
+            "CLINICALORDERTYPEGROUPID": "10",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Declined",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "443390004"
+            }
+        },
+        "52": {
+            "DISPLAYTEXT": "Not indicated",
+            "CLINICALORDERTYPEGROUPID": "14",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Procedure not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "428119001"
+            }
+        },
+        "113": {
+            "DISPLAYTEXT": "Purpura",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "26": {
+            "DISPLAYTEXT": "Not indicated",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "110": {
+            "DISPLAYTEXT": "Fever",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "106": {
+            "DISPLAYTEXT": "Allergy - vaccine or components",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "206": {
+            "DISPLAYTEXT": "Patient refused",
+            "CLINICALORDERTYPEGROUPID": "10",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Procedure declined",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "1296859006"
+            }
+        },
+        "42": {
+            "DISPLAYTEXT": "Not indicated",
+            "CLINICALORDERTYPEGROUPID": "11",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Procedure not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "428119001"
+            }
+        },
+        "161": {
+            "DISPLAYTEXT": "Rabies exposed last 10 days",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Special indication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "104": {
+            "DISPLAYTEXT": "Allergy - baker's yeast",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "203": {
+            "DISPLAYTEXT": "Patient refused",
+            "CLINICALORDERTYPEGROUPID": "14",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Procedure declined",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "1296859006"
+            }
+        },
+        "59": {
+            "DISPLAYTEXT": "Treatment changed",
+            "CLINICALORDERTYPEGROUPID": "18",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Treatment changed",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "445528004"
+            }
+        },
+        "68": {
+            "DISPLAYTEXT": "Financial problem",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Financial problem",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "160932005"
+            }
+        },
+        "61": {
+            "DISPLAYTEXT": "Procedure not indicated",
+            "CLINICALORDERTYPEGROUPID": "10",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Procedure not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "428119001"
+            }
+        },
+        "45": {
+            "DISPLAYTEXT": "Treatment changed",
+            "CLINICALORDERTYPEGROUPID": "11",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Treatment changed",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "445528004"
+            }
+        },
+        "204": {
+            "DISPLAYTEXT": "Patient refused",
+            "CLINICALORDERTYPEGROUPID": "18",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Procedure declined",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "1296859006"
+            }
+        },
+        "103": {
+            "DISPLAYTEXT": "Allergy - aluminum",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "2": {
+            "DISPLAYTEXT": "Not indicated",
+            "CLINICALORDERTYPEGROUPID": "15",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "57": {
+            "DISPLAYTEXT": "Not tolerated",
+            "CLINICALORDERTYPEGROUPID": "18",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Treatment not tolerated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "407563006"
+            }
+        },
+        "102": {
+            "DISPLAYTEXT": "Allergy - 2-phenoxyethanol",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "10": {
+            "DISPLAYTEXT": "Patient self-discharge against medical advice",
+            "CLINICALORDERTYPEGROUPID": "10",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Patient self-discharge against medical advice",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "225928004"
+            }
+        },
+        "66": {
+            "DISPLAYTEXT": "Treatment changed",
+            "CLINICALORDERTYPEGROUPID": "15",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Treatment changed",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "445528004"
+            }
+        },
+        "202": {
+            "DISPLAYTEXT": "Patient refused",
+            "CLINICALORDERTYPEGROUPID": "12",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Procedure declined",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "1296859006"
+            }
+        },
+        "8": {
+            "DISPLAYTEXT": "Not available",
+            "CLINICALORDERTYPEGROUPID": "10",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Treatment not available",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "309846006"
+            }
+        },
+        "148": {
+            "DISPLAYTEXT": "Type B hepatitis",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "9": {
+            "DISPLAYTEXT": "Drug not available - out of stock",
+            "CLINICALORDERTYPEGROUPID": "10",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Drug not available - out of stock",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "182856006"
+            }
+        },
+        "1": {
+            "DISPLAYTEXT": "Not indicated",
+            "CLINICALORDERTYPEGROUPID": "10",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "149": {
+            "DISPLAYTEXT": "Typhoid fever",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "43": {
+            "DISPLAYTEXT": "Not tolerated",
+            "CLINICALORDERTYPEGROUPID": "11",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Treatment not tolerated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "407563006"
+            }
+        },
+        "160": {
+            "DISPLAYTEXT": "Special risk",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Special indication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "54": {
+            "DISPLAYTEXT": "Patient refused",
+            "CLINICALORDERTYPEGROUPID": "14",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Refusal of treatment by patient",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "105480006"
+            }
+        },
+        "115": {
+            "DISPLAYTEXT": "Immunodeficiency",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "117": {
+            "DISPLAYTEXT": "Allergy - neomycin",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "111": {
+            "DISPLAYTEXT": "Encephalopathy with previous DTP\/DTaP",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "181": {
+            "DISPLAYTEXT": "Not available",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": null,
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Treatment not available",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "309846006"
+            }
+        },
+        "139": {
+            "DISPLAYTEXT": "Influenza",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "112": {
+            "DISPLAYTEXT": "Allergy - gelatin",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "72": {
+            "DISPLAYTEXT": "Patient decision",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Patient Declined",
+            "PARENTDISPLAYTEXT": null,
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Treatment delay - patient choice",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "373787003"
+            }
+        },
+        "44": {
+            "DISPLAYTEXT": "Patient refused",
+            "CLINICALORDERTYPEGROUPID": "11",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Refusal of treatment by patient",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "105480006"
+            }
+        },
+        "11": {
+            "DISPLAYTEXT": "Patient self-discharge against medical advice",
+            "CLINICALORDERTYPEGROUPID": "15",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Patient self-discharge against medical advice",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "225928004"
+            }
+        },
+        "138": {
+            "DISPLAYTEXT": "Human papilloma virus",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "81": {
+            "DISPLAYTEXT": "Medical complication",
+            "CLINICALORDERTYPEGROUPID": "10",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Complication of medical care",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "35688006"
+            }
+        },
+        "21": {
+            "DISPLAYTEXT": "Contraindicated",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "205": {
+            "DISPLAYTEXT": "Patient refused",
+            "CLINICALORDERTYPEGROUPID": "15",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Procedure declined",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "1296859006"
+            }
+        },
+        "47": {
+            "DISPLAYTEXT": "Not indicated",
+            "CLINICALORDERTYPEGROUPID": "12",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "201": {
+            "DISPLAYTEXT": "Patient refused",
+            "CLINICALORDERTYPEGROUPID": "11",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Procedure declined",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "1296859006"
+            }
+        },
+        "105": {
+            "DISPLAYTEXT": "Allergy - eggs",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "53": {
+            "DISPLAYTEXT": "Not tolerated",
+            "CLINICALORDERTYPEGROUPID": "14",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Treatment not tolerated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "407563006"
+            }
+        },
+        "101": {
+            "DISPLAYTEXT": "Allergy - rodent or neural",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "107": {
+            "DISPLAYTEXT": "Allergy - thimerosal",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "118": {
+            "DISPLAYTEXT": "Pregnant",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "83": {
+            "DISPLAYTEXT": "Patient refused",
+            "CLINICALORDERTYPEGROUPID": "10",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Refusal of treatment by patient",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "105480006"
+            }
+        },
+        "4": {
+            "DISPLAYTEXT": "Patient noncompliance - general",
+            "CLINICALORDERTYPEGROUPID": "10",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Patient noncompliance - general",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "275936005"
+            }
+        },
+        "132": {
+            "DISPLAYTEXT": "Rash - 14 days of dose",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Reaction",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Complication of medical care",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "35688006"
+            }
+        },
+        "119": {
+            "DISPLAYTEXT": "Allergy - polymyxin B",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "126": {
+            "DISPLAYTEXT": "Shock - 72 hrs of dose",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Reaction",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Complication of medical care",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "35688006"
+            }
+        },
+        "154": {
+            "DISPLAYTEXT": "Hepatitis A",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity serologic",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "23": {
+            "DISPLAYTEXT": "Patient decision",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Patient Declined",
+            "PARENTDISPLAYTEXT": null,
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Refusal of treatment by patient",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "105480006"
+            }
+        },
+        "153": {
+            "DISPLAYTEXT": "Yellow fever",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "124": {
+            "DISPLAYTEXT": "Anaphylaxis",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Reaction",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Complication of medical care",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "35688006"
+            }
+        },
+        "156": {
+            "DISPLAYTEXT": "Measles",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity serologic",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "145": {
+            "DISPLAYTEXT": "Rabies",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "147": {
+            "DISPLAYTEXT": "Tetanus",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "141": {
+            "DISPLAYTEXT": "Measles",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "123": {
+            "DISPLAYTEXT": "Neurologic disorder",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "58": {
+            "DISPLAYTEXT": "Patient refused",
+            "CLINICALORDERTYPEGROUPID": "18",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Refusal of treatment by patient",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "105480006"
+            }
+        },
+        "51": {
+            "DISPLAYTEXT": "Contraindicated",
+            "CLINICALORDERTYPEGROUPID": "14",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Medical contraindication",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "397745006"
+            }
+        },
+        "69": {
+            "DISPLAYTEXT": "Not tolerated",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Treatment not tolerated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "407563006"
+            }
+        },
+        "108": {
+            "DISPLAYTEXT": "Chronic disease",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "24": {
+            "DISPLAYTEXT": "Religious exemption",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Patient Declined",
+            "PARENTDISPLAYTEXT": null,
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Procedure declined for religious reason",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "183945002"
+            }
+        },
+        "109": {
+            "DISPLAYTEXT": "Illness",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "65": {
+            "DISPLAYTEXT": "Patient refused",
+            "CLINICALORDERTYPEGROUPID": "15",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Refusal of treatment by patient",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "105480006"
+            }
+        },
+        "120": {
+            "DISPLAYTEXT": "Intussusception history",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Contraindication",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Contraindicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410536001"
+            }
+        },
+        "142": {
+            "DISPLAYTEXT": "Meningococcal",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "41": {
+            "DISPLAYTEXT": "Contraindicated",
+            "CLINICALORDERTYPEGROUPID": "11",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Medical contraindication",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "397745006"
+            }
+        },
+        "48": {
+            "DISPLAYTEXT": "Not tolerated",
+            "CLINICALORDERTYPEGROUPID": "12",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Treatment not tolerated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "407563006"
+            }
+        },
+        "84": {
+            "DISPLAYTEXT": "Not indicated",
+            "CLINICALORDERTYPEGROUPID": "15",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Procedure not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "428119001"
+            }
+        },
+        "150": {
+            "DISPLAYTEXT": "Vaccinia",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "62": {
+            "DISPLAYTEXT": "Not tolerated",
+            "CLINICALORDERTYPEGROUPID": "10",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Treatment not tolerated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "407563006"
+            }
+        },
+        "5": {
+            "DISPLAYTEXT": "Patient noncompliance - general",
+            "CLINICALORDERTYPEGROUPID": "15",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Patient noncompliance - general",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "275936005"
+            }
+        },
+        "137": {
+            "DISPLAYTEXT": "Haemophilus influenzae",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        },
+        "131": {
+            "DISPLAYTEXT": "Persistent crying - 48hrs of dose",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Reaction",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Complication of medical care",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "35688006"
+            }
+        },
+        "50": {
+            "DISPLAYTEXT": "Treatment changed",
+            "CLINICALORDERTYPEGROUPID": "12",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Treatment changed",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "445528004"
+            }
+        },
+        "135": {
+            "DISPLAYTEXT": "Diphtheria",
+            "CLINICALORDERTYPEGROUPID": "16",
+            "CATEGORYDISPLAYTEXT": "Provider Deferred",
+            "PARENTDISPLAYTEXT": "Immunity presumed",
+            "SNOMED": {
+                "__CLASS__": "Athena::Entity::Code::SNOMED",
+                "Description": "Not indicated",
+                "VersionToken": -1,
+                "CodeSet": "SNOMED",
+                "Code": "410534003"
+            }
+        }
+    }
+}
